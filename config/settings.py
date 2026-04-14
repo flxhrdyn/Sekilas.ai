@@ -3,7 +3,7 @@ from __future__ import annotations
 from functools import lru_cache
 from pathlib import Path
 
-from pydantic import Field
+from pydantic import Field, ValidationInfo, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -43,6 +43,29 @@ class Settings(BaseSettings):
 
     sources_file: Path = Field(default=ROOT_DIR / "config" / "sources.yaml")
     processed_urls_file: Path = Field(default=ROOT_DIR / "data" / "processed_urls.txt")
+
+    @field_validator(
+        "embedding_output_dim",
+        "dedup_threshold",
+        "min_content_chars",
+        "summary_max_content_chars",
+        "request_timeout_seconds",
+        "enable_telegram_notify",
+        mode="before",
+    )
+    @classmethod
+    def _coerce_empty_to_default(cls, value: object, info: ValidationInfo) -> object:
+        if isinstance(value, str) and not value.strip():
+            defaults: dict[str, object] = {
+                "embedding_output_dim": None,
+                "dedup_threshold": 0.92,
+                "min_content_chars": 200,
+                "summary_max_content_chars": 2000,
+                "request_timeout_seconds": 20.0,
+                "enable_telegram_notify": False,
+            }
+            return defaults.get(info.field_name, value)
+        return value
 
 
 @lru_cache(maxsize=1)

@@ -33,10 +33,10 @@ jobs:
           QDRANT_URL: ${{ secrets.QDRANT_URL }}
           QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
           QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
-          ENABLE_TELEGRAM_NOTIFY: ${{ secrets.ENABLE_TELEGRAM_NOTIFY }}
+          ENABLE_TELEGRAM_NOTIFY: ${{ vars.ENABLE_TELEGRAM_NOTIFY || 'false' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL || '' }}
 
       - name: Commit updated data files
         run: |
