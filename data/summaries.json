@@ -1,0 +1,477 @@
+[
+  {
+    "timestamp": "2026-04-14T07:58:26.830843+00:00",
+    "ingested_count": 50,
+    "total_in_qdrant": 50
+  },
+  {
+    "timestamp": "2026-04-14T07:59:27.178103+00:00",
+    "ingested_count": 50,
+    "total_in_qdrant": 100
+  },
+  {
+    "timestamp": "2026-04-14T08:08:08.969869+00:00",
+    "ingested_count": 25,
+    "total_in_qdrant": 25
+  },
+  {
+    "date": "2026-04-14",
+    "generated_at": "2026-04-14T08:20:11.387684+00:00",
+    "headline": "Perkembangan terbaru didominasi isu Politik dari berbagai sumber berita.",
+    "category_digests": {
+      "Ekonomi": [
+        {
+          "title": "Rupiah Sentul Level Terlemah Baru, Dolar AS Tembus Rp17.100",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260414145350-17-726656/rupiah-sentul-level-terlemah-baru-dolar-as-tembus-rp17100",
+          "summary": "Jakarta, CNBC Indonesia - Nilai tukar rupiah kembali ditutup melemah terhadap dolar Amerika Serikat (AS) pada perdagangan Selasa (14/4/2026). Melansir data Refinitiv , rupiah mengakhiri perdagangan dengan depresiasi 0,09% ke level Rp17.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Nilai tukar rupiah kembali ditutup melemah terhadap dolar Amerik",
+            "Melansir data Refinitiv , rupiah mengakhiri perdagangan dengan depresiasi 0,09% ke level R",
+            "110/US$"
+          ]
+        },
+        {
+          "title": "Video: BI Pastikan Rupiah Baik-baik Saja, 3 Indikator Ini Jadi Bukti",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414142902-8-726648/video-bi-pastikan-rupiah-baik-baik-saja-3-indikator-ini-jadi-bukti",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- CNBC Indonesia bersama Bank Indonesia menghadirkan Central Banking Forum 2026 dengan tema \"Ketahanan Ekonomi Indonesia dalam Menghadapi Volatilitas Nilai Tukar Global\". Forum ini akan mengupas tuntas respons Indonesia dan otoritas moneter menghadapi tantangan global sekaligus memperkuat ketahanan ekonomi nasional sekaligus menjaga kepercayaan dan perspektif positif pasar.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- CNBC Indonesia bersama Bank Indon",
+            "Forum ini akan mengupas tuntas respons Indonesia dan otoritas moneter menghadapi tantangan",
+            "Kepala Departemen Pengelolaan Moneter dan Aset Sekuritas Bank Indonesia, Erwin Gunawan Hut"
+          ]
+        },
+        {
+          "title": "Belanja Bebas Khawatir di Transmart, Diskon 20% Pakai Allo Paylater",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414104305-4-726557/belanja-bebas-khawatir-di-transmart-diskon-20-pakai-allo-paylater",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Di tengah keadaan ekonomi yang tidak menentu dan harga-harga yang mulai meroket, banyak ibu rumah tangga melakukan perhitungan dengan matang dalam membeli berbagai kebutuhan yang harganya terus meningkat. Beruntung saat ini mekanisme transaksi sudah semakin canggih dan mudah.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Di tengah keadaan ekonomi yang t",
+            "Beruntung saat ini mekanisme transaksi sudah semakin canggih dan mudah",
+            "Masyarakat kini sudah bisa belanja harian dengan cepat dan hemat menggunakan paylater"
+          ]
+        },
+        {
+          "title": "Video: Trump Mulai Blokade Hormuz Hingga IHSG Tancap Gas ke 7.600",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260414103542-19-726552/video-trump-mulai-blokade-hormuz-hingga-ihsg-tancap-gas-ke-7600",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- Indeks harga saham gabungan ebrhasil menguat 1,7% ke level 7. 627 pada perdagangan pukul 10:02 WIB Selasa (14/04/2026) saat Rupiah masih mengalami tekanan dan terjermbab ke Rp 17.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- Indeks harga saham gabungan ebrha",
+            "627 pada perdagangan pukul 10:02 WIB Selasa (14/04/2026) saat Rupiah masih mengalami tekan",
+            "130 per Dolar AS Selengkapnya simak ulasan Serliana Salsabila dalam Profit, CNBC Indonesia"
+          ]
+        },
+        {
+          "title": "Dolar Rp17.100 Tak Berarti RI Balik ke Krisis 98, Ini Alasannya",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260414095032-17-726535/dolar-rp17100-tak-berarti-ri-balik-ke-krisis-98-ini-alasannya",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Nilai tukar rupiah terhadap dolar Amerika Serikat (AS) kini terus memasuki tren pelemahan, hingga semakin betah di level atas Rp 17. 000/US$ yang seolah menjadi equilibrium atau titik kesimbangan baru.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Nilai tukar rupiah terhadap dola",
+            "000/US$ yang seolah menjadi equilibrium atau titik kesimbangan baru",
+            "Per hari ini saja, nilai tukar rupiah dibuka melemah terhadap dolar pada saat pembukaan pe"
+          ]
+        },
+        {
+          "title": "Negara Pertumbuhan dan Penurunan Populasi Tercepat di Dunia, Ada RI?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260413171510-131-726392/negara-pertumbuhan-penurunan-populasi-tercepat-di-dunia-ada-ri",
+          "summary": "Jakarta, CNBC Indonesia - Selama 25 tahun terakhir, beberapa negara mengalami peningkatan populasi lebih dari tiga kali lipat. Namun, ada juga negara yang mengalami penurunan tajam penduduknya, yang mengubah perekonomian dan masyarakat mereka.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Selama 25 tahun terakhir, beberapa negara mengalami peningkatan",
+            "Namun, ada juga negara yang mengalami penurunan tajam penduduknya, yang mengubah perekonom",
+            "Informasi tambahan belum tersedia"
+          ]
+        },
+        {
+          "title": "Video: Rupiah Anjlok dan Dolar AS Sentuh Rp 17.100, Apa Yang Terjadi?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260414100312-19-726539/video-rupiah-anjlok-dolar-as-sentuh-rp-17100-apa-yang-terjadi",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- Perang AS Vs Iran yang masih memanas mendorong pelemahan nilai tukar Rupiah menyentuh level terendah dan pada awal perdagangan Selasa, (14/04/2026) Rupiah anjlok ke posisi Rp 17. 118 per Dolar AS.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia- Perang AS Vs Iran yang masih mema",
+            "118 per Dolar AS",
+            "Seperti apa analisa pergerakan nilai tukar Rupiah"
+          ]
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Daftar Maskapai yang Naikkan Harga Tiket Pesawat, Liburan Makin Mahal",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/lifestyle/20260414133551-33-726632/daftar-maskapai-yang-naikkan-harga-tiket-pesawat-liburan-makin-mahal",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Konflik geopolitk global mendorong lonjakan tajam harga bahan bakar pesawat. Akibatnya, maskapai mancanegara mulai meningkatkan harga tiket hingga memangkas jadwal penerbangan.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Konflik geopolitk global mendoro",
+            "Akibatnya, maskapai mancanegara mulai meningkatkan harga tiket hingga memangkas jadwal pen",
+            "Lonjakan ini dipicu kenaikan harga minyak dunia yang berkaitan dengan konflik geopolitik d"
+          ]
+        },
+        {
+          "title": "Bos Bulog Sidak ke Pasar Minggu, Pedagang Migor Teriak Plastik Mahal",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414103843-4-726554/bos-bulog-sidak-ke-pasar-minggu-pedagang-migor-teriak-plastik-mahal",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Direktur Utama Perum Bulog, Ahmad Rizal Ramdhani melakukan inspeksi mendadak (sidak) ke Pasar Minggu, Jakarta Selatan, Selasa (14/4/2026) pagi. Sidak ini dilakukan sejak pagi hari dengan menyusuri lapak-lapak pedagang sembako, sekaligus berdialog langsung untuk menggali persoalan yang dihadapi di lapangan.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Direktur Utama Perum Bulog, Ahma",
+            "Sidak ini dilakukan sejak pagi hari dengan menyusuri lapak-lapak pedagang sembako, sekalig",
+            "Setibanya di lokasi, Rizal tak sekadar memantau harga, tetapi juga aktif berdiskusi dengan"
+          ]
+        },
+        {
+          "title": "Dibombardir Israel, Desa dan Kota Lebanon Sudah Tidak Ada di iPhone",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/tech/20260414104041-37-726555/dibombardir-israel-desa-dan-kota-lebanon-sudah-tidak-ada-di-iphone",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Pengguna media sosial menuding Apple Maps menghapus sejumlah desa dan kota di Lebanon selatan di tengah konflik yang masih berlangsung. Tuduhan tersebut memicu protes karena wilayah yang dimaksud berada di area terdampak serangan dan evakuasi massal.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Pengguna media sosial menuding A",
+            "Tuduhan tersebut memicu protes karena wilayah yang dimaksud berada di area terdampak seran",
+            "Pengguna di platform X dan media sosial lainnya membagikan tangkapan layar yang menunjukka"
+          ]
+        },
+        {
+          "title": "Jangan Kaget, Liburan ke Singapura Tambah Mahal Mulai April 2026",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/lifestyle/20260413101350-33-726194/jangan-kaget-liburan-ke-singapura-tambah-mahal-mulai-april-2026",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Punya rencana ke Singapura. Siap-siap merogoh kantong lebih dalam.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Punya rencana ke Singapura",
+            "Siap-siap merogoh kantong lebih dalam",
+            "Pemerintah Singapura resmi memberlakukan pajak terkait penggunaan bahan bakar ramah lingku"
+          ]
+        },
+        {
+          "title": "Daftar 22 Emiten yang Sudah Umumkan Dividen, Siapa Paling Royal?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260410155846-128-725773/daftar-22-emiten-yang-sudah-umumkan-dividen-siapa-paling-royal",
+          "summary": "Jakarta, CNBC Indonesia - Musim pembagian dividen tahun buku 2025 kembali meramaikan aktivitas di pasar modal Indonesia. Puluhan emiten dari berbagai sektor secara resmi mengumumkan jadwal distribusi keuntungan perusahaan bagi para pemegang saham.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Musim pembagian dividen tahun buku 2025 kembali meramaikan aktiv",
+            "Puluhan emiten dari berbagai sektor secara resmi mengumumkan jadwal distribusi keuntungan",
+            "Langkah korporasi ini mencerminkan komitmen entitas bisnis dalam memberikan nilai tambah a"
+          ]
+        },
+        {
+          "title": "Jadwal RUPST BSI (BRIS) Berubah, Ada Agenda Ganti Manajemen",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260414085849-17-726522/jadwal-rupst-bsi--bris--berubah-ada-agenda-ganti-manajemen",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - PT Bank Syariah Indonesia Tbk. (BRIS) mengumumkan perubahan jadwal penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) yang sebelumnya tanggal 17 April 2026 menjadi 5 Mei 2026.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - PT Bank Syariah Indonesia Tbk",
+            "(BRIS) mengumumkan perubahan jadwal penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUP",
+            "Rencananya, RUPST akan diselenggarakan pada pukul 14"
+          ]
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Airbus, Boeing, dan Penerapan Robust Compliance di Indonesia",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/opini/20260414110526-14-726578/airbus-boeing-dan-penerapan-robust-compliance-di-indonesia",
+          "summary": "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Redaksi CNBCIndonesia. com Pergantian pemerintahan di Indonesia pada tanggal 20 Oktober 2024 melahirkan berbagai kebijakan baru yang berbeda dengan pemerintahan sebelumnya, suatu hal yang wajar sekaligus merupakan tantangan bagi para pelaku usaha guna menyesuaikan diri.",
+          "key_points": [
+            "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Reda",
+            "com Pergantian pemerintahan di Indonesia pada tanggal 20 Oktober 2024 melahirkan berbagai",
+            "Begitu pula dalam bidang pertahanan, khususnya perdagangan pertahanan, di mana kebijakan m"
+          ]
+        },
+        {
+          "title": "Video: Amankan Cadangan Pangan, Purbaya Beri Bulog Subsidi Bunga",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414084937-8-726515/video-amankan-cadangan-pangan-purbaya-beri-bulog-subsidi-bunga",
+          "summary": "Jakarta, CNBC Indonesia - Direktur Utama Perum Bulog Ahmad Rizal Ramdhani mengatakan, Menteri Keuangan Purbaya Yudhi Sadewa telah memberikan lampu hijau untuk pemberian subsidi bunga pinjaman kepada Bulog. Subsidi bunga ini diberikan untuk mendukung penugasan Bulog dalam rangka penyerapan gabah dan jagung petani.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Direktur Utama Perum Bulog Ahmad Rizal Ramdhani mengatakan, Ment",
+            "Subsidi bunga ini diberikan untuk mendukung penugasan Bulog dalam rangka penyerapan gabah",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini"
+          ]
+        },
+        {
+          "title": "Umur Tambang Emas Pongkor Antam Bisa Panjang, Ini Syaratnya",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414105803-4-726573/umur-tambang-emas-pongkor-antam-bisa-panjang-ini-syaratnya",
+          "summary": "Jakarta, CNBC Indonesia - BUMN Holding Industri Pertambangan MIND ID membidik perpanjangan masa operasional tambang emas milik PT Aneka Tambang Tbk (ANTM) di Pongkor, Jawa Barat. Hal itu lantaran proyeksi perusahaan pada tambang emas Pongkor yang umur operasinya hanya bertahan hingga tahun 2030 mendatang.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - BUMN Holding Industri Pertambangan MIND ID membidik perpanjangan",
+            "Hal itu lantaran proyeksi perusahaan pada tambang emas Pongkor yang umur operasinya hanya",
+            "Direktur Utama MIND ID Maroef Sjamsoeddin mengatakan, upaya perpanjangan umur tambang emas"
+          ]
+        },
+        {
+          "title": "Momen Prabowo Tiba di Paris, Bersiap Bertemu Macron",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414084258-7-726508/momen-prabowo-tiba-di-paris-bersiap-bertemu-macron",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Pertemuan Prabowo dan Macron tidak hanya berfokus pada penguatan kerja sama bilateral, tetapi juga menjadi momentum penting RI terkait dinamika global. Presiden Republik Indonesi (RI) Prabowo Subianto tiba di Paris, Prancis, pada Senin malam pukul 23.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Pertemuan Prabowo dan Macron tidak hanya berfokus pada pen",
+            "Presiden Republik Indonesi (RI) Prabowo Subianto tiba di Paris, Prancis, pada Senin malam",
+            "50 waktu setempat, usai menjalani pertemuan intensif bersama Presiden Federasi Rusia, Vlad"
+          ]
+        },
+        {
+          "title": "Purbaya Kipas-Kipas! Setoran Cukai Rokok Elektrik Melesat di Maret",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260414095944-128-726538/purbaya-kipas-kipas-setoran-cukai-rokok-elektrik-melesat-di-maret",
+          "summary": "Jakarta, CNBC Indonesia - Penerimaan negara dari cukai rokok elektrik atau Rokok Elektrik (REL) melonjak pada Maret 2026. Data Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menunjukkan penerimaan cukai REL pada Maret 2026 mencapai Rp 0,29 triliun.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Penerimaan negara dari cukai rokok elektrik atau Rokok Elektrik",
+            "Data Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menunjukkan penerimaan cukai R",
+            "Angka ini melonjak 11,5% dibandingkan pada Februari 2026"
+          ]
+        },
+        {
+          "title": "Video: Timah dan Perminas Siap Kembangkan Industri Logam Tanah Jarang",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414082749-8-726504/video-timah-perminas-siap-kembangkan-industri-logam-tanah-jarang",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Presiden Prabowo Subianto dijadwalkan groundbreaking fasilitas riset dan industri logam tanah jarang, atau rare earth element, pada 20 Mei 2026. Logam tanah jarang merupakan harta karun energi incaran dunia.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Presiden Prabowo Subianto dijadw",
+            "Logam tanah jarang merupakan harta karun energi incaran dunia",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini"
+          ]
+        },
+        {
+          "title": "Breaking News: AS-Iran Bakal Negosiasi Damai Lagi Kamis Ini",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414102441-4-726549/breaking-news-as-iran-bakal-negosiasi-damai-lagi-kamis-ini",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Negosiasi babak baru akan dilakukan antara Amerika Serikat (AS) dan Iran. Laporan awal diungkap laman AS, Associated Press (AP) dan Reuters , Selasa (14/4/2026).",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Negosiasi babak baru akan dilaku",
+            "Laporan awal diungkap laman AS, Associated Press (AP) dan Reuters , Selasa (14/4/2026)",
+            "Pernyataan bersumber dari pejabat AS"
+          ]
+        },
+        {
+          "title": "Video: Negara-Negara Anggota NATO Tolak Bantu AS Lakukan Blokade",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414080032-8-726491/video-negara-negara-anggota-nato-tolak-bantu-as-lakukan-blokade",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Sejumlah negara anggota NATO menyatakan bahwa mereka tidak ingin terlibat dalam aksi Presiden Amerika Serikat Donald Trump untuk memblokade Selat Hormuz dan kapal-kapal di kawasan Teluk Persia. Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Sejumlah negara anggota NATO men",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini",
+            "Informasi tambahan belum tersedia"
+          ]
+        },
+        {
+          "title": "19 Negara Ikut Aturan RI, dari Asia Sampai Eropa",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/tech/20260414095447-37-726536/19-negara-ikut-aturan-ri-dari-asia-sampai-eropa",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid mengungkapkan kebijakan Indonesia dalam perlindungan anak di platform media sosial, menarik perhatian banyak negara. Bahkan, ia menyebut sekitar 19 negara tengah menunggu langkah Indonesia untuk kemudian menerapkan kebijakan serupa.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Menteri Komunikasi dan Digital (",
+            "Bahkan, ia menyebut sekitar 19 negara tengah menunggu langkah Indonesia untuk kemudian men",
+            "\"Ini sudah dilakukan di negara Australia dan ada kurang lebih 19 negara lain yang menunggu"
+          ]
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Video: Produksi Minyak Timur Tengah Anjlok Akibat Perang Iran",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414080739-8-726494/video-produksi-minyak-timur-tengah-anjlok-akibat-perang-iran",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Produksi minyak mentah di negara-negara eksportir utama Teluk Arab turun tajam pada bulan Maret akibat perang Iran, menurut data yang dirilis oleh OPEC pada hari Senin. Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Produksi minyak mentah di negara",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini",
+            "Informasi tambahan belum tersedia"
+          ]
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Video: RI Jajaki Ekspor Beras ke Malaysia hingga 200 Ribu Ton",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414085247-8-726517/video-ri-jajaki-ekspor-beras-ke-malaysia-hingga-200-ribu-ton",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Pemerintah melalui Perum Bulog tengah menjajaki peluang ekspor beras ke Malaysia. Langkah ini menyusul permintaan impor sekitar 200 ribu ton di tengah stok nasional yang melimpah.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Pemerintah melalui Perum Bulog t",
+            "Langkah ini menyusul permintaan impor sekitar 200 ribu ton di tengah stok nasional yang me",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini"
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 25,
+      "filtered_articles": 24,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 1,
+      "ingested": 24,
+      "total_in_qdrant": 49
+    },
+    "timestamp": "2026-04-14T08:20:11.387698+00:00"
+  },
+  {
+    "date": "2026-04-14",
+    "generated_at": "2026-04-14T08:29:08.096721+00:00",
+    "headline": "Perkembangan terbaru didominasi isu Politik dari berbagai sumber berita.",
+    "category_digests": {
+      "Politik": [
+        {
+          "title": "Penyelamatan Keuangan, Tambahan Ruang Fiskal dan Esensi Kesejahteraan",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/opini/20260414094648-14-726533/penyelamatan-keuangan-tambahan-ruang-fiskal-dan-esensi-kesejahteraan",
+          "summary": "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Redaksi CNBCIndonesia. com Dalam acara penyerahan hasil denda administratif dan penyelamatan keuangan negara serta penguasaan kembali kawasan hutan tahap VI di Kejaksaan Agung, Jakarta, 10 April 2026, Presiden Prabowo Subianto mengatakan, Satuan Tugas Penertiban Kawasan Hutan telah menyelamatkan aset negara kawasan hutan senilai Rp 370 triliun.",
+          "key_points": [
+            "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Reda",
+            "com Dalam acara penyerahan hasil denda administratif dan penyelamatan keuangan negara sert",
+            "Angka tersebut jumlahnya hampir setara dengan 10% dari total Anggaran Pendapatan dan Belan"
+          ]
+        },
+        {
+          "title": "Video: Iran Mengutuk Blokade AS, Sebut Sebagai Aksi Pembajakan",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414080132-8-726492/video-iran-mengutuk-blokade-as-sebut-sebagai-aksi-pembajakan",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Iran mengutuk upaya blokade yang dilakukan oleh Presiden Amerika Serikat Donald Trump terhadap sejumlah kapal dan pelabuhan di kawasan Teluk Persia. Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Iran mengutuk upaya blokade yang",
+            "Selengkapnya dalam program Squawk Box CNBC Indonesia (Selasa, 14/04/2026) berikut ini",
+            "Informasi tambahan belum tersedia"
+          ]
+        },
+        {
+          "title": "Warga Kaltim Akan Demo di Kantor Gubernur dan DPRD",
+          "source": "Tempo",
+          "url": "https://nasional.tempo.co/read/2098151/warga-kaltim-akan-demo-di-kantor-gubernur-dan-dprd",
+          "summary": "Iklan 14 April 2026 | 15. 16 WIB Dengarkan artikel Bagikan Gabung Tempo Circle BERBAGAI elemen masyarakat yang menamakan diri Aliansi Perjuangan Masyarakat Kalimantan Timur bakal menggelar demonstrasi di depan Kantor Gubernur Kalimantan Timur, pada Selasa, 21 April 2026.",
+          "key_points": [
+            "Iklan 14 April 2026 | 15",
+            "16 WIB Dengarkan artikel Bagikan Gabung Tempo Circle BERBAGAI elemen masyarakat yang menam",
+            "Aksi ini merupakan bentuk penyampaian aspirasi warga terhadap kinerja sekaligus kepemimpin"
+          ]
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "\"Dosa Besar\" vs Realitas Ekonomi",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/opini/20260414095641-14-726537/dosa-besar-vs-realitas-ekonomi",
+          "summary": "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Redaksi CNBCIndonesia. com Konflik di Timur Tengah yang melibatkan Amerika Serikat dan Israel melawan Iran, yang eskalasinya terjadi pada akhir Februari 2026, menjadi stress test sesungguhnya bagi seluruh perangkat prediksi ekonomi modern.",
+          "key_points": [
+            "Catatan: Artikel ini merupakan opini pribadi penulis dan tidak mencerminkan pandangan Reda",
+            "com Konflik di Timur Tengah yang melibatkan Amerika Serikat dan Israel melawan Iran, yang",
+            "Hanya dalam hitungan pekan, supply shock merambat liar: harga minyak mentah melesat menemb"
+          ]
+        },
+        {
+          "title": "Semarang Rayakan HUT ke-479 dengan 17 Kado Nyata untuk Masyarakat",
+          "source": "Tempo",
+          "url": "https://nasional.tempo.co/read/2098152/semarang-rayakan-hut-ke-479-dengan-17-kado-nyata-untuk-masyarakat",
+          "summary": "Iklan Dari Tertibkan Pengamat ke Inflasi Pengamat. Apa Artinya.",
+          "key_points": [
+            "Iklan Dari Tertibkan Pengamat ke Inflasi Pengamat",
+            "Apa Artinya",
+            "Buat Apa Pemerintah Menahan Restitusi Pajak Pengusaha Limbah Kosmetik yang Abadi Berburu H"
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 5,
+      "filtered_articles": 5,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 5,
+      "total_in_qdrant": 54
+    },
+    "timestamp": "2026-04-14T08:29:08.096733+00:00"
+  },
+  {
+    "date": "2026-04-14",
+    "generated_at": "2026-04-14T08:29:49.853606+00:00",
+    "headline": "Perkembangan terbaru didominasi isu Teknologi dari berbagai sumber berita.",
+    "category_digests": {
+      "Teknologi": [
+        {
+          "title": "Internet Murah Rp 100 Ribu Sudah Tersedia di 4 Kota, Cek Daftarnya",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/tech/20260414143210-37-726649/internet-murah-rp-100-ribu-sudah-tersedia-di-4-kota-cek-daftarnya",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - MyRepublic meluncurkan paket internet murah 100 Mbps, MyRepublic Air dengan harga Rp 100 ribuan. Kini paket sudah bisa digunakan untuk Bali, Makassar, Lampung dan Pekanbaru.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - MyRepublic meluncurkan paket int",
+            "Kini paket sudah bisa digunakan untuk Bali, Makassar, Lampung dan Pekanbaru",
+            "Terdapat dua paket yang ditawarkan"
+          ]
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Kim Jong Un Luncurkan Rudal Korut Terbaru, Mau Perang Lawan Siapa?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414123104-4-726604/kim-jong-un-luncurkan-rudal-korut-terbaru-mau-perang-lawan-siapa",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Republik Demokratik Rakyat Korea atau Korea Utara melakukan uji coba rudal jelajah strategis dan rudal anti-kapal dari kapal perusak Choe Hyon pada hari Minggu. Uji coba ini dilakukan untuk menguji efisiensi operasional kapal perang tersebut serta memverifikasi kemampuan sistem persenjataan terpadunya.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Jakarta, CNBC Indonesia - Republik Demokratik Rakyat Korea",
+            "Uji coba ini dilakukan untuk menguji efisiensi operasional kapal perang tersebut serta mem",
+            "Media pemerintah Korut, KCNA , melaporkan pada Selasa (14/4/2026) bahwa pemimpin tertinggi"
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 2,
+      "filtered_articles": 2,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 2,
+      "total_in_qdrant": 56
+    },
+    "timestamp": "2026-04-14T08:29:49.853620+00:00"
+  },
+  {
+    "date": "2026-04-14",
+    "generated_at": "2026-04-14T08:40:12.274740+00:00",
+    "headline": "Perkembangan terbaru didominasi isu Teknologi dari berbagai sumber berita.",
+    "category_digests": {
+      "Ekonomi": [
+        {
+          "title": "Mengapa Blokade Hormuz Ala Trump Jadi Judi Berbahaya?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260414102021-128-726548/mengapa-blokade-hormuz-ala-trump-jadi-judi-berbahaya",
+          "summary": "Jakarta, CNBC Indonesia - Keputusan Presiden Amerika Serikat (AS) Donald Trump untuk memberlakukan blokade terhadap lalu lintas kapal ke dan dari pelabuhan serta wilayah pesisir Iran dinilai menjadi langkah yang sangat berisiko. Kebijakan yang mulai berlaku pada 13 April itu bukan hanya berpotensi memperparah krisis energi global, tetapi juga dapat memicu eskalasi konflik baru di kawasan.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Keputusan Presiden Amerika Serikat (AS) Donald Trump untuk membe",
+            "Kebijakan yang mulai berlaku pada 13 April itu bukan hanya berpotensi memperparah krisis e",
+            "Langkah tersebut muncul di tengah perang yang dimulai sejak 28 Februari, saat AS dan Israe"
+          ]
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Heboh Daftar Pangkalan LPG Berbayar, Pertamina: Itu Hoax!",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414144721-4-726653/heboh-daftar-pangkalan-lpg-berbayar-pertamina-itu-hoax",
+          "summary": "Jakarta, CNBC Indonesia - Pertamina Patra Niaga menegaskan bahwa informasi yang beredar di media sosial yang disebar pada keterangan (caption) video pada tautan akun https://vt. tiktok.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Pertamina Patra Niaga menegaskan bahwa informasi yang beredar di",
+            "tiktok",
+            "com/ZSHg8QpF8/ terkait adanya biaya pendaftaran pangkalan dan sub pangkalan (pengecer) LPG"
+          ]
+        },
+        {
+          "title": "Video: Comeback BTS Guncang Dunia, ARIRANG Goyang Dari Jantung Seoul",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260414110433-8-726577/video-comeback-bts-guncang-dunia-arirang-goyang-dari-jantung-seoul",
+          "summary": "Bangtan Sonyeondan atau BTS akhirnya kembali sebagai grup lengkap. Lewat konser tiga hari BTS World Tour \"Arirang\" di goyang stadium pada 9,11 dan 12 April 2026, mereka tidak hanya menghadirkan pertunjukan megah tetapi juga menegaskan arah baru perjalanan sebagai satu tim.",
+          "key_points": [
+            "Bangtan Sonyeondan atau BTS akhirnya kembali sebagai grup lengkap",
+            "Lewat konser tiga hari BTS World Tour \"Arirang\" di goyang stadium pada 9,11 dan 12 April 2",
+            "BTS membuka konser dengan hooligan yang langsung menghentak stadion"
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 3,
+      "filtered_articles": 3,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 3,
+      "total_in_qdrant": 59
+    },
+    "timestamp": "2026-04-14T08:40:12.274754+00:00"
+  }
+]

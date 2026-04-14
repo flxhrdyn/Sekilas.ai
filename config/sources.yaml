@@ -1,0 +1,20 @@
+sources:
+  - name: Kompas
+    url: https://rss.kompas.com/nasional
+    category_hint: nasional
+
+  - name: Detik
+    url: https://rss.detik.com/index.php/detikcom
+    category_hint: umum
+
+  - name: CNBC Indonesia
+    url: https://www.cnbcindonesia.com/rss
+    category_hint: ekonomi
+
+  - name: Tempo
+    url: https://rss.tempo.co/nasional
+    category_hint: nasional
+
+  - name: Republika
+    url: https://rss.republika.co.id/rss/all
+    category_hint: umum

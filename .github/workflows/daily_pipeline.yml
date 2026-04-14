@@ -1,0 +1,56 @@
+name: Sekilas.ai Daily Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 07:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Sekilas.ai pipeline
+        run: python -m pipeline.orchestrator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EMBEDDING_MODEL: ${{ secrets.EMBEDDING_MODEL }}
+          EMBEDDING_OUTPUT_DIM: ${{ secrets.EMBEDDING_OUTPUT_DIM }}
+          CLASSIFIER_MODEL: ${{ secrets.CLASSIFIER_MODEL }}
+          SUMMARIZER_MODEL: ${{ secrets.SUMMARIZER_MODEL }}
+          QDRANT_URL: ${{ secrets.QDRANT_URL }}
+          QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
+          QDRANT_COLLECTION: ${{ secrets.QDRANT_COLLECTION }}
+          REQUEST_TIMEOUT_SECONDS: ${{ secrets.REQUEST_TIMEOUT_SECONDS }}
+          USER_AGENT: ${{ secrets.USER_AGENT }}
+          DEDUP_THRESHOLD: ${{ secrets.DEDUP_THRESHOLD }}
+          MIN_CONTENT_CHARS: ${{ secrets.MIN_CONTENT_CHARS }}
+          SUMMARY_MAX_CONTENT_CHARS: ${{ secrets.SUMMARY_MAX_CONTENT_CHARS }}
+          ENABLE_TELEGRAM_NOTIFY: ${{ secrets.ENABLE_TELEGRAM_NOTIFY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DASHBOARD_URL: ${{ secrets.DASHBOARD_URL }}
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "Sekilas.ai Bot"
+          git config user.email "bot@sekilas.ai"
+          git add data/summaries.json data/processed_urls.txt
+          git diff --staged --quiet || git commit -m "chore: daily sekilas.ai update"
+          git push
