@@ -55,7 +55,33 @@ class Settings(BaseSettings):
     )
     @classmethod
     def _coerce_empty_to_default(cls, value: object, info: ValidationInfo) -> object:
-        if isinstance(value, str) and not value.strip():
+        if isinstance(value, str):
+            cleaned = value.strip()
+            empty_like = {"", '""', "''", "none", "null", "None", "NULL"}
+            if cleaned.lower() in {"none", "null"}:
+                cleaned = cleaned.lower()
+            if cleaned in empty_like:
+                defaults: dict[str, object] = {
+                    "embedding_output_dim": None,
+                    "dedup_threshold": 0.92,
+                    "min_content_chars": 200,
+                    "summary_max_content_chars": 2000,
+                    "request_timeout_seconds": 20.0,
+                    "enable_telegram_notify": False,
+                }
+                return defaults.get(info.field_name, value)
+
+            # Normalisasi string bool agar parsing konsisten lintas environment.
+            if info.field_name == "enable_telegram_notify":
+                lowered = cleaned.lower()
+                if lowered in {"1", "true", "yes", "on"}:
+                    return True
+                if lowered in {"0", "false", "no", "off"}:
+                    return False
+
+            return cleaned
+
+        if value is None:
             defaults: dict[str, object] = {
                 "embedding_output_dim": None,
                 "dedup_threshold": 0.92,
