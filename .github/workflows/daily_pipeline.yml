@@ -30,18 +30,9 @@ jobs:
         run: python -m pipeline.orchestrator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          EMBEDDING_MODEL: ${{ secrets.EMBEDDING_MODEL }}
-          EMBEDDING_OUTPUT_DIM: ${{ secrets.EMBEDDING_OUTPUT_DIM }}
-          CLASSIFIER_MODEL: ${{ secrets.CLASSIFIER_MODEL }}
-          SUMMARIZER_MODEL: ${{ secrets.SUMMARIZER_MODEL }}
           QDRANT_URL: ${{ secrets.QDRANT_URL }}
           QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
-          QDRANT_COLLECTION: ${{ secrets.QDRANT_COLLECTION }}
-          REQUEST_TIMEOUT_SECONDS: ${{ secrets.REQUEST_TIMEOUT_SECONDS }}
-          USER_AGENT: ${{ secrets.USER_AGENT }}
-          DEDUP_THRESHOLD: ${{ secrets.DEDUP_THRESHOLD }}
-          MIN_CONTENT_CHARS: ${{ secrets.MIN_CONTENT_CHARS }}
-          SUMMARY_MAX_CONTENT_CHARS: ${{ secrets.SUMMARY_MAX_CONTENT_CHARS }}
+          QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
           ENABLE_TELEGRAM_NOTIFY: ${{ secrets.ENABLE_TELEGRAM_NOTIFY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
