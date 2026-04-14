@@ -33,6 +33,15 @@ jobs:
           QDRANT_URL: ${{ secrets.QDRANT_URL }}
           QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
           QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
+          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'models/gemini-embedding-001' }}
+          EMBEDDING_OUTPUT_DIM: ${{ vars.EMBEDDING_OUTPUT_DIM || '768' }}
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'models/gemini-2.0-flash' }}
+          SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'models/gemini-2.0-flash' }}
+          DEDUP_THRESHOLD: ${{ vars.DEDUP_THRESHOLD || '0.92' }}
+          MIN_CONTENT_CHARS: ${{ vars.MIN_CONTENT_CHARS || '200' }}
+          SUMMARY_MAX_CONTENT_CHARS: ${{ vars.SUMMARY_MAX_CONTENT_CHARS || '2000' }}
+          REQUEST_TIMEOUT_SECONDS: ${{ vars.REQUEST_TIMEOUT_SECONDS || '20' }}
+          USER_AGENT: ${{ vars.USER_AGENT || 'sekilas-ai-agentic-rag/0.1 (+https://github.com)' }}
           ENABLE_TELEGRAM_NOTIFY: ${{ vars.ENABLE_TELEGRAM_NOTIFY || 'false' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
