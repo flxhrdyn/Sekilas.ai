@@ -695,5 +695,60 @@
       "total_in_qdrant": 18
     },
     "timestamp": "2026-04-15T00:58:44.097708+00:00"
+  },
+  {
+    "date": "2026-04-15",
+    "generated_at": "2026-04-15T01:50:03.474236+00:00",
+    "headline": "Perkembangan terbaru didominasi isu Ekonomi dari berbagai sumber berita.",
+    "category_digests": {
+      "Ekonomi": [
+        {
+          "title": "Prabowo Bertemu Macron Bahas Alutsista hingga Energi",
+          "source": "Tempo",
+          "url": "https://nasional.tempo.co/read/2098275/prabowo-bertemu-macron-bahas-alutsista-hingga-energi",
+          "summary": "Iklan 15 April 2026 | 08. 18 WIB Dengarkan artikel Bagikan Gabung Tempo Circle PRESIDEN Prabowo Subianto menyambangi Istana Élysée, Paris, Prancis, untuk melakukan pertemuan tête-à-tête alias empat mata dengan Presiden Prancis Emmanuel Macron, pada Selasa siang, 14 April 2026 waktu setempat.",
+          "key_points": [
+            "Iklan 15 April 2026 | 08",
+            "18 WIB Dengarkan artikel Bagikan Gabung Tempo Circle PRESIDEN Prabowo Subianto menyambangi",
+            "Momen ini dibagikan Prabowo melalui akun Instagram resmi @presidenrepublikindonesia"
+          ]
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Peran Polri di Program Pangan Dinilai Positif, namun Tidak Semua Setuju",
+          "source": "Tempo",
+          "url": "https://nasional.tempo.co/read/2098272/peran-polri-di-program-pangan-dinilai-positif-namun-tidak-semua-setuju",
+          "summary": "Iklan 15 April 2026 | 08. 10 WIB Dengarkan artikel Bagikan Gabung Tempo Circle INFO TEMPO - Keterlibatan kepolisian dalam program swasembada pangan mendapat respons beragam dari masyarakat.",
+          "key_points": [
+            "Iklan 15 April 2026 | 08",
+            "10 WIB Dengarkan artikel Bagikan Gabung Tempo Circle INFO TEMPO - Keterlibatan kepolisian",
+            "Survei Tempo Data Science (TDS) menunjukkan hanya 33,6 persen responden yang mengetahui ad"
+          ]
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Populer: Tempo Respons NasDem hingga Pertemuan Putin-Prabowo",
+          "source": "Tempo",
+          "url": "https://nasional.tempo.co/read/2098271/populer-tempo-respons-nasdem-hingga-pertemuan-putin-prabowo",
+          "summary": "Iklan 15 April 2026 | 07. 59 WIB Dengarkan artikel Bagikan Gabung Tempo Circle SEJUMLAH berita di kanal nasional Tempo mendapat sorotan pembaca pada Selasa, 14 April 2026.",
+          "key_points": [
+            "Iklan 15 April 2026 | 07",
+            "59 WIB Dengarkan artikel Bagikan Gabung Tempo Circle SEJUMLAH berita di kanal nasional Tem",
+            "Salah satunya mengenai demonstrasi kader Partai NasDem ke kantor Tempo di Palmerah, Jakart"
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 3,
+      "filtered_articles": 3,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 3,
+      "total_in_qdrant": 21
+    },
+    "timestamp": "2026-04-15T01:50:03.474249+00:00"
   }
 ]
