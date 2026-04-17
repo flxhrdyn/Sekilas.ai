@@ -2,13 +2,16 @@ from __future__ import annotations
 
 import json
 import math
+import time
 from dataclasses import dataclass
 from typing import Sequence
 
 import google.generativeai as genai
 
-from agents.embedder import GeminiEmbedder
-from agents.models import FilteredArticle, RawArticle
+from backend.agents.embedder import NewsEmbedder
+from backend.agents.models import FilteredArticle, RawArticle
+from backend.config.monitor import SystemMonitor
+from google.api_core.exceptions import ResourceExhausted
 
 
 CATEGORIES: tuple[str, ...] = (
@@ -46,9 +49,9 @@ class FilterStats:
 class NewsFilterAgent:
     def __init__(
         self,
-        embedder: GeminiEmbedder,
+        embedder: NewsEmbedder,
         api_key: str,
-        classifier_model: str = "models/gemini-2.0-flash",
+        classifier_model: str,
         dedup_threshold: float = 0.92,
         min_content_chars: int = 200,
     ) -> None:
@@ -65,8 +68,12 @@ class NewsFilterAgent:
         unique_articles, duplicate_discarded = self._deduplicate(quality_articles)
 
         filtered: list[FilteredArticle] = []
-        for article in unique_articles:
+        total = len(unique_articles)
+        for idx, article in enumerate(unique_articles, 1):
+            print(f"  [>] Mengklasifikasi berita {idx}/{total}: {article.title[:50]}...")
             category = self._classify(article.title, article.content)
+            # Safety delay diperketat untuk mematuhi limit 15 RPM
+            time.sleep(4.5)
             filtered.append(
                 FilteredArticle(
                     url=article.url,
@@ -112,6 +119,12 @@ class NewsFilterAgent:
         unique_vecs: list[list[float]] = []
         duplicate_discarded = 0
 
+        if len(articles) != len(vectors):
+            raise RuntimeError(
+                f"Mismatch data: Mendapat {len(vectors)} embedding untuk {len(articles)} artikel. "
+                "Pemrosesan dihentikan untuk menjaga integritas data."
+            )
+
         for article, vector in zip(articles, vectors, strict=True):
             is_duplicate = False
             for seen in unique_vecs:
@@ -137,10 +150,14 @@ class NewsFilterAgent:
         try:
             model = genai.GenerativeModel(model_name=self.classifier_model)
             response = model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
             text = (response.text or "").strip()
             category = self._normalize_category(text)
             if category:
                 return category
+        except ResourceExhausted:
+            SystemMonitor.update_usage(500)
+            print("  [!] LIMIT GEMINI TERCAPAI (500/500).")
         except Exception:
             pass
 

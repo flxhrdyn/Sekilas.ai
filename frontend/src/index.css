@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #0a0a0c;
+  --color-brand-sidebar: #111114;
+  --color-brand-card: #18181b;
+  --color-brand-border: #27272a;
+  --color-brand-accent: #3b82f6;
+  --color-brand-text-main: #f4f4f5;
+  --color-brand-text-dim: #a1a1aa;
+  --color-brand-green: #10b981;
+}
+
+:root {
+  --brand-bg: var(--color-brand-bg);
+  --brand-sidebar: var(--color-brand-sidebar);
+  --brand-card: var(--color-brand-card);
+  --brand-border: var(--color-brand-border);
+  --brand-accent: var(--color-brand-accent);
+  --brand-text-main: var(--color-brand-text-main);
+  --brand-text-dim: var(--color-brand-text-dim);
+  --brand-green: var(--color-brand-green);
+}
+
+body {
+  background-color: var(--brand-bg);
+  color: var(--brand-text-main);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.news-card {
+  @apply bg-brand-card border border-brand-border rounded-xl p-4 transition-all duration-200;
+}
+
+.status-badge {
+  @apply flex items-center gap-2 px-3 py-1 bg-brand-green/10 border border-brand-green/20 rounded-full text-[10px] font-bold text-brand-green uppercase tracking-wider;
+}
+
+.status-dot {
+  @apply w-1.5 h-1.5 rounded-full bg-brand-green animate-pulse;
+}
+
+.metric-group {
+  @apply p-4 bg-brand-card/50 border border-brand-border rounded-xl;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-brand-border rounded-full hover:bg-brand-text-dim/20;
+}

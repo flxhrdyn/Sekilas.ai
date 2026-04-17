@@ -8,7 +8,7 @@ from typing import Sequence
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, PointStruct, VectorParams
 
-from agents.models import FilteredArticle, RawArticle
+from backend.agents.models import FilteredArticle, RawArticle
 
 
 ArticleLike = RawArticle | FilteredArticle

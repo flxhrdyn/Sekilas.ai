@@ -1,19 +1,21 @@
 from __future__ import annotations
 
+import sys
+import random
 from datetime import UTC, datetime
 import json
 from pathlib import Path
 from typing import TypedDict
 
-from agents.embedder import GeminiEmbedder
-from agents.filter import NewsFilterAgent
-from agents.notifier import TelegramNotifier
-from agents.summarizer import SummarizationAgent, build_daily_digest_record
-from agents.models import prepare_document
-from agents.scraper import NewsScraper
-from config.settings import ROOT_DIR, get_settings
+from backend.agents.embedder import NewsEmbedder, get_embedder
+from backend.agents.filter import NewsFilterAgent
+from backend.agents.notifier import TelegramNotifier
+from backend.agents.summarizer import NewsSummarizerAgent, build_daily_digest_record
+from backend.agents.models import prepare_document
+from backend.agents.scraper import NewsScraper
+from backend.config.settings import ROOT_DIR, get_settings
 from langgraph.graph import END, StateGraph
-from rag.vector_store import QdrantVectorStore
+from backend.rag.vector_store import QdrantVectorStore
 
 
 class NewsState(TypedDict, total=False):
@@ -22,7 +24,6 @@ class NewsState(TypedDict, total=False):
     filtered_articles: list
     filter_stats: dict
     insights: dict
-    insights_payload: dict
     headline: str
     embeddings: list[list[float]]
     total_in_qdrant: int
@@ -49,14 +50,24 @@ def _append_json_record(path: Path, record: dict) -> None:
 
 def _build_graph(
     scraper: NewsScraper,
-    embedder: GeminiEmbedder,
+    embedder: NewsEmbedder,
     filter_agent: NewsFilterAgent,
-    summarizer: SummarizationAgent,
+    summarizer: NewsSummarizerAgent,
     store: QdrantVectorStore,
     notifier: TelegramNotifier | None,
+    max_per_source: int = 40,
 ) -> StateGraph:
     def scrape_node(_: NewsState) -> NewsState:
-        articles, all_processed = scraper.scrape_new_articles(max_per_source=25)
+        print("[PROCESS] Memulai proses scraping dari sumber...")
+        articles, all_processed = scraper.scrape_new_articles(max_per_source=max_per_source)
+        
+        # Acak urutan artikel untuk menjamin diversitas sumber berita (Nasional & Internasional)
+        random.shuffle(articles)
+        
+        # Batasi pengambilan awal agar tidak terlalu membengkak (Maks 50 berita mentah)
+        articles = articles[:50]
+        
+        print(f"[OK] Scraping selesai. Mengambil {len(articles)} berita untuk diolah.")
         return {"raw_articles": articles, "all_processed": all_processed}
 
     def route_after_scrape(state: NewsState) -> str:
@@ -76,8 +87,14 @@ def _build_graph(
         }
 
     def filter_node(state: NewsState) -> NewsState:
+        print(f"[PROCESS] Memfilter dan menduplikasi {len(state['raw_articles'])} artikel...")
         raw_articles = state.get("raw_articles", [])
         filtered_articles, filter_stats = filter_agent.run(raw_articles)
+        
+        # Batasi maksimal 25 berita terbaik yang lolos filter untuk diringkas (Optimasi Kecepatan)
+        filtered_articles = filtered_articles[:25]
+        
+        print(f"[OK] Filter selesai. {len(filtered_articles)} artikel tersisa untuk diringkas.")
         return {
             "filtered_articles": filtered_articles,
             "filter_stats": {
@@ -92,6 +109,7 @@ def _build_graph(
         return "all-filtered-out" if not state.get("filtered_articles") else "summarize"
 
     def all_filtered_node(state: NewsState) -> NewsState:
+        print("[INFO] Semua artikel difilter keluar.")
         scraper.save_processed_urls(state.get("all_processed", set()))
         stats = state.get("filter_stats", {})
         return {
@@ -108,6 +126,7 @@ def _build_graph(
         }
 
     def summarize_node(state: NewsState) -> NewsState:
+        print(f"[PROCESS] Membuat ringkasan untuk {len(state['filtered_articles'])} artikel...")
         filtered_articles = state.get("filtered_articles", [])
         insights = summarizer.build_insights(filtered_articles)
         headline = summarizer.generate_daily_headline(filtered_articles, insights)
@@ -115,26 +134,36 @@ def _build_graph(
             url: {"summary": insight.summary, "key_points": insight.key_points}
             for url, insight in insights.items()
         }
+        print("[OK] Ringkasan dan headline berhasil dibuat.")
         return {
             "insights": insights,
-            "insights_payload": insights_payload,
             "headline": headline,
         }
 
     def embed_node(state: NewsState) -> NewsState:
+        print(f"[PROCESS] Membuat embedding untuk {len(state['filtered_articles'])} artikel...")
         filtered_articles = state.get("filtered_articles", [])
         docs = [prepare_document(article) for article in filtered_articles]
         embeddings = embedder.embed_documents(docs)
+        print("[OK] Embedding selesai.")
         return {"embeddings": embeddings}
 
     def upsert_and_persist_node(state: NewsState) -> NewsState:
+        print("[PROCESS] Menyimpan data ke database dan mengirim notifikasi...")
+        settings = get_settings()
         filtered_articles = state.get("filtered_articles", [])
         embeddings = state.get("embeddings", [])
         insights = state.get("insights", {})
         insights_payload = state.get("insights_payload", {})
 
-        vector_size = len(embeddings[0]) if embeddings else 768
+        vector_size = len(embeddings[0]) if embeddings else (settings.embedding_output_dim or 768)
         store.ensure_collection(vector_size=vector_size)
+        
+        # Format payload untuk upsert
+        insights_payload = {
+            url: {"summary": insight.summary, "key_points": insight.key_points}
+            for url, insight in insights.items()
+        }
         store.upsert_articles(filtered_articles, embeddings, insights_by_url=insights_payload)
 
         scraper.save_processed_urls(state.get("all_processed", set()))
@@ -159,7 +188,7 @@ def _build_graph(
                 "timestamp": datetime.now(UTC).isoformat(),
             }
         )
-        _append_json_record(ROOT_DIR / "data" / "summaries.json", digest_record)
+        _append_json_record(settings.summaries_file, digest_record)
 
         notifier_status = "disabled"
         if notifier is not None:
@@ -176,7 +205,7 @@ def _build_graph(
                 "status": "ok",
                 "raw_articles": len(state.get("raw_articles", [])),
                 "filtered_articles": len(filtered_articles),
-                "summarized_articles": len(insights_payload),
+                "summarized_articles": len(insights),
                 "headline": state.get("headline", ""),
                 "too_short_discarded": filter_stats.get("too_short_discarded", 0),
                 "duplicate_discarded": filter_stats.get("duplicate_discarded", 0),
@@ -224,9 +253,8 @@ def run_pipeline() -> dict:
         user_agent=settings.user_agent,
     )
 
-    embedder = GeminiEmbedder(
-        api_key=settings.gemini_api_key,
-        model=settings.embedding_model,
+    embedder = get_embedder(
+        model_name=settings.embedding_model,
         output_dimensionality=settings.embedding_output_dim,
     )
 
@@ -238,7 +266,7 @@ def run_pipeline() -> dict:
         min_content_chars=settings.min_content_chars,
     )
 
-    summarizer = SummarizationAgent(
+    summarizer = NewsSummarizerAgent(
         api_key=settings.gemini_api_key,
         model=settings.summarizer_model,
         max_content_chars=settings.summary_max_content_chars,
@@ -259,7 +287,9 @@ def run_pipeline() -> dict:
             timeout_seconds=settings.request_timeout_seconds,
         )
 
-    graph = _build_graph(scraper, embedder, filter_agent, summarizer, store, notifier).compile()
+    graph = _build_graph(
+        scraper, embedder, filter_agent, summarizer, store, notifier, max_per_source=settings.max_per_source
+    ).compile()
     final_state = graph.invoke({"result": {}})
     return final_state.get("result", {"status": "unknown"})
 

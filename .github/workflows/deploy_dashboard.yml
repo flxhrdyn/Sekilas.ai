@@ -1,0 +1,27 @@
+name: Deploy Sekilas.ai Dashboard
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate dashboard modules
+        run: python -m compileall dashboard rag
+
+      - name: Build Docker image
+        run: docker build -t sekilas-ai-dashboard .

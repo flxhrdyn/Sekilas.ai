@@ -1,13 +1,12 @@
-from agents.embedder import GeminiEmbedder
-from config.settings import get_settings
-from rag.vector_store import QdrantVectorStore
+from backend.agents.embedder import NewsEmbedder, get_embedder
+from backend.config.settings import get_settings
+from backend.rag.vector_store import QdrantVectorStore
 
 
 def main() -> None:
     settings = get_settings()
-    embedder = GeminiEmbedder(
-        api_key=settings.gemini_api_key,
-        model=settings.embedding_model,
+    embedder = get_embedder(
+        model_name=settings.embedding_model,
         output_dimensionality=settings.embedding_output_dim,
     )
     vector_size = len(embedder.embed_query("dimension probe"))

@@ -1,0 +1,82 @@
+sources:
+  # ── NASIONAL Terpercaya ────────────────────────────────────────────────
+  - name: Antara Terkini
+    url: https://www.antaranews.com/rss/terkini.xml
+    category_hint: nasional
+
+  - name: Kompas Nasional
+    url: https://rss.kompas.com/nasional
+    category_hint: nasional
+
+  - name: Tempo Nasional
+    url: https://rss.tempo.co/nasional
+    category_hint: nasional
+
+  - name: The Jakarta Post
+    url: https://www.thejakartapost.com/rss/news
+    category_hint: nasional
+
+  # ── INTERNASIONAL (Dunia) ──────────────────────────────────────────────
+  - name: BBC World News
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    category_hint: internasional
+
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    category_hint: internasional
+
+  - name: Channel News Asia (CNA)
+    url: https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml
+    category_hint: internasional
+
+  - name: VOA Indonesia
+    url: https://www.voaindonesia.com/api/zmorqoeumt
+    category_hint: internasional
+
+  # ── EKONOMI & BISNIS ───────────────────────────────────────────────────
+  - name: CNBC Indonesia
+    url: https://www.cnbcindonesia.com/rss
+    category_hint: ekonomi
+
+  - name: Bisnis.com
+    url: https://rssfeed.bisnis.com/feed/rssfeed/ekonomi
+    category_hint: ekonomi
+
+  - name: Kontan Ekonomi
+    url: https://rss.kontan.co.id/rss/ekonomi-nasional
+    category_hint: ekonomi
+
+  # ── TEKNOLOGI & SAINS ─────────────────────────────────────────────────
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    category_hint: teknologi
+
+  - name: Kompas Tekno
+    url: https://tekno.kompas.com/rss
+    category_hint: teknologi
+
+  - name: Detik Inet
+    url: https://inet.detik.com/rss
+    category_hint: teknologi
+
+  # ── KESEHATAN & GAYA HIDUP ────────────────────────────────────────────
+  - name: Detik Health
+    url: https://health.detik.com/rss
+    category_hint: kesehatan
+
+  - name: Kompas Lifestyle
+    url: https://lifestyle.kompas.com/rss
+    category_hint: hiburan
+
+  - name: Antara Hiburan
+    url: https://www.antaranews.com/rss/hiburan.xml
+    category_hint: hiburan
+
+  # ── OLAHRAGA ──────────────────────────────────────────────────────────
+  - name: Kompas Sport
+    url: https://rss.kompas.com/sport
+    category_hint: olahraga
+
+  - name: Detik Sport
+    url: https://sport.detik.com/rss
+    category_hint: olahraga

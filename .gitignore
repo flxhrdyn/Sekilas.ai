@@ -4,6 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 .pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
 
 # Virtual environments
 .venv/
@@ -12,11 +14,26 @@ env/
 
 # Local settings
 .env
+*.local
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
 
 # OS/editor
 .DS_Store
 Thumbs.db
 .vscode/
+.idea/
+*.swp
 
-# Local vector artifacts (optional fallback)
-data/faiss_index.bin
+# Local Data & Logs
+data/*
+!data/.gitkeep
+*.log
+.cache/
+.temp/
+Sekilas.AI_cmds.txt

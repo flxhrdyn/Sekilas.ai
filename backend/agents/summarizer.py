@@ -1,13 +1,16 @@
 from __future__ import annotations
 
 import json
+import time
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from typing import Sequence
 
 import google.generativeai as genai
 
-from agents.models import FilteredArticle
+from backend.agents.models import FilteredArticle
+from backend.config.monitor import SystemMonitor
+from google.api_core.exceptions import ResourceExhausted
 
 
 SUMMARIZE_AND_EXTRACT_PROMPT = """
@@ -44,11 +47,11 @@ class ArticleInsight:
     key_points: list[str]
 
 
-class SummarizationAgent:
+class NewsSummarizerAgent:
     def __init__(
         self,
         api_key: str,
-        model: str = "models/gemini-2.0-flash",
+        model: str,
         max_content_chars: int = 2000,
     ) -> None:
         self.model_name = self._canonical_model_name(model)
@@ -58,8 +61,12 @@ class SummarizationAgent:
 
     def build_insights(self, articles: Sequence[FilteredArticle]) -> dict[str, ArticleInsight]:
         insights: dict[str, ArticleInsight] = {}
-        for article in articles:
+        total = len(articles)
+        for idx, article in enumerate(articles, 1):
+            print(f"  [>] Merangkum berita {idx}/{total}: {article.title[:50]}...")
             summary, key_points = self._summarize_article(article)
+            # Safety delay diperketat (Limit 15 RPM = 1 request tiap 4 detik)
+            time.sleep(5.0)
             insights[article.url] = ArticleInsight(
                 url=article.url,
                 summary=summary,
@@ -86,9 +93,12 @@ class SummarizationAgent:
         prompt = HEADLINE_PROMPT.format(digest_context="\n".join(context_lines))
         try:
             response = self.model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
             headline = (response.text or "").strip()
             if headline:
                 return " ".join(headline.split())
+        except ResourceExhausted:
+            SystemMonitor.update_usage(500)
         except Exception:
             pass
 
@@ -104,10 +114,13 @@ class SummarizationAgent:
 
         try:
             response = self.model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
             text = (response.text or "").strip()
             summary, key_points = self._parse_summary_json(text)
             if summary and len(key_points) == 3:
                 return summary, key_points
+        except ResourceExhausted:
+            SystemMonitor.update_usage(500)
         except Exception:
             pass
 
@@ -196,6 +209,8 @@ def build_daily_digest_record(
                 "title": article.title,
                 "source": article.source,
                 "url": article.url,
+                "category": article.category,
+                "published_at": article.published_at.isoformat(),
                 "summary": insight.summary,
                 "key_points": insight.key_points,
             }
