@@ -35,8 +35,8 @@ jobs:
           QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
           EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'sentence-transformers/all-MiniLM-L6-v2' }}
           EMBEDDING_OUTPUT_DIM: ${{ vars.EMBEDDING_OUTPUT_DIM || '384' }}
-          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'models/gemini-2.0-flash' }}
-          SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'models/gemini-2.0-flash' }}
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'models/gemini-3.1-flash-lite-preview' }}
+          SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'models/gemini-3.1-flash-lite-preview' }}
           DEDUP_THRESHOLD: ${{ vars.DEDUP_THRESHOLD || '0.92' }}
           MIN_CONTENT_CHARS: ${{ vars.MIN_CONTENT_CHARS || '200' }}
           SUMMARY_MAX_CONTENT_CHARS: ${{ vars.SUMMARY_MAX_CONTENT_CHARS || '3000' }}
