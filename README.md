@@ -1,54 +1,127 @@
-# Sekilas.ai Agentic-RAG (Stage 1)
+<div align="center">
 
-Implementasi Stage 1+2: scrape RSS berita, dedup + klasifikasi agentic, ringkas artikel + key points, generate embedding Gemini, lalu upsert ke Qdrant Cloud.
+  # Sekilas.ai — Intelligent News Agentic-RAG
+  **Autonomous News Aggregation, Semantic Search, and RAG-Driven AI Question-Answering.**
+  
+  [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
+  [![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)](https://aistudio.google.com/)
+  [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+</div>
 
-Orchestrator pipeline menggunakan LangGraph state machine dengan jalur kondisi:
-- no-new-articles
-- all-filtered-out
-- success (upsert + persist digest)
+---
 
-## Setup cepat
+## Overview
 
-1. Buat virtual environment Python 3.11+
-2. Install dependency:
-   pip install -r requirements.txt
-3. Salin `.env.example` menjadi `.env`, lalu isi kredensial.
-4. Inisialisasi collection Qdrant:
-   python -m scripts.init_vector_db
-5. Jalankan pipeline:
-   python -m pipeline.orchestrator
+In the era of information overload, finding relevant news is a challenge. **Sekilas.ai** is a production-ready **Agentic-RAG** system that automates the entire news lifecycle: from scraping RSS feeds to generating AI-powered daily insights.
 
-## Catatan Dimensi Embedding
+This is a **Managed AI Intelligence Service** that understands context, filters noise, and answers complex queries using current news data.
 
-- Jika ingin dimensi 768, set EMBEDDING_OUTPUT_DIM=768.
-- Jika model tidak mendukung pengaturan dimensi output, biarkan EMBEDDING_OUTPUT_DIM kosong.
+## Technical Features
 
-## Stage 2 Agentic Filter
+- **Autonomous Data Pipeline**: End-to-end news ingestion orchestrated by LangGraph, featuring automated scraping, quality filtering, and deduplication.
+- **Agentic Summarization**: Intelligent LLM-based categorization and multi-point summarization to provide structured, actionable insights.
+- **Semantic Vector Store**: High-performance semantic retrieval using Qdrant Vector DB and locally-hosted BGE-M3 embedding models.
+- **RAG-Powered Question Answering**: Advanced RAG (Retrieval-Augmented Generation) system providing accurate answers backed by source citations from recent news.
+- **API Quota Management**: Integrated monitoring system to track Gemini API usage locally with manual synchronization support.
+- **Professional Dashboard**: State-of-the-art responsive interface built with React and Tailwind CSS, featuring glassmorphism aesthetics and motion-driven interactions.
 
-- Deduplikasi berbasis cosine similarity embedding dengan DEDUP_THRESHOLD.
-- Filter kualitas konten minimum dengan MIN_CONTENT_CHARS.
-- Klasifikasi kategori dengan CLASSIFIER_MODEL (fallback heuristik jika API gagal).
+## System Architecture
 
-## Stage 2 Summarization
+```mermaid
+graph TD
+    subgraph Data_Source_Level [Ingestion Level]
+        RSS[RSS Feeds / Web Scraper] -->|Raw News| LG[LangGraph Orchestrator]
+    end
+    
+    subgraph Intelligence_Level [Processing Level]
+        LG -->|Gemini API| Filter[Agentic Quality Filter]
+        Filter -->|BGE-M3| Embed[Local Embedding Engine]
+        Embed -->|Vector Upsert| QDR[Qdrant Vector DB]
+        Filter -->|Summarization| Digest[Daily JSON Insight]
+    end
+    
+    subgraph Application_Level [Gateway & UI]
+        API[FastAPI Backend] -->|Semantic Retrieve| QDR
+        API -->|RAG Answer| QA[Gemini QA Agent]
+        UI[React Glassmorphism Dashboard] -->|Search/QA| API
+        API -->|Local Tracking| Tracker[Gemini Usage Monitor]
+    end
+```
 
-- Ringkasan 2-3 kalimat dan 3 key points per artikel dengan SUMMARIZER_MODEL.
-- Panjang konten untuk ringkasan dibatasi SUMMARY_MAX_CONTENT_CHARS.
-- Metadata summary dan key points disimpan ke payload Qdrant dan data/summaries.json.
+---
 
-## Stage 3 Automation And Notification
+## Performance & Limits
 
-- Workflow harian tersedia di .github/workflows/daily_pipeline.yml.
-- Pipeline dapat mengirim digest ke Telegram jika ENABLE_TELEGRAM_NOTIFY=true.
-- Notifikasi dikirim setelah ingest sukses dan status notifikasi muncul di output pipeline.
+Sekilas.ai optimizes resource usage while maintaining high accuracy for both Indonesian and International news sources.
 
-## Prioritas Konfigurasi
+### Core Metrics & Operational Limits
+| Parameter | Value | Description |
+| :--- | :--- | :--- |
+| **Daily API Quota** | **500 RPD** | Managed via Gemini usage tracker |
+| **Ingestion Capacity** | **Max 50/run** | Configurable limit per orchestrator execution |
+| **Embedding Context** | **1024 Dim** | Optimized via BAAI/bge-m3 local model |
+| **QA Latency** | **~2-4s** | Streaming-optimized RAG response time |
 
-- Aplikasi membaca nilai dari `.env`.
-- Environment variable sistem/terminal tetap bisa dipakai dan akan override nilai `.env`.
+---
 
-## Output Stage 1
+## Deployment Guide
 
-- Artikel baru disimpan ke Qdrant collection `sekilas_ai`
-- URL terproses disimpan di `data/processed_urls.txt`
-- Digest harian (headline + ringkasan per kategori + statistik pipeline) disimpan di `data/summaries.json`
-- Jika notifier aktif, digest ringkas juga terkirim ke Telegram.
+### Prerequisites
+*   Python 3.11+
+*   Node.js 18+
+*   Qdrant Cloud / Local Instance
+
+### Execution Options
+Deploy the application and its ecosystem using the following standard procedures:
+
+**Option 1: Full-Stack Development Mode**
+```bash
+# Terminal 1: Backend
+python -m uvicorn backend.api.app:app --reload
+
+# Terminal 2: Frontend
+cd frontend
+npm run dev
+```
+
+**Option 2: Pipeline Execution**
+```bash
+# Initialize Collection (First time only)
+python -m backend.scripts.init_vector_db
+
+# Execute Autonomous Pipeline
+python -m backend.pipeline.orchestrator
+```
+
+---
+
+## API Interaction
+
+### Semantic Search (Vector Retrieval)
+```bash
+curl -X POST "http://localhost:8000/api/search" \
+     -H "Content-Type: application/json" \
+     -d '{
+       "query": "dampak inflasi bagi startup",
+       "top_k": 5
+     }'
+```
+
+### Agentic QA (RAG-Driven Answering)
+```bash
+curl -X POST "http://localhost:8000/api/qa" \
+     -H "Content-Type: application/json" \
+     -d '{
+       "question": "Apa saja berita utama tentang ekonomi hari ini?"
+     }'
+```
+
+---
+
+## Author
+
+**Felix Hardyan**
+*   [GitHub](https://github.com/flxhrdyn)
