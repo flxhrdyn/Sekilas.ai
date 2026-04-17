@@ -24,8 +24,8 @@ class Settings(BaseSettings):
     qdrant_api_key: str = Field(..., alias="QDRANT_API_KEY")
     qdrant_collection: str = Field(default="sekilas_ai", alias="QDRANT_COLLECTION")
 
-    embedding_model: str = Field(default="BAAI/bge-m3", alias="EMBEDDING_MODEL")
-    embedding_output_dim: int | None = Field(default=1024, alias="EMBEDDING_OUTPUT_DIM")
+    embedding_model: str = Field(default="sentence-transformers/all-MiniLM-L6-v2", alias="EMBEDDING_MODEL")
+    embedding_output_dim: int | None = Field(default=384, alias="EMBEDDING_OUTPUT_DIM")
     classifier_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="CLASSIFIER_MODEL")
     summarizer_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="SUMMARIZER_MODEL")
     qa_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="QA_MODEL")
@@ -34,7 +34,7 @@ class Settings(BaseSettings):
     dedup_threshold: float = Field(default=0.92, alias="DEDUP_THRESHOLD")
     min_content_chars: int = Field(default=200, alias="MIN_CONTENT_CHARS")
     summary_max_content_chars: int = Field(default=3000, alias="SUMMARY_MAX_CONTENT_CHARS")
-
+ 
     request_timeout_seconds: float = Field(default=20.0, alias="REQUEST_TIMEOUT_SECONDS")
     user_agent: str = Field(
         default="sekilas-ai-agentic-rag/0.1 (+https://github.com)",
@@ -45,11 +45,11 @@ class Settings(BaseSettings):
     telegram_chat_id: str | None = Field(default=None, alias="TELEGRAM_CHAT_ID")
     dashboard_url: str = Field(default="", alias="DASHBOARD_URL")
     hf_home: str | None = Field(default=None, alias="HF_HOME")
-
+ 
     sources_file: Path = Field(default=ROOT_DIR / "backend" / "config" / "sources.yaml")
     processed_urls_file: Path = Field(default=ROOT_DIR / "data" / "processed_urls.txt")
     summaries_file: Path = Field(default=ROOT_DIR / "data" / "summaries.json")
-
+ 
     @field_validator(
         "embedding_output_dim",
         "dedup_threshold",
@@ -62,7 +62,7 @@ class Settings(BaseSettings):
     @classmethod
     def _coerce_empty_to_default(cls, value: object, info: ValidationInfo) -> object:
         defaults: dict[str, object] = {
-            "embedding_output_dim": 1024,
+            "embedding_output_dim": 384,
             "dedup_threshold": 0.92,
             "min_content_chars": 200,
             "summary_max_content_chars": 3000,

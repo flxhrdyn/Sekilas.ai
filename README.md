@@ -15,18 +15,38 @@
 
 ## Overview
 
-In the era of information overload, finding relevant news is a challenge. **Sekilas.ai** is a production-ready **Agentic-RAG** system that automates the entire news lifecycle: from scraping RSS feeds to generating AI-powered daily insights.
+In the era of information overload, finding relevant news is a challenge. **Sekilas.ai** is a **functional Agentic-RAG system** in active development that automates the news lifecycle: from scraping RSS feeds to generating AI-powered daily insights.
 
-This is a **Managed AI Intelligence Service** that understands context, filters noise, and answers complex queries using current news data.
+This project serves as a **Managed AI Intelligence Service** that demonstrates how to understand context, filter noise, and answer complex queries using current news data.
 
 ## Technical Features
 
 - **Autonomous Data Pipeline**: End-to-end news ingestion orchestrated by LangGraph, featuring automated scraping, quality filtering, and deduplication.
 - **Agentic Summarization**: Intelligent LLM-based categorization and multi-point summarization to provide structured, actionable insights.
-- **Semantic Vector Store**: High-performance semantic retrieval using Qdrant Vector DB and locally-hosted BGE-M3 embedding models.
+- **Semantic Vector Store**: High-performance semantic retrieval using Qdrant Vector DB and locally-hosted all-MiniLM-L6-v2 embedding models.
 - **RAG-Powered Question Answering**: Advanced RAG (Retrieval-Augmented Generation) system providing accurate answers backed by source citations from recent news.
 - **API Quota Management**: Integrated monitoring system to track Gemini API usage locally with manual synchronization support.
 - **Professional Dashboard**: State-of-the-art responsive interface built with React and Tailwind CSS, featuring glassmorphism aesthetics and motion-driven interactions.
+
+## Technology Stack
+
+### Backend
+- Framework: FastAPI
+- Orchestration: LangGraph
+- Models: Google Gemini 1.5 Flash, all-MiniLM-L6-v2 (Local)
+- Validation: Pydantic v2
+- Scraping: BeautifulSoup4, Feedparser
+
+### Frontend
+- Framework: React 19 (TypeScript)
+- Styling: TailwindCSS, Vanilla CSS
+- Animations: Motion (formerly Framer Motion)
+- Icons: Lucide React
+
+### Infrastructure
+- Vector Database: Qdrant
+- Configuration: Pydantic Settings
+- Environment: Python 3.11+, Node.js 18+
 
 ## System Architecture
 
@@ -38,7 +58,7 @@ graph TD
     
     subgraph Intelligence_Level [Processing Level]
         LG -->|Gemini API| Filter[Agentic Quality Filter]
-        Filter -->|BGE-M3| Embed[Local Embedding Engine]
+        Filter -->|all-MiniLM-L6-v2| Embed[Local Embedding Engine]
         Embed -->|Vector Upsert| QDR[Qdrant Vector DB]
         Filter -->|Summarization| Digest[Daily JSON Insight]
     end
@@ -62,7 +82,7 @@ Sekilas.ai optimizes resource usage while maintaining high accuracy for both Ind
 | :--- | :--- | :--- |
 | **Daily API Quota** | **500 RPD** | Managed via Gemini usage tracker |
 | **Ingestion Capacity** | **Max 50/run** | Configurable limit per orchestrator execution |
-| **Embedding Context** | **1024 Dim** | Optimized via BAAI/bge-m3 local model |
+| **Embedding Context** | **384 Dim** | Optimized via all-MiniLM-L6-v2 local model |
 | **QA Latency** | **~2-4s** | Streaming-optimized RAG response time |
 
 ---
@@ -96,28 +116,13 @@ python -m backend.scripts.init_vector_db
 python -m backend.pipeline.orchestrator
 ```
 
----
+## Configuration
 
-## API Interaction
-
-### Semantic Search (Vector Retrieval)
-```bash
-curl -X POST "http://localhost:8000/api/search" \
-     -H "Content-Type: application/json" \
-     -d '{
-       "query": "dampak inflasi bagi startup",
-       "top_k": 5
-     }'
-```
-
-### Agentic QA (RAG-Driven Answering)
-```bash
-curl -X POST "http://localhost:8000/api/qa" \
-     -H "Content-Type: application/json" \
-     -d '{
-       "question": "Apa saja berita utama tentang ekonomi hari ini?"
-     }'
-```
+The application is configured via environment variables. Key variables include:
+- `GEMINI_API_KEY`: API key for Google Generative AI.
+- `QDRANT_URL` / `QDRANT_API_KEY`: Vector database credentials.
+- `EMBEDDING_MODEL`: The model used for semantic vectorization (Current: `all-MiniLM-L6-v2`).
+- `EMBEDDING_OUTPUT_DIM`: Vector dimensions (Current: `384`).
 
 ---
 

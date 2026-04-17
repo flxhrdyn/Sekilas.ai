@@ -33,13 +33,13 @@ jobs:
           QDRANT_URL: ${{ secrets.QDRANT_URL }}
           QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
           QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
-          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'models/gemini-embedding-001' }}
-          EMBEDDING_OUTPUT_DIM: ${{ vars.EMBEDDING_OUTPUT_DIM || '768' }}
+          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'sentence-transformers/all-MiniLM-L6-v2' }}
+          EMBEDDING_OUTPUT_DIM: ${{ vars.EMBEDDING_OUTPUT_DIM || '384' }}
           CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'models/gemini-2.0-flash' }}
           SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'models/gemini-2.0-flash' }}
           DEDUP_THRESHOLD: ${{ vars.DEDUP_THRESHOLD || '0.92' }}
           MIN_CONTENT_CHARS: ${{ vars.MIN_CONTENT_CHARS || '200' }}
-          SUMMARY_MAX_CONTENT_CHARS: ${{ vars.SUMMARY_MAX_CONTENT_CHARS || '2000' }}
+          SUMMARY_MAX_CONTENT_CHARS: ${{ vars.SUMMARY_MAX_CONTENT_CHARS || '3000' }}
           REQUEST_TIMEOUT_SECONDS: ${{ vars.REQUEST_TIMEOUT_SECONDS || '20' }}
           USER_AGENT: ${{ vars.USER_AGENT || 'sekilas-ai-agentic-rag/0.1 (+https://github.com)' }}
           ENABLE_TELEGRAM_NOTIFY: ${{ vars.ENABLE_TELEGRAM_NOTIFY || 'false' }}
@@ -51,6 +51,6 @@ jobs:
         run: |
           git config user.name "Sekilas.ai Bot"
           git config user.email "bot@sekilas.ai"
-          git add data/summaries.json data/processed_urls.txt
+          git add -f data/summaries.json data/processed_urls.txt
           git diff --staged --quiet || git commit -m "chore: daily sekilas.ai update"
           git push
