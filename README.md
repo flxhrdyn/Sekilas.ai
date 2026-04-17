@@ -33,7 +33,7 @@ This project serves as a **Managed AI Intelligence Service** that demonstrates h
 ### Backend
 - Framework: FastAPI
 - Orchestration: LangGraph
-- Models: Google Gemini 1.5 Flash, all-MiniLM-L6-v2 (Local)
+- Models: Google Gemini 3.1 Flash Lite Preview, all-MiniLM-L6-v2 (Local)
 - Validation: Pydantic v2
 - Scraping: BeautifulSoup4, Feedparser
 
