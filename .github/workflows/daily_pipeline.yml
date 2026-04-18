@@ -27,7 +27,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Sekilas.ai pipeline
-        run: python -m pipeline.orchestrator
+        run: python -m backend.pipeline.orchestrator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           QDRANT_URL: ${{ secrets.QDRANT_URL }}
