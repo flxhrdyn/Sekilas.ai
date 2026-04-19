@@ -19,7 +19,7 @@ class NewsService:
             return []
         if not isinstance(raw, list):
             return []
-        return [item for item in raw if isinstance(item, dict) and "category_digests" in item]
+        return [item for item in raw if isinstance(item, dict) and ("item_count" in item or "top_stories" in item or "category_digests" in item)]
 
     @staticmethod
     def get_latest_digest() -> dict[str, Any] | None:

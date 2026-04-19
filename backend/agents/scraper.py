@@ -1,7 +1,6 @@
-from __future__ import annotations
-
 import concurrent.futures
 import random
+import time
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
@@ -13,8 +12,18 @@ import httpx
 import yaml
 from bs4 import BeautifulSoup
 
-from backend.agents.models import RawArticle
+from backend.agents.models import RawArticle, RawHeadline
 
+# Daftar User-Agent modern untuk menghindari blokir IP (Anti-Bot)
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+]
 
 @dataclass(slots=True)
 class SourceConfig:
@@ -29,13 +38,29 @@ class NewsScraper:
         sources_file: Path,
         processed_urls_file: Path,
         timeout_seconds: float = 20.0,
-        user_agent: str = "sekilas-ai-agentic-rag/0.1",
+        user_agent: str | None = None,
     ) -> None:
         self.sources_file = sources_file
         self.processed_urls_file = processed_urls_file
         self.timeout_seconds = timeout_seconds
-        self.user_agent = user_agent
-        self.headers = {"User-Agent": self.user_agent}
+
+    def _get_random_headers(self, referer: str | None = None) -> dict:
+        """Menghasilkan header acak untuk meniru browser sungguhan."""
+        headers = {
+            "User-Agent": random.choice(USER_AGENTS),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9,id;q=0.8",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Cache-Control": "max-age=0",
+        }
+        if referer:
+            headers["Referer"] = referer
+        return headers
 
     def load_sources(self) -> list[SourceConfig]:
         with self.sources_file.open("r", encoding="utf-8") as f:
@@ -68,14 +93,14 @@ class NewsScraper:
             for url in urls:
                 f.write(f"{url}\n")
 
-    def scrape_new_articles(self, max_per_source: int = 15) -> tuple[list[RawArticle], set[str]]:
+    def fetch_new_headlines(self, max_per_source: int = 40) -> tuple[list[RawHeadline], set[str]]:
         sources = self.load_sources()
         already_processed = self.load_processed_urls()
-        
-        # 1. Fetch RSS feeds in parallel
-        print(f"[PROCESS] Membaca {len(sources)} RSS feed secara paralel...")
-        entries_with_sources: list[tuple[dict, SourceConfig]] = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+
+        print(f"[PROCESS] Memindai {len(sources)} sumber untuk judul berita terbaru...")
+        headlines: list[RawHeadline] = []
+        # Gunakan max_workers yang lebih kecil untuk scan RSS agar tidak memicu bot detector
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             future_to_source = {
                 executor.submit(self._load_rss_entries_standalone, s.url): s for s in sources
             }
@@ -83,59 +108,77 @@ class NewsScraper:
                 source = future_to_source[future]
                 try:
                     entries = future.result()
-                    # Hanya ambil entry yang belum pernah diproses
                     for entry in entries[:max_per_source]:
                         url = (entry.get("link") or "").strip()
                         if url and url not in already_processed:
-                            entries_with_sources.append((entry, source))
+                            headlines.append(
+                                RawHeadline(
+                                    url=url,
+                                    title=(entry.get("title") or "(tanpa judul)").strip(),
+                                    source=source.name,
+                                    published_at=self._parse_published_datetime(entry),
+                                    category_hint=source.category_hint,
+                                )
+                            )
                 except Exception:
                     continue
 
-        if not entries_with_sources:
-            return [], already_processed
+        return headlines, already_processed
 
-        # 2. Acak dan Batasi sebelum download konten (Optimasi Waktu)
-        random.shuffle(entries_with_sources)
-        entries_with_sources = entries_with_sources[:50]
+    def fetch_full_contents(self, headlines: list[RawHeadline]) -> list[RawArticle]:
+        if not headlines:
+            return []
 
-        # 3. Fetch Article Contents in parallel
-        print(f"[PROCESS] Mengambil konten {len(entries_with_sources)} artikel terpilih secara paralel...")
+        print(f"[PROCESS] Mengambil konten lengkap untuk {len(headlines)} berita terpilih...")
         articles: list[RawArticle] = []
-        newly_processed = set(already_processed)
-
-        with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
-            future_to_entry = {
-                executor.submit(self._fetch_article_content_standalone, e["link"]): (e, s)
-                for e, s in entries_with_sources
+        
+        # Jitter: Tambahkan delay acak kecil antar request untuk meniru manusia
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_headline = {
+                executor.submit(self._fetch_article_content_standalone, h.url): h
+                for h in headlines
             }
-            for future in concurrent.futures.as_completed(future_to_entry):
-                entry, source = future_to_entry[future]
+            for future in concurrent.futures.as_completed(future_to_headline):
+                headline = future_to_headline[future]
                 try:
                     content = future.result()
                     if content:
-                        url = (entry.get("link") or "").strip()
-                        published_at = self._parse_published_datetime(entry)
-                        title = (entry.get("title") or "(tanpa judul)").strip()
-
                         articles.append(
                             RawArticle(
-                                url=url,
-                                title=title,
+                                url=headline.url,
+                                title=headline.title,
                                 content=content,
-                                source=source.name,
-                                published_at=published_at,
-                                category_hint=source.category_hint,
+                                source=headline.source,
+                                published_at=headline.published_at,
+                                category_hint=headline.category_hint,
+                                cluster_id=getattr(headline, "cluster_id", -1),
                             )
                         )
-                        newly_processed.add(url)
                 except Exception:
                     continue
+        return articles
 
+    def scrape_new_articles(self, max_per_source: int = 15) -> tuple[list[RawArticle], set[str]]:
+        headlines, already_processed = self.fetch_new_headlines(max_per_source=max_per_source)
+        if not headlines:
+            return [], already_processed
+
+        random.shuffle(headlines)
+        selected = headlines[:50]
+        
+        articles = self.fetch_full_contents(selected)
+        newly_processed = set(already_processed)
+        for a in articles:
+            newly_processed.add(a.url)
+            
         return articles, newly_processed
 
     def _load_rss_entries_standalone(self, feed_url: str) -> list[dict]:
         try:
-            with httpx.Client(timeout=self.timeout_seconds, headers=self.headers, follow_redirects=True) as client:
+            # Jitter: Jangan request secara brutal, beri nafas sedikit
+            time.sleep(random.uniform(0.5, 1.5))
+            headers = self._get_random_headers()
+            with httpx.Client(timeout=self.timeout_seconds, headers=headers, follow_redirects=True) as client:
                 response = client.get(feed_url)
                 response.raise_for_status()
                 parsed = feedparser.parse(response.text)
@@ -145,10 +188,17 @@ class NewsScraper:
 
     def _fetch_article_content_standalone(self, url: str) -> str:
         try:
-            with httpx.Client(timeout=self.timeout_seconds, headers=self.headers, follow_redirects=True) as client:
+            # Jitter: Penting saat mengambil Full Content (halaman web asli)
+            time.sleep(random.uniform(1.0, 3.0))
+            
+            # Pasang Referer acak (berpura-pura datang dari Google atau Home)
+            domain = "/".join(url.split("/")[:3])
+            headers = self._get_random_headers(referer=domain)
+            
+            with httpx.Client(timeout=self.timeout_seconds, headers=headers, follow_redirects=True) as client:
                 response = client.get(url)
                 response.raise_for_status()
-                # Menggunakan lxml parser untuk kecepatan maksimal
+                
                 soup = BeautifulSoup(response.text, "lxml")
                 for tag in soup(["script", "style", "noscript"]):
                     tag.extract()

@@ -74,8 +74,12 @@ class NewsQAChain:
             response = self.model.generate_content(prompt)
             SystemMonitor.increment_gemini_usage()
             answer_text = (response.text or "").strip()
-        except ResourceExhausted:
-            SystemMonitor.update_usage(500)
+        except ResourceExhausted as e:
+            error_msg = str(e)
+            # Deteksi otomatis limit harian (RPD)
+            if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
+                SystemMonitor.update_usage(500)
+            
             answer_text = "Maaf, limit harian Gemini telah tercapai (500/500). Silakan coba lagi besok."
         except Exception:
             answer_text = "Maaf, proses jawaban sedang mengalami kendala. Coba ulangi sebentar lagi."

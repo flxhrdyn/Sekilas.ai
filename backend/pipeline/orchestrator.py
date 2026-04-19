@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import sys
 import random
+import time
 from datetime import UTC, datetime
 import json
 from pathlib import Path
@@ -9,22 +10,27 @@ from typing import TypedDict
 
 from backend.agents.embedder import NewsEmbedder, get_embedder
 from backend.agents.filter import NewsFilterAgent
-from backend.agents.notifier import TelegramNotifier
 from backend.agents.summarizer import NewsSummarizerAgent, build_daily_digest_record
-from backend.agents.models import prepare_document
+from backend.agents.notifier import TelegramNotifier
+from backend.agents.models import prepare_document, RawHeadline, FilteredArticle
 from backend.agents.scraper import NewsScraper
+from backend.agents.cluster_agent import NewsClusterAgent
 from backend.config.settings import ROOT_DIR, get_settings
 from langgraph.graph import END, StateGraph
 from backend.rag.vector_store import QdrantVectorStore
 
 
 class NewsState(TypedDict, total=False):
-    raw_articles: list
+    raw_headlines: list[RawHeadline]
     all_processed: set[str]
+    selected_headlines: list[RawHeadline]
+    raw_articles: list
     filtered_articles: list
     filter_stats: dict
     insights: dict
     headline: str
+    trending_topics_map: dict[int, str]
+    story_syntheses: dict[int, list[str]]
     embeddings: list[list[float]]
     total_in_qdrant: int
     notifier_status: str
@@ -48,30 +54,70 @@ def _append_json_record(path: Path, record: dict) -> None:
     path.write_text(json.dumps(existing, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def _select_diverse_articles(articles: list[FilteredArticle], limit: int) -> list[FilteredArticle]:
+    """
+    Selects a balanced set of articles across categories, prioritizing 
+    freshness (breaking news) and content depth.
+    """
+    if not articles:
+        return []
+
+    # 1. Group by category
+    by_category: dict[str, list[FilteredArticle]] = {}
+    for a in articles:
+        by_category.setdefault(a.category, []).append(a)
+
+    # 2. Sort each category by published_at (primary) and content length (secondary)
+    for cat in by_category:
+        by_category[cat].sort(
+            key=lambda x: (x.published_at, len(x.content)),
+            reverse=True
+        )
+
+    # 3. Round-robin selection to ensure diversity
+    selected: list[FilteredArticle] = []
+    categories = sorted(by_category.keys())  # Stable order for selection
+
+    while len(selected) < limit and categories:
+        to_remove = []
+        for cat in categories:
+            if by_category[cat]:
+                selected.append(by_category[cat].pop(0))
+                if len(selected) >= limit:
+                    break
+            else:
+                to_remove.append(cat)
+
+        for cat in to_remove:
+            categories.remove(cat)
+
+    # Sort final selection by date again for the digest
+    selected.sort(key=lambda x: x.published_at, reverse=True)
+    return selected
+
+
 def _build_graph(
     scraper: NewsScraper,
     embedder: NewsEmbedder,
     filter_agent: NewsFilterAgent,
+    cluster_agent: NewsClusterAgent,
     summarizer: NewsSummarizerAgent,
     store: QdrantVectorStore,
     notifier: TelegramNotifier | None,
-    max_per_source: int = 40,
+    max_scan: int = 150,
 ) -> StateGraph:
     def scrape_node(_: NewsState) -> NewsState:
-        print("[PROCESS] Memulai proses scraping dari sumber...")
-        articles, all_processed = scraper.scrape_new_articles(max_per_source=max_per_source)
+        print(f"[PROCESS] Memindai {max_scan} judul berita terbaru...")
+        headlines, all_processed = scraper.fetch_new_headlines(max_per_source=40)
         
-        # Acak urutan artikel untuk menjamin diversitas sumber berita (Nasional & Internasional)
-        random.shuffle(articles)
+        # Batasi scanning awal
+        headlines = headlines[:max_scan]
         
-        # Batasi pengambilan awal agar tidak terlalu membengkak (Maks 50 berita mentah)
-        articles = articles[:50]
-        
-        print(f"[OK] Scraping selesai. Mengambil {len(articles)} berita untuk diolah.")
-        return {"raw_articles": articles, "all_processed": all_processed}
+        print(f"[OK] Scanning selesai. Ditemukan {len(headlines)} judul baru.")
+        return {"raw_headlines": headlines, "all_processed": all_processed}
 
     def route_after_scrape(state: NewsState) -> str:
-        return "no-new-articles" if not state.get("raw_articles") else "filter"
+        return "no-new-articles" if not state.get("raw_headlines") else "cluster"
 
     def no_new_articles_node(state: NewsState) -> NewsState:
         scraper.save_processed_urls(state.get("all_processed", set()))
@@ -86,22 +132,50 @@ def _build_graph(
             }
         }
 
+    def cluster_node(state: NewsState) -> NewsState:
+        headlines = state.get("raw_headlines", [])
+        clusters = cluster_agent.cluster_headlines(headlines)
+        
+        # Only name and track clusters with 2+ articles as 'Top Trending'
+        # UNLESS user allows solo stories for top representatives
+        potential_trending = [c for c in clusters if len(c) > 0][:5]
+        
+        # Identifikasi Nama Topik Tren (Map CID to Name)
+        topic_names = summarizer.generate_trending_topics(potential_trending, top_k=5)
+        
+        trending_topics_map = {}
+        for i, cluster in enumerate(potential_trending):
+            if i < len(topic_names):
+                trending_topics_map[cluster[0].cluster_id] = topic_names[i]
+        
+        # Seleksi beragam dari klaster
+        selected_headlines = cluster_agent.select_best_representatives(clusters, limit=30)
+        
+        return {
+            "trending_topics_map": trending_topics_map,
+            "selected_headlines": selected_headlines
+        }
+
     def filter_node(state: NewsState) -> NewsState:
-        print(f"[PROCESS] Memfilter dan menduplikasi {len(state['raw_articles'])} artikel...")
-        raw_articles = state.get("raw_articles", [])
+        selected_headlines = state.get("selected_headlines", [])
+        
+        # Download konten lengkap hanya untuk yang terpilih
+        raw_articles = scraper.fetch_full_contents(selected_headlines)
+        
+        print(f"[PROCESS] Memfilter kualitas dan mengklasifikasi {len(raw_articles)} artikel...")
         filtered_articles, filter_stats = filter_agent.run(raw_articles)
         
-        # Batasi maksimal 25 berita terbaik yang lolos filter untuk diringkas (Optimasi Kecepatan)
+        # Pastikan tetap dalam limit
         filtered_articles = filtered_articles[:25]
         
-        print(f"[OK] Filter selesai. {len(filtered_articles)} artikel tersisa untuk diringkas.")
         return {
+            "raw_articles": raw_articles,
             "filtered_articles": filtered_articles,
             "filter_stats": {
                 "total_input": filter_stats.total_input,
                 "too_short_discarded": filter_stats.too_short_discarded,
                 "duplicate_discarded": filter_stats.duplicate_discarded,
-                "passed": filter_stats.passed,
+                "passed": len(filtered_articles),
             },
         }
 
@@ -125,19 +199,43 @@ def _build_graph(
             }
         }
 
+
     def summarize_node(state: NewsState) -> NewsState:
         print(f"[PROCESS] Membuat ringkasan untuk {len(state['filtered_articles'])} artikel...")
         filtered_articles = state.get("filtered_articles", [])
         insights = summarizer.build_insights(filtered_articles)
-        headline = summarizer.generate_daily_headline(filtered_articles, insights)
-        insights_payload = {
-            url: {"summary": insight.summary, "key_points": insight.key_points}
-            for url, insight in insights.items()
-        }
-        print("[OK] Ringkasan dan headline berhasil dibuat.")
+        
+        # Perform Story Synthesis for top clusters
+        trending_map = state.get("trending_topics_map", {})
+        story_syntheses = {}
+        
+        # Group filtered articles by cluster
+        clusters_in_filtered = {}
+        for a in filtered_articles:
+            cid = getattr(a, "cluster_id", -1)
+            if cid in trending_map:
+                clusters_in_filtered.setdefault(cid, []).append(a)
+        
+        # Synthesize top groups
+        for cid, group_articles in clusters_in_filtered.items():
+            print(f"[PROCESS] Menyusun sintesis intelijen untuk topik: {trending_map[cid]}...")
+            story_syntheses[cid] = summarizer.synthesize_story(group_articles, insights)
+            time.sleep(2.0)
+
+        # 7. Generate Headline Utama - SEKARANG MENGGUNAKAN KONTEKS SINTESIS
+        print("[PROCESS] Membuat headline utama hari ini...")
+        headline = summarizer.generate_daily_headline(
+            filtered_articles, 
+            insights, 
+            story_syntheses=story_syntheses, 
+            trending_map=trending_map
+        )
+            
+        print("[OK] Ringkasan, headline, dan sintesis intelijen berhasil dibuat.")
         return {
             "insights": insights,
             "headline": headline,
+            "story_syntheses": story_syntheses,
         }
 
     def embed_node(state: NewsState) -> NewsState:
@@ -173,6 +271,8 @@ def _build_graph(
             filtered_articles,
             insights,
             state.get("headline", ""),
+            story_syntheses=state.get("story_syntheses", {}),
+            trending_topics=state.get("trending_topics_map", {}),
         )
         filter_stats = state.get("filter_stats", {})
         digest_record.update(
@@ -218,6 +318,7 @@ def _build_graph(
     builder = StateGraph(NewsState)
     builder.add_node("scrape", scrape_node)
     builder.add_node("no-new-articles", no_new_articles_node)
+    builder.add_node("cluster", cluster_node)
     builder.add_node("filter", filter_node)
     builder.add_node("all-filtered-out", all_filtered_node)
     builder.add_node("summarize", summarize_node)
@@ -228,8 +329,9 @@ def _build_graph(
     builder.add_conditional_edges(
         "scrape",
         route_after_scrape,
-        {"no-new-articles": "no-new-articles", "filter": "filter"},
+        {"no-new-articles": "no-new-articles", "cluster": "cluster"},
     )
+    builder.add_edge("cluster", "filter")
     builder.add_conditional_edges(
         "filter",
         route_after_filter,
@@ -266,6 +368,11 @@ def run_pipeline() -> dict:
         min_content_chars=settings.min_content_chars,
     )
 
+    cluster_agent = NewsClusterAgent(
+        embedder=embedder,
+        similarity_threshold=0.82
+    )
+
     summarizer = NewsSummarizerAgent(
         api_key=settings.gemini_api_key,
         model=settings.summarizer_model,
@@ -287,8 +394,13 @@ def run_pipeline() -> dict:
             timeout_seconds=settings.request_timeout_seconds,
         )
 
+    # Muat stats untuk logging awal
+    from backend.config.monitor import SystemMonitor
+    stats = SystemMonitor.get_stats()
+    print(f"[INFO] Status Penggunaan Gemini Hari Ini: {stats.get('gemini_usage', 0)}/500")
+    
     graph = _build_graph(
-        scraper, embedder, filter_agent, summarizer, store, notifier, max_per_source=settings.max_per_source
+        scraper, embedder, filter_agent, cluster_agent, summarizer, store, notifier, max_scan=50
     ).compile()
     final_state = graph.invoke({"result": {}})
     return final_state.get("result", {"status": "unknown"})

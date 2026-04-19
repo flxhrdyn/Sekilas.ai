@@ -70,7 +70,8 @@ class NewsFilterAgent:
         filtered: list[FilteredArticle] = []
         total = len(unique_articles)
         for idx, article in enumerate(unique_articles, 1):
-            print(f"  [>] Mengklasifikasi berita {idx}/{total}: {article.title[:50]}...")
+            stats_usage = SystemMonitor.get_stats().get("gemini_usage", 0)
+            print(f"  [>] [{stats_usage}/500] Mengklasifikasi berita {idx}/{total}: {article.title[:50]}...")
             category = self._classify(article.title, article.content)
             # Safety delay diperketat untuk mematuhi limit 15 RPM
             time.sleep(4.5)
@@ -83,6 +84,7 @@ class NewsFilterAgent:
                     published_at=article.published_at,
                     category=category,
                     category_hint=article.category_hint,
+                    cluster_id=getattr(article, "cluster_id", -1),
                 )
             )
 
@@ -155,11 +157,15 @@ class NewsFilterAgent:
             category = self._normalize_category(text)
             if category:
                 return category
-        except ResourceExhausted:
-            SystemMonitor.update_usage(500)
-            print("  [!] LIMIT GEMINI TERCAPAI (500/500).")
-        except Exception:
-            pass
+        except ResourceExhausted as e:
+            error_msg = str(e)
+            print(f"  [!] LIMIT GEMINI TERCAPAI: {error_msg}")
+            # Deteksi otomatis jika limit harian (RPD) tercapai dari pesan Google
+            if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
+                SystemMonitor.update_usage(500)
+                print("  [AUTO-SYNC] Mendeteksi batas harian 500 telah tercapai.")
+        except Exception as e:
+            print(f"  [!] Kesalahan Klasifikasi: {e}")
 
         return self._heuristic_category(title, content)
 
