@@ -5,6 +5,18 @@ from datetime import datetime
 
 
 @dataclass(slots=True)
+class RawHeadline:
+    url: str
+    title: str
+    source: str
+    published_at: datetime
+    category_hint: str
+    cluster_id: int = -1
+
+
+
+
+@dataclass(slots=True)
 class RawArticle:
     url: str
     title: str
@@ -12,6 +24,7 @@ class RawArticle:
     source: str
     published_at: datetime
     category_hint: str
+    cluster_id: int = -1
 
 
 @dataclass(slots=True)
@@ -23,6 +36,7 @@ class FilteredArticle:
     published_at: datetime
     category: str
     category_hint: str
+    cluster_id: int = -1
 
 
 def prepare_document(article: RawArticle | FilteredArticle, max_chars: int = 2000) -> str:

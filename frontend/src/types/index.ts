@@ -10,11 +10,19 @@ export interface NewsArticle {
   relevanceScore?: number;
 }
 
+export interface StoryGroup {
+  id: number;
+  title: string;
+  synthesis: string[];
+  articles: any[];
+}
+
 export interface DigestData {
   date: string;
   generated_at: string;
   headline: string;
-  category_digests: Record<string, any[]>;
+  top_stories: StoryGroup[];
+  other_news: Record<string, any[]>;
   stats: Record<string, number>;
   categories: string[];
 }

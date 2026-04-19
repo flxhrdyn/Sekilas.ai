@@ -10,32 +10,35 @@ logger = logging.getLogger(__name__)
 
 class NewsEmbedder:
     """
-    Local Embedding Agent using Sentence-Transformers (e.g., BAAI/bge-m3).
+    Local Embedding Agent using Sentence-Transformers (e.g., all-MiniLM-L6-v2).
     This agent runs locally to avoid API rate limits and costs.
     """
 
     def __init__(
         self,
         api_key: str | None = None,  # Kept for compatibility, not used for local
-        model: str = "BAAI/bge-m3",
-        output_dimensionality: int | None = 1024,
+        model: str = "sentence-transformers/all-MiniLM-L6-v2",
+        output_dimensionality: int | None = 384,
     ) -> None:
-        self.model = model
+        self.model_name = model
         self.output_dimensionality = output_dimensionality
+        self._client = None
         
-        print(f"[INFO] Memuat Model Embedding Lokal: {self.model}...")
-        try:
-            self.client = SentenceTransformer(self.model)
-            print(f"[OK] Model {self.model} siap digunakan.")
-        except Exception as e:
-            logger.error(f"Gagal memuat model embedding {self.model}: {e}")
-            raise
+    @property
+    def client(self):
+        """Lazy loader for the SentenceTransformer model."""
+        if self._client is None:
+            print(f"[INFO] Memuat Model Embedding Lokal (Lazy): {self.model_name}...")
+            try:
+                self._client = SentenceTransformer(self.model_name)
+                print(f"[OK] Model {self.model_name} siap digunakan.")
+            except Exception as e:
+                logger.error(f"Gagal memuat model embedding {self.model_name}: {e}")
+                raise
+        return self._client
 
     def embed_text(self, text: str, task_type: str = "retrieval_document") -> list[float]:
         """Embed a single piece of text."""
-        # Task type handling for BGE models (optional but good practice)
-        # BGE M3 doesn't strictly require prefixes like older BGE models, 
-        # but we handle it for consistency.
         embedding = self.client.encode(text, normalize_embeddings=True)
         return embedding.tolist()
 
@@ -73,8 +76,8 @@ class NewsEmbedder:
 _embedder_instance: NewsEmbedder | None = None
 
 def get_embedder(
-    model_name: str = "BAAI/bge-m3", 
-    output_dimensionality: int = 1024
+    model_name: str = "sentence-transformers/all-MiniLM-L6-v2", 
+    output_dimensionality: int = 384
 ) -> NewsEmbedder:
     """
     Singleton provider for NewsEmbedder to avoid loading 

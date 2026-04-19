@@ -15,9 +15,10 @@ def get_daily_digest():
         "date": latest.get("date"),
         "generated_at": latest.get("generated_at"),
         "headline": latest.get("headline"),
-        "category_digests": latest.get("category_digests"),
+        "top_stories": latest.get("top_stories", []),
+        "other_news": latest.get("other_news", {}),
         "stats": latest.get("pipeline_stats", {}),
-        "categories": list(latest.get("category_digests", {}).keys()),
+        "categories": list(latest.get("other_news", {}).keys()),
     }
 
 @router.get("/system/status")
