@@ -72,19 +72,19 @@ export const DigestView = ({ data }: DigestViewProps) => {
     <div className="max-w-6xl mx-auto px-6 py-12 space-y-16 animate-in fade-in slide-in-from-bottom-6 duration-1000">
       
       {/* 1. Global Headline Box */}
-      <section className="relative group">
-        <div className="absolute inset-0 bg-brand-accent/5 blur-3xl -z-10 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-1000" />
-        <div className="bg-brand-background/40 backdrop-blur-sm border border-brand-border/50 rounded-3xl p-8 md:p-10 text-center relative">
-          {/* Decorative Line */}
-          <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-brand-border to-transparent" />
+      <section className="relative group overflow-visible">
+        <div className="absolute inset-0 bg-brand-accent/10 blur-[120px] -z-10 rounded-full opacity-40 group-hover:opacity-60 transition-opacity duration-1000" />
+        <div className="bg-brand-sidebar/40 backdrop-blur-2xl border border-white/[0.05] rounded-[2rem] p-10 md:p-14 text-center relative shadow-2xl overflow-visible">
+          {/* Subtle Radial Gradient Overlay */}
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_0%,rgba(59,130,246,0.1),transparent_70%)] pointer-events-none" />
           
-          {/* Badge top center */}
-          <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 px-4 py-1.5 bg-brand-background border border-brand-border rounded-full flex items-center gap-2 shadow-2xl z-10">
-            <div className="w-1.5 h-1.5 rounded-full bg-brand-accent animate-pulse" />
-            <span className="text-[10px] font-bold text-white/60 tracking-[0.2em] uppercase">Global Headline</span>
+          {/* Badge top center - FIXED OVERFLOW */}
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 px-5 py-2 bg-brand-bg border border-brand-accent/30 rounded-full flex items-center gap-2.5 shadow-[0_0_30px_rgba(59,130,246,0.2)] z-20">
+            <div className="w-2 h-2 rounded-full bg-brand-accent animate-pulse shadow-[0_0_10px_rgba(59,130,246,0.8)]" />
+            <span className="text-[10px] font-black text-white tracking-[0.3em] uppercase">Global Headline</span>
           </div>
           
-          <h1 className="text-xl md:text-2xl lg:text-3xl font-extrabold text-white leading-[1.3] tracking-tight max-w-3xl mx-auto">
+          <h1 className="text-2xl md:text-3xl lg:text-4xl font-black text-white leading-tight tracking-tight max-w-4xl mx-auto drop-shadow-sm">
             "{data.headline.replace("Headline: ", "")}"
           </h1>
         </div>
@@ -129,68 +129,79 @@ export const DigestView = ({ data }: DigestViewProps) => {
           <h2 className="text-lg font-bold uppercase tracking-widest italic">Top Intelligence Stories</h2>
         </div>
 
-        <div className="space-y-10">
+        <div className="space-y-12">
           {data.top_stories.map((story) => {
             const impact = story.impact_level || 'LOW';
             const reportsCount = story.total_reports || story.articles.length;
 
             return (
-              <div key={story.id} className="bg-[#1a2333]/80 backdrop-blur-md border border-white/5 rounded-3xl overflow-hidden hover:border-brand-accent/30 transition-all duration-500 shadow-2xl">
-                <div className="p-8 md:p-10 space-y-6">
-                  {/* Header: Badges & Brain Icon */}
-                  <div className="flex justify-between items-start">
-                    <div className="flex items-center gap-4">
-                      <div title={story.impact_reason} className={`px-2 py-0.5 rounded-full text-[9px] font-black uppercase tracking-widest cursor-help ${getImpactColor(impact)}`}>
-                        IMPACT: {impact}
+              <div key={story.id} className="group relative">
+                {/* Lateral Accent Glow */}
+                <div className="absolute -left-4 top-10 bottom-10 w-1 bg-brand-accent/20 blur-md rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                
+                <div className="bg-brand-card/30 backdrop-blur-2xl border border-white/[0.05] rounded-[2.5rem] overflow-hidden hover:border-brand-accent/40 transition-all duration-700 shadow-2xl">
+                  <div className="p-8 md:p-12 space-y-8">
+                    {/* Header: Badges & Brain Icon */}
+                    <div className="flex justify-between items-center">
+                      <div className="flex items-center gap-3">
+                        <div title={story.impact_reason} className={`px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest cursor-help border shadow-sm ${getImpactColor(impact)}`}>
+                          {impact}
+                        </div>
+                        <div className="px-3 py-1 bg-white/[0.03] border border-white/[0.05] rounded-full text-[10px] font-bold text-white/40 uppercase tracking-widest">
+                          {reportsCount} Reports Sourced
+                        </div>
                       </div>
-                      <div className="text-[10px] font-bold text-white/20 uppercase tracking-[0.2em]">
-                        {reportsCount} Reports Sourced
+                      <div className="p-3 bg-brand-accent/5 border border-brand-accent/10 rounded-2xl group-hover:bg-brand-accent/10 transition-colors">
+                        <BrainCircuit className="w-5 h-5 text-brand-accent/80" />
                       </div>
                     </div>
-                    <div className="p-2 bg-brand-accent/10 border border-brand-accent/20 rounded-xl">
-                      <BrainCircuit className="w-4 h-4 text-brand-accent" />
+
+                    {/* Title */}
+                    <h3 className="text-2xl md:text-3xl font-black text-white leading-[1.15] tracking-tight hover:text-brand-accent/90 transition-colors cursor-default">
+                      {story.title}
+                    </h3>
+
+                    {/* Analyst Brief */}
+                    <div className="bg-brand-sidebar/40 border border-white/[0.03] rounded-[2rem] p-8 md:p-10 space-y-6 shadow-inner">
+                      <div className="flex items-center gap-2.5 text-brand-accent font-black text-[10px] uppercase tracking-[0.3em] opacity-80">
+                        <Sparkles className="w-4 h-4 animate-pulse" />
+                        Analyst Brief
+                      </div>
+                      <ol className="space-y-5">
+                        {story.synthesis.map((point, idx) => (
+                          <li key={idx} className="flex gap-5 text-base md:text-lg text-white/80 leading-relaxed font-medium group/point">
+                            <span className="flex-shrink-0 w-8 h-8 rounded-full bg-brand-accent/5 border border-brand-accent/20 flex items-center justify-center text-xs font-black text-brand-accent group-hover/point:bg-brand-accent group-hover/point:text-white transition-all duration-300">
+                              {idx + 1}
+                            </span>
+                            <span className="pt-0.5">{point}</span>
+                          </li>
+                        ))}
+                      </ol>
                     </div>
-                  </div>
 
-                  {/* Title */}
-                  <h3 className="text-xl md:text-2xl font-bold text-white leading-tight tracking-tight">
-                    {story.title}
-                  </h3>
-
-                  {/* Analyst Brief */}
-                  <div className="bg-[#1e293b]/50 border border-white/5 rounded-2xl p-6 md:p-8 space-y-5">
-                    <div className="flex items-center gap-2 text-brand-accent font-black text-[9px] uppercase tracking-[0.2em]">
-                      <Sparkles className="w-3.5 h-3.5" />
-                      Analyst Brief
-                    </div>
-                    <ol className="space-y-4">
-                      {story.synthesis.map((point, idx) => (
-                        <li key={idx} className="flex gap-4 text-sm md:text-base text-brand-text-main/90 leading-relaxed font-medium">
-                          <span className="text-brand-accent font-black">{idx + 1}.</span>
-                          {point}
-                        </li>
-                      ))}
-                    </ol>
-                  </div>
-
-                  {/* Related Reports */}
-                  <div className="pt-4 space-y-4">
-                    <h4 className="text-[9px] font-black text-white/20 uppercase tracking-[0.3em]">Related Reports</h4>
-                    <div className="space-y-3">
-                      {story.articles.slice(0, 3).map((article, idx) => (
-                        <a 
-                          key={idx} 
-                          href={article.url} 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="flex items-center gap-4 group/article"
-                        >
-                          <SourceBadge source={article.source} />
-                          <span className="text-xs text-brand-text-dim group-hover/article:text-brand-accent transition-colors">
-                            {article.title}
-                          </span>
-                        </a>
-                      ))}
+                    {/* Related Reports */}
+                    <div className="pt-2 space-y-5">
+                      <div className="flex items-center gap-3">
+                        <span className="text-[10px] font-black text-white/20 uppercase tracking-[0.4em] whitespace-nowrap">Source Intelligence</span>
+                        <div className="h-px w-full bg-gradient-to-r from-white/10 to-transparent" />
+                      </div>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        {story.articles.slice(0, 4).map((article, idx) => (
+                          <a 
+                            key={idx} 
+                            href={article.url} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-4 p-3 rounded-2xl bg-white/[0.02] border border-transparent hover:border-white/10 hover:bg-white/[0.05] transition-all duration-300 group/article"
+                          >
+                            <SourceBadge source={article.source} />
+                            <span className="text-xs font-medium text-white/50 group-hover/article:text-white transition-colors line-clamp-1">
+                              {article.title}
+                            </span>
+                            <ArrowUpRight className="w-3 h-3 ml-auto opacity-0 group-hover/article:opacity-100 transition-opacity" />
+                          </a>
+                        ))}
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -28,11 +28,15 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen flex bg-brand-bg text-brand-text-main">
+    <div className="min-h-screen flex bg-brand-bg text-brand-text-main relative overflow-hidden">
+      {/* Premium Background Ambient Glows */}
+      <div className="fixed top-[-10%] left-[-10%] w-[40%] h-[40%] bg-brand-accent/5 blur-[150px] rounded-full -z-0" />
+      <div className="fixed bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-brand-accent/5 blur-[150px] rounded-full -z-0" />
+      
       <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} />
 
-      <div className="flex-1 ml-[240px] flex flex-col min-h-screen">
-        <header className="h-16 border-b border-brand-border flex items-center justify-between px-8 bg-brand-bg/50 backdrop-blur-sm sticky top-0 z-10">
+      <div className="flex-1 ml-[240px] flex flex-col min-h-screen relative z-10">
+        <header className="h-16 border-b border-brand-border/30 flex items-center justify-between px-8 bg-brand-bg/60 backdrop-blur-md sticky top-0 z-50">
           <div className="text-sm text-brand-text-dim flex items-baseline gap-2">
             <span>Update Terakhir:</span>
             <strong className="text-brand-text-main">
