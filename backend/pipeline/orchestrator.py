@@ -335,6 +335,12 @@ def _build_graph(
             },
         }
 
+    def housekeep_vdb_node(state: NewsState) -> NewsState:
+        print(f"[PROCESS] Memulai pembersihan berkala Vector Database (TTL)...")
+        settings = get_settings()
+        store.cleanup_old_articles(settings.vdb_retain_days)
+        return state
+
     builder = StateGraph(NewsState)
     builder.add_node("scrape", scrape_node)
     builder.add_node("no-new-articles", no_new_articles_node)
@@ -344,6 +350,7 @@ def _build_graph(
     builder.add_node("summarize", summarize_node)
     builder.add_node("embed", embed_node)
     builder.add_node("upsert-and-persist", upsert_and_persist_node)
+    builder.add_node("housekeep-vdb", housekeep_vdb_node)
 
     builder.set_entry_point("scrape")
     builder.add_conditional_edges(
@@ -359,9 +366,10 @@ def _build_graph(
     )
     builder.add_edge("summarize", "embed")
     builder.add_edge("embed", "upsert-and-persist")
+    builder.add_edge("upsert-and-persist", "housekeep-vdb")
+    builder.add_edge("housekeep-vdb", END)
     builder.add_edge("no-new-articles", END)
     builder.add_edge("all-filtered-out", END)
-    builder.add_edge("upsert-and-persist", END)
     return builder
 
 

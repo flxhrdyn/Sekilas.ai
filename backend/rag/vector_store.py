@@ -6,7 +6,8 @@ from typing import Mapping
 from typing import Sequence
 
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, PointStruct, VectorParams
+from qdrant_client.models import Distance, PointStruct, VectorParams, Filter, FieldCondition, Range
+from datetime import datetime, timedelta, timezone
 
 from backend.agents.models import FilteredArticle, RawArticle
 
@@ -34,10 +35,24 @@ class QdrantVectorStore:
                     f"collection={existing_size}, embedding_model={vector_size}. "
                     "Gunakan nama collection baru atau samakan model embedding."
                 )
+            # Pastikan index selalu ada (aman dipanggil berulang kali)
+            from qdrant_client.models import PayloadSchemaType
+            self.client.create_payload_index(
+                collection_name=self.collection_name,
+                field_name="published_at_ts",
+                field_schema=PayloadSchemaType.FLOAT,
+            )
             return
         self.client.create_collection(
             collection_name=self.collection_name,
             vectors_config=VectorParams(size=vector_size, distance=Distance.COSINE),
+        )
+        # Tambahkan index untuk kolom filtering TTL
+        from qdrant_client.models import PayloadSchemaType
+        self.client.create_payload_index(
+            collection_name=self.collection_name,
+            field_name="published_at_ts",
+            field_schema=PayloadSchemaType.FLOAT,
         )
 
     def upsert_articles(
@@ -66,6 +81,7 @@ class QdrantVectorStore:
                         "source": article.source,
                         "category": category,
                         "published_at": article.published_at.isoformat(),
+                        "published_at_ts": article.published_at.timestamp(),
                         "summary": summary,
                         "key_points": key_points,
                     },
@@ -77,6 +93,40 @@ class QdrantVectorStore:
             points=points,
             wait=True,
         )
+
+    def cleanup_old_articles(self, days: int) -> int:
+        """Menghapus artikel yang lebih tua dari jumlah hari tertentu."""
+        threshold_date = datetime.now(timezone.utc) - timedelta(days=days)
+        threshold_ts = threshold_date.timestamp()
+        
+        print(f"[PROCESS] Membersihkan artikel lebih tua dari {threshold_date.isoformat()} ({days} hari)...")
+        
+        # Hitung sebelum
+        count_before = self.count()
+        
+        # Lakukan penghapusan berdasarkan payload 'published_at_ts' (numerik)
+        self.client.delete(
+            collection_name=self.collection_name,
+            points_selector=Filter(
+                must=[
+                    FieldCondition(
+                        key="published_at_ts",
+                        range=Range(lt=threshold_ts)
+                    )
+                ]
+            )
+        )
+        
+        # Hitung sesudah
+        count_after = self.count()
+        deleted_count = count_before - count_after
+        
+        if deleted_count > 0:
+            print(f"[OK] Berhasil membersihkan {deleted_count} artikel lama dari Qdrant.")
+        else:
+            print(f"[INFO] Tidak ada artikel lama yang perlu dibersihkan.")
+            
+        return deleted_count
 
     def count(self) -> int:
         return self.client.count(collection_name=self.collection_name, exact=True).count

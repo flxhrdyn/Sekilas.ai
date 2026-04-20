@@ -34,6 +34,7 @@ class Settings(BaseSettings):
     dedup_threshold: float = Field(default=0.92, alias="DEDUP_THRESHOLD")
     min_content_chars: int = Field(default=200, alias="MIN_CONTENT_CHARS")
     summary_max_content_chars: int = Field(default=3000, alias="SUMMARY_MAX_CONTENT_CHARS")
+    vdb_retain_days: int = Field(default=30, alias="VDB_RETAIN_DAYS")
  
     request_timeout_seconds: float = Field(default=20.0, alias="REQUEST_TIMEOUT_SECONDS")
     user_agent: str = Field(
@@ -55,6 +56,7 @@ class Settings(BaseSettings):
         "dedup_threshold",
         "min_content_chars",
         "summary_max_content_chars",
+        "vdb_retain_days",
         "request_timeout_seconds",
         "enable_telegram_notify",
         mode="before",
@@ -66,6 +68,7 @@ class Settings(BaseSettings):
             "dedup_threshold": 0.92,
             "min_content_chars": 200,
             "summary_max_content_chars": 3000,
+            "vdb_retain_days": 30,
             "request_timeout_seconds": 20.0,
             "enable_telegram_notify": False,
         }

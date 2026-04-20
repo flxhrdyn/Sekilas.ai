@@ -1059,5 +1059,1621 @@
       "total_in_qdrant": 285
     },
     "timestamp": "2026-04-20T02:13:10.898967+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T10:47:39.510523+00:00",
+    "headline": "Peralihan fokus strategis Tesla ke sektor penyimpanan energi diproyeksikan mengompensasi tekanan margin profitabilitas pada divisi otomotif perusahaan.",
+    "top_stories": [
+      {
+        "id": 3,
+        "title": "Fokus Bisnis Penyimpanan Energi Tesla",
+        "synthesis": [
+          "Divisi energi Tesla diproyeksikan mengungguli performa bisnis otomotif yang tertekan margin dan kredit regulasi.",
+          "Pertumbuhan sektor energi belum cukup mengompensasi beban finansial investasi masif robotika dan kemudi mandiri.",
+          "Tesla menghadapi tekanan profitabilitas akibat pergeseran fokus menuju teknologi otomasi tingkat tinggi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran model bisnis Tesla memengaruhi valuasi perusahaan dan strategi alokasi modal di sektor teknologi kendaraan.",
+        "articles": [
+          {
+            "title": "Tesla's energy storage division to pick up slack as car margins drop and credits fade",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/teslas-energy-storage-division-pick-up-slack-car-margins-drop-and-credits-fade-6067986",
+            "category": "Ekonomi",
+            "published_at": "2026-04-20T10:07:41+00:00",
+            "summary": "Divisi penyimpanan energi Tesla diprediksi akan mengungguli kinerja inti bisnis otomotif perusahaan yang sedang menghadapi penurunan margin dan berkurangnya kredit regulasi. Meskipun pertumbuhan bisnis energi memberikan dampak positif, nilainya belum cukup besar untuk sepenuhnya mengimbangi tekanan finansial akibat investasi besar Tesla dalam pengembangan robot dan teknologi kemudi mandiri.",
+            "key_points": [
+              "Bisnis penyimpanan energi Tesla mengalami pertumbuhan lebih cepat dan memiliki profitabilitas lebih tinggi dibandingkan bisnis otomotifnya yang sedang melambat.",
+              "Tesla diperkirakan akan mencatatkan arus kas negatif sebesar 1,44 miliar dolar AS pada kuartal ini akibat investasi 20 miliar dolar AS untuk robot dan jalur perakitan baru.",
+              "Pendapatan divisi energi diproyeksikan tumbuh signifikan hingga mencapai 18,3 miliar dolar AS pada tahun 2026 dengan margin kotor yang stabil di angka 29 persen."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "title": "Pengawasan Universitas Terhadap Aktivis Palestina",
+        "synthesis": [
+          "12 universitas Inggris membayar firma swasta memantau aktivitas mahasiswa pro-Palestina di media sosial.",
+          "Pemantauan mencakup penilaian ancaman kontraterorisme terhadap pengunjuk rasa dan akademisi kampus.",
+          "Tindakan ini memicu kontroversi terkait privasi mahasiswa dan kebebasan akademik di lingkungan pendidikan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Tindakan ini memicu ketegangan serius terkait kebebasan sipil dan integritas operasional institusi pendidikan tinggi.",
+        "articles": [
+          {
+            "title": "British universities paid security firm to ‘spy’ on pro-Palestine students",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/4/20/uk-universities-pay-to-spy-on-students-social-media-accounts?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-04-20T09:55:36+00:00",
+            "summary": "Sebanyak 12 universitas di Inggris dilaporkan membayar firma keamanan swasta, Horus Security Consultancy, untuk memantau aktivitas mahasiswa dan akademisi di media sosial. Tindakan pemantauan ini mencakup penilaian ancaman kontraterorisme terhadap pengunjuk rasa pro-Palestina serta pihak lain di lingkungan kampus.",
+            "key_points": [
+              "Dua belas universitas elit di Inggris menggunakan jasa firma yang dipimpin mantan pejabat intelijen militer untuk melakukan pengawasan dan pemeriksaan latar belakang.",
+              "Perusahaan tersebut telah menerima setidaknya 440.000 poundsterling sejak 2022 untuk memantau aktivitas protes dan media sosial di lingkungan universitas.",
+              "Target pengawasan mencakup kelompok aktivis pro-Palestina, pegiat hak asasi hewan, serta akademisi dan mahasiswa tertentu di institusi pendidikan terkait."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "title": "Risiko Komplikasi Pneumonia Penyakit Campak",
+        "synthesis": [
+          "Campak berisiko memicu komplikasi serius berupa pneumonia fatal akibat gangguan pernapasan.",
+          "Masyarakat wajib segera ke fasilitas kesehatan jika muncul gejala sesak napas.",
+          "Deteksi dini krusial untuk mencegah perburukan kondisi kesehatan pasien campak."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Peringatan ini krusial untuk menekan angka morbiditas dan mortalitas akibat komplikasi penyakit menular.",
+        "articles": [
+          {
+            "title": "Bukan Cuma Ruam Merah, Komplikasi Campak Bisa Berujung Kena Pneumonia",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8452644/bukan-cuma-ruam-merah-komplikasi-campak-bisa-berujung-kena-pneumonia",
+            "category": "Kesehatan",
+            "published_at": "2026-04-20T07:08:33+00:00",
+            "summary": "Penyakit campak dapat menyebabkan komplikasi serius berupa pneumonia yang ditandai dengan gangguan pernapasan. Masyarakat diimbau untuk segera memeriksakan diri ke fasilitas kesehatan jika pasien menunjukkan gejala sesak napas agar mendapatkan penanganan yang tepat.",
+            "key_points": [
+              "Gejala pneumonia pada pasien campak meliputi napas terengah-engah, tarikan dinding dada, dan pernapasan cuping hidung.",
+              "Indikator lain yang perlu diwaspadai adalah frekuensi napas yang meningkat dan batuk yang semakin berat.",
+              "Pasien disarankan melakukan pengecekan frekuensi napas serta saturasi oksigen dan segera mencari bantuan tenaga medis untuk evaluasi lebih lanjut."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "title": "Populeritas Lagu NewJeans di Spotify",
+        "synthesis": [
+          "NewJeans sukses mempertahankan popularitas global melalui konsep musik retro dan estetika Y2K sejak 2022.",
+          "Lagu 'OMG', 'Ditto', dan 'Super Shy' mendominasi platform Spotify dengan akumulasi ratusan juta hingga miliaran stream.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Berita ini merupakan pembaruan statistik rutin dalam industri hiburan tanpa implikasi sistemik yang luas.",
+        "articles": [
+          {
+            "title": "Ini lima lagu NewJeans yang populer di Spotify",
+            "source": "Antara Hiburan",
+            "url": "https://www.antaranews.com/berita/5334469/ini-lima-lagu-newjeans-yang-populer-di-spotify",
+            "category": "Hiburan",
+            "published_at": "2026-01-05T13:16:39+00:00",
+            "summary": "NewJeans merupakan grup wanita asal Korea Selatan yang meraih popularitas global melalui konsep musik retro dan estetika Y2K sejak debut pada 2022. Beberapa lagu mereka, seperti \"OMG\", \"Ditto\", dan \"Super Shy\", telah mencatatkan ratusan juta hingga miliaran pemutaran di platform Spotify.",
+            "key_points": [
+              "NewJeans debut di bawah naungan ADOR, sub-label HYBE Labels, dengan mengusung perpaduan genre Pop dan R&B.",
+              "Lagu \"OMG\" telah diputar sekitar 893 juta kali di Spotify dan memadukan elemen hip hop, R&B, serta UK garage.",
+              "Lagu \"Ditto\" yang dirilis akhir 2022 telah didengarkan 859 juta kali dengan mengusung gaya musik Baltimore Club."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Erosi Privasi dan Komodifikasi Pengawasan dalam Era Digital",
+        "analysis": "Terdapat kaitan strategis antara penggunaan firma swasta untuk memantau aktivis kampus (Sosial-Geopolitik) dengan perkembangan teknologi pemantauan yang sering digunakan dalam operasional perusahaan besar. Praktik pemantauan media sosial ini mencerminkan normalisasi 'surveillance capitalism' yang juga menjadi fondasi bagi pengumpulan data perilaku konsumen—seperti data yang digunakan untuk memetakan tren global (misalnya popularitas NewJeans). Penggunaan teknologi pemantauan ini menciptakan preseden di mana ruang privat di universitas (ruang ideologis) mulai tunduk pada logika pengawasan korporat, yang nantinya bisa berdampak pada pembatasan kebebasan berpendapat yang justru krusial bagi inovasi sosial."
+      },
+      {
+        "title": "Krisis Kesehatan Masyarakat dan Stabilitas Ekonomi Makro",
+        "analysis": "Risiko komplikasi pneumonia dari wabah campak (Lingkungan-Kesehatan) memiliki implikasi ekonomi yang signifikan. Lonjakan penyakit menular di tengah tantangan kesehatan global dapat menyebabkan gangguan tenaga kerja yang masif dan menekan produktivitas sektor-sektor manufaktur, termasuk industri energi yang sedang krusial bagi Tesla. Ketika infrastruktur kesehatan publik gagal mengelola risiko kesehatan, beban fiskal negara meningkat, yang pada gilirannya mengurangi ruang bagi subsidi atau insentif transisi energi. Dengan demikian, ketidakstabilan kesehatan masyarakat menjadi variabel tak terlihat yang menghambat ambisi transisi energi global."
+      }
+    ],
+    "other_news": {
+      "Hukum": [
+        {
+          "title": "Italian man sold 'fake' Rolex that turned out to be real in 'impossible' crime against Singapore watch shop",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/italian-man-rolex-watch-fake-impossible-crime-6067846",
+          "category": "Hukum",
+          "published_at": "2026-04-20T09:54:00+00:00",
+          "summary": "Seorang pria asal Italia bernama Deepak Singh dijatuhi hukuman tujuh bulan penjara karena mencoba menipu sebuah toko jam di Singapura dengan menjual jam tangan Rolex yang ia yakini palsu. Meskipun ia berniat melakukan penipuan, tindakannya dikategorikan sebagai 'impossible attempt' karena jam tangan tersebut ternyata asli.",
+          "key_points": [
+            "Deepak Singh divonis tujuh bulan penjara setelah mengaku bersalah atas satu dakwaan percobaan penipuan.",
+            "Terdakwa berusaha menukar jam tangan yang ia kira palsu dengan tiga Rolex lain di toko jam sebelum mencoba melarikan diri ke luar negeri.",
+            "Tindakan tersebut dikategorikan sebagai 'impossible attempt' karena jam tangan yang ia jual terbukti asli, sehingga unsur tindak pidana penipuan tidak terpenuhi."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Alec Baldwin to face civil trial over Rust film set shooting",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-04-18T23:08:23+00:00",
+          "summary": "Hakim Pengadilan Tinggi Los Angeles telah mengizinkan gugatan perdata terhadap aktor Alec Baldwin terkait insiden penembakan di lokasi syuting film Rust pada tahun 2021. Jika tidak ada penyelesaian damai, persidangan perdata atas tuduhan kelalaian tersebut dijadwalkan akan dimulai pada 12 Oktober.",
+          "key_points": [
+            "Hakim mengizinkan tuntutan kelalaian dan penderitaan emosional yang diajukan oleh teknisi pencahayaan Serge Svetnoy, namun menolak tuntutan penyerangan.",
+            "Kasus pidana terhadap Alec Baldwin sebelumnya telah dibatalkan pada tahun 2024 setelah hakim memutuskan adanya penyembunyian bukti oleh pihak kepolisian dan jaksa.",
+            "Insiden penembakan pada tahun 2021 tersebut menewaskan sinematografer Halyna Hutchins dan melukai sutradara Joel Souza saat latihan adegan."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "category": "Hukum",
+          "published_at": "2026-04-17T20:16:13+00:00",
+          "summary": "Nicholas Moore dijatuhi hukuman satu tahun masa percobaan setelah mengaku bersalah meretas sistem pengarsipan dokumen elektronik Mahkamah Agung Amerika Serikat serta jaringan lembaga pemerintah lainnya. Ia diketahui menggunakan kredensial korban untuk mengakses sistem tersebut dan menyebarkan informasi pribadi melalui akun Instagram miliknya.",
+          "key_points": [
+            "Nicholas Moore meretas sistem pengarsipan Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran menggunakan kredensial curian.",
+            "Terdakwa membagikan data pribadi korbannya melalui akun Instagram pribadinya.",
+            "Setelah sempat terancam hukuman penjara satu tahun, pengadilan akhirnya menjatuhkan vonis satu tahun masa percobaan atas permintaan jaksa."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "VC Ron Conway says he has a ‘rare form of cancer’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/18/vc-ron-conway-says-he-has-a-rare-form-of-cancer/",
+          "category": "Kesehatan",
+          "published_at": "2026-04-18T20:00:00+00:00",
+          "summary": "Tokoh modal ventura Ron Conway mengumumkan bahwa dirinya didiagnosis mengidap kanker langka dan akan membatasi aktivitas hariannya untuk menjalani pengobatan. Ia menegaskan akan tetap mendukung para pendiri perusahaan portofolio SV Angel sambil tetap optimis menghadapi kondisinya.",
+          "key_points": [
+            "Ron Conway menyatakan dirinya didiagnosis menderita kanker langka namun tidak mengungkap jenis spesifiknya demi menghindari spekulasi.",
+            "Operasional perusahaan SV Angel dipastikan tidak berubah karena keputusan investasi telah dijalankan oleh putra-putranya, Topher dan Ronny Conway, selama hampir satu dekade.",
+            "Conway berkomitmen untuk tetap mendukung para pendiri perusahaan yang didanai SV Angel di tengah fokusnya menjalani masa pengobatan."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Aprilia On Fire, Jorge Martin Bidik Podium Perdana di Jerez",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/moto-gp/d-8452944/aprilia-on-fire-jorge-martin-bidik-podium-perdana-di-jerez",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T10:10:09+00:00",
+          "summary": "Jorge Martin bertekad meraih podium perdana di MotoGP Spanyol 2026 setelah mencatatkan hasil kompetitif pada tiga seri awal musim ini. Meski memiliki rekam jejak kurang memuaskan di Sirkuit Jerez, Martin tetap optimistis dengan performa motor Aprilia yang dikendarainya.",
+          "key_points": [
+            "Jorge Martin menunjukkan performa impresif dengan finis di posisi kedua pada seri Brasil dan Austin setelah awal musim yang menjanjikan.",
+            "Sirkuit Jerez menjadi tantangan bagi Martin karena ia belum pernah meraih podium di sana sejak berkompetisi di kelas premier pada 2021.",
+            "Dominasi Ducati di Jerez dalam lima musim terakhir akan menjadi tolok ukur bagi tim tersebut di tengah awal musim yang dinilai lambat."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Ironi Tendangan Kungfu: Tepat Momen Ultah PSSI, Libatkan Pemain Eks-Timnas",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8452811/ironi-tendangan-kungfu-tepat-momen-ultah-pssi-libatkan-pemain-eks-timnas",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T09:40:35+00:00",
+          "summary": "Pemain Bhayangkara FC, Fadly Alberto, melakukan aksi kekerasan berupa tendangan ke arah pemain Dewa United dalam pertandingan Elite Pro Academy U-20 di Semarang. Peristiwa yang viral di media sosial ini terjadi bertepatan dengan perayaan HUT PSSI ke-96.",
+          "key_points": [
+            "Fadly Alberto, pemain Bhayangkara FC sekaligus eks-Timnas U-17, terlibat insiden kekerasan terhadap pemain Dewa United, Mohamad Ridwan.",
+            "Ketua Umum PSSI mengutuk keras tindakan kekerasan tersebut dan meminta Komite Disiplin untuk segera melakukan sidang serta memberikan sanksi berat.",
+            "Insiden tersebut terjadi di saat PSSI merayakan hari ulang tahun ke-96 yang menekankan pentingnya persatuan dalam dunia sepak bola Indonesia."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Banks in close contact with European regulator on Anthropic's Mythos, banker says",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/banks-in-close-contact-european-regulator-anthropics-mythos-banker-says-6067946",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T09:45:24+00:00",
+          "summary": "Perbankan di Eropa saat ini sedang berkoordinasi dengan regulator terkait penggunaan model kecerdasan buatan Mythos dari Anthropic. Meskipun tidak menimbulkan kepanikan, sektor perbankan tetap memasukkan teknologi tersebut ke dalam manajemen risiko harian mereka.",
+          "key_points": [
+            "CEO Deutsche Bank, Christian Sewing, mengonfirmasi adanya komunikasi antara pihak bank dan regulator Eropa mengenai model AI Mythos.",
+            "Kemampuan tinggi Mythos dalam melakukan pengodean memicu pengawasan global karena potensi dampaknya terhadap identifikasi kerentanan keamanan siber.",
+            "Pihak perbankan memastikan bahwa penggunaan Mythos telah diintegrasikan ke dalam prosedur manajemen risiko operasional sehari-hari."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Pasukan Robotik AS Dikerahkan Cari Ranjau Iran di Selat Hormuz",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8452318/pasukan-robotik-as-dikerahkan-cari-ranjau-iran-di-selat-hormuz",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T05:45:47+00:00",
+          "summary": "Militer Amerika Serikat mengerahkan drone dan sistem robotik untuk mendeteksi serta menghancurkan ranjau di Selat Hormuz guna mengamankan kembali rute pelayaran energi global. Langkah ini dilakukan di tengah ketegangan dengan Iran, yang sebelumnya memperingatkan kapal-kapal untuk menjauhi jalur utama karena keberadaan ranjau modern.",
+          "key_points": [
+            "AS menggunakan kombinasi sistem robotik berawak dan tak berawak untuk memindai serta menghancurkan ranjau di Selat Hormuz.",
+            "Ketegangan tetap tinggi karena Iran menuntut pencabutan blokade pelabuhannya sebelum mengizinkan normalisasi lalu lintas di selat tersebut.",
+            "Iran diduga menyebarkan ranjau modern tipe Maham 3 dan Maham 7 yang menggunakan sensor magnetik dan akustik untuk mendeteksi kapal."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Oil prices rise after Trump says Iranian ship seized",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-04-20T08:41:12+00:00",
+          "summary": "Harga minyak mentah Brent naik lebih dari 6% setelah Presiden AS Donald Trump menyatakan bahwa angkatan laut AS telah menyita sebuah kapal kargo berbendera Iran. Ketegangan meningkat seiring dengan penutupan kembali Selat Hormuz oleh Iran, yang menjadi jalur utama bagi 20% pasokan minyak dan gas dunia.",
+          "key_points": [
+            "Harga minyak Brent melonjak ke level sekitar $96 per barel pasca-klaim penyitaan kapal oleh AS.",
+            "Iran menutup kembali Selat Hormuz dan mengancam akan menargetkan kapal apa pun yang mendekati jalur tersebut.",
+            "Terdapat ketidakpastian mengenai partisipasi Iran dalam negosiasi mendatang di Pakistan yang akan dipimpin oleh Wakil Presiden AS, JD Vance."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Umum": [
+        {
+          "title": "HIMAHI Kritik Keputusan UPNVJ Soal Kasus Kekerasan Seksual",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099300/himahi-kritik-keputusan-upnvj-soal-kasus-kekerasan-seksual",
+          "category": "Umum",
+          "published_at": "2026-04-20T09:50:10+00:00",
+          "summary": "Himpunan Mahasiswa Hubungan Internasional (HIMAHI) UPNVJ mengkritik keputusan rektorat yang menyetujui pengunduran diri terduga pelaku kekerasan seksual, Zaki Ulumuddin Rahakbau, alih-alih memberikan sanksi pemberhentian studi. Keputusan tersebut dinilai tidak adil bagi para korban dan dikhawatirkan akan menghambat penanganan kasus kekerasan seksual di masa depan.",
+          "key_points": [
+            "Rektorat UPNVJ menyetujui pengunduran diri Zaki Ulumuddin Rahakbau sebagai mahasiswa untuk pindah ke kampus lain di tengah dugaan kasus kekerasan seksual.",
+            "DF HIMAHI UPNVJ menuntut pelaku diberikan sanksi berupa drop out (DO) atas perbuatannya yang diduga menyebarkan foto korban secara tidak senonoh di media sosial.",
+            "Terdapat lebih dari lima korban yang melapor ke HIMAHI terkait tindakan pelaku yang mengunggah foto mahasiswi dan siswa SMA ke akun X sejak November 2025."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "At least 25 killed in firecracker factory blast in India",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T06:16:21+00:00",
+          "summary": "Ledakan di pabrik kembang api Vanaja Fireworks di Tamil Nadu, India, menewaskan sedikitnya 25 orang dan melukai sejumlah pekerja lainnya. Pihak berwenang saat ini sedang melakukan penyelidikan terkait penyebab ledakan serta dugaan pelanggaran operasional pabrik tersebut.",
+          "key_points": [
+            "Ledakan terjadi di pabrik kembang api yang seharusnya tutup pada hari Minggu dengan sekitar 50 pekerja di dalamnya.",
+            "Operasi penyelamatan sempat terhambat akibat ledakan susulan dan kembang api yang terus meledak di lokasi kejadian.",
+            "Polisi sedang mencari pemilik dan mandor pabrik yang melarikan diri setelah insiden tersebut."
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 41
+    },
+    "timestamp": "2026-04-20T10:47:39.510523+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T11:02:09.271480+00:00",
+    "headline": "Proyeksi pertumbuhan pesat divisi energi Tesla diprediksi akan melampaui kinerja bisnis inti kendaraan listrik pada kuartal mendatang di tengah meningkatnya permintaan solusi penyimpanan daya global.",
+    "top_stories": [
+      {
+        "id": 2,
+        "title": "Bantahan TNI Kasus Penembakan",
+        "synthesis": [
+          "TNI membantah keterlibatan personel dalam penembakan anak di Kampung Jigiunggi, Papua.",
+          "TNI menyatakan tidak ada aktivitas prajurit di lokasi kejadian saat insiden berlangsung.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Insiden ini berpotensi memicu eskalasi ketegangan keamanan dan sentimen publik di wilayah Papua.",
+        "articles": [
+          {
+            "title": "TNI sebut tak terlibat dalam penembakan anak di Jigiunggi",
+            "source": "Antara Terkini",
+            "url": "https://www.antaranews.com/berita/5534309/tni-sebut-tak-terlibat-dalam-penembakan-anak-di-jigiunggi",
+            "category": "Hukum",
+            "published_at": "2026-04-20T10:46:34+00:00",
+            "summary": "TNI membantah keterlibatan personelnya dalam peristiwa tewasnya seorang anak akibat luka tembak di Kampung Jigiunggi, Papua. Pihak TNI menyatakan tidak ada aktivitas prajurit di lokasi kejadian saat peristiwa tersebut berlangsung.",
+            "key_points": [
+              "TNI menyatakan tidak ada prajurit di Kampung Jigiunggi saat penembakan anak terjadi.",
+              "TNI terlibat kontak senjata dengan kelompok OPM di Kampung Kembru pada hari yang sama yang menewaskan empat anggota OPM.",
+              "Aparat TNI masih melakukan pendalaman dan penyelidikan terkait penyebab kematian seorang anak di Kampung Jigiunggi."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "title": "Skorsing Mahasiswa Pelaku Pelecehan",
+        "synthesis": [
+          "IPB menskors 16 mahasiswa Fakultas Teknik akibat kasus pelecehan seksual di grup percakapan.",
+          "Universitas prioritaskan pendampingan psikologis dan pemulihan hak bagi korban insiden 2024.",
+          "Sanksi skorsing berlaku selama satu semester sebagai langkah disipliner institusi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Insiden ini menyoroti urgensi penanganan kekerasan seksual di lingkungan pendidikan tinggi nasional.",
+        "articles": [
+          {
+            "title": "IPB University Skors 16 Mahasiswa Pelaku Pelecehan Seksual",
+            "source": "Tempo Nasional",
+            "url": "https://nasional.tempo.co/read/2099307/ipb-university-skors-16-mahasiswa-pelaku-pelecehan-seksual",
+            "category": "Hukum",
+            "published_at": "2026-04-20T10:15:37+00:00",
+            "summary": "IPB University menjatuhkan sanksi skorsing selama satu semester kepada 16 mahasiswa Fakultas Teknik dan Teknologi yang terbukti melakukan pelecehan seksual di dalam grup percakapan. Pihak universitas berkomitmen untuk memprioritaskan pemulihan hak serta pendampingan psikologis bagi korban atas insiden yang terjadi pada 2024 tersebut.",
+            "key_points": [
+              "Sebanyak 16 mahasiswa FTT IPB dijatuhi sanksi skorsing selama satu semester karena terbukti melakukan pelecehan seksual.",
+              "Tindakan pelecehan diketahui terjadi melalui percakapan pribadi di dalam grup pada tahun 2024 dan laporan resmi baru diterima pihak kampus pada 14 April 2026.",
+              "Pihak universitas memprioritaskan pemulihan akademik, sosial, serta pendampingan psikologis bagi korban guna menjamin keamanan dan perlindungan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "title": "Strategi Bisnis Energi Tesla",
+        "synthesis": [
+          "Divisi energi Tesla diprediksi melampaui pertumbuhan kinerja bisnis inti kendaraan listrik pada kuartal mendatang.",
+          "Sektor energi membantu memitigasi penurunan margin otomotif dan pengurangan kredit regulasi perusahaan.",
+          "Kontribusi divisi energi belum mampu mengimbangi tekanan finansial secara penuh bagi Tesla."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Transformasi model bisnis Tesla mencerminkan pergeseran ketergantungan pendapatan dari otomotif ke sektor energi secara signifikan.",
+        "articles": [
+          {
+            "title": "Tesla's energy storage division to pick up slack as car margins drop and credits fade",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/teslas-energy-storage-division-pick-up-slack-car-margins-drop-and-credits-fade-6067986",
+            "category": "Ekonomi",
+            "published_at": "2026-04-20T10:07:41+00:00",
+            "summary": "Divisi energi Tesla diprediksi akan menunjukkan pertumbuhan kinerja yang melampaui bisnis utama kendaraan listrik perusahaan pada laporan kuartalan mendatang. Meski pertumbuhan sektor energi membantu memitigasi penurunan margin otomotif dan berkurangnya kredit regulasi, kontribusinya belum cukup untuk mengimbangi tekanan finansial secara penuh.",
+            "key_points": [
+              "Bisnis penyimpanan energi Tesla mencatat pertumbuhan yang lebih pesat dan margin keuntungan yang lebih tinggi dibandingkan bisnis otomotif perusahaan.",
+              "Tesla menghadapi tekanan arus kas negatif akibat rencana investasi sebesar $20 miliar untuk pengembangan robot dan teknologi kemudi otomatis.",
+              "Pendapatan divisi energi diproyeksikan mencapai $18,3 miliar pada tahun 2026, didorong oleh tingginya permintaan sistem baterai untuk pusat data."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 21,
+        "title": "Penanganan Ikan Sapu-sapu Invasif",
+        "synthesis": [
+          "Pemprov DKI Jakarta memusnahkan ikan sapu-sapu karena statusnya sebagai spesies invasif yang mengancam ekosistem lokal.",
+          "Tingginya kemampuan adaptasi dan minimnya predator alami memicu ledakan populasi ikan sapu-sapu di perairan Jakarta.",
+          "Keberadaan spesies invasif ini mendesak keberlangsungan populasi ikan asli dan keseimbangan biologis perairan Jakarta."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Isu ini terbatas pada manajemen lingkungan lokal tanpa menyebabkan disrupsi sistemik atau ekonomi berskala besar.",
+        "articles": [
+          {
+            "title": "Ini Sebab Ilmiah Kenapa Ikan Sapu-sapu Invasif, Pantas Dimusnahkan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8452548/ini-sebab-ilmiah-kenapa-ikan-sapu-sapu-invasif-pantas-dimusnahkan",
+            "category": "Lingkungan",
+            "published_at": "2026-04-20T06:29:28+00:00",
+            "summary": "Pemprov DKI Jakarta berupaya memusnahkan ikan sapu-sapu karena dianggap sebagai spesies invasif yang membahayakan ekosistem perairan lokal. Kemampuan adaptasi tinggi dan ketiadaan predator alami membuat populasi ikan ini berkembang pesat hingga mengancam keberlangsungan ikan asli.",
+            "key_points": [
+              "Ledakan populasi ikan sapu-sapu menyebabkan berkurangnya hasil tangkapan ikan lokal seperti gabus, nila, dan mas.",
+              "Ikan sapu-sapu memiliki kemampuan adaptasi yang tinggi, cepat berkembang biak, serta berpotensi menularkan penyakit pada spesies lokal.",
+              "Tindakan pelepasan ikan peliharaan secara sembarangan ke alam bebas berkontribusi terhadap munculnya ancaman spesies invasif di perairan."
+            ],
+            "cluster_id": 21
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 3,
+        "title": "Spesifikasi Ponsel Motorola Signature",
+        "synthesis": [
+          "Motorola meluncurkan flagship Signature di Indonesia dengan sertifikasi durabilitas IP68 dan IP69.",
+          "Perangkat ditenagai chipset Snapdragon 8 Gen 5 dan sensor kamera Sony LYTIA.",
+          "Fitur unggulan mencakup desain Pantone serta kemampuan zoom optik hingga 100x."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Peluncuran produk ini merupakan pembaruan lini ponsel konsumen standar tanpa disrupsi pasar yang signifikan.",
+        "articles": [
+          {
+            "title": "Harga dan Spesifikasi Motorola Signature, Flagship dengan Kamera Sony Lytia",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8453056/harga-dan-spesifikasi-motorola-signature-flagship-dengan-kamera-sony-lytia",
+            "category": "Teknologi",
+            "published_at": "2026-04-20T10:43:05+00:00",
+            "summary": "Motorola resmi meluncurkan ponsel flagship Motorola Signature di Indonesia dengan desain tervalidasi Pantone serta durabilitas tinggi bersertifikasi IP68 dan IP69. Perangkat ini ditenagai chipset Snapdragon 8 Gen 5 dan dibekali sistem kamera berbasis sensor Sony LYTIA dengan kemampuan zoom hingga 100x.",
+            "key_points": [
+              "Motorola Signature hadir dengan layar LTPO AMOLED 6,85 inci 165Hz dan telah memenuhi standar ketahanan MIL-STD-810H serta perlindungan Gorilla Glass Victus 2.",
+              "Perangkat ini menggunakan chipset Snapdragon 8 Gen 5 dengan dukungan baterai silikon-karbon 5.200 mAh dan pengisian daya cepat 90W.",
+              "Sistem kamera ponsel ini mencakup sensor utama Sony LYTIA 828 50 MP, kamera ultrawide 50 MP, serta kamera periskop telefoto 50 MP dengan 100x Super Zoom Pro."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Paradoks Ketahanan: Antara Stabilitas Keamanan dan Integritas Ekosistem",
+        "analysis": "Terdapat kaitan strategis antara ketegangan keamanan di Papua (TNI) dengan kebijakan lingkungan (ikan sapu-sapu). Dalam perspektif geopolitik internal, stabilitas di wilayah konflik seringkali mengalihkan sumber daya negara dari pengelolaan ekosistem lokal yang krusial bagi ketahanan pangan. Ketika fokus pemerintah terserap pada manajemen konflik dan penyangkalan atas insiden di Papua, pengawasan terhadap degradasi lingkungan (seperti proliferasi spesies invasif yang mengancam biodiversitas lokal) cenderung terabaikan, yang pada akhirnya dapat memicu krisis pangan tersembunyi yang akan memperumit stabilitas sosial di masa depan."
+      },
+      {
+        "title": "Digitalisasi Perilaku: Kesenjangan Antara Kecanggihan Perangkat dan Moralitas Komunal",
+        "analysis": "Kaitan antara peluncuran ponsel flagship (Motorola) dan kasus pelecehan di lingkungan kampus (IPB) menyoroti dikotomi 'Technological Prowess vs. Human Ethics'. Spesifikasi durabilitas IP68/IP69 pada perangkat modern mencerminkan obsesi pasar pada ketahanan fisik teknologi, namun di sisi lain, ruang digital yang diciptakan oleh perangkat ini justru menjadi arena degradasi moral (grup percakapan toksik). Ini menunjukkan bahwa akselerasi adopsi teknologi tinggi di Indonesia tidak dibarengi dengan literasi etika digital, menciptakan kerentanan sosial di mana alat komunikasi canggih justru digunakan untuk memfasilitasi perilaku yang merusak tatanan institusi pendidikan."
+      }
+    ],
+    "other_news": {
+      "Hukum": [
+        {
+          "title": "HIMAHI Kritik Keputusan UPNVJ Soal Kasus Kekerasan Seksual",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099300/himahi-kritik-keputusan-upnvj-soal-kasus-kekerasan-seksual",
+          "category": "Hukum",
+          "published_at": "2026-04-20T09:50:10+00:00",
+          "summary": "Himpunan Mahasiswa Hubungan Internasional (HIMAHI) UPNVJ mengkritik keputusan rektorat yang menyetujui pengunduran diri terduga pelaku kekerasan seksual daripada menjatuhkan sanksi drop out. Keputusan tersebut dinilai tidak adil dan dikhawatirkan akan berdampak buruk pada penanganan kasus kekerasan seksual di masa depan.",
+          "key_points": [
+            "Rektorat UPNVJ menyetujui pengunduran diri mahasiswa terduga pelaku kekerasan seksual, Zaki Ulumuddin Rahakbau, yang memungkinkannya pindah ke kampus lain.",
+            "HIMAHI UPNVJ menuntut sanksi tegas berupa penghentian studi atau drop out bagi terduga pelaku agar tercipta keadilan bagi korban.",
+            "Kasus ini mencakup dugaan penyebaran foto mahasiswi dan siswi SMA di media sosial X dengan narasi yang menseksualisasi korban oleh pelaku sejak November 2025."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "category": "Hukum",
+          "published_at": "2026-04-17T20:16:13+00:00",
+          "summary": "Nicholas Moore dijatuhi hukuman satu tahun masa percobaan setelah mengaku bersalah meretas sistem pengarsipan dokumen Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran. Moore sebelumnya membanggakan tindakannya melalui akun Instagram pribadi dengan menyebarkan data milik para korban.",
+          "key_points": [
+            "Nicholas Moore meretas sistem pengarsipan elektronik Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran menggunakan kredensial korban.",
+            "Terdakwa membagikan informasi pribadi para korban secara publik melalui akun Instagram bernama @ihackedthegovernment.",
+            "Pengadilan menjatuhkan vonis satu tahun masa percobaan setelah jaksa penuntut merekomendasikan hukuman tersebut, bukan hukuman penjara."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Alec Baldwin to face civil trial over Rust film set shooting",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cp86rrld6dyo?at_medium=RSS&at_campaign=rss",
+          "category": "Hiburan",
+          "published_at": "2026-04-18T23:08:23+00:00",
+          "summary": "Aktor Alec Baldwin akan menghadapi persidangan perdata terkait insiden penembakan di lokasi syuting film Rust pada tahun 2021 setelah hakim mengizinkan gugatan dari penata cahaya Serge Svetnoy untuk dilanjutkan. Persidangan ini dijadwalkan berlangsung pada 12 Oktober jika tidak ada penyelesaian damai antara pihak-pihak terkait.",
+          "key_points": [
+            "Gugatan perdata yang diajukan Serge Svetnoy mendakwa Alec Baldwin atas kelalaian dan tekanan emosional dalam insiden penembakan yang menewaskan Halyna Hutchins.",
+            "Hakim Pengadilan Tinggi Los Angeles mengizinkan tuntutan kelalaian dan tekanan emosional, namun membatalkan tuntutan penyerangan.",
+            "Kasus pidana terhadap Alec Baldwin sebelumnya telah dibatalkan pada tahun 2024 karena adanya penyembunyian bukti oleh pihak kepolisian dan jaksa."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "The EU must not wait till Israel starts executing Palestinians",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/4/20/the-eu-must-not-wait-till-israel-starts-executing-palestinians?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T10:21:29+00:00",
+          "summary": "Artikel ini mendesak Uni Eropa untuk segera meninjau dan membatalkan Perjanjian Asosiasi EU-Israel karena dugaan pelanggaran hak asasi manusia terkait pemberlakuan undang-undang hukuman mati bagi warga Palestina. Penulis mengkritik respons Uni Eropa yang dianggap hanya sebatas pernyataan keprihatinan tanpa tindakan konkret terhadap tindakan Israel.",
+          "key_points": [
+            "Pemerintah Israel telah memulai persiapan implementasi undang-undang hukuman mati, termasuk pembangunan fasilitas penjara khusus.",
+            "Perjanjian Asosiasi EU-Israel memuat klausul yang mewajibkan penghormatan terhadap hak asasi manusia.",
+            "Uni Eropa dan sejumlah negara Eropa telah mengeluarkan pernyataan keprihatinan atas undang-undang tersebut, namun belum menetapkan langkah tindakan nyata."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Second round in Islamabad: Who’s at the US-Iran negotiating table?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T10:06:49+00:00",
+          "summary": "Utusan Amerika Serikat dijadwalkan bertemu perwakilan Iran di Islamabad untuk membahas perpanjangan gencatan senjata yang akan berakhir hari Rabu. Proses negosiasi ini menghadapi ketidakpastian di tengah eskalasi militer, termasuk penyitaan kapal kontainer berbendera Iran oleh Angkatan Laut AS di Teluk Oman.",
+          "key_points": [
+            "Perundingan bertujuan memperpanjang gencatan senjata dua minggu yang akan segera berakhir pada hari Rabu.",
+            "Ketegangan meningkat setelah Angkatan Laut AS menyita kapal kontainer Iran, Touska, di Teluk Oman.",
+            "Salah satu negosiator kunci Iran, Ali Larijani, tewas dalam serangan udara Israel pada awal Maret sebelum putaran negosiasi kedua dimulai."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T10:06:46+00:00",
+          "summary": "Militer Amerika Serikat menyita kapal kargo Iran bernama Touska karena dianggap melanggar blokade laut di Selat Hormuz. Iran mengecam tindakan tersebut sebagai pembajakan dan membatalkan rencana perundingan damai dengan AS di Islamabad.",
+          "key_points": [
+            "AS menggunakan kapal perusak USS Spruance untuk melumpuhkan mesin kapal Touska setelah kapal tersebut menolak perintah untuk tidak melintasi Selat Hormuz.",
+            "Insiden ini merupakan pertama kalinya militer AS menyita kapal non-militer Iran sejak penerapan blokade laut pada 13 April.",
+            "Iran membatalkan keikutsertaan dalam perundingan dengan AS di Islamabad sebagai respons atas penyitaan kapal tersebut."
+          ],
+          "cluster_id": 4
+        },
+        {
+          "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-19T17:48:41+00:00",
+          "summary": "Kepala polisi patroli Ukraina, Yevhen Zhukov, mengundurkan diri setelah dua anggotanya dikritik karena diduga melarikan diri dari lokasi penembakan massal di Kyiv. Insiden penembakan tersebut menyebabkan enam orang tewas dan 14 lainnya terluka, serta kini sedang diselidiki sebagai tindakan terorisme.",
+          "key_points": [
+            "Yevhen Zhukov mengundurkan diri sebagai bentuk tanggung jawab atas tindakan dua petugasnya yang dinilai tidak profesional saat penembakan berlangsung.",
+            "Dua petugas yang terlibat telah dibebastugaskan dan sedang menjalani penyelidikan kriminal atas dugaan pembiaran saat insiden terjadi.",
+            "Otoritas Ukraina mengklasifikasikan penembakan massal tersebut sebagai aksi terorisme dengan pelaku yang telah tewas dalam baku tembak."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "OpenAI’s existential questions",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "category": "Teknologi",
+          "published_at": "2026-04-19T21:24:06+00:00",
+          "summary": "Podcast TechCrunch Equity membahas akuisisi terbaru OpenAI terhadap startup keuangan pribadi Hiro dan perusahaan media TBPN. Langkah ini dinilai sebagai upaya strategis OpenAI untuk mengatasi tantangan terkait pengembangan produk yang bernilai komersial serta memperbaiki citra publik perusahaan.",
+          "key_points": [
+            "OpenAI mengakuisisi startup keuangan pribadi Hiro dan perusahaan media TBPN.",
+            "Akuisisi Hiro bertujuan mengembangkan produk yang lebih bernilai daripada sekadar chatbot.",
+            "Akuisisi TBPN dilakukan sebagai upaya untuk memperbaiki citra publik OpenAI yang tengah menurun."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Aprilia On Fire, Jorge Martin Bidik Podium Perdana di Jerez",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/moto-gp/d-8452944/aprilia-on-fire-jorge-martin-bidik-podium-perdana-di-jerez",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T10:10:09+00:00",
+          "summary": "Jorge Martin bertekad meraih podium perdana di MotoGP Spanyol 2026 guna memperbaiki rekor performanya di Sirkuit Jerez yang kurang memuaskan selama ini. Meskipun menghadapi catatan sejarah yang sulit, Martin optimistis dengan performa kompetitif Aprilia di awal musim ini.",
+          "key_points": [
+            "Jorge Martin belum pernah finis di posisi tiga besar selama berkompetisi di MotoGP Spanyol sejak tahun 2021.",
+            "Martin tampil kompetitif di awal musim 2026 dengan meraih posisi kedua secara berturut-turut di GP Brasil dan Austin.",
+            "Balapan di Jerez menjadi sorotan karena akan menguji dominasi Ducati yang sebelumnya menguasai sirkuit tersebut dalam lima musim terakhir."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Butet Kartaredjasa: Pernyataan Saiful Titik Awal Revolusi",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099303/butet-kartaredjasa-pernyataan-saiful-titik-awal-revolusi",
+          "category": "Politik",
+          "published_at": "2026-04-20T10:00:04+00:00",
+          "summary": "Seniman Butet Kartaredjasa mendukung pernyataan Saiful Mujani mengenai kritik terhadap pemerintahan Prabowo-Gibran sebagai bagian dari kebebasan berpendapat. Ia menilai situasi sosial politik saat ini berpotensi memicu perlawanan masyarakat sipil yang tak terbendung akibat kebijakan pemerintah yang dianggap tidak demokratis.",
+          "key_points": [
+            "Butet Kartaredjasa mengkritik dominasi militer dalam pemerintahan Prabowo-Gibran yang dianggapnya lebih buruk daripada era Orde Baru.",
+            "Potensi demonstrasi besar atau amuk massa diperingatkan akan terjadi jika pemerintah gagal mengatasi kenaikan harga kebutuhan pokok dan persoalan HAM.",
+            "Butet menuntut agar kasus kekerasan terhadap aktivis Kontras, Andrie Yunus, diadili melalui peradilan sipil, bukan peradilan militer, demi menjamin akuntabilitas."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 50
+    },
+    "timestamp": "2026-04-20T11:02:09.271480+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T11:05:18.320070+00:00",
+    "headline": "Permintaan pesanan chip AI Blackwell dan Vera Rubin senilai Rp17.159 triliun oleh Nvidia memicu ekspektasi lonjakan dominasi pasar kecerdasan buatan global.",
+    "top_stories": [
+      {
+        "id": 3,
+        "title": "Lonjakan Pesanan Produk Baru",
+        "synthesis": [
+          "Nvidia mencatat pesanan Rp17.159 triliun untuk chip AI Blackwell dan Vera Rubin sebelum rilis.",
+          "Lonjakan permintaan chip AI global mendorong Nvidia menjadi perusahaan dengan valuasi tertinggi di dunia.",
+          "Persaingan pengembangan AI antarnegara memicu eskalasi kebutuhan perangkat keras komputasi performa tinggi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Dominasi Nvidia dalam suplai chip AI mengontrol laju inovasi teknologi global dan memengaruhi pasar modal dunia.",
+        "articles": [
+          {
+            "title": "Produk Belum Rilis Sudah Dapat Pesanan Rp17.000 Triliun, Pantas Kaya",
+            "source": "CNBC Indonesia",
+            "url": "https://www.cnbcindonesia.com/tech/20260420142131-37-728214/produk-belum-rilis-sudah-dapat-pesanan-rp17000-triliun-pantas-kaya",
+            "category": "Teknologi",
+            "published_at": "2026-04-20T11:00:00+00:00",
+            "summary": "Nvidia telah menerima pesanan senilai Rp17.159 triliun untuk dua chip AI terbarunya, Blackwell dan Vera Rubin, meskipun produk tersebut belum dipasarkan secara luas. Lonjakan permintaan ini dipicu oleh kompetisi pengembangan kecerdasan buatan global, yang sekaligus mendorong valuasi perusahaan hingga menjadi yang tertinggi di dunia.",
+            "key_points": [
+              "Nvidia mencatatkan pesanan senilai US$1 triliun (Rp17.159 triliun) untuk chip Blackwell dan Vera Rubin yang pengirimannya dijadwalkan dalam dua tahun ke depan.",
+              "Tingginya permintaan chip GPU Nvidia untuk pengembangan AI telah meningkatkan valuasi perusahaan hingga mencapai US$4.901 triliun.",
+              "Chip Vera Rubin yang akan dirilis akhir tahun ini diklaim mampu meningkatkan performa per watt hingga 10 kali lipat dibandingkan generasi sebelumnya."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "title": "Kesiapsiagaan Kepala Daerah Hadapi Krisis",
+        "synthesis": [
+          "Mendagri instruksikan kepala daerah perkuat kesiapsiagaan hadapi inflasi dan dampak krisis global.",
+          "Pemda wajib jaga stabilitas harga untuk cegah tekanan sosial dan gangguan ketertiban umum.",
+          "Fokus kebijakan diarahkan pada pengendalian biaya hidup masyarakat di tingkat lokal."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kebijakan ini memitigasi risiko instabilitas sosial akibat fluktuasi harga kebutuhan pokok di tingkat daerah.",
+        "articles": [
+          {
+            "title": "Mendagri ajak kepala daerah perkuat kesiapsiagaan hadapi krisis global",
+            "source": "Antara Terkini",
+            "url": "https://www.antaranews.com/berita/5534323/mendagri-ajak-kepala-daerah-perkuat-kesiapsiagaan-hadapi-krisis-global",
+            "category": "Politik",
+            "published_at": "2026-04-20T11:01:49+00:00",
+            "summary": "Menteri Dalam Negeri Muhammad Tito Karnavian mengimbau seluruh kepala daerah untuk meningkatkan kesiapsiagaan dalam menghadapi potensi inflasi dan dampak krisis global yang memengaruhi biaya hidup masyarakat. Pemerintah daerah diminta aktif menjaga stabilitas harga agar tidak memicu tekanan sosial maupun gangguan ketertiban umum.",
+            "key_points": [
+              "Inflasi dan kenaikan biaya hidup menjadi perhatian utama karena berdampak langsung pada masyarakat berpenghasilan rendah.",
+              "Dinamika global, seperti konflik geopolitik, memengaruhi harga energi yang berimplikasi pada kenaikan harga barang dan distribusi.",
+              "Tim Pengendalian Inflasi Daerah (TPID) diminta proaktif berkoordinasi dengan BPS untuk memantau pergerakan harga dan tidak menunggu masalah berkembang menjadi krisis."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "title": "Risiko Komplikasi Penyakit Campak",
+        "synthesis": [
+          "Campak berisiko memicu komplikasi pneumonia serius yang mengancam keselamatan pasien.",
+          "Gejala sesak napas pada penderita campak mewajibkan penanganan medis segera di fasilitas kesehatan.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Risiko kesehatan publik meningkat akibat komplikasi serius yang memerlukan respon medis cepat.",
+        "articles": [
+          {
+            "title": "Bukan Cuma Ruam Merah, Komplikasi Campak Bisa Berujung Kena Pneumonia",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8452644/bukan-cuma-ruam-merah-komplikasi-campak-bisa-berujung-kena-pneumonia",
+            "category": "Kesehatan",
+            "published_at": "2026-04-20T07:08:33+00:00",
+            "summary": "Penyakit campak berpotensi memicu komplikasi serius berupa pneumonia yang memerlukan penanganan medis. Masyarakat disarankan untuk segera melakukan evaluasi ke fasilitas kesehatan apabila muncul gejala sesak napas pada pasien campak.",
+            "key_points": [
+              "Gejala pneumonia pada pasien campak ditandai dengan napas terengah-engah, upaya bernapas yang terlihat berat, serta tarikan pada dinding dada.",
+              "Batuk yang semakin berat pada pasien campak merupakan salah satu indikasi munculnya komplikasi pneumonia.",
+              "Pemeriksaan mandiri dapat dilakukan dengan memantau frekuensi napas serta saturasi oksigen untuk menentukan perlunya tindakan medis lebih lanjut."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "title": "Persaingan Top Skor Liga Inggris",
+        "synthesis": [
+          "Erling Haaland cetak gol vs Arsenal, perkokoh posisi top skor Liga Inggris 2026.",
+          "Haaland koleksi 23 gol, unggul dua gol atas pesaing terdekat Igor Thiago.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Berita ini hanya mencakup statistik performa individu dalam konteks kompetisi olahraga profesional.",
+        "articles": [
+          {
+            "title": "Top Skor Liga Inggris: Haaland Akhiri Puasa Gol, Jauhi Igor Thiago!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8452937/top-skor-liga-inggris-haaland-akhiri-puasa-gol-jauhi-igor-thiago",
+            "category": "Olahraga",
+            "published_at": "2026-04-20T10:40:00+00:00",
+            "summary": "Erling Haaland kembali mencetak gol saat melawan Arsenal dan memperkokoh posisinya sebagai pencetak gol terbanyak Liga Inggris 2026 dengan total 23 gol. Ia saat ini unggul atas Igor Thiago yang berada di peringkat kedua dengan selisih dua gol.",
+            "key_points": [
+              "Erling Haaland memimpin daftar top skor Liga Inggris 2026 dengan 23 gol setelah sempat mengalami paceklik gol dalam tiga pertandingan.",
+              "Igor Thiago menempati posisi kedua dalam daftar pencetak gol terbanyak dengan koleksi 21 gol untuk Brentford.",
+              "Antoine Semenyo berada di posisi ketiga dengan 15 gol, yang dicetaknya selama musim 2025/2026 bersama AFC Bournemouth dan Manchester City."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 25,
+        "title": "Penanganan Invasi Ikan Sapu-sapu",
+        "synthesis": [
+          "Ikan sapu-sapu teridentifikasi sebagai spesies invasif yang mengancam keseimbangan ekosistem perairan lokal di Jakarta.",
+          "Tingkat adaptasi tinggi dan ketiadaan predator alami memicu ledakan populasi ikan sapu-sapu secara masif.",
+          "Pemprov DKI Jakarta melakukan upaya pemusnahan guna melindungi kelangsungan hidup populasi ikan lokal."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Isu ini merupakan langkah mitigasi lingkungan bersifat lokal tanpa disrupsi sistemik yang luas.",
+        "articles": [
+          {
+            "title": "Ini Sebab Ilmiah Kenapa Ikan Sapu-sapu Invasif, Pantas Dimusnahkan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8452548/ini-sebab-ilmiah-kenapa-ikan-sapu-sapu-invasif-pantas-dimusnahkan",
+            "category": "Lingkungan",
+            "published_at": "2026-04-20T06:29:28+00:00",
+            "summary": "Pemprov DKI Jakarta berupaya memusnahkan ikan sapu-sapu karena statusnya sebagai spesies invasif yang mengancam ekosistem perairan lokal. Kemampuan adaptasi yang tinggi serta minimnya predator alami menyebabkan populasi ikan ini meledak dan mendesak keberadaan ikan lokal.",
+            "key_points": [
+              "Ledakan populasi ikan sapu-sapu menyebabkan berkurangnya hasil tangkapan nelayan serta kerusakan komunitas ikan lokal.",
+              "Ikan sapu-sapu bersifat invasif karena memiliki kemampuan adaptasi tinggi, cepat berkembang biak, dan tidak memiliki musuh alami di lingkungan barunya.",
+              "Perilaku makan ikan sapu-sapu yang menghabiskan alga dapat merusak habitat perlindungan hewan air lainnya sekaligus menularkan penyakit pada spesies lokal."
+            ],
+            "cluster_id": 25
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Paradoks Efisiensi: Disrupsi AI Nvidia vs. Ketahanan Fiskal Daerah",
+        "analysis": "Lonjakan pesanan chip AI Blackwell/Rubin mencerminkan perlombaan senjata teknologi global yang akan menciptakan 'kesenjangan produktivitas' yang masif. Secara ekonomi, dominasi Nvidia menyedot likuiditas pasar modal global, yang jika tidak diimbangi dengan adopsi teknologi di sektor riil, akan memperburuk inflasi biaya hidup (cost-push inflation). Bagi kepala daerah, instruksi Mendagri untuk menghadapi krisis global harus diterjemahkan menjadi adopsi teknologi berbasis data (AI) untuk efisiensi rantai pasok pangan lokal. Jika daerah gagal mengintegrasikan teknologi dalam manajemen krisis, mereka hanya akan menjadi konsumen komoditas mahal yang terdampak inflasi tanpa peningkatan produktivitas yang dihasilkan oleh revolusi chip AI."
+      },
+      {
+        "title": "Krisis Kesehatan dan Biaya Sosial: Ancaman Komplikasi vs. Beban Anggaran",
+        "analysis": "Risiko komplikasi pneumonia akibat campak bukan sekadar isu kesehatan, melainkan bom waktu ekonomi bagi pemerintah daerah. Dalam konteks kesiapsiagaan krisis, lonjakan pasien dengan komplikasi serius akan menekan alokasi anggaran kesehatan (APBD) yang seharusnya dialokasikan untuk mitigasi inflasi. Secara sosial, kegagalan dalam penanganan kesehatan dasar akan menurunkan 'indeks ketahanan masyarakat', yang membuat daerah lebih rentan terhadap guncangan eksternal (inflasi pangan/krisis global). Kesiapsiagaan kepala daerah kini diuji apakah mampu mengintegrasikan layanan preventif kesehatan ke dalam jaring pengaman sosial sebelum inflasi membatasi akses masyarakat terhadap nutrisi dan vaksinasi."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Second round in Islamabad: Who’s at the US-Iran negotiating table?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/features/2026/4/20/second-round-in-islamabad-whos-at-the-us-iran-negotiating-table?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T10:06:49+00:00",
+          "summary": "AS dan Iran dijadwalkan mengadakan putaran kedua perundingan di Islamabad untuk membahas perpanjangan gencatan senjata yang akan berakhir pada hari Rabu. Namun, ketidakpastian menyelimuti proses ini akibat eskalasi militer serta penyitaan kapal kontainer berbendera Iran oleh Angkatan Laut AS di Teluk Oman.",
+          "key_points": [
+            "Perundingan bertujuan memperpanjang gencatan senjata dua minggu yang akan berakhir pada hari Rabu.",
+            "Situasi memanas setelah Angkatan Laut AS menyita kapal kontainer Iran, Touska, di Teluk Oman.",
+            "Negosiator utama Iran, Ali Larijani, tewas dalam serangan udara Israel pada awal Maret, yang berdampak pada dinamika diplomatik saat ini."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Baby food recalled in Austria after jar tests positive for rat poison",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/4/20/baby-food-recalled-after-rat-poison-found-in-jar?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T09:37:38+00:00",
+          "summary": "Produsen makanan bayi HiPP menarik produknya dari gerai SPAR di Austria setelah kepolisian setempat menemukan racun tikus dalam salah satu stoples. Perusahaan menyatakan bahwa kontaminasi tersebut bukan disebabkan oleh proses produksi, melainkan akibat tindakan kriminal yang sedang dalam penyelidikan pihak berwenang.",
+          "key_points": [
+            "Produk HiPP di Austria ditarik dari peredaran setelah ditemukan kandungan racun tikus pada salah satu stoples akibat tindakan sabotase.",
+            "Pihak kepolisian menyatakan bahwa zat berbahaya juga ditemukan pada produk serupa di Republik Ceko dan Slovakia.",
+            "Konsumen diimbau untuk mewaspadai stoples dengan tutup rusak, segel hilang, bau tidak lazim, atau stiker putih berlingkaran merah di bagian bawah."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "category": "Hukum",
+          "published_at": "2026-04-17T20:16:13+00:00",
+          "summary": "Nicholas Moore dijatuhi hukuman satu tahun masa percobaan setelah mengaku bersalah meretas sistem pengarsipan dokumen Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran. Pelaku menggunakan kredensial curian untuk mengakses sistem tersebut dan membagikan informasi pribadi para korban di media sosial.",
+          "key_points": [
+            "Nicholas Moore meretas sistem elektronik Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran selama beberapa bulan.",
+            "Pelaku menyebarkan informasi pribadi korbannya melalui akun Instagram pribadinya.",
+            "Jaksa penuntut awalnya mengusulkan hukuman penjara namun akhirnya merekomendasikan hukuman masa percobaan selama satu tahun."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Rachel Amanda hadapi eksploitasi kerja di \"Monster Pabrik Rambut\"",
+          "source": "Antara Terkini",
+          "url": "https://www.antaranews.com/berita/5534305/rachel-amanda-hadapi-eksploitasi-kerja-di-monster-pabrik-rambut",
+          "category": "Hiburan",
+          "published_at": "2026-04-20T10:43:58+00:00",
+          "summary": "Film \"Monster Pabrik Rambut\" mengangkat isu eksploitasi dan keselamatan kerja buruh perempuan melalui karakter Putri yang bekerja di pabrik untuk melunasi utang ibunya. Cerita ini menyoroti risiko kondisi kerja ekstrem serta pentingnya tanggung jawab bersama antara perusahaan dan pekerja dalam menjaga keselamatan kerja.",
+          "key_points": [
+            "Rachel Amanda memerankan karakter Putri, seorang buruh pabrik yang menghadapi eksploitasi kerja dan beban utang keluarga.",
+            "Alur cerita mengeksplorasi kondisi kerja ekstrem yang memicu risiko keselamatan serta dugaan penyebab kematian ibu Putri.",
+            "Produser eksekutif Iqbaal Ramadhan menekankan perlunya keseimbangan tanggung jawab antara perusahaan dalam penyediaan alat pelindung diri dan kepatuhan pekerja terhadap prosedur keselamatan."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Tanggal Rilis Film Call of Duty Terungkap, 2 Tahun Lagi Bisa Ditonton",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/games-news/d-8452738/tanggal-rilis-film-call-of-duty-terungkap-2-tahun-lagi-bisa-ditonton",
+          "category": "Hiburan",
+          "published_at": "2026-04-20T08:04:04+00:00",
+          "summary": "Activision mengumumkan bahwa film adaptasi Call of Duty dijadwalkan tayang di layar lebar pada 30 Juni 2028. Proyek film ini merupakan hasil kerja sama antara Activision dengan Paramount Pictures yang bertujuan menghadirkan pengalaman sinematik epik bagi penggemar.",
+          "key_points": [
+            "Film Call of Duty resmi dijadwalkan rilis pada 30 Juni 2028.",
+            "Proyek ini diproduksi melalui kemitraan antara Activision dan Paramount Pictures.",
+            "Pihak produser berkomitmen menghadirkan kualitas sinematik yang autentik dan epik bagi penonton lama maupun baru."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Mengenal NewJeans: Profil, prestasi, dan konflik yang terjadi",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5332891/mengenal-newjeans-profil-prestasi-dan-konflik-yang-terjadi",
+          "category": "Hiburan",
+          "published_at": "2026-01-04T11:58:47+00:00",
+          "summary": "NewJeans merupakan grup wanita asal Korea Selatan yang debut pada Juli 2022 di bawah naungan agensi ADOR. Grup beranggotakan lima orang ini dikenal secara global berkat konsep musik yang segar, estetika Y2K, serta pencapaian komersial yang signifikan sejak awal karier mereka.",
+          "key_points": [
+            "NewJeans dibentuk oleh ADOR, label di bawah HYBE, dengan anggota yang terdiri dari Minji, Hanni, Danielle, Haerin, dan Hyein.",
+            "Grup ini mengusung citra natural dan gaya musik yang terinspirasi dari tren 90-an serta estetika Y2K.",
+            "Album debut mereka yang berjudul 'New Jeans' mencatatkan sejarah sebagai album debut grup K-Pop pertama yang terjual lebih dari satu juta kopi."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Mengenal Danielle Marsh, mantan member NewJeans yang dikeluarkan ADOR",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5327299/mengenal-danielle-marsh-mantan-member-newjeans-yang-dikeluarkan-ador",
+          "category": "Hiburan",
+          "published_at": "2025-12-30T12:29:05+00:00",
+          "summary": "Agensi ADOR resmi mengakhiri kontrak eksklusif Danielle Marsh sebagai anggota grup NewJeans per Senin (29/12). Keputusan tersebut diambil pihak agensi karena dinilai terdapat pelanggaran terhadap ketentuan kontrak kerja sama yang tidak dapat ditoleransi.",
+          "key_points": [
+            "ADOR telah memutuskan untuk menghentikan kerja sama dengan Danielle sebagai artis di bawah naungan agensi tersebut.",
+            "Pemutusan kontrak dilakukan akibat adanya pelanggaran ketentuan kerja sama yang tidak dapat ditoleransi oleh pihak agensi.",
+            "Danielle merupakan mantan anggota NewJeans yang debut pada tahun 2022 setelah bergabung sebagai trainee di ADOR pada tahun 2020."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Haaland Ditanduk Magalhaes: Kalau Aku Jatuh, Dia Dikartu Merah",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8452441/haaland-ditanduk-magalhaes-kalau-aku-jatuh-dia-dikartu-merah",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T09:20:27+00:00",
+          "summary": "Erling Haaland terlibat konfrontasi fisik dengan Gabriel Magalhaes dalam pertandingan antara Manchester City dan Arsenal. Haaland menyatakan bahwa ia seharusnya bisa memicu kartu merah bagi Magalhaes jika ia memilih untuk jatuh saat insiden adu kepala terjadi.",
+          "key_points": [
+            "Terjadi insiden adu kepala antara Erling Haaland dan Gabriel Magalhaes di 10 menit terakhir pertandingan.",
+            "Wasit Anthony Taylor memberikan kartu kuning kepada kedua pemain atas konfrontasi tersebut.",
+            "Manchester City kini terpaut tiga poin dari Arsenal di klasemen Liga Inggris setelah kemenangan tersebut."
+          ],
+          "cluster_id": 4
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Prabowo Rapat Terbatas Bahas Proyek Giant Sea Wall",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099316/prabowo-rapat-terbatas-bahas-proyek-giant-sea-wall",
+          "category": "Politik",
+          "published_at": "2026-04-20T10:44:36+00:00",
+          "summary": "Presiden Prabowo Subianto menggelar rapat terbatas untuk membahas progres perencanaan proyek tanggul laut raksasa atau giant sea wall. Pemerintah belum menetapkan keputusan final terkait waktu pelaksanaan pembangunan karena masih mempertimbangkan ketersediaan sumber daya dan aspek perlindungan lingkungan.",
+          "key_points": [
+            "Proyek tanggul laut direncanakan membentang sepanjang 535 kilometer dari pesisir Banten hingga Gresik, Jawa Timur.",
+            "Pembangunan proyek ini ditujukan untuk menghadapi ancaman kenaikan permukaan laut akibat penurunan permukaan tanah.",
+            "Proyek yang diestimasi membutuhkan anggaran US$ 80 miliar ini merupakan rencana yang telah ada sejak tahun 1995."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Rapat di DPR, Menkes Beberkan Penanganan KLB Campak",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/fotohealth/d-8452920/rapat-di-dpr-menkes-beberkan-penanganan-klb-campak",
+          "category": "Kesehatan",
+          "published_at": "2026-04-20T09:15:03+00:00",
+          "summary": "Menteri Kesehatan Budi Gunadi Sadikin memaparkan penanganan kejadian luar biasa (KLB) campak di Indonesia dalam rapat bersama Komisi IX DPR RI. Pemerintah memprioritaskan vaksinasi bagi kelompok dewasa setelah adanya izin perluasan indikasi vaksin MR dari BPOM.",
+          "key_points": [
+            "Hingga pekan ke-11 tahun 2026, tercatat 58 KLB campak di 39 kabupaten/kota dengan 10 kasus kematian.",
+            "Kasus campak sempat mencapai 2.220 pada pekan pertama, namun menurun signifikan sebesar 93 persen pada pertengahan Maret 2026.",
+            "Sebanyak 8 persen kasus terjadi pada kelompok usia di atas 18 tahun yang memiliki risiko keparahan tinggi akibat komorbid dan paparan intens."
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 61
+    },
+    "timestamp": "2026-04-20T11:05:18.320070+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T11:07:51.229312+00:00",
+    "headline": "Penyitaan kapal kargo Iran oleh Amerika Serikat di Selat Hormuz memicu eskalasi ketegangan maritim yang berpotensi mengganggu stabilitas keamanan jalur perdagangan energi global.",
+    "top_stories": [
+      {
+        "id": 1,
+        "title": "Penyitaan Kapal Iran oleh Amerika Serikat",
+        "synthesis": [
+          "AS menyita kapal kargo Iran Touska di Selat Hormuz atas pelanggaran blokade laut.",
+          "Iran membatalkan perundingan diplomatik dengan AS di Pakistan pasca insiden penyitaan.",
+          "Tensi geopolitik meningkat, mengancam stabilitas jalur perdagangan minyak di Selat Hormuz."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Insiden ini memicu eskalasi militer langsung dan kegagalan proses diplomasi di kawasan strategis.",
+        "articles": [
+          {
+            "title": "US captures Iranian ship Touska amid mediation efforts: All we know",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-04-20T10:06:46+00:00",
+            "summary": "Militer Amerika Serikat menyita kapal kargo Iran bernama Touska karena dianggap melanggar blokade laut di Selat Hormuz. Aksi tersebut memicu ketegangan diplomatik dan menyebabkan Iran membatalkan rencana perundingan dengan AS di Pakistan.",
+            "key_points": [
+              "Militer AS melumpuhkan kapal Touska menggunakan kapal perusak USS Spruance karena kapal tersebut menolak mematuhi perintah untuk tidak melintasi Selat Hormuz.",
+              "Pihak Iran mengecam tindakan tersebut sebagai bentuk pembajakan dan mengancam akan melakukan pembalasan.",
+              "Touska merupakan kapal non-militer Iran pertama yang ditangkap oleh AS sejak dimulainya blokade laut sepekan yang lalu."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 47,
+        "title": "Rapat Kabinet Proyek Giant Sea Wall",
+        "synthesis": [
+          "Prabowo memimpin rapat terbatas percepatan proyek Giant Sea Wall Banten hingga Jawa Timur.",
+          "Proyek saat ini dalam tahap perencanaan strategis, kalkulasi sumber daya, dan analisis dampak lingkungan.",
+          "Konstruksi belum dimulai karena pemerintah memprioritaskan pematangan aspek teknis dan ekologis."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Proyek infrastruktur skala raksasa ini merupakan kebijakan strategis nasional dengan implikasi besar terhadap anggaran dan mitigasi banjir pesisir.",
+        "articles": [
+          {
+            "title": "Prabowo Rapat Terbatas Bahas Proyek Giant Sea Wall",
+            "source": "Tempo Nasional",
+            "url": "https://nasional.tempo.co/read/2099316/prabowo-rapat-terbatas-bahas-proyek-giant-sea-wall",
+            "category": "Politik",
+            "published_at": "2026-04-20T10:44:36+00:00",
+            "summary": "Presiden Prabowo Subianto memimpin rapat terbatas mengenai progres pembangunan proyek tanggul laut raksasa (giant sea wall) yang membentang dari Banten hingga Jawa Timur. Saat ini, pemerintah masih dalam tahap perencanaan dan perhitungan sumber daya serta aspek lingkungan sebelum memulai konstruksi.",
+            "key_points": [
+              "Pemerintah berencana membangun tanggul laut sepanjang 535 kilometer untuk mengatasi ancaman naiknya permukaan laut dan penurunan permukaan tanah.",
+              "Proyek yang diperkirakan memerlukan anggaran US$ 80 miliar ini belum mencapai keputusan final terkait waktu dimulainya pembangunan.",
+              "Pembangunan proyek ini menekankan pada pemanfaatan sumber daya serta perlindungan lingkungan, termasuk penanganan limbah."
+            ],
+            "cluster_id": 47
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "title": "Penawaran Saham Perdana Startup Cerebras",
+        "synthesis": [
+          "Cerebras Systems resmi mengajukan kembali dokumen IPO untuk melantai di bursa saham.",
+          "Jadwal IPO ditargetkan berlangsung pada pertengahan Mei setelah sempat tertunda tahun 2024.",
+          "Langkah ini mengikuti penyelesaian tinjauan federal yang sebelumnya menghambat proses penawaran umum."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "IPO Cerebras menandakan eskalasi kompetisi hardware AI yang signifikan bagi dominasi pasar NVIDIA.",
+        "articles": [
+          {
+            "title": "AI chip startup Cerebras files for IPO",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+            "category": "Teknologi",
+            "published_at": "2026-04-18T19:19:11+00:00",
+            "summary": "Perusahaan rintisan perangkat keras AI, Cerebras Systems, telah mengajukan penawaran umum perdana (IPO) yang dijadwalkan berlangsung pada pertengahan Mei. Langkah ini menyusul pengajuan sebelumnya pada tahun 2024 yang sempat tertunda dan ditarik karena adanya tinjauan federal.",
+            "key_points": [
+              "Cerebras Systems mencatatkan pendapatan sebesar $510 juta pada tahun 2025 dengan rencana IPO yang ditargetkan pada pertengahan Mei.",
+              "Perusahaan telah menjalin kemitraan strategis dengan Amazon Web Services dan OpenAI untuk penggunaan teknologi chip AI mereka.",
+              "Upaya IPO ini dilakukan setelah perusahaan mendapatkan pendanaan Seri H senilai $1 miliar dengan valuasi mencapai $23 miliar pada Februari lalu."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "title": "Banjir Darurat di Wellington Selandia Baru",
+        "synthesis": [
+          "Pemerintah Selandia Baru menetapkan status darurat di Wellington akibat banjir bandang ekstrem.",
+          "Otoritas mengevakuasi warga terdampak dan menghentikan operasional layanan publik di wilayah North Island.",
+          "Peringatan cuaca buruk masih berlanjut, berisiko memperluas dampak kerusakan infrastruktur di wilayah tersebut."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Banjir menyebabkan disrupsi layanan publik regional dan potensi kerusakan infrastruktur kritis di North Island.",
+        "articles": [
+          {
+            "title": "New Zealand declares state of emergency in Wellington as floods hit",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
+            "category": "Lingkungan",
+            "published_at": "2026-04-20T05:48:54+00:00",
+            "summary": "Pemerintah Selandia Baru menetapkan status darurat di Wellington akibat banjir bandang dan hujan deras yang melanda wilayah North Island. Otoritas setempat telah mengevakuasi belasan warga dan menghentikan beberapa layanan publik seiring dengan peringatan cuaca buruk yang masih berlanjut.",
+            "key_points": [
+              "Wellington mencatat curah hujan rekor sebesar 77mm dalam waktu kurang dari satu jam yang menyebabkan kerusakan infrastruktur dan longsor.",
+              "Belasan orang telah dievakuasi dan seorang pria berusia 60 tahun dilaporkan hilang, namun belum ada laporan mengenai korban jiwa.",
+              "Layanan penerbangan di Bandara Wellington dibatalkan dan sekolah-sekolah ditutup sebagai langkah antisipasi terhadap kondisi cuaca yang diprediksi berlanjut."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 25,
+        "title": "Hasil Laga Persijap vs Semen Padang",
+        "synthesis": [
+          "Semen Padang FC kalah 0-2 dari Persijap Jepara di Stadion H Agus Salim, Senin (20/4/2026).",
+          "Hasil pertandingan merupakan bagian dari rangkaian kompetisi BRI Super League.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Hasil ini merupakan dinamika rutin dalam kompetisi olahraga tanpa dampak signifikan bagi sektor di luar sepak bola.",
+        "articles": [
+          {
+            "title": "Semen Padang FC menyerah 0-2 dari Persijap Jepara",
+            "source": "Antara Terkini",
+            "url": "https://www.antaranews.com/foto/5534333/semen-padang-fc-menyerah-0-2-dari-persijap-jepara",
+            "category": "Olahraga",
+            "published_at": "2026-04-20T11:05:09+00:00",
+            "summary": "Semen Padang FC mengalami kekalahan 0-2 atas Persijap Jepara dalam pertandingan lanjutan BRI Super League. Laga tersebut diselenggarakan di Stadion H Agus Salim, Padang, pada Senin (20/4/2026).",
+            "key_points": [
+              "Semen Padang FC kalah 0-2 dari Persijap Jepara.",
+              "Pertandingan lanjutan BRI Super League berlangsung di Stadion H Agus Salim, Padang.",
+              "Laga tersebut dilaksanakan pada hari Senin, 20 April 2026."
+            ],
+            "cluster_id": 25
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Eksistensialisme Infrastruktur: Mitigasi Lingkungan dan Ketahanan Ekonomi Nasional",
+        "analysis": "Kaitan antara banjir bandang di Wellington dengan proyek Giant Sea Wall di Indonesia menunjukkan pergeseran paradigma global: infrastruktur pertahanan pesisir kini menjadi aset strategis untuk stabilitas ekonomi makro. Banjir Wellington memberikan sinyal peringatan tentang 'biaya kegagalan' (cost of inaction) bagi negara kepulauan. Bagi Indonesia, percepatan Giant Sea Wall bukan sekadar proyek konstruksi, melainkan langkah mitigasi terhadap potensi kerugian ekonomi masif di pusat gravitasi industri (Jawa). Kegagalan membangun ini akan memicu krisis pengungsian internal dan keruntuhan ekonomi di masa depan, yang pada gilirannya akan sangat membebani APBN dalam jangka panjang."
+      },
+      {
+        "title": "Kedaulatan Energi vs. Akselerasi AI: Paradoks Transisi Global",
+        "analysis": "Terdapat korelasi tersembunyi antara penyitaan kapal kargo Iran oleh AS dengan IPO Cerebras Systems. Eskalasi geopolitik di Selat Hormuz berisiko mengguncang harga minyak global (supply shock). Di sisi lain, Cerebras yang bergerak di sektor AI membutuhkan konsumsi energi yang sangat besar (data center). Kenaikan harga energi akibat ketegangan geopolitik di Timur Tengah akan meningkatkan biaya operasional infrastruktur komputasi AI. Jika biaya energi melambung, profitabilitas startup teknologi seperti Cerebras akan tertekan, yang berpotensi menurunkan valuasi pasar mereka pasca-IPO, menunjukkan bagaimana dinamika geopolitik Timur Tengah menjadi variabel penentu bagi keberhasilan startup teknologi di bursa saham AS."
+      }
+    ],
+    "other_news": {
+      "Hiburan": [
+        {
+          "title": "Jessie J: Tahun 2025, salah satu tahun tersulit dalam hidup",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5328883/jessie-j-tahun-2025-salah-satu-tahun-tersulit-dalam-hidup",
+          "category": "Hiburan",
+          "published_at": "2025-12-31T13:03:01+00:00",
+          "summary": "Penyanyi Jessie J mengungkapkan melalui media sosial bahwa tahun 2025 menjadi salah satu periode terberat sekaligus penuh keajaiban dalam hidupnya. Ia menekankan pentingnya mengekspresikan emosi, seperti menangis, dan menegaskan bahwa manusia tidak harus selalu terlihat bahagia atau positif.",
+          "key_points": [
+            "Jessie J mengaku mengalami tahun 2025 yang sangat sulit secara pribadi dan profesional hingga merasa berada di titik terendah.",
+            "Penyanyi berusia 37 tahun tersebut memutuskan untuk berhenti bekerja atau tampil di depan umum selama beberapa bulan terakhir.",
+            "Jessie J mengajak masyarakat untuk tidak memendam kesedihan dan menormalkan tindakan menangis sebagai bagian dari proses emosional yang sehat."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Kebakaran Gedung D Kemendagri Jaksel, dua karyawan alami luka ringan",
+          "source": "Antara Terkini",
+          "url": "https://www.antaranews.com/berita/5534331/kebakaran-gedung-d-kemendagri-jaksel-dua-karyawan-alami-luka-ringan",
+          "category": "Umum",
+          "published_at": "2026-04-20T11:03:01+00:00",
+          "summary": "Kebakaran melanda ruang server Gedung D Kementerian Dalam Negeri di Pasar Minggu, Jakarta Selatan, pada Senin siang. Insiden tersebut mengakibatkan dua karyawan mengalami luka ringan, sementara penyebab dan kerugian masih dalam proses pendalaman.",
+          "key_points": [
+            "Kebakaran terjadi di area seluas 12x14 meter persegi yang dimulai dari tumpukan barang bekas di luar gedung.",
+            "Sebanyak 19 unit mobil pemadam kebakaran dikerahkan untuk memadamkan api yang dilaporkan sejak pukul 13.38 WIB.",
+            "Dua orang karyawan mengalami luka ringan akibat peristiwa tersebut."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Minyak Rusia Tiba-Tiba Jadi Rebutan, Dulu Mati Kini Banjir Cuan",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260420114200-128-728140/minyak-rusia-tiba-tiba-jadi-rebutan-dulu-mati-kini-banjir-cuan",
+          "category": "Ekonomi",
+          "published_at": "2026-04-20T10:30:23+00:00",
+          "summary": "Permintaan minyak Rusia meningkat pesat seiring dengan kenaikan harga minyak global akibat gangguan di Selat Hormuz. Kondisi ini didukung oleh pencabutan sanksi perdagangan terhadap Rusia oleh Presiden AS Donald Trump yang memulihkan sektor energi negara tersebut.",
+          "key_points": [
+            "Gangguan di Selat Hormuz menyebabkan lonjakan harga minyak dunia, dengan Brent mencapai US$94,99 dan WTI US$88,77 per barel pada 20 April 2026.",
+            "Banyak negara, termasuk negara-negara Asia Tenggara seperti Indonesia, Filipina, Vietnam, dan Malaysia, mulai memburu pasokan minyak dari Rusia.",
+            "Pencabutan sanksi perdagangan oleh Presiden AS Donald Trump dinilai menjadi faktor utama yang membangkitkan kembali sektor energi Rusia setelah sempat tertekan pada 2025."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Video: Bahlil Umumkan Cadangan Gas Raksasa 5 Triliun Kaki Kubik",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260420162709-8-728263/video-bahlil-umumkan-cadangan-gas-raksasa-5-triliun-kaki-kubik",
+          "category": "Ekonomi",
+          "published_at": "2026-04-20T10:22:00+00:00",
+          "summary": "Menteri ESDM Bahlil Lahadalia mengumumkan penemuan cadangan gas bumi berskala besar di sumur Geliga, Kutai, Kalimantan Timur. Temuan ini dilaporkan memiliki volume cadangan gas mencapai 5 triliun kaki kubik.",
+          "key_points": [
+            "Menteri ESDM Bahlil Lahadalia mengumumkan penemuan cadangan gas raksasa.",
+            "Lokasi penemuan berada di sumur Geliga, wilayah kerja Ganal, Kutai, Kalimantan Timur.",
+            "Besaran cadangan gas yang ditemukan mencapai 5 triliun kaki kubik."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Apple withholds data in India antitrust case, watchdog sets final hearing",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/",
+          "category": "Hukum",
+          "published_at": "2026-04-20T09:38:50+00:00",
+          "summary": "Artikel tersebut menyajikan beragam topik yang tidak saling terkait, mulai dari isu geopolitik internasional hingga ulasan mengenai keamanan produk perawatan kulit di Singapura. Konten ini juga mencakup catatan mengenai kendala teknis peramban bagi pengguna situs web.",
+          "key_points": [
+            "Terdapat laporan mengenai aktivitas militer terkait penyitaan kapal oleh pihak Amerika Serikat dan tuduhan pelanggaran gencatan senjata oleh Iran.",
+            "Terdapat profil mengenai kontribusi Chong Kwek Bin dalam membantu penyandang disabilitas di Singapura dan laporan mengenai risiko produk perawatan kulit palsu di pasar e-commerce.",
+            "Situs web memberikan pemberitahuan teknis kepada pengguna untuk memperbarui peramban atau mengunduh aplikasi seluler agar pengalaman akses tetap optimal."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Harga dan Spesifikasi Motorola Edge 70 Fusion, Naik Kelas dari Sebelumnya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8453033/harga-dan-spesifikasi-motorola-edge-70-fusion-naik-kelas-dari-sebelumnya",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T09:55:10+00:00",
+          "summary": "Motorola resmi meluncurkan Edge 70 Fusion di Indonesia dengan sejumlah peningkatan spesifikasi dari generasi sebelumnya, termasuk penggunaan prosesor Snapdragon 7s Gen 4 dan baterai berkapasitas 7.000 mAh. Ponsel ini dipasarkan dengan harga khusus Rp5.999.000 serta dukungan pembaruan sistem operasi dan keamanan selama lima tahun.",
+          "key_points": [
+            "Peningkatan spesifikasi mencakup chipset Snapdragon 7s Gen 4, baterai 7.000 mAh, serta layar AMOLED 6,78 inci dengan refresh rate 144Hz.",
+            "Perangkat ini dilengkapi kamera utama 50 MP dengan sensor Sony Lytia 710 dan beroperasi menggunakan sistem Android 16 dengan antarmuka Hello UI.",
+            "Motorola Edge 70 Fusion dijual di Indonesia dengan konfigurasi memori 8 GB/256 GB dan harga promosi Rp5.999.000."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Motorola Edge 70 Fusion Harga Rp 5,9 Juta, Janji Hasil Prima Buat Low Light",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8452896/motorola-edge-70-fusion-harga-rp-5-9-juta-janji-hasil-prima-buat-low-light",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T09:01:02+00:00",
+          "summary": "Motorola Edge 70 Fusion diluncurkan dengan harga Rp 5,9 juta dan menawarkan keunggulan pada kemampuan kamera untuk kondisi minim cahaya. Ponsel ini dilengkapi layar AMOLED 6,78 inci serta ditenagai oleh prosesor Snapdragon 7s Gen 4 dengan sistem operasi Android 16.",
+          "key_points": [
+            "Motorola Edge 70 Fusion dibanderol seharga Rp 5,9 juta dengan dukungan pengisian daya 68W TurboPower.",
+            "Spesifikasi layar mencakup panel AMOLED 6,78 inci, refresh rate 144Hz, dan tingkat kecerahan puncak 5.200 nits.",
+            "Perangkat ini mengandalkan konfigurasi kamera utama 50 MP dengan sensor Sony LYTIA 710 serta prosesor Snapdragon 7s Gen 4."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Kenapa Penyakit Ginjal Baru Ketahuan saat Organ Sudah Nyaris Rusak? Ini Kata Ahli",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8452464/kenapa-penyakit-ginjal-baru-ketahuan-saat-organ-sudah-nyaris-rusak-ini-kata-ahli",
+          "category": "Kesehatan",
+          "published_at": "2026-04-20T06:01:30+00:00",
+          "summary": "Penyakit ginjal kronis sering kali tidak bergejala pada tahap awal, sehingga banyak pasien baru mencari pertolongan medis setelah kerusakan ginjal mencapai stadium lanjut. Kondisi ini dipicu terutama oleh diabetes dan hipertensi, serta sering tidak terdeteksi karena gejalanya dianggap keluhan kesehatan umum.",
+          "key_points": [
+            "Diabetes dan hipertensi merupakan dua penyebab utama penyakit ginjal kronis yang menyumbang mayoritas kasus.",
+            "Gejala awal penyakit ginjal kronis sering kali tidak dirasakan atau disalahartikan sebagai kelelahan, stres, atau perubahan hormon.",
+            "Hasil tes kreatinin pada wanita memerlukan interpretasi khusus karena perbedaan massa otot dibandingkan pria yang dapat menyembunyikan tanda penurunan fungsi ginjal."
+          ],
+          "cluster_id": 4
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Top Skor Liga Inggris: Haaland Akhiri Puasa Gol, Jauhi Igor Thiago!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8452937/top-skor-liga-inggris-haaland-akhiri-puasa-gol-jauhi-igor-thiago",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T10:40:00+00:00",
+          "summary": "Erling Haaland kembali mencetak gol saat menghadapi Arsenal untuk memperkokoh posisinya sebagai pencetak gol terbanyak Liga Inggris 2026 dengan 23 gol. Saat ini, ia unggul tipis atas Igor Thiago yang berada di posisi kedua dengan perolehan 21 gol.",
+          "key_points": [
+            "Erling Haaland memimpin daftar top skor Liga Inggris 2026 dengan total 23 gol setelah sempat mengalami paceklik gol dalam tiga laga.",
+            "Igor Thiago menempati posisi kedua dalam daftar pencetak gol terbanyak dengan koleksi 21 gol untuk Brentford.",
+            "Antoine Semenyo berada di urutan ketiga dengan 15 gol, yang dicetaknya selama musim 2025/2026 bersama Bournemouth dan Manchester City."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Ironi Tendangan Kungfu: Tepat Momen Ultah PSSI, Libatkan Pemain Eks-Timnas",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8452811/ironi-tendangan-kungfu-tepat-momen-ultah-pssi-libatkan-pemain-eks-timnas",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T09:40:35+00:00",
+          "summary": "Pemain Bhayangkara FC, Fadly Alberto, melakukan tindakan kekerasan berupa tendangan kepada pemain Dewa United saat laga Elite Pro Academy U-20. Insiden tersebut terjadi bertepatan dengan momen HUT ke-96 PSSI dan memicu reaksi keras dari jajaran pimpinan federasi.",
+          "key_points": [
+            "Pemain Bhayangkara FC sekaligus eks-timnas U-17, Fadly Alberto, terekam melakukan tendangan kungfu terhadap pemain Dewa United dalam laga EPA U-20.",
+            "Peristiwa kekerasan tersebut terjadi pada 19 April 2026, bertepatan dengan peringatan HUT ke-96 PSSI.",
+            "PSSI mengutuk keras tindakan tersebut dan telah meminta Komite Disiplin untuk segera melakukan sidang guna menjatuhkan sanksi berat."
+          ],
+          "cluster_id": 8
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 72
+    },
+    "timestamp": "2026-04-20T11:07:51.229312+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T11:10:57.708580+00:00",
+    "headline": "Pengajuan dokumen IPO oleh Cerebras Systems di tengah momentum sektor kecerdasan buatan memicu antisipasi pasar terhadap valuasi perusahaan chip AI di bursa global.",
+    "top_stories": [
+      {
+        "id": 1,
+        "title": "IPO Startup Chip AI Cerebras",
+        "synthesis": [
+          "Cerebras Systems resmi mengajukan dokumen IPO setelah sebelumnya sempat menunda rencana penawaran tersebut.",
+          "Perusahaan menargetkan melantai di bursa saham pada pertengahan Mei mendatang.",
+          "Cerebras mencatatkan pendapatan sebesar $510 juta sepanjang tahun 2025."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "IPO ini menandai pergeseran kompetisi pasar perangkat keras AI menantang dominasi NVIDIA.",
+        "articles": [
+          {
+            "title": "AI chip startup Cerebras files for IPO",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+            "category": "Teknologi",
+            "published_at": "2026-04-18T19:19:11+00:00",
+            "summary": "Startup perangkat keras AI, Cerebras Systems, telah mengajukan dokumen penawaran umum perdana (IPO) setelah sempat menunda rencana serupa pada tahun 2024. Perusahaan berencana melantai di bursa pada pertengahan Mei mendatang setelah mencatatkan pendapatan sebesar $510 juta pada tahun 2025.",
+            "key_points": [
+              "Cerebras mengajukan IPO menyusul pembatalan rencana serupa tahun lalu akibat peninjauan federal terkait investasi dari G42.",
+              "Perusahaan telah menjalin kerja sama strategis dengan Amazon Web Services dan OpenAI untuk penggunaan chip AI mereka.",
+              "Laporan keuangan menunjukkan pendapatan perusahaan mencapai $510 juta dengan laba bersih sebesar $237,8 juta pada tahun 2025."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 35,
+        "title": "Penanganan Invasif Ikan Sapu-sapu",
+        "synthesis": [
+          "Pemprov DKI Jakarta menetapkan ikan sapu-sapu sebagai spesies invasif yang mengancam ekosistem perairan lokal.",
+          "Tingkat adaptasi tinggi dan ketiadaan predator alami memicu ledakan populasi ikan sapu-sapu di Jakarta.",
+          "Pemerintah mendorong pemusnahan massal untuk melindungi keberlangsungan populasi ikan asli."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kebijakan ini berdampak pada keseimbangan ekosistem perairan lokal dan potensi perubahan manajemen sumber daya perikanan regional.",
+        "articles": [
+          {
+            "title": "Ini Sebab Ilmiah Kenapa Ikan Sapu-sapu Invasif, Pantas Dimusnahkan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8452548/ini-sebab-ilmiah-kenapa-ikan-sapu-sapu-invasif-pantas-dimusnahkan",
+            "category": "Lingkungan",
+            "published_at": "2026-04-20T06:29:28+00:00",
+            "summary": "Pemprov DKI Jakarta mendorong pemusnahan ikan sapu-sapu karena statusnya sebagai spesies invasif yang mengancam ekosistem perairan lokal. Penelitian menunjukkan bahwa kemampuan adaptasi yang tinggi dan minimnya predator alami membuat populasi ikan ini meledak serta merugikan ikan asli.",
+            "key_points": [
+              "Ikan sapu-sapu menyebabkan penurunan populasi ikan lokal akibat persaingan sumber daya dan penularan penyakit.",
+              "Kemampuan adaptasi yang tinggi, reproduksi cepat, dan ketiadaan predator alami menjadikan ikan ini sangat invasif.",
+              "Pelepasan ikan peliharaan secara sembarangan ke alam bebas dianggap sebagai faktor risiko yang harus dihentikan dengan pengelolaan lingkungan yang efektif."
+            ],
+            "cluster_id": 35
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "title": "Keluarnya Danielle Marsh dari NewJeans",
+        "synthesis": [
+          "ADOR resmi memutus kontrak eksklusif Danielle Marsh dari NewJeans per 29 Desember.",
+          "Pemutusan dilakukan akibat pelanggaran kontrak yang dianggap tidak dapat ditoleransi agensi.",
+          "Keluarnya Danielle mengubah komposisi grup NewJeans secara permanen di bawah ADOR."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Perubahan personel grup K-Pop papan atas berdampak signifikan pada struktur industri hiburan dan nilai komersial agensi.",
+        "articles": [
+          {
+            "title": "Mengenal Danielle Marsh, mantan member NewJeans yang dikeluarkan ADOR",
+            "source": "Antara Hiburan",
+            "url": "https://www.antaranews.com/berita/5327299/mengenal-danielle-marsh-mantan-member-newjeans-yang-dikeluarkan-ador",
+            "category": "Hiburan",
+            "published_at": "2025-12-30T12:29:05+00:00",
+            "summary": "Agensi ADOR secara resmi mengumumkan pemutusan kontrak eksklusif Danielle Marsh sebagai anggota NewJeans pada Senin (29/12). Keputusan ini diambil karena adanya pelanggaran kontrak yang dinilai tidak dapat ditoleransi oleh pihak agensi.",
+            "key_points": [
+              "ADOR memutuskan kontrak kerja sama dengan Danielle Marsh per tanggal 29 Desember.",
+              "Pemutusan kontrak dilakukan karena adanya pelanggaran ketentuan kerja sama yang dianggap tidak dapat ditoleransi.",
+              "Danielle Marsh mengawali kariernya sebagai trainee di ADOR pada 2020 sebelum akhirnya debut bersama NewJeans pada 2022."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "title": "Persaingan Liga Inggris Manchester City-Arsenal",
+        "synthesis": [
+          "Manchester City mengalahkan Arsenal 2-1 di Etihad Stadium.",
+          "City memangkas selisih poin menjadi tiga angka dari puncak klasemen.",
+          "Persaingan gelar juara Premier League kembali terbuka ketat."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Hasil laga mengubah peta persaingan gelar juara liga sepak bola paling kompetitif secara signifikan.",
+        "articles": [
+          {
+            "title": "Karena City Tahu Bakal Habis kalau Sampai Gagal Kalahkan Arsenal",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8452809/karena-city-tahu-bakal-habis-kalau-sampai-gagal-kalahkan-arsenal",
+            "category": "Olahraga",
+            "published_at": "2026-04-20T10:00:17+00:00",
+            "summary": "Manchester City berhasil mengalahkan Arsenal dengan skor 2-1 dalam laga Premier League di Etihad Stadium. Kemenangan ini membuat City memangkas jarak poin menjadi tiga angka dari Arsenal di puncak klasemen sementara.",
+            "key_points": [
+              "Manchester City menang 2-1 atas Arsenal untuk menjaga peluang dalam perebutan gelar juara Liga Inggris.",
+              "Para pemain Manchester City tetap tenang karena memiliki bekal pengalaman dari pertandingan sebelumnya.",
+              "City kini terpaut tiga poin dari Arsenal dan masih memiliki satu laga tunda melawan Burnley."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "title": "Etika Penggunaan AI Akademik",
+        "synthesis": [
+          "Rektor Unhas menekankan pentingnya integrasi etika dan perlindungan hukum dalam pemanfaatan teknologi AI.",
+          "Perguruan tinggi wajib mendorong literasi digital untuk memastikan penggunaan AI yang bertanggung jawab.",
+          "Terdapat urgensi penyeimbangan inovasi teknologi dengan kesadaran moral bagi generasi muda."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Pernyataan ini merupakan imbauan akademis normatif yang belum berdampak pada perubahan kebijakan operasional atau sistemik.",
+        "articles": [
+          {
+            "title": "Rektor Unhas: AI perlu keseimbangan teknologi dan kesadaran etis",
+            "source": "Antara Terkini",
+            "url": "https://www.antaranews.com/berita/5534335/rektor-unhas-ai-perlu-keseimbangan-teknologi-dan-kesadaran-etis",
+            "category": "Teknologi",
+            "published_at": "2026-04-20T11:06:48+00:00",
+            "summary": "Rektor Universitas Hasanuddin, Prof. Jamaluddin Jompa, menekankan pentingnya menjaga keseimbangan antara inovasi teknologi kecerdasan buatan (AI) dengan kesadaran etis serta perlindungan hukum. Perguruan tinggi diharapkan berperan aktif dalam membekali generasi muda melalui literasi digital agar teknologi AI dapat dimanfaatkan secara bijak dan bertanggung jawab.",
+            "key_points": [
+              "Perkembangan AI yang pesat memicu risiko baru seperti disinformasi, pelanggaran privasi, dan penciptaan realitas sintetis (deepfake).",
+              "Pemanfaatan AI memerlukan pendekatan normatif yang mengedepankan nilai kebenaran, transparansi, serta kerangka hukum yang adaptif.",
+              "Universitas Hasanuddin memposisikan literasi digital sebagai elemen krusial untuk membekali mahasiswa dalam menghadapi disrupsi teknologi."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Evolusi Infrastruktur Digital dan Krisis Etika Akademik",
+        "analysis": "Terdapat kaitan strategis antara IPO Cerebras dan diskursus etika AI di Unhas. IPO Cerebras merepresentasikan akselerasi komersialisasi perangkat keras AI yang menurunkan 'biaya akses' terhadap komputasi tinggi. Ketika teknologi AI menjadi semakin terjangkau dan masif, institusi pendidikan seperti Unhas menghadapi ancaman eksistensial terhadap integritas akademik. Kaitan ini menunjukkan bahwa kemajuan pesat di sektor teknologi (chip AI) sering kali mendahului kesiapan kerangka etika dan hukum sosial, menciptakan disrupsi yang memaksa dunia pendidikan untuk meredefinisi ulang standar objektivitas manusia di tengah dominasi mesin."
+      },
+      {
+        "title": "Ekonomi Perhatian (Attention Economy) dan Efek Substitusi Budaya",
+        "analysis": "Keluarnya Danielle Marsh dari NewJeans dan hasil pertandingan Manchester City-Arsenal adalah dua sisi dari 'ekonomi perhatian' global. Keduanya bersaing memperebutkan alokasi waktu dan loyalitas audiens yang terbatas. Secara ekonomi, pergeseran dalam hiburan populer (K-Pop) dan olahraga elit mencerminkan dinamika monetisasi merek global yang sangat rentan terhadap volatilitas figur publik. Kegagalan atau perubahan dalam salah satu sektor ini (seperti krisis ADOR) sering kali memicu pergeseran modal iklan dan audiens ke platform atau hiburan lain, menunjukkan bahwa 'soft power' sebuah negara sangat bergantung pada stabilitas entitas budayanya."
+      }
+    ],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Plt Sekda Cilegon Pantau Pelaksanaan TKA Siswa di SDN Sumampir",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099318/plt-sekda-cilegon-pantau-pelaksanaan-tka-siswa-di-sdn-sumampir",
+          "category": "Umum",
+          "published_at": "2026-04-20T10:57:40+00:00",
+          "summary": "Plt Sekretaris Daerah Kota Cilegon, Ahmad Aziz Setia Ade Putra, memantau pelaksanaan Tes Kemampuan Akademik (TKA) bagi siswa kelas VI di SDN Sumampir pada Senin, 20 April 2026. Pelaksanaan tes tersebut berjalan dengan tertib dan hasilnya dapat digunakan siswa sebagai acuan untuk mendaftar ke jenjang SMP, khususnya melalui jalur prestasi.",
+          "key_points": [
+            "Pelaksanaan TKA bagi siswa kelas VI di SDN Sumampir dibagi menjadi tiga sesi dan diikuti peserta dengan tertib.",
+            "Hasil TKA dapat dimanfaatkan oleh siswa sebagai salah satu syarat untuk mendaftar ke jenjang SMP melalui jalur prestasi.",
+            "Meskipun TKA tidak bersifat wajib bagi siswa, seluruh peserta didik kelas VI dari 184 SD di Kota Cilegon berpartisipasi karena tingginya antusiasme."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Oil prices rise after Trump says Iranian ship seized",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T08:41:12+00:00",
+          "summary": "Harga minyak mentah Brent melonjak lebih dari 6% setelah Presiden AS Donald Trump menyatakan bahwa angkatan laut AS telah menyita sebuah kapal kargo berbendera Iran. Ketegangan meningkat seiring dengan penutupan kembali Selat Hormuz oleh Iran sebagai respons atas tindakan tersebut.",
+          "key_points": [
+            "Harga minyak mentah Brent naik menjadi sekitar $96 per barel akibat konflik penyitaan kapal dan penutupan Selat Hormuz.",
+            "Iran menyatakan penutupan kembali Selat Hormuz dan mengancam akan menargetkan kapal apa pun yang mendekat setelah adanya blokade AS.",
+            "Terdapat ketidakpastian mengenai rencana negosiasi antara AS dan Iran yang dijadwalkan berlangsung di Pakistan."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "New Zealand declares state of emergency in Wellington as floods hit",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T05:48:54+00:00",
+          "summary": "Pemerintah Selandia Baru menetapkan status darurat di ibu kota Wellington menyusul hujan deras dan banjir bandang yang melanda North Island. Bencana ini menyebabkan evakuasi warga, pembatalan penerbangan, penutupan sekolah, serta hilangnya seorang pria berusia 60 tahun.",
+          "key_points": [
+            "Wellington mencatat rekor curah hujan 77 mm dalam waktu kurang dari satu jam yang memicu banjir bandang dan tanah longsor.",
+            "Otoritas telah mengevakuasi lebih dari selusin orang dan melaporkan satu orang hilang di pinggiran kota Karori.",
+            "Bencana ini terjadi kurang dari seminggu setelah North Island dilanda Siklon Vaianu, dengan prakiraan cuaca buruk yang masih akan berlanjut."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Jessie J: Tahun 2025, salah satu tahun tersulit dalam hidup",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5328883/jessie-j-tahun-2025-salah-satu-tahun-tersulit-dalam-hidup",
+          "category": "Hiburan",
+          "published_at": "2025-12-31T13:03:01+00:00",
+          "summary": "Penyanyi Jessie J mengungkapkan melalui media sosial bahwa tahun 2025 menjadi salah satu periode terberat dalam hidupnya. Ia menekankan pentingnya menerima emosi negatif dan kesedihan sebagai bagian dari proses manusiawi, alih-alih selalu menuntut diri untuk terlihat bahagia.",
+          "key_points": [
+            "Jessie J mengaku tahun 2025 merupakan salah satu tahun tersulit sekaligus paling penuh keajaiban dalam hidupnya secara pribadi maupun profesional.",
+            "Penyanyi tersebut sempat berhenti bekerja selama berbulan-bulan dan mengalami titik terendah emosional yang membuatnya banyak menangis untuk melepas beban yang dipendam.",
+            "Jessie J menyatakan bahwa menangis adalah hal yang normal dan sehat, serta mengingatkan agar orang tidak memaksakan diri untuk selalu terlihat baik-baik saja."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Menkes: Vaksinasi HPV Diperluas ke Laki-laki Mulai Tahun ini",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099313/menkes-vaksinasi-hpv-diperluas-ke-laki-laki-mulai-tahun-ini",
+          "category": "Kesehatan",
+          "published_at": "2026-04-20T10:36:00+00:00",
+          "summary": "Kementerian Kesehatan akan memperluas cakupan vaksinasi HPV kepada laki-laki mulai tahun ini untuk menekan angka penularan kanker serviks di Indonesia. Langkah ini diambil karena laki-laki berperan sebagai pembawa virus dan pemberian vaksin kepada kedua gender dinilai lebih efektif memutus rantai penularan.",
+          "key_points": [
+            "Vaksinasi HPV kini diperluas bagi laki-laki untuk menekan penularan virus penyebab kanker serviks.",
+            "Data dari berbagai negara menunjukkan vaksinasi kepada laki-laki dan perempuan lebih efektif dalam memutus rantai penularan dibanding hanya menyasar perempuan.",
+            "Perluasan sasaran vaksinasi ke laki-laki diharapkan dapat meningkatkan penerimaan publik terhadap program vaksinasi HPV nasional."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Cerita Pria Jakbar Kena Serangan Jantung di Usia 37 saat Main Padel",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8452918/cerita-pria-jakbar-kena-serangan-jantung-di-usia-37-saat-main-padel",
+          "category": "Kesehatan",
+          "published_at": "2026-04-20T09:04:10+00:00",
+          "summary": "Seorang pria berusia 37 tahun bernama Marcel Judodihardjo mengalami serangan jantung saat beristirahat setelah bermain padel. Setelah mendapatkan penanganan darurat di UGD, diketahui bahwa serangan tersebut disebabkan oleh plak tidak stabil yang robek dan memicu penggumpalan darah.",
+          "key_points": [
+            "Gejala yang dirasakan Marcel meliputi detak jantung cepat, pucat, keringat dingin, serta dada terasa tertekan tanpa rasa nyeri.",
+            "Pemeriksaan medis menunjukkan serangan jantung dipicu oleh plak tidak stabil yang robek, bukan plak tebal yang mengeras.",
+            "Marcel mengidentifikasi kurangnya kualitas tidur akibat kondisi sleep apnea yang diabaikan sebagai salah satu faktor risiko kesehatan yang dimilikinya."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Ontario Premier Doug Ford agrees to sell $21m private jet following outcry",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cdxd8g47wnlo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-04-19T19:25:22+00:00",
+          "summary": "Perdana Menteri Ontario, Doug Ford, memutuskan untuk segera menjual pesawat jet pribadi seharga C$28,9 juta yang baru saja dibeli pemerintah provinsi tersebut. Keputusan ini diambil setelah Ford menerima kritik tajam dari lawan politik dan publik yang menganggap pengeluaran tersebut tidak tepat di tengah kondisi ekonomi saat ini.",
+          "key_points": [
+            "Pemerintah Ontario sedang memproses penjualan pesawat Bombardier Challenger 650 yang dibeli seharga C$28,9 juta.",
+            "Doug Ford menyatakan bahwa keputusan menjual pesawat tersebut diambil karena ia mengakui waktu pembelian yang tidak tepat.",
+            "Lawan politik dan kelompok advokasi pembayar pajak mengkritik pembelian pesawat tersebut sebagai pemborosan dan tindakan yang tidak peka terhadap kondisi masyarakat."
+          ],
+          "cluster_id": 4
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Pigai pastikan anak korban penembakan di Papua dapat perawatan layak",
+          "source": "Antara Terkini",
+          "url": "https://www.antaranews.com/berita/5534348/pigai-pastikan-anak-korban-penembakan-di-papua-dapat-perawatan-layak",
+          "category": "Hukum",
+          "published_at": "2026-04-20T11:08:46+00:00",
+          "summary": "Menteri HAM Natalius Pigai memastikan anak-anak korban penembakan di Kabupaten Puncak, Papua Tengah, telah mendapatkan perawatan intensif di rumah sakit. Kementerian HAM kini mengambil alih penanganan kasus tersebut untuk melakukan investigasi transparan terkait identitas pelaku dan motif baku tembak yang menyebabkan 15 warga sipil tewas.",
+          "key_points": [
+            "Tujuh warga mengalami luka-luka akibat baku tembak antara aparat dan TNPPB, tiga di antaranya adalah anak-anak.",
+            "Peristiwa penembakan di Kampung Kembru tersebut mengakibatkan 15 warga sipil meninggal dunia.",
+            "Kementerian HAM mengambil alih kasus ini guna memastikan penyelidikan dilakukan secara transparan dan adil bagi masyarakat."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Man who hacked US Supreme Court filing system sentenced to probation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/17/man-who-hacked-us-supreme-court-filing-system-sentenced-to-probation/",
+          "category": "Hukum",
+          "published_at": "2026-04-17T20:16:13+00:00",
+          "summary": "Nicholas Moore dijatuhi hukuman satu tahun masa percobaan setelah mengaku bersalah meretas sistem pengarsipan dokumen Mahkamah Agung AS serta jaringan lembaga pemerintah lainnya. Ia juga terbukti mengunggah informasi pribadi para korbannya ke akun Instagram pribadinya.",
+          "key_points": [
+            "Nicholas Moore meretas sistem pengarsipan elektronik Mahkamah Agung AS, AmeriCorps, dan Departemen Urusan Veteran menggunakan kredensial curian.",
+            "Terdakwa membagikan data pribadi para korban melalui akun Instagram bernama @ihackedthegovernment.",
+            "Jaksa penuntut awalnya mengusulkan hukuman penjara dan denda, namun akhirnya meminta hukuman berupa masa percobaan."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Harga dan Spesifikasi Motorola Edge 70 Fusion, Naik Kelas dari Sebelumnya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8453033/harga-dan-spesifikasi-motorola-edge-70-fusion-naik-kelas-dari-sebelumnya",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T09:55:10+00:00",
+          "summary": "Motorola meluncurkan ponsel Edge 70 Fusion di Indonesia dengan berbagai peningkatan spesifikasi dari generasi sebelumnya, termasuk pada sektor chipset dan kapasitas baterai. Perangkat ini dipasarkan dengan harga khusus peluncuran sebesar Rp5.999.000 dari harga normal Rp6.299.000.",
+          "key_points": [
+            "Motorola Edge 70 Fusion ditenagai Snapdragon 7s Gen 4 dengan peningkatan CPU 20% dan kapasitas baterai sebesar 7.000 mAh.",
+            "Layar perangkat menggunakan panel 6,78 inch extreme AMOLED dengan refresh rate hingga 144Hz dan kecerahan puncak 5.200 nits.",
+            "Perangkat menjalankan sistem operasi Android 16 dengan jaminan upgrade versi Android dan patch keamanan selama 5 tahun."
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 79
+    },
+    "timestamp": "2026-04-20T11:10:57.708580+00:00"
   }
 ]
