@@ -14,10 +14,14 @@ from google.api_core.exceptions import ResourceExhausted
 
 
 SUMMARIZE_AND_EXTRACT_PROMPT = """
-Kamu adalah editor berita profesional.
+Kamu adalah editor berita profesional yang sangat teliti.
 
 Ringkas artikel berikut dalam 2-3 kalimat Bahasa Indonesia yang netral.
 Lalu ekstrak tepat 3 poin penting.
+
+INSTRUKSI KETAT:
+1. HANYA gunakan informasi yang ada di teks. JANGAN menambahkan pengetahuan luar (Anti-Hallucination).
+2. Gunakan bahasa yang lugas dan objektif.
 
 Judul: {title}
 Konten: {content}
@@ -30,14 +34,19 @@ Kembalikan JSON valid dengan format:
 """.strip()
 
 HEADLINE_PROMPT = """
-Kamu adalah Analis Intelijen Senior. 
-Berdasarkan ringkasan berita berikut, buatlah SATU kalimat "Global Headline" yang sangat profesional, analitis, dan memiliki bobot intelijen dalam Bahasa Indonesia.
+Kamu adalah Analis Intelijen Senior yang bertugas memberikan rangkuman strategis harian.
 
-Kalimat tersebut harus:
-1. Menyintesis tren utama atau benang merah dari berita-berita paling penting.
-2. Menggunakan kosakata profesional (Contoh: Geopolitik, Eskalasi, Volatilitas, Sentimen Pasar, Disrupsi).
-3. Menjelaskan hubungan sebab-akibat jika memungkinkan (Contoh: "A terjadi seiring B, memicu dampak C").
-4. Menghindari gaya bahasa portal berita umum atau clickbait.
+Berdasarkan data berita berikut, buatlah SATU kalimat "Global Headline" yang padat, informatif, dan langsung merujuk pada peristiwa atau subjek nyata yang paling signifikan. 
+
+Kalimat tersebut HARUS:
+1. Menghindari abstraksi berlebihan atau kumpulan buzzword generik.
+2. Menyebutkan aktor, lokasi, atau sektor spesifik jika memungkinkan.
+3. Menggunakan struktur sebab-akibat yang jelas: [Peristiwa Nyata/Tren Utama] memicu [Dampak Spesifik].
+4. Profesional namun tetap mudah dipahami.
+5. HANYA mengembalikan teks murni. JANGAN gunakan format markdown (seperti **teks**), JANGAN gunakan label seperti "Global Headline:", dan JANGAN gunakan tanda kutip di awal dan akhir kalimat.
+
+Contoh Output yang BENAR: Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.
+Contoh Output yang SALAH: **Global Headline:** "Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global."
 
 Data:
 {digest_context}
@@ -45,28 +54,78 @@ Data:
 Global Headline:
 """.strip()
 
-NAMING_PROMPT = """
-Berdasarkan daftar judul berita berikut yang berada dalam satu klaster topik, buatkan SATU nama topik yang singkat dan padat (2-4 kata) dalam Bahasa Indonesia.
-Jangan gunakan titik di akhir.
+BATCH_NAMING_PROMPT = """
+Berdasarkan daftar berita di bawah ini, berikan NAMA TOPIK (2-5 kata) untuk setiap klaster.
 
-Judul:
-{titles}
+INSTRUKSI KHUSUS:
+1. Judul harus spesifik, deskriptif, dan merujuk pada subjek nyata/peristiwa (Bukan abstrak).
+2. HINDARI kata-kata klise/abstrak: "Dinamika Global", "Jendela Waktu", "Langkah Strategis", "Tantangan Baru".
+3. CONTOH BAGUS: "Krisis Logistik Selat Hormuz", "Akuisisi Startup AI X", "Lonjakan Harga Minyak Dunia".
 
-Nama Topik:
+Daftar Klaster:
+{clusters_data}
+
+Kembalikan HANYA dalam format JSON:
+[
+  {{"id": 0, "name": "..."}},
+  {{"id": 1, "name": "..."}}
+]
 """.strip()
 
 STORY_SYNTHESIS_PROMPT = """
-Kamu adalah analis intelijen berita senior.
-Tugas kamu adalah memberikan "Intelligence Brief" singkat berdasarkan daftar berita dalam satu topik tren yang sama.
+Kamu adalah analis intelijen berita senior yang fokus pada efisiensi informasi.
+Tugas kamu adalah memberikan "Intelligence Brief" yang sangat padat dan fokus pada dampak nyata.
 
-Buatlah TEPAT 3 poin bullet (Bahasa Indonesia) yang mensintesis inti permasalahan, kaitan antar berita, dan dampaknya.
-Gunakan nada bicara profesional, padat, dan analitis.
+INSTRUKSI KETAT:
+1. Singkat & Padat: Max 15-20 kata per poin.
+2. Fokus Dampak: Langsung ke info penting, jangan gunakan kalimat pembuka yang basa-basi.
+3. ANTI-HALUSINASI: Jangan tambahkan angka atau proyeksi yang tidak ada di sumber berita.
+
+Kembalikan respon JSON:
+{{
+  "synthesis": ["poin 1 penting", "poin 2 penting", "poin 3 penting"],
+  "impact_level": "HIGH" | "MEDIUM" | "LOW",
+  "impact_reason": "Alasan singkat (1 kalimat)."
+}}
+
+Kriteria Impact:
+- HIGH: Disrupsi sistemik, konflik aktif, atau kebijakan nasional krusial.
+- MEDIUM: Pergeseran industri signifikan atau isu regional penting.
+- LOW: Update rutin tanpa efek domino besar.
 
 Daftar Berita:
 {summaries}
 
 Intelligence Brief:
 """.strip()
+
+CORRELATION_PROMPT = """
+Kamu adalah Ahli Analisis Multidisipliner (Geopolitik, Ekonomi, Teknologi, Sosial, dan Lingkungan). 
+Tugas kamu adalah menemukan "Strategic Correlation" (kaitan lintas sektor) antar berbagai isu berita yang terjadi hari ini.
+
+Tinjau daftar topik berita berikut:
+{stories_summary}
+
+Temukan kaitan strategis yang menjelaskan bagaimana satu topik bisa mempengaruhi sektor lainnya. Contoh: Bagaimana isu teknologi berdampak pada ekonomi, atau bagaimana isu lingkungan memicu pergeseran geopolitik.
+
+Format JSON valid:
+{{
+  "correlations": [
+    {{
+      "title": "Judul Kaitan Lintas Sektor (Singkat)",
+      "analysis": "Penjelasan mendalam kaitan antar isu tersebut dari berbagai sudut pandang."
+    }}
+  ]
+}}
+
+Pastikan analisis Anda tajam, tidak generik, dan menunjukkan pemahaman mendalam tentang hubungan sebab-akibat antar sektor.
+""".strip()
+
+
+@dataclass(slots=True)
+class ArticleInsight:
+    summary: str
+    key_points: list[str]
 
 
 @dataclass(slots=True)
@@ -81,13 +140,6 @@ class SummarizedArticle:
     cluster_id: int = -1
 
 
-@dataclass(slots=True)
-class ArticleInsight:
-    url: str
-    summary: str
-    key_points: list[str]
-
-
 class NewsSummarizerAgent:
     def __init__(
         self,
@@ -100,27 +152,11 @@ class NewsSummarizerAgent:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name=self.model_name)
 
-    def build_insights(self, articles: Sequence[FilteredArticle]) -> dict[str, ArticleInsight]:
-        insights: dict[str, ArticleInsight] = {}
-        total = len(articles)
-        for idx, article in enumerate(articles, 1):
-            stats_usage = SystemMonitor.get_stats().get("gemini_usage", 0)
-            print(f"  [>] [{stats_usage}/500] Merangkum berita {idx}/{total}: {article.title[:50]}...")
-            summary, key_points = self._summarize_article(article)
-            # Safety delay diperketat (Limit 15 RPM = 1 request tiap 4 detik)
-            time.sleep(5.0)
-            insights[article.url] = ArticleInsight(
-                url=article.url,
-                summary=summary,
-                key_points=key_points,
-            )
-        return insights
-
     def generate_daily_headline(
         self, 
         articles: Sequence[FilteredArticle], 
         insights: dict[str, ArticleInsight],
-        story_syntheses: dict[int, list[str]] | None = None,
+        story_syntheses: dict[int, dict] | None = None,
         trending_map: dict[int, str] | None = None
     ) -> str:
         if not articles:
@@ -130,8 +166,10 @@ class NewsSummarizerAgent:
         
         # PRIORITAS: Gunakan sintesis cerita yang sudah jadi agar headline lebih padat intelijen
         if story_syntheses and trending_map:
-            for cid, points in story_syntheses.items():
+            for cid, data in story_syntheses.items():
                 topic_name = trending_map.get(cid, "Topik Utama")
+                # Handle both old list format and new dict format for robustness
+                points = data if isinstance(data, list) else data.get("synthesis", [])
                 combined_points = " ".join(points[:1]) # Ambil poin pertama saja agar tidak terlalu panjang
                 context_lines.append(f"Topik [{topic_name}]: {combined_points}")
         else:
@@ -164,7 +202,12 @@ class NewsSummarizerAgent:
                 
                 headline = (response.text or "").strip()
                 if headline:
-                    return " ".join(headline.strip('"').split())
+                    # Bersihkan label umum dan markdown jika AI tetap mengembalikannya
+                    clean_headline = headline.replace("**Global Headline:**", "").replace("Global Headline:", "")
+                    clean_headline = clean_headline.replace("**Headline:**", "").replace("Headline:", "")
+                    clean_headline = clean_headline.replace("**", "").replace("*", "") # Hapus bolding
+                    clean_headline = clean_headline.strip('"').strip("'").strip()
+                    return " ".join(clean_headline.split())
             except ResourceExhausted as e:
                 error_msg = str(e)
                 # Tampilkan pesan asli dari Google untuk diagnosa Ghost Limit
@@ -196,41 +239,105 @@ class NewsSummarizerAgent:
         return f"Analisis hari ini menyoroti perkembangan strategis mengenai {', '.join(top_titles)}."
 
 
+    def build_insights(self, articles: Sequence[FilteredArticle]) -> dict[str, ArticleInsight]:
+        """
+        Builds insights for a list of articles, but optimizes by only 
+        summarizing a representative for each cluster.
+        """
+        insights: dict[str, ArticleInsight] = {}
+        
+        # 1. Group by Cluster
+        clusters: dict[int, list[FilteredArticle]] = {}
+        for a in articles:
+            cid = getattr(a, "cluster_id", -1)
+            clusters.setdefault(cid, []).append(a)
+        
+        # 2. Process each cluster
+        for cid, group in clusters.items():
+            if cid == -1:
+                # For non-clustered news, summarize all (they are unique)
+                for article in group:
+                    summary, key_points = self._summarize_article(article)
+                    insights[article.url] = ArticleInsight(summary, key_points)
+                    time.sleep(1.0)
+                continue
+            
+            # For clustered news, pick a representative
+            # Sort by content length reverse
+            group.sort(key=lambda x: len(x.content), reverse=True)
+            representative = group[0]
+            
+            print(f"  [PROCESS] Meringkas perwakilan klaster {cid}: {representative.title[:50]}...")
+            summary, key_points = self._summarize_article(representative)
+            rep_insight = ArticleInsight(summary, key_points)
+            
+            # Apply to all articles in this cluster to save API calls
+            for article in group:
+                insights[article.url] = rep_insight
+            
+            # Small delay
+            time.sleep(1.5)
+            
+        return insights
+
     def generate_trending_topics(self, clusters: list[list[RawHeadline]], top_k: int = 5) -> list[str]:
         """
-        Names the top K clusters using the LLM to identify the overarching theme.
+        Names the top K clusters using the LLM in a single BATCH call.
         """
-        trends: list[str] = []
-        # Only name clusters that have more than 1 article (actual trends)
-        potential_trending = [c for c in clusters if len(c) > 1][:top_k]
+        # Name any cluster that has articles, prioritizing trends (>1)
+        potential_trending = [c for c in clusters if len(c) > 0][:top_k]
 
         if not potential_trending:
             return []
 
-        print(f"[PROCESS] Menamai {len(potential_trending)} topik tren utama hari ini...")
-        for cluster in potential_trending:
-            titles = "\n".join([f"- {h.title}" for h in cluster[:5]])
-            prompt = NAMING_PROMPT.format(titles=titles)
-            try:
-                response = self.model.generate_content(prompt)
-                SystemMonitor.increment_gemini_usage()
-                name = (response.text or "").strip().strip('"').strip("'").strip(".")
+        print(f"  [PROCESS] Menamai {len(potential_trending)} topik tren utama dalam mode BATCH...")
+        
+        clusters_info = []
+        for i, cluster in enumerate(potential_trending):
+            titles = " | ".join([h.title for h in cluster[:4]])
+            clusters_info.append(f"ID: {i} | Berita: {titles}")
+        
+        prompt = BATCH_NAMING_PROMPT.format(clusters_data="\n".join(clusters_info))
+        
+        try:
+            response = self.model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
+            
+            raw_text = (response.text or "").strip()
+            if "```json" in raw_text:
+                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+            
+            results = json.loads(raw_text)
+            names = ["" for _ in range(len(potential_trending))]
+            for res in results:
+                idx = res.get("id")
+                name = res.get("name", "").strip().strip('"').strip("'")
+                if idx is not None and 0 <= idx < len(names):
+                    names[idx] = name
+            
+            # Fill empty names with fallbacks
+            final_names = []
+            for i, name in enumerate(names):
                 if name:
-                    trends.append(name)
-                # Small delay to respect rate limits
-                time.sleep(2.0)
-            except Exception as e:
-                print(f"  [!] Gagal menamai topik: {e}")
-                continue
+                    final_names.append(name)
+                else:
+                    # Fallback to category hint or first title
+                    fallback = potential_trending[i][0].category_hint or "Topik Terkait"
+                    final_names.append(fallback)
+            
+            return final_names
+            
+        except Exception as e:
+            print(f"  [!] Gagal menamai topik secara batch: {e}. Menggunakan nama kategori sebagai fallback.")
+            return [c[0].category_hint or "Isu Terkini" for c in potential_trending]
 
-        return trends
-
-    def synthesize_story(self, articles: list[FilteredArticle], insights: dict[str, ArticleInsight]) -> list[str]:
+    def synthesize_story(self, articles: list[FilteredArticle], insights: dict[str, ArticleInsight]) -> dict:
         """
-        Synthesizes multiple articles in a cluster into a set of intelligence bullet points.
+        Synthesizes multiple articles in a cluster into a set of intelligence bullet points and impact levels.
+        Returns: {"synthesis": list[str], "impact_level": str, "impact_reason": str}
         """
         if not articles:
-            return []
+            return {}
 
         context = []
         for art in articles:
@@ -239,7 +346,11 @@ class NewsSummarizerAgent:
                 context.append(f"- {art.title}: {insight.summary}")
         
         if not context:
-            return ["Informasi detail belum tersedia untuk tren ini."]
+            return {
+                "synthesis": ["Informasi detail belum tersedia untuk tren ini."],
+                "impact_level": "LOW",
+                "impact_reason": "Data sumber tidak mencukupi untuk analisis mendalam."
+            }
 
         prompt = STORY_SYNTHESIS_PROMPT.format(summaries="\n".join(context))
         try:
@@ -247,27 +358,60 @@ class NewsSummarizerAgent:
             SystemMonitor.increment_gemini_usage()
             
             raw_text = response.text or ""
-            # Robust bullet point extraction
-            lines = [l.strip() for l in raw_text.split("\n") if l.strip()]
-            points = []
-            for line in lines:
-                # Look for lines starting with typical bullet markers
-                if line.startswith(("- ", "* ", "1. ", "2. ", "3. ")):
-                    clean_point = line.lstrip("- *0123456789.").strip()
-                    if clean_point:
-                        points.append(clean_point)
+            # Bersihkan markdown jika ada
+            if "```json" in raw_text:
+                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+            elif "```" in raw_text:
+                raw_text = raw_text.split("```")[1].split("```")[0].strip()
             
-            # Fallback for non-bulleted responses: take first 3 sentences/short paragraphs
-            if not points:
-                points = [l for l in lines if len(l) > 30][:3]
-
-            if points:
-                return points[:3]
+            data = json.loads(raw_text)
+            
+            # Validasi struktur
+            synthesis = data.get("synthesis", [])[:3]
+            while len(synthesis) < 3:
+                synthesis.append("Informasi intelijen tambahan sedang diproses.")
+            
+            return {
+                "synthesis": synthesis,
+                "impact_level": data.get("impact_level", "LOW").upper(),
+                "impact_reason": data.get("impact_reason", "Tidak ada alasan spesifik yang diberikan.")
+            }
                 
         except Exception as e:
-            print(f"  [!] Kesalahan sintesis: {str(e)}")
+            print(f"  [!] Kesalahan sintesis (Detail: {str(e)}). Response: {raw_text[:200] if 'raw_text' in locals() else 'None'}")
 
-        # --- HEURISTIC FALLBACK (If AI fails or limit reached) ---
+        # --- HEURISTIC FALLBACK ---
+        return {
+            "synthesis": [a.title for a in articles[:3]],
+            "impact_level": "LOW",
+            "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita."
+        }
+
+    def generate_correlations(self, stories: list[dict]) -> list[dict]:
+        """
+        Connects the dots between different top stories.
+        """
+        if len(stories) < 2:
+            return []
+
+        summary_list = []
+        for s in stories[:6]: # Ambil top 6 cerita untuk dikorelasikan
+            summary_list.append(f"Topik: {s['title']} (Dampak: {s.get('impact_level', 'LOW')}) - {s['synthesis'][0] if s['synthesis'] else ''}")
+        
+        prompt = CORRELATION_PROMPT.format(stories_summary="\n".join(summary_list))
+        try:
+            response = self.model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
+            
+            raw_text = response.text or ""
+            if "```json" in raw_text:
+                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+            
+            data = json.loads(raw_text)
+            return data.get("correlations", [])[:2]
+        except Exception as e:
+            print(f"  [!] Gagal membuat korelasi strategis: {e}")
+            return []
         # Take the titles or first key points of the first few articles in the cluster
         fallback_points = []
         for article in articles[:3]:
@@ -377,8 +521,9 @@ def build_daily_digest_record(
     articles: Sequence[FilteredArticle],
     insights: dict[str, ArticleInsight],
     headline: str,
-    story_syntheses: dict[int, list[str]] | None = None,
+    story_syntheses: dict[int, dict] | None = None,
     trending_topics: dict[int, str] | None = None,
+    correlations: list[dict] | None = None,
 ) -> dict:
     """
     Builds a story-first intelligence record.
@@ -440,19 +585,31 @@ def build_daily_digest_record(
 
     # Build Top Stories
     if story_syntheses and trending_topics:
-        for cid, synthesis in story_syntheses.items():
+        for cid, synthesis_data in story_syntheses.items():
             if cid in clusters:
+                group_articles = clusters[cid]
+                # Sort articles by published_at or relevance
+                group_articles.sort(key=lambda x: x["published_at"], reverse=True)
+                
                 story_groups.append({
                     "id": cid,
                     "title": trending_topics.get(cid, "Topik Terkait"),
-                    "synthesis": synthesis,
-                    "articles": clusters[cid],
+                    "synthesis": synthesis_data.get("synthesis", []),
+                    "impact_level": synthesis_data.get("impact_level", "LOW").upper(),
+                    "impact_reason": synthesis_data.get("impact_reason", ""),
+                    "articles": group_articles[:5], # Show up to 5 best/recent sources
+                    "total_reports": len(group_articles), # Keep the total count for the badge
                 })
+
+    # --- IMPACT SORTING (HIGH > MEDIUM > LOW) ---
+    impact_priority = {"HIGH": 0, "MEDIUM": 1, "LOW": 2}
+    story_groups.sort(key=lambda x: impact_priority.get(x["impact_level"], 3))
 
     return {
         "date": datetime.now(UTC).strftime("%Y-%m-%d"),
         "generated_at": datetime.now(UTC).isoformat(),
         "headline": headline,
         "top_stories": story_groups,
+        "correlations": correlations or [],
         "other_news": other_news,
     }

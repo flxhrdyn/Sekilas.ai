@@ -30,7 +30,8 @@ class NewsState(TypedDict, total=False):
     insights: dict
     headline: str
     trending_topics_map: dict[int, str]
-    story_syntheses: dict[int, list[str]]
+    story_syntheses: dict[int, dict]
+    correlations: list[dict]
     embeddings: list[list[float]]
     total_in_qdrant: int
     notifier_status: str
@@ -108,12 +109,14 @@ def _build_graph(
 ) -> StateGraph:
     def scrape_node(_: NewsState) -> NewsState:
         print(f"[PROCESS] Memindai {max_scan} judul berita terbaru...")
-        headlines, all_processed = scraper.fetch_new_headlines(max_per_source=40)
+        # Ambil total 120 judul (jatah fair-share per sumber diatur di dalam scraper)
+        headlines, all_processed = scraper.fetch_new_headlines(max_total=120)
         
-        # Batasi scanning awal
+        # Shuffle agar urutan benar-benar variatif
+        random.shuffle(headlines)
         headlines = headlines[:max_scan]
         
-        print(f"[OK] Scanning selesai. Ditemukan {len(headlines)} judul baru.")
+        print(f"[OK] Scanning selesai. Ditemukan {len(headlines)} judul baru dari berbagai sumber.")
         return {"raw_headlines": headlines, "all_processed": all_processed}
 
     def route_after_scrape(state: NewsState) -> str:
@@ -149,7 +152,9 @@ def _build_graph(
                 trending_topics_map[cluster[0].cluster_id] = topic_names[i]
         
         # Seleksi beragam dari klaster
-        selected_headlines = cluster_agent.select_best_representatives(clusters, limit=30)
+        # SELEKSI KETAT: Hanya ambil 18 artikel terbaik (satu per klaster)
+        # Ini adalah bottleneck utama untuk menghemat API Gemini
+        selected_headlines = cluster_agent.select_best_representatives(clusters, limit=18)
         
         return {
             "trending_topics_map": trending_topics_map,
@@ -166,7 +171,8 @@ def _build_graph(
         filtered_articles, filter_stats = filter_agent.run(raw_articles)
         
         # Pastikan tetap dalam limit
-        filtered_articles = filtered_articles[:25]
+        # Final selection untuk diringkas (maksimal 15 agar hemat API)
+        filtered_articles = filtered_articles[:15]
         
         return {
             "raw_articles": raw_articles,
@@ -222,7 +228,7 @@ def _build_graph(
             story_syntheses[cid] = summarizer.synthesize_story(group_articles, insights)
             time.sleep(2.0)
 
-        # 7. Generate Headline Utama - SEKARANG MENGGUNAKAN KONTEKS SINTESIS
+        # 7. Generate Headline Utama
         print("[PROCESS] Membuat headline utama hari ini...")
         headline = summarizer.generate_daily_headline(
             filtered_articles, 
@@ -230,12 +236,25 @@ def _build_graph(
             story_syntheses=story_syntheses, 
             trending_map=trending_map
         )
+
+        # 8. Generate Strategic Correlations (Connect the dots)
+        print("[PROCESS] Menganalisis kaitan strategis antar topik...")
+        stories_for_correlation = []
+        for cid, syn_data in story_syntheses.items():
+            stories_for_correlation.append({
+                "title": trending_map.get(cid, "Topik"),
+                "synthesis": syn_data.get("synthesis", []),
+                "impact_level": syn_data.get("impact_level", "LOW")
+            })
+        
+        correlations = summarizer.generate_correlations(stories_for_correlation)
             
-        print("[OK] Ringkasan, headline, dan sintesis intelijen berhasil dibuat.")
+        print("[OK] Ringkasan, headline, dan korelasi strategis berhasil dibuat.")
         return {
             "insights": insights,
             "headline": headline,
             "story_syntheses": story_syntheses,
+            "correlations": correlations,
         }
 
     def embed_node(state: NewsState) -> NewsState:
@@ -273,6 +292,7 @@ def _build_graph(
             state.get("headline", ""),
             story_syntheses=state.get("story_syntheses", {}),
             trending_topics=state.get("trending_topics_map", {}),
+            correlations=state.get("correlations", []),
         )
         filter_stats = state.get("filter_stats", {})
         digest_record.update(
@@ -370,7 +390,7 @@ def run_pipeline() -> dict:
 
     cluster_agent = NewsClusterAgent(
         embedder=embedder,
-        similarity_threshold=0.82
+        similarity_threshold=0.72
     )
 
     summarizer = NewsSummarizerAgent(
@@ -400,7 +420,7 @@ def run_pipeline() -> dict:
     print(f"[INFO] Status Penggunaan Gemini Hari Ini: {stats.get('gemini_usage', 0)}/500")
     
     graph = _build_graph(
-        scraper, embedder, filter_agent, cluster_agent, summarizer, store, notifier, max_scan=50
+        scraper, embedder, filter_agent, cluster_agent, summarizer, store, notifier, max_scan=150
     ).compile()
     final_state = graph.invoke({"result": {}})
     return final_state.get("result", {"status": "unknown"})
