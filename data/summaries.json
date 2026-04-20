@@ -702,5 +702,362 @@
       "total_in_qdrant": 172
     },
     "timestamp": "2026-04-19T02:05:26.243421+00:00"
+  },
+  {
+    "date": "2026-04-20",
+    "generated_at": "2026-04-20T02:13:10.898961+00:00",
+    "headline": "Headline: Manchester City tundukkan Arsenal, ketegangan politik global meningkat, dan isu hukum nasional mencuat hari ini.",
+    "category_digests": {
+      "Teknologi": [
+        {
+          "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+          "category": "Teknologi",
+          "published_at": "2026-04-19T11:45:38+00:00",
+          "summary": "Blue Origin berhasil menggunakan kembali roket New Glenn untuk pertama kalinya sebagai upaya meningkatkan efisiensi operasional. Namun, misi tersebut menghadapi kendala karena satelit AST SpaceMobile yang dibawa roket mengalami masalah orbit yang tidak sesuai rencana.",
+          "key_points": [
+            "Blue Origin sukses melakukan penggunaan kembali (re-use) roket New Glenn pada peluncuran ketiganya.",
+            "Satelit AST SpaceMobile mencapai orbit yang lebih rendah dari yang direncanakan, sehingga memerlukan proses de-orbit.",
+            "Kemampuan penggunaan kembali roket sangat krusial bagi Blue Origin untuk bersaing dalam pasar peluncuran orbital global."
+          ]
+        },
+        {
+          "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+          "category": "Teknologi",
+          "published_at": "2026-04-19T16:30:00+00:00",
+          "summary": "Perusahaan analitik Palantir merilis manifesto berisi 22 poin yang merangkum pemikiran CEO Alex Karp dalam bukunya, 'The Technological Republic'. Dokumen tersebut menyoroti pandangan ideologis perusahaan terkait pentingnya pertumbuhan ekonomi, keamanan nasional, dan peran teknologi kecerdasan buatan dalam pertahanan.",
+          "key_points": [
+            "Palantir menegaskan bahwa sektor teknologi memiliki kewajiban moral untuk mendukung keamanan dan pertumbuhan ekonomi negaranya.",
+            "Perusahaan berargumen bahwa pengembangan kecerdasan buatan untuk kepentingan militer harus dilakukan agar tidak tertinggal dari pihak lawan.",
+            "Manifesto tersebut mengkritik budaya modern yang dianggap dekaden dan mempertanyakan kebijakan luar negeri pasca-perang terhadap negara-negara seperti Jerman dan Jepang."
+          ]
+        },
+        {
+          "title": "The 12-month window",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "category": "Teknologi",
+          "published_at": "2026-04-19T19:30:00+00:00",
+          "summary": "Investor Elad Gil menyarankan para pendiri startup untuk mengidentifikasi puncak nilai perusahaan mereka dalam jendela waktu 12 bulan sebelum terjadi penurunan. Strategi ini menekankan pentingnya mempertimbangkan opsi keluar (exit) secara objektif dan terjadwal di tengah dinamika pasar teknologi yang cepat berubah.",
+          "key_points": [
+            "Perusahaan cenderung memiliki jendela waktu 12 bulan di mana nilai bisnis berada di puncaknya sebelum mulai menurun.",
+            "Pendiri disarankan untuk menjadwalkan pertemuan dewan direksi secara khusus untuk membahas opsi exit guna menghilangkan faktor emosional dalam pengambilan keputusan.",
+            "Pentingnya kesadaran akan perubahan lanskap persaingan, terutama bagi startup AI yang harus mengantisipasi kapan posisi defensibilitas mereka berada di titik tertinggi."
+          ]
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Schools, shops shut in northern Israel to protest the Lebanon ceasefire",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/schools-shops-shut-in-northern-israel-to-protest-the-lebanon-ceasefire?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-19T21:21:51+00:00",
+          "summary": "Sejumlah sekolah dan toko di Israel utara ditutup sebagai bentuk protes warga terhadap pemberlakuan gencatan senjata selama 10 hari dengan Lebanon. Warga menyatakan kekecewaan karena merasa kesepakatan tersebut tidak membuahkan hasil yang berarti.",
+          "key_points": [
+            "Warga Israel utara melakukan aksi protes dengan menutup fasilitas umum karena menolak gencatan senjata dengan Lebanon.",
+            "Para pengunjuk rasa menilai bahwa gencatan senjata yang dimulai pada 16 April tersebut tidak memberikan pencapaian signifikan.",
+            "Pemerintah Israel menyatakan bahwa operasi militer tetap dapat berlanjut dan pasukan mereka masih berada di wilayah Lebanon selatan."
+          ]
+        },
+        {
+          "title": "Who will shape the global agenda, the left or far right?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/4/19/who-will-shape-the-global-agenda-the-left-or-far-right?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-19T20:54:32+00:00",
+          "summary": "Pertemuan politik dengan pandangan berlawanan berlangsung di Barcelona dan Milan, menyoroti meningkatnya polarisasi antara pemimpin sayap kiri dan kelompok sayap kanan di Eropa. Perbedaan ideologi ini mencerminkan perdebatan global mengenai masa depan demokrasi, regulasi, dan kebijakan keamanan.",
+          "key_points": [
+            "Pemimpin sayap kiri di Barcelona berupaya menyatukan kekuatan progresif untuk melawan ancaman otoritarianisme sayap kanan terhadap demokrasi.",
+            "Kelompok sayap kanan di Milan melakukan aksi unjuk rasa menuntut pelonggaran regulasi Uni Eropa serta pengetatan kebijakan keamanan.",
+            "Peristiwa ini menegaskan ketegangan politik yang kian meningkat serta dampaknya terhadap arah kebijakan global di masa depan."
+          ]
+        },
+        {
+          "title": "Rumen Radev looks set to win Bulgarian Parliamentary election",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-04-19T22:06:39+00:00",
+          "summary": "Partai Progressive Bulgaria yang dipimpin Rumen Radev diproyeksikan memenangkan pemilu parlemen dengan perolehan suara signifikan. Meskipun unggul, Radev harus mencari mitra koalisi untuk membentuk pemerintahan yang stabil di tengah tantangan kebijakan domestik dan luar negeri.",
+          "key_points": [
+            "Partai Progressive Bulgaria meraih sekitar 37% suara dalam pemilu, jauh melampaui partai GERB di posisi kedua.",
+            "Rumen Radev, mantan presiden yang berlatar belakang militer, berjanji untuk fokus pada pemberantasan korupsi dan stabilitas pemerintahan.",
+            "Radev bersikap pragmatis terhadap Rusia dan menentang bantuan militer langsung ke Ukraina, meski Bulgaria tetap berperan dalam industri pertahanan Eropa."
+          ]
+        },
+        {
+          "title": "Projo Mendebat Pernyataan Jusuf Kalla soal Jokowi",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099145/projo-mendebat-pernyataan-jusuf-kalla-soal-jokowi",
+          "category": "Politik",
+          "published_at": "2026-04-19T12:31:00+00:00",
+          "summary": "Mantan Wakil Presiden Jusuf Kalla mengklaim peran vitalnya dalam perjalanan politik Joko Widodo hingga menjadi presiden, yang kemudian memicu perdebatan. Organisasi relawan Projo menanggapi pernyataan tersebut dengan menegaskan bahwa terpilihnya Jokowi merupakan hasil kerja kolektif rakyat dan berbagai elemen bangsa, bukan karena peran satu individu.",
+          "key_points": [
+            "Jusuf Kalla menyatakan bahwa kontribusinya sangat menentukan dalam pencalonan dan kemenangan Jokowi pada Pilpres 2014.",
+            "Projo membantah klaim tersebut dan menekankan bahwa keberhasilan Jokowi adalah buah dari rekam jejak, kerja nyata, serta dukungan kolektif elemen bangsa.",
+            "Jusuf Kalla sempat mempertanyakan kapasitas Jokowi saat awal pencalonan karena dinilai belum memiliki pengalaman yang cukup sebagai kepala negara."
+          ]
+        },
+        {
+          "title": "Golkar Imbau Kader Tak Terpancing Kasus Penusukan Nus Kei",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099142/golkar-imbau-kader-tak-terpancing-kasus-penusukan-nus-kei",
+          "category": "Politik",
+          "published_at": "2026-04-19T12:07:00+00:00",
+          "summary": "Ketua DPD Partai Golkar Maluku Tenggara, Agrapinus Rumatora alias Nus Kei, meninggal dunia setelah menjadi korban penusukan oleh orang tak dikenal di Bandara Karel Sadsuitubun. Menanggapi insiden tersebut, Partai Golkar mengimbau para kader untuk tetap tenang dan menyerahkan proses pengusutan kasus sepenuhnya kepada pihak kepolisian.",
+          "key_points": [
+            "Agrapinus Rumatora (Nus Kei), Ketua DPD Golkar Maluku Tenggara, tewas ditusuk di Bandara Karel Sadsuitubun pada 19 April 2026.",
+            "Polres Maluku Tenggara telah berhasil menangkap dua terduga pelaku berinisial HR (28) dan FU (36) dua jam setelah kejadian.",
+            "Partai Golkar mendesak pihak kepolisian untuk mengusut tuntas motif di balik pembunuhan tersebut sambil meminta para kader menahan diri."
+          ]
+        },
+        {
+          "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-04-19T21:09:06+00:00",
+          "summary": "Seorang pejabat senior Iran menyatakan bahwa negaranya tidak akan pernah melepaskan kendali atas Selat Hormuz dan berencana untuk mengesahkan undang-undang yang mengatur jalur tersebut. Langkah ini dipandang sebagai upaya strategis untuk memperkuat posisi tawar militer dan politik Iran di tengah meningkatnya ketegangan regional.",
+          "key_points": [
+            "Iran sedang menyiapkan rancangan undang-undang parlemen untuk melegitimasi kendali penuh mereka atas Selat Hormuz dengan alasan keamanan nasional dan keselamatan maritim.",
+            "Pemerintah Iran memandang Selat Hormuz sebagai aset strategis dan alat pencegah (deterrence) jangka panjang dalam menghadapi musuh-musuhnya.",
+            "Negara-negara tetangga di kawasan Teluk mengecam kebijakan ini dan menyebut tindakan Iran sebagai bentuk pembajakan yang berbahaya bagi jalur pelayaran internasional."
+          ]
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Haaland Vs Gabriel saat City Gilas Arsenal: Baju Robek hingga Adu Kepala",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8451955/haaland-vs-gabriel-saat-city-gilas-arsenal-baju-robek-hingga-adu-kepala",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T01:20:00+00:00",
+          "summary": "Manchester City berhasil menaklukkan Arsenal dengan skor 2-1 dalam laga krusial di Etihad Stadium. Pertandingan tersebut diwarnai ketegangan fisik antara Erling Haaland dan Gabriel Magalhaes yang berujung pada pemberian kartu kuning bagi kedua pemain.",
+          "key_points": [
+            "Manchester City menang atas Arsenal melalui gol Rayan Cherki dan Erling Haaland, memperketat selisih poin di klasemen sementara.",
+            "Terjadi perseteruan panas antara Erling Haaland dan Gabriel Magalhaes yang melibatkan insiden baju robek hingga adu kepala.",
+            "Wasit memberikan kartu kuning kepada Haaland dan Gabriel atas insiden keributan yang terjadi di lapangan."
+          ]
+        },
+        {
+          "title": "Sederet Teror-teror di Etihad sebelum Arsenal Dihajar Man City",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8451941/sederet-teror-teror-di-etihad-sebelum-arsenal-dihajar-man-city",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T00:00:19+00:00",
+          "summary": "Manchester City berhasil mengalahkan Arsenal dengan skor 2-1 dalam laga lanjutan Liga Inggris di Etihad Stadium. Kemenangan ini memperketat persaingan gelar juara, di mana keunggulan poin Arsenal kini terpangkas oleh Manchester City yang masih memiliki satu laga sisa.",
+          "key_points": [
+            "Manchester City menang 2-1 atas Arsenal melalui gol Rayan Cherki dan Erling Haaland.",
+            "Suporter Manchester City melakukan aksi provokasi psikologis terhadap Arsenal melalui penjualan botol air minum sindiran dan spanduk di stadion.",
+            "Keunggulan Arsenal di klasemen menipis menjadi tiga poin, dengan City berpeluang menggeser posisi puncak jika memenangkan laga tunda melawan Burnley."
+          ]
+        },
+        {
+          "title": "Klasemen Liga Italia: Milan Salip Napoli Lagi, Juventus Nyaman di 4 Besar",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-italia/d-8452000/klasemen-liga-italia-milan-salip-napoli-lagi-juventus-nyaman-di-4-besar",
+          "category": "Olahraga",
+          "published_at": "2026-04-20T01:40:00+00:00",
+          "summary": "AC Milan kembali menempati posisi kedua klasemen sementara Liga Italia setelah meraih kemenangan atas Hellas Verona. Sementara itu, Juventus semakin memantapkan posisi mereka di empat besar usai menaklukkan Bologna.",
+          "key_points": [
+            "AC Milan menggeser Napoli ke peringkat ketiga berkat keunggulan selisih gol setelah menang 1-0 atas Hellas Verona.",
+            "Juventus memperkokoh posisi di empat besar klasemen usai mengalahkan Bologna 2-0 melalui gol Jonathan David dan Khephren Thuram.",
+            "Dengan lima laga tersisa, Juventus kini unggul lima poin dari Como dan berpeluang besar mengamankan tiket ke Liga Champions musim depan."
+          ]
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Komnas HAM Minta DPR Panggil Panglima TNI soal Satgas Habema",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099194/komnas-ham-minta-dpr-panggil-panglima-tni-soal-satgas-habema",
+          "category": "Hukum",
+          "published_at": "2026-04-20T01:02:07+00:00",
+          "summary": "Komnas HAM mendesak Komisi I DPR RI untuk memanggil Panglima TNI guna meminta klarifikasi terkait tujuan pembentukan dan operasional Satgas Habema di Papua. Desakan ini muncul menyusul dugaan tewasnya 12 warga sipil dalam operasi militer di Kampung Kembru, Kabupaten Puncak, yang dinilai tidak memiliki kejelasan status hukum di wilayah tersebut.",
+          "key_points": [
+            "Komnas HAM menyoroti ketidakjelasan status hukum Satgas Habema di Papua karena wilayah tersebut belum ditetapkan sebagai daerah operasi militer.",
+            "Operasi Satgas Habema diduga menyebabkan tewasnya 12 warga sipil, termasuk perempuan dan anak-anak, di Kampung Kembru pada 14 April 2026.",
+            "Komnas HAM mendesak adanya evaluasi menyeluruh terhadap Satgas Habema untuk memperjelas tanggung jawab operasional dan akuntabilitas atas jatuhnya korban sipil."
+          ]
+        },
+        {
+          "title": "Eight children killed in Louisiana shooting, police say",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-04-19T22:54:51+00:00",
+          "summary": "Delapan anak tewas dalam insiden penembakan yang dipicu oleh konflik domestik di Shreveport, Louisiana. Pelaku penembakan, yang diidentifikasi sebagai Shamar Elkins, tewas setelah terlibat aksi kejar-kejaran dengan pihak kepolisian.",
+          "key_points": [
+            "Sebanyak delapan anak berusia satu hingga 14 tahun menjadi korban jiwa dalam insiden penembakan yang dikategorikan sebagai kekerasan dalam rumah tangga.",
+            "Pelaku menembak total 10 orang di beberapa lokasi sebelum melarikan diri menggunakan mobil curian.",
+            "Pelaku tewas setelah dikejar dan ditembak oleh aparat kepolisian, dan pihak berwenang kini tengah melakukan investigasi lebih lanjut."
+          ]
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Zelensky condemns US extension of Russian sanctions waiver",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-19T09:55:22+00:00",
+          "summary": "Presiden Ukraina Volodymyr Zelensky mengecam keputusan Amerika Serikat yang memperpanjang pengecualian sanksi bagi penjualan minyak Rusia hingga 16 Mei. Langkah AS ini diambil sebagai upaya menstabilkan pasar energi global di tengah ketegangan akibat konflik di Timur Tengah.",
+          "key_points": [
+            "AS memperpanjang pengecualian sanksi untuk pengiriman minyak Rusia yang sedang berada di laut guna mengantisipasi krisis pasokan energi global.",
+            "Zelensky mengkritik kebijakan tersebut karena dianggap memberikan pendapatan tambahan bagi Rusia untuk mendanai serangan militer ke Ukraina.",
+            "Keputusan ini dipicu oleh ketidakstabilan pasar energi dunia akibat penutupan Selat Hormuz dan konflik yang melibatkan Iran, AS, dan Israel."
+          ]
+        },
+        {
+          "title": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-19T23:41:57+00:00",
+          "summary": "Sebuah foto yang memperlihatkan seorang tentara Israel merusak patung Yesus di Lebanon selatan telah memicu kemarahan publik di media sosial. Militer Israel telah mengonfirmasi keaslian foto tersebut dan menyatakan bahwa penyelidikan internal sedang dilakukan terkait insiden tersebut.",
+          "key_points": [
+            "Militer Israel mengonfirmasi keaslian foto yang menunjukkan tentaranya merusak patung Yesus di Lebanon dan berjanji akan mengambil tindakan disipliner.",
+            "Beredarnya foto tersebut memicu kritik keras dari berbagai pihak, termasuk anggota parlemen Palestina, atas tindakan perusakan simbol agama.",
+            "Para pengamat dan aktivis menyoroti pola serangan berulang terhadap situs serta simbol keagamaan di wilayah konflik, sekaligus mengkritik sikap diam masyarakat internasional."
+          ]
+        },
+        {
+          "title": "Argentina’s Milei backs US-Israel war on Iran in Jerusalem visit",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/argentinas-milei-backs-us-israel-war-on-iran-in-jerusalem-visit?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-19T21:23:19+00:00",
+          "summary": "Presiden Argentina Javier Milei menegaskan dukungan penuh terhadap Amerika Serikat dan Israel dalam kunjungannya ke Yerusalem. Dalam pertemuan dengan Perdana Menteri Benjamin Netanyahu, ia menyatakan keberpihakannya terkait konflik dengan Iran serta mempererat hubungan bilateral antarnegara.",
+          "key_points": [
+            "Presiden Javier Milei menunjukkan dukungan diplomatik terhadap kebijakan perang AS dan Israel melawan Iran.",
+            "Kunjungan ke Yerusalem menjadi simbol penguatan aliansi antara Argentina dengan Israel.",
+            "Pertemuan antara Milei dan Netanyahu menghasilkan kesepakatan baru untuk mempererat hubungan bilateral."
+          ]
+        },
+        {
+          "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T01:38:17+00:00",
+          "summary": "Presiden Donald Trump mengumumkan bahwa Angkatan Laut AS telah menyita kapal kargo berbendera Iran, Touska, setelah kapal tersebut mengabaikan peringatan untuk berhenti di tengah blokade laut. Iran mengecam tindakan tersebut sebagai pelanggaran gencatan senjata dan aksi pembajakan bersenjata, serta mengancam akan melakukan pembalasan.",
+          "key_points": [
+            "AS menyita kapal kargo Touska dengan cara melumpuhkan ruang mesinnya karena dianggap melanggar blokade laut dan terikat sanksi Departemen Keuangan AS.",
+            "Pemerintah Iran menyebut tindakan tersebut sebagai pelanggaran gencatan senjata dan aksi pembajakan, serta menyatakan akan memberikan respons balasan.",
+            "Ketegangan ini terjadi di tengah rencana dialog lanjutan yang dimediasi oleh Pakistan, namun pihak Iran meragukan partisipasinya selama blokade AS masih berlangsung."
+          ]
+        },
+        {
+          "title": "North Korean leader Kim oversaw test of missiles with cluster warheads",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/east-asia/north-korean-leader-kim-oversaw-test-missiles-cluster-warheads-6066841",
+          "category": "Internasional",
+          "published_at": "2026-04-20T01:53:00+00:00",
+          "summary": "Pemimpin Korea Utara Kim Jong Un memimpin uji coba peluncuran lima rudal balistik jarak pendek yang dilengkapi hulu ledak klaster untuk menguji efektivitas serangan presisi. Tindakan ini merupakan bagian dari upaya berkelanjutan Pyongyang dalam memperkuat kemampuan militer dan teknologi persenjataannya meski mendapat tentangan dari resolusi Dewan Keamanan PBB.",
+          "key_points": [
+            "Korea Utara menguji coba hulu ledak klaster pada rudal balistik Hwasong-11 Ra yang mampu menyerang target secara padat dan luas.",
+            "Uji coba ini menandai peluncuran rudal ketujuh Korea Utara sepanjang tahun ini sebagai upaya untuk meningkatkan kesiapan tempur dan kemampuan serangan modern.",
+            "Kehadiran putri Kim Jong Un dalam uji coba tersebut kembali memicu spekulasi publik mengenai posisinya sebagai calon suksesor kepemimpinan Korea Utara."
+          ]
+        },
+        {
+          "title": "Protesters defy Berlin rain to call for end to global wars",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/protesters-defy-berlin-rain-to-call-for-end-to-global-wars?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-19T21:01:15+00:00",
+          "summary": "Ratusan demonstran di Berlin tetap menggelar aksi meski di tengah hujan deras untuk menentang konflik di Timur Tengah. Aksi ini secara khusus mengecam agresi AS-Israel terhadap Iran serta serangan militer Israel di Gaza dan Lebanon.",
+          "key_points": [
+            "Ratusan pengunjuk rasa melakukan aksi unjuk rasa di Berlin meskipun cuaca sedang hujan deras.",
+            "Para demonstran menuntut diakhirinya agresi AS-Israel terhadap Iran.",
+            "Aksi tersebut juga ditujukan sebagai protes terhadap serangan militer Israel di Gaza dan invasi ke Lebanon."
+          ]
+        },
+        {
+          "title": "What’s behind the US army’s decision to raise enlistment age to 42?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-20T00:57:58+00:00",
+          "summary": "Angkatan Darat Amerika Serikat resmi menaikkan batas usia maksimal pendaftaran dari 35 menjadi 42 tahun guna memperluas basis calon rekrutmen. Langkah ini diambil untuk mengatasi tantangan pemenuhan target rekrutmen yang sempat tidak tercapai dalam beberapa tahun terakhir.",
+          "key_points": [
+            "Batas usia maksimal pendaftaran militer AS ditingkatkan menjadi 42 tahun untuk Regular Army, Army Reserve, dan Army National Guard.",
+            "Aturan baru menghapus kewajiban pengajuan pengabaian (waiver) bagi pendaftar yang memiliki riwayat satu kali pelanggaran kepemilikan ganja atau alat terkait narkoba.",
+            "Kebijakan ini merupakan respons terhadap kesulitan dalam memenuhi target rekrutmen yang dipengaruhi oleh perubahan pasar tenaga kerja dan rendahnya kualifikasi calon pelamar."
+          ]
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Uya Kuya Bantah Punya 750 Dapur MBG, Polisikan Penyebar Hoaks",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8451721/uya-kuya-bantah-punya-750-dapur-mbg-polisikan-penyebar-hoaks",
+          "category": "Hiburan",
+          "published_at": "2026-04-19T23:05:11+00:00",
+          "summary": "Uya Kuya membantah kabar viral yang menyebut dirinya mengelola 750 dapur dalam program Makan Bergizi Gratis (MBG). Merasa dirugikan oleh informasi tersebut, ia telah melaporkan pihak penyebar hoaks ke Polda Metro Jaya untuk menempuh jalur hukum.",
+          "key_points": [
+            "Uya Kuya secara tegas membantah keterlibatan dalam pengelolaan 750 dapur program Makan Bergizi Gratis (MBG).",
+            "Pihak Uya Kuya resmi melaporkan penyebar hoaks tersebut ke Polda Metro Jaya dengan nomor laporan LP/B/2746/TV/2026/SPKT/POLDA METRO JAYA.",
+            "Pemerintah menyatakan bahwa keterlibatan pihak luar dalam program MBG diperbolehkan selama memenuhi standar keamanan pangan yang ditetapkan."
+          ]
+        },
+        {
+          "title": "Star Awards 2026 fashion highlights: Daring looks, statement neckties and black ensembles",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/style-beauty/star-awards-2026-fashion-highlights-6066511",
+          "category": "Hiburan",
+          "published_at": "2026-04-20T00:00:26+00:00",
+          "summary": "Ajang penghargaan Star Awards 2026 di Mediacorp menghadirkan berbagai tren mode yang mencolok di karpet merah, mulai dari busana transparan yang berani hingga inovasi aksesori leher pria. Para selebritas tampil menonjol melalui paduan gaya busana klasik, warna-warna berani, dan sentuhan kontemporer yang memikat perhatian.",
+          "key_points": [
+            "Tren busana transparan dan gaun dengan potongan berani menjadi pilihan utama para aktris di karpet merah.",
+            "Para aktor melakukan inovasi pada dasi dan aksesori leher untuk memberikan sentuhan unik pada setelan formal mereka.",
+            "Warna hitam klasik tetap menjadi pilihan populer, namun dimodifikasi dengan detail tekstur dan gaya kontemporer agar tetap terlihat segar."
+          ]
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Meyer Blue: Where city life meets modern coastal retreat",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/meyer-blue-where-city-life-meets-modern-coastal-retreat-5972396",
+          "category": "Ekonomi",
+          "published_at": "2026-04-20T01:20:44+00:00",
+          "summary": "Artikel ini memperkenalkan Meyer Blue sebagai proyek hunian yang memadukan kenyamanan gaya hidup perkotaan dengan suasana pesisir modern. Konten tersebut dipublikasikan oleh Brand Studio Mediacorp sebagai bagian dari promosi properti.",
+          "key_points": [
+            "Meyer Blue dipasarkan sebagai hunian yang mengintegrasikan aspek urban dengan konsep retret pesisir.",
+            "Artikel ini merupakan konten advertorial atau Brand Studio yang dipublikasikan melalui platform Mediacorp.",
+            "Proyek ini menargetkan calon penghuni yang mencari keseimbangan antara kemudahan akses kota dan suasana hunian yang tenang."
+          ]
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Pemkot Semarang Matangkan Persiapan MTQ Nasional 2026",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2099156/pemkot-semarang-matangkan-persiapan-mtq-nasional-2026",
+          "category": "Umum",
+          "published_at": "2026-04-19T13:13:35+00:00",
+          "summary": "Pemerintah Kota Semarang tengah mematangkan berbagai persiapan untuk menjadi tuan rumah Musabaqah Tilawatil Qur’an (MTQ) Tingkat Nasional XXXI pada September 2026. Upaya tersebut mencakup peningkatan sarana prasarana, gerakan kebersihan tempat ibadah, hingga penyediaan paket wisata terintegrasi bagi para kafilah.",
+          "key_points": [
+            "Penyelenggaraan MTQ Nasional XXXI di Kota Semarang dijadwalkan berlangsung pada 11–21 September 2026.",
+            "Pemerintah kota meluncurkan gerakan resik-resik tempat ibadah sebagai bagian dari kesiapan menyambut kafilah dari seluruh Indonesia.",
+            "Penyediaan paket wisata terintegrasi dan sejumlah agenda pendukung disiapkan untuk meningkatkan pengalaman religius sekaligus menggerakkan ekonomi daerah."
+          ]
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 50,
+      "filtered_articles": 25,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 1,
+      "ingested": 25,
+      "total_in_qdrant": 285
+    },
+    "timestamp": "2026-04-20T02:13:10.898967+00:00"
   }
 ]
