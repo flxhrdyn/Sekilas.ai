@@ -26,7 +26,7 @@ export const SearchView: React.FC<{ onSearchSuccess?: () => void }> = ({ onSearc
   };
 
   return (
-    <div className="space-y-6">
+    <div className="max-w-6xl mx-auto px-6 py-12 space-y-10 animate-in fade-in slide-in-from-bottom-4 duration-700">
       <div className="flex flex-col gap-1">
         <h2 className="text-lg font-bold">Cari Berita</h2>
         <p className="text-xs text-brand-text-dim">Gunakan pencarian semantik untuk menemukan berita berdasarkan makna.</p>

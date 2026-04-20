@@ -63,13 +63,20 @@ class TelegramNotifier:
         else:
             for category, items in category_digests.items():
                 entries = items if isinstance(items, list) else []
-                lines.append(f"- {category} ({len(entries)} artikel)")
+                lines.append(f"📦 *{category}* ({len(entries)} artikel)")
                 for item in entries[:3]:
                     if not isinstance(item, dict):
                         continue
                     title = str(item.get("title", "Tanpa judul"))
                     source = str(item.get("source", "unknown"))
-                    lines.append(f"  * {title} | {source}")
+                    url = str(item.get("url", ""))
+                    
+                    # Highlight with bullet and clean source label
+                    lines.append(f"  • {title}")
+                    if url:
+                        lines.append(f"    └ Source: {source} | [Link]({url})")
+                    else:
+                        lines.append(f"    └ Source: {source}")
 
         if self.dashboard_url:
             lines.extend(["", f"Dashboard: {self.dashboard_url}"])

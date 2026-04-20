@@ -80,12 +80,12 @@ export const DigestView = ({ data }: DigestViewProps) => {
           
           {/* Badge top center */}
           <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 px-5 py-2 bg-brand-bg border border-brand-accent/30 rounded-full flex items-center gap-2.5 shadow-[0_0_25px_rgba(59,130,246,0.15)] z-20">
-            <div className="w-1.5 h-1.5 rounded-full bg-brand-accent animate-pulse" />
-            <span className="text-[9px] font-black text-white/80 tracking-[0.3em] uppercase">Intelligence Status: Live</span>
+            <div className="w-1.5 h-1.5 rounded-full bg-brand-green animate-pulse" />
+            <span className="text-[9px] font-black text-white/80 tracking-[0.3em] uppercase">Today's Global Headline</span>
           </div>
           
           <h1 className="text-2xl md:text-3xl lg:text-4xl font-extrabold text-white leading-tight tracking-tight max-w-4xl mx-auto drop-shadow-md">
-            "{data.headline.replace("Headline: ", "")}"
+            {data.headline}
           </h1>
         </div>
       </section>

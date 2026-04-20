@@ -77,7 +77,7 @@ export default function App() {
             </AnimatePresence>
           </div>
 
-          <aside className="hidden lg:block pt-[25px]">
+          <aside className="hidden lg:block pt-12">
             <RightPanel
               stats={digest?.stats}
               systemStatus={systemStatus}

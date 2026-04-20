@@ -11,13 +11,17 @@ def get_daily_digest():
     if not latest:
         return {"data": None, "message": "No digest available"}
     
+    qdrant_metrics = NewsService.get_qdrant_metrics()
+    pipeline_stats = latest.get("pipeline_stats", {})
+    pipeline_stats["qdrant_change_percent"] = qdrant_metrics["percent_change"]
+    
     return {
         "date": latest.get("date"),
         "generated_at": latest.get("generated_at"),
         "headline": latest.get("headline"),
         "top_stories": latest.get("top_stories", []),
         "other_news": latest.get("other_news", {}),
-        "stats": latest.get("pipeline_stats", {}),
+        "stats": pipeline_stats,
         "categories": list(latest.get("other_news", {}).keys()),
     }
 

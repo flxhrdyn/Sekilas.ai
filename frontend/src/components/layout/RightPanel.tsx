@@ -30,9 +30,22 @@ export const RightPanel: React.FC<{
   return (
   <div className="flex flex-col gap-6">
     <div className="metric-group">
-      <div className="text-[11px] text-brand-text-dim uppercase tracking-wider mb-3">Total di Qdrant</div>
-      <div className="text-2xl font-bold font-mono">{stats?.total_in_qdrant || 0}</div>
-      <div className="text-[10px] text-brand-green mt-1 font-semibold">Dikelola oleh Agent</div>
+      <div className="text-[11px] text-brand-text-dim uppercase tracking-wider mb-2">Artikel Diproses (24J)</div>
+      <div className="text-3xl font-black text-white mb-1">
+        {new Intl.NumberFormat('en-US').format(stats?.total_in_qdrant || 0)}
+      </div>
+      <div className={`text-[11px] font-bold ${
+        (stats?.qdrant_change_percent || 0) > 0 
+          ? 'text-brand-green' 
+          : (stats?.qdrant_change_percent || 0) < 0 
+            ? 'text-red-400' 
+            : 'text-brand-text-dim'
+      }`}>
+        {stats?.qdrant_change_percent !== undefined 
+          ? `${stats.qdrant_change_percent > 0 ? '+' : ''}${stats.qdrant_change_percent}% vs Kemarin`
+          : 'Stabil vs Kemarin'
+        }
+      </div>
     </div>
 
     <div className="metric-group">
@@ -53,6 +66,44 @@ export const RightPanel: React.FC<{
         ))}
       </div>
     </div>
+
+    {systemStatus?.agents && (
+      <div className="metric-group">
+        <div className="text-[11px] text-brand-text-dim uppercase tracking-wider mb-3 flex items-center justify-between">
+          <span>AI Agents Pulse</span>
+          <div className="flex items-center gap-1.5">
+             <div className="w-1 h-1 rounded-full bg-brand-green animate-ping" />
+             <span className="text-[7px] text-brand-green font-black tracking-widest">ORCHESTRATED</span>
+          </div>
+        </div>
+        <div className="space-y-3">
+          {systemStatus.agents.map((agent) => (
+            <div key={agent.id} className="flex items-center justify-between group/agent">
+              <div className="flex items-center gap-3">
+                <div className={`w-1.5 h-1.5 rounded-full ${
+                  agent.status === 'online' ? 'bg-brand-green shadow-[0_0_8px_rgba(16,185,129,0.4)]' :
+                  agent.status === 'standby' ? 'bg-brand-accent shadow-[0_0_8px_rgba(59,130,246,0.4)]' :
+                  agent.status === 'offline' ? 'bg-red-500 shadow-[0_0_8px_rgba(239,68,68,0.4)]' :
+                  'bg-brand-text-dim'
+                } ${agent.status !== 'offline' ? 'animate-pulse' : ''}`} />
+                <div className="flex flex-col select-none">
+                  <span className="text-[13px] font-bold text-white/90 group-hover/agent:text-brand-accent transition-colors leading-snug">{agent.name}</span>
+                  <span className={`text-[10px] uppercase tracking-wider font-medium ${
+                    agent.status === 'offline' ? 'text-red-400' : 'text-brand-text-dim'
+                  }`}>
+                    {agent.status === 'online' ? 'Active' : agent.status === 'standby' ? 'Standby' : 'Offline'}
+                  </span>
+                </div>
+              </div>
+              <div className="text-right">
+                <div className="text-[11px] font-mono text-white/70 leading-tight">{agent.last_run}</div>
+                <div className="text-[9px] text-brand-text-dim uppercase tracking-tighter">Activity</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
 
     <div className="metric-group">
       <div className="flex justify-between items-end mb-3">

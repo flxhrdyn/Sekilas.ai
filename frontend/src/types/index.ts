@@ -38,8 +38,16 @@ export interface DigestData {
 
 export type Tab = 'digest' | 'search' | 'qa';
 
+export interface AgentPulse {
+  id: string;
+  name: string;
+  status: 'online' | 'standby' | 'busy' | 'offline';
+  last_run?: string;
+}
+
 export interface SystemStatus {
   date: string;
   gemini_usage: number;
   model_name?: string;
+  agents?: AgentPulse[];
 }

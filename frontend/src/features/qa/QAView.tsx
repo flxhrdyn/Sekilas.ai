@@ -36,7 +36,8 @@ export const QAView: React.FC<{ onActionSuccess?: () => void }> = ({ onActionSuc
   };
 
   return (
-    <div className="flex flex-col h-[calc(100vh-10rem)] border border-brand-border rounded-xl overflow-hidden bg-white/5">
+    <div className="max-w-6xl mx-auto px-6 py-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
+      <div className="flex flex-col h-[calc(100vh-18rem)] border border-white/5 rounded-[2rem] shadow-2xl overflow-hidden bg-brand-sidebar/40 backdrop-blur-2xl transition-all duration-500 hover:border-brand-accent/20">
       <div className="p-3 border-b border-brand-border flex items-center gap-3 bg-brand-sidebar/50">
         <div className="w-8 h-8 rounded-lg bg-brand-accent/20 flex items-center justify-center text-brand-accent">
           <Bot size={18} />
@@ -102,5 +103,6 @@ export const QAView: React.FC<{ onActionSuccess?: () => void }> = ({ onActionSuc
         </button>
       </form>
     </div>
+  </div>
   );
 };

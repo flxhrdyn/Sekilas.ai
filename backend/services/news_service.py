@@ -41,6 +41,58 @@ class NewsService:
         )
 
     @staticmethod
+    def get_qdrant_metrics() -> dict[str, Any]:
+        """Calculates current total and percentage change vs previous day, handling resets."""
+        digests = NewsService.load_summaries()
+        if not digests:
+            return {"total": 0, "percent_change": 0}
+        
+        latest = digests[-1]
+        stats = latest.get("pipeline_stats", {})
+        curr_total = stats.get("total_in_qdrant", latest.get("total_in_qdrant", 0))
+        
+        # Determine "Baseline"
+        # We look for the most recent record from a different date
+        curr_date = latest.get("date") or latest.get("timestamp", "")[:10]
+        prev_day_total = 0
+        
+        for d in reversed(digests[:-1]):
+            d_date = d.get("date") or d.get("timestamp", "")[:10]
+            if d_date != curr_date:
+                d_stats = d.get("pipeline_stats", {})
+                prev_day_total = d_stats.get("total_in_qdrant", d.get("total_in_qdrant", 0))
+                break
+        
+        # RESET DETECTION:
+        # If curr_total is significantly lower than prev_day_total, a reset happened.
+        # In this case, we find the local minimum encounterd today/recently and compare to that.
+        if prev_day_total > curr_total:
+            # Find the lowest total seen since the "drop"
+            local_min = curr_total
+            for d in reversed(digests[:-1]):
+                d_total = d.get("pipeline_stats", {}).get("total_in_qdrant", d.get("total_in_qdrant", 0))
+                if d_total < local_min:
+                    local_min = d_total
+                if d_total > curr_total * 2: # Found the pre-reset peak
+                    break
+            
+            baseline = local_min
+        else:
+            baseline = prev_day_total if prev_day_total > 0 else (digests[-2].get("pipeline_stats", {}).get("total_in_qdrant", digests[-2].get("total_in_qdrant", 0)) if len(digests) > 1 else 0)
+
+        percent_change = 0
+        if baseline > 0 and curr_total >= baseline:
+            percent_change = ((curr_total - baseline) / baseline) * 100
+        elif baseline > 0 and curr_total < baseline:
+            # If for some reason it's still lower, just show a small negative or 0
+            percent_change = ((curr_total - baseline) / baseline) * 100
+            
+        return {
+            "total": curr_total,
+            "percent_change": round(percent_change, 1)
+        }
+
+    @staticmethod
     def get_qa_chain() -> NewsQAChain:
         settings = get_settings()
         retriever = NewsService.get_retriever()

@@ -75,10 +75,46 @@ class SystemMonitor:
 
     @classmethod
     def get_stats(cls) -> dict:
+        import httpx
         from backend.config.settings import get_settings
+        from backend.services.news_service import NewsService
         settings = get_settings()
-        # Read-only operation doesn't strictly need a heavy write lock, 
-        # but let's use a simple read to be safe.
+        
         stats = cls._load_stats()
         stats["model_name"] = settings.classifier_model.split("/")[-1]
+        
+        # 1. Get Pipeline Logic
+        latest_digest = NewsService.get_latest_digest()
+        last_synthesis = "N/A"
+        if latest_digest:
+            gen_at = latest_digest.get("generated_at", "")
+            if "T" in gen_at:
+                last_synthesis = gen_at.split("T")[1][:5]
+
+        # 2. Real-Time Service Health Checks
+        qdrant_status = "offline"
+        if settings.qdrant_url:
+            try:
+                # Minimal probe with 1.5s timeout
+                headers = {}
+                if settings.qdrant_api_key:
+                    headers["api-key"] = settings.qdrant_api_key
+                resp = httpx.get(f"{settings.qdrant_url}/healthz", headers=headers, timeout=1.5)
+                if resp.status_code in [200, 403]: # 403 means reachable but needs full auth
+                    qdrant_status = "online"
+            except Exception:
+                qdrant_status = "offline"
+
+        gemini_status = "online" if settings.gemini_api_key else "offline"
+
+        stats["agents"] = [
+            {"id": "scraper", "name": "News Scraper Agent", "status": "standby", "last_run": last_synthesis},
+            {"id": "filter", "name": "Gatekeeper Filter", "status": "standby", "last_run": last_synthesis},
+            {"id": "cluster", "name": "Discovery Cluster", "status": "standby", "last_run": last_synthesis},
+            {"id": "summarizer", "name": "Intelligence Agent", "status": "standby", "last_run": last_synthesis},
+            {"id": "notifier", "name": "Broadcast Notifier", "status": "standby", "last_run": last_synthesis},
+            {"id": "embedder", "name": "Knowledge Embedder", "status": qdrant_status, "last_run": "Live"},
+            {"id": "qa", "name": "Executive QA Agent", "status": gemini_status, "last_run": "Ready"}
+        ]
+        
         return stats
