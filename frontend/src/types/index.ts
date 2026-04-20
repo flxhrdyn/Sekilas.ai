@@ -15,6 +15,14 @@ export interface StoryGroup {
   title: string;
   synthesis: string[];
   articles: any[];
+  impact_level?: string;
+  impact_reason?: string;
+  total_reports?: number;
+}
+
+export interface Correlation {
+  title: string;
+  analysis: string;
 }
 
 export interface DigestData {
@@ -25,6 +33,7 @@ export interface DigestData {
   other_news: Record<string, any[]>;
   stats: Record<string, number>;
   categories: string[];
+  correlations?: Correlation[];
 }
 
 export type Tab = 'digest' | 'search' | 'qa';

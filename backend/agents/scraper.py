@@ -93,13 +93,14 @@ class NewsScraper:
             for url in urls:
                 f.write(f"{url}\n")
 
-    def fetch_new_headlines(self, max_per_source: int = 40) -> tuple[list[RawHeadline], set[str]]:
+    def fetch_new_headlines(self, max_total: int = 150) -> tuple[list[RawHeadline], set[str]]:
         sources = self.load_sources()
         already_processed = self.load_processed_urls()
+        per_source_limit = max(5, max_total // len(sources)) if sources else 10
 
-        print(f"[PROCESS] Memindai {len(sources)} sumber untuk judul berita terbaru...")
+        print(f"[PROCESS] Memindai {len(sources)} sumber (Jatah: {per_source_limit} per sumber)...")
         headlines: list[RawHeadline] = []
-        # Gunakan max_workers yang lebih kecil untuk scan RSS agar tidak memicu bot detector
+        
         with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             future_to_source = {
                 executor.submit(self._load_rss_entries_standalone, s.url): s for s in sources
@@ -108,7 +109,10 @@ class NewsScraper:
                 source = future_to_source[future]
                 try:
                     entries = future.result()
-                    for entry in entries[:max_per_source]:
+                    count = 0
+                    for entry in entries:
+                        if count >= per_source_limit:
+                            break
                         url = (entry.get("link") or "").strip()
                         if url and url not in already_processed:
                             headlines.append(
@@ -120,6 +124,7 @@ class NewsScraper:
                                     category_hint=source.category_hint,
                                 )
                             )
+                            count += 1
                 except Exception:
                     continue
 

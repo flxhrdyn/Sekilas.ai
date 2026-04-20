@@ -19,6 +19,11 @@ class QdrantVectorStore:
         self.collection_name = collection_name
         self.client = QdrantClient(url=url, api_key=api_key)
 
+    def delete_collection(self) -> None:
+        if self.client.collection_exists(self.collection_name):
+            self.client.delete_collection(self.collection_name)
+            print(f"[OK] Collection '{self.collection_name}' berhasil dihapus.")
+
     def ensure_collection(self, vector_size: int = 768) -> None:
         if self.client.collection_exists(self.collection_name):
             info = self.client.get_collection(self.collection_name)

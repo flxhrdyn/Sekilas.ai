@@ -27,14 +27,20 @@ CATEGORIES: tuple[str, ...] = (
     "Umum",
 )
 
-CLASSIFY_PROMPT = """
-Klasifikasikan artikel berita berikut ke dalam SATU kategori:
+BATCH_CLASSIFY_PROMPT = """
+Tentukan kategori paling tepat untuk setiap berita berikut dari daftar ini:
 [Ekonomi, Politik, Teknologi, Kesehatan, Olahraga, Hiburan, Internasional, Lingkungan, Hukum, Umum]
 
-Judul: {title}
-Konten (300 karakter pertama): {content_preview}
+List Berita (ID | Judul | Preview):
+{news_list}
 
-Jawab HANYA dengan nama kategori, tanpa penjelasan.
+Kembalikan HANYA dalam format JSON valid:
+[
+  {{"id": 0, "category": "..."}},
+  {{"id": 1, "category": "..."}}
+]
+
+Pastikan analisis Anda tajam dan hanya pilih satu kategori terbaik.
 """.strip()
 
 
@@ -52,7 +58,7 @@ class NewsFilterAgent:
         embedder: NewsEmbedder,
         api_key: str,
         classifier_model: str,
-        dedup_threshold: float = 0.92,
+        dedup_threshold: float = 0.95,
         min_content_chars: int = 200,
     ) -> None:
         self.embedder = embedder
@@ -65,16 +71,29 @@ class NewsFilterAgent:
         quality_articles = [a for a in articles if len(a.content.strip()) >= self.min_content_chars]
         too_short_discarded = len(articles) - len(quality_articles)
 
+        # Step 1: Local Semantic Deduplication (Grabs first representative of near-exact news)
         unique_articles, duplicate_discarded = self._deduplicate(quality_articles)
 
+        if not unique_articles:
+            return [], FilterStats(len(articles), too_short_discarded, duplicate_discarded, 0)
+
+        # Step 2: Batch Classification (API Saver)
+        print(f"  [PROCESS] Mengklasifikasi {len(unique_articles)} berita unik dalam mode BATCH...")
+        
+        # Split into batches of 20 to respect token limits and context clarity
+        batch_size = 20
+        all_categorized: dict[str, str] = {} # URL -> Category
+        
+        for i in range(0, len(unique_articles), batch_size):
+            current_batch = unique_articles[i:i+batch_size]
+            batch_results = self._classify_batch(current_batch)
+            all_categorized.update(batch_results)
+            # Small delay to respect RPM
+            time.sleep(2.0)
+
         filtered: list[FilteredArticle] = []
-        total = len(unique_articles)
-        for idx, article in enumerate(unique_articles, 1):
-            stats_usage = SystemMonitor.get_stats().get("gemini_usage", 0)
-            print(f"  [>] [{stats_usage}/500] Mengklasifikasi berita {idx}/{total}: {article.title[:50]}...")
-            category = self._classify(article.title, article.content)
-            # Safety delay diperketat untuk mematuhi limit 15 RPM
-            time.sleep(4.5)
+        for article in unique_articles:
+            category = all_categorized.get(article.url, "Umum")
             filtered.append(
                 FilteredArticle(
                     url=article.url,
@@ -95,6 +114,44 @@ class NewsFilterAgent:
             passed=len(filtered),
         )
         return filtered, stats
+
+    def _classify_batch(self, articles: Sequence[RawArticle]) -> dict[str, str]:
+        """
+        Classifies a batch of articles in a single Gemini call.
+        Returns a mapping of URL -> Category.
+        """
+        news_list_str = []
+        for idx, art in enumerate(articles):
+            news_list_str.append(f"ID: {idx} | Judul: {art.title} | Preview: {art.content[:150]}")
+        
+        prompt = BATCH_CLASSIFY_PROMPT.format(news_list="\n".join(news_list_str))
+        
+        try:
+            model = genai.GenerativeModel(model_name=self.classifier_model)
+            response = model.generate_content(prompt)
+            SystemMonitor.increment_gemini_usage()
+            
+            raw_text = (response.text or "").strip()
+            # Clean JSON markers if present
+            if "```json" in raw_text:
+                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
+            elif "```" in raw_text:
+                raw_text = raw_text.split("```")[1].split("```")[0].strip()
+            
+            results = json.loads(raw_text)
+            url_to_cat = {}
+            for res in results:
+                idx = res.get("id")
+                cat = self._normalize_category(res.get("category", "Umum"))
+                if idx is not None and 0 <= idx < len(articles):
+                    url_to_cat[articles[idx].url] = cat or "Umum"
+            
+            return url_to_cat
+            
+        except Exception as e:
+            print(f"  [!] Kesalahan Batch Classify: {e}. Beralih ke heuristik dasar.")
+            # Fallback to heuristics for the whole batch
+            return {art.url: self._heuristic_category(art.title, art.content) for art in articles}
 
     def _deduplicate(self, articles: Sequence[RawArticle]) -> tuple[list[RawArticle], int]:
         if not articles:
