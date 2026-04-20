@@ -6,7 +6,7 @@
   --color-brand-card: #111114;
   --color-brand-border: #1e1e21;
   --color-brand-accent: #3b82f6;
-  --color-brand-accent-glow: rgba(59, 130, 246, 0.15);
+  --color-brand-accent-glow: rgba(59, 130, 246, 0.08); /* Reduced from 0.15 */
   --color-brand-text-main: #f4f4f5;
   --color-brand-text-dim: #71717a;
   --color-brand-green: #10b981;
@@ -30,19 +30,20 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   letter-spacing: -0.01em;
+  line-height: 1.6; /* Improved from default for comfort */
 }
 
-/* Glassmorphism base */
+/* Glassmorphism base - Slightly more solid for readability */
 .glass-panel {
-  @apply bg-brand-sidebar/40 backdrop-blur-xl border border-white/[0.03] shadow-2xl;
+  @apply bg-brand-sidebar/60 backdrop-blur-xl border border-white/[0.05] shadow-2xl;
 }
 
 .news-card {
-  @apply bg-brand-card/50 border border-brand-border/60 rounded-2xl p-5 transition-all duration-500 ease-out;
+  @apply bg-brand-card/40 border border-brand-border/40 rounded-2xl p-5 transition-all duration-300 ease-out;
 }
 
 .news-card:hover {
-  @apply border-brand-accent/30 shadow-[0_0_40px_-15px_rgba(59,130,246,0.15)] translate-y-[-2px];
+  @apply border-brand-accent/20 shadow-[0_0_30px_-10px_rgba(59,130,246,0.1)] translate-y-[-1px];
 }
 
 .status-badge {
@@ -50,7 +51,7 @@ body {
 }
 
 .status-dot {
-  @apply w-1.5 h-1.5 rounded-full bg-brand-green animate-pulse shadow-[0_0_8px_rgba(16,185,129,0.5)];
+  @apply w-1.5 h-1.5 rounded-full bg-brand-green animate-pulse shadow-[0_0_4px_rgba(16,185,129,0.3)];
 }
 
 .metric-group {
@@ -71,10 +72,10 @@ body {
 
 @keyframes float {
   0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
+  50% { transform: translateY(-3px); }
   100% { transform: translateY(0px); }
 }
 
 .animate-float {
-  animation: float 6s ease-in-out infinite;
+  animation: float 8s ease-in-out infinite;
 }

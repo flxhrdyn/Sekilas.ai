@@ -588,28 +588,49 @@ def build_daily_digest_record(
         for cid, synthesis_data in story_syntheses.items():
             if cid in clusters:
                 group_articles = clusters[cid]
-                # Sort articles by published_at or relevance
+                # Sort articles by published_at
                 group_articles.sort(key=lambda x: x["published_at"], reverse=True)
                 
+                impact_level = synthesis_data.get("impact_level", "LOW").upper()
+                report_count = len(group_articles)
+                
+                # ADVANCED RANKING SCORE
+                # Impact: HIGH(100), MEDIUM(50), LOW(10)
+                # Volume: +1 per report (capped at 50)
+                impact_weight = {"HIGH": 100, "MEDIUM": 50, "LOW": 10}
+                rank_score = impact_weight.get(impact_level, 0) + min(report_count, 50)
+
                 story_groups.append({
                     "id": cid,
                     "title": trending_topics.get(cid, "Topik Terkait"),
                     "synthesis": synthesis_data.get("synthesis", []),
-                    "impact_level": synthesis_data.get("impact_level", "LOW").upper(),
+                    "impact_level": impact_level,
                     "impact_reason": synthesis_data.get("impact_reason", ""),
-                    "articles": group_articles[:5], # Show up to 5 best/recent sources
-                    "total_reports": len(group_articles), # Keep the total count for the badge
+                    "articles": group_articles[:5],
+                    "total_reports": report_count,
+                    "rank_score": rank_score
                 })
 
-    # --- IMPACT SORTING (HIGH > MEDIUM > LOW) ---
-    impact_priority = {"HIGH": 0, "MEDIUM": 1, "LOW": 2}
-    story_groups.sort(key=lambda x: impact_priority.get(x["impact_level"], 3))
+    # --- ELITE RANKING & SLICING ---
+    story_groups.sort(key=lambda x: x["rank_score"], reverse=True)
+    
+    top_stories = story_groups[:5]
+    overflow_stories = story_groups[5:]
+    
+    # Redirect overflow to 'Supplemental Updates'
+    if overflow_stories:
+        supplemental = other_news.setdefault("Perkembangan Lainnya", [])
+        for story in overflow_stories:
+            # Pick the best article as a representative for 'other_news'
+            rep = story["articles"][0]
+            # Match the other_news structure
+            supplemental.append(rep)
 
     return {
         "date": datetime.now(UTC).strftime("%Y-%m-%d"),
         "generated_at": datetime.now(UTC).isoformat(),
         "headline": headline,
-        "top_stories": story_groups,
+        "top_stories": top_stories,
         "correlations": correlations or [],
         "other_news": other_news,
     }

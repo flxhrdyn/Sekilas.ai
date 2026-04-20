@@ -35,7 +35,7 @@ export default function App() {
       
       <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} />
 
-      <div className="flex-1 ml-[240px] flex flex-col min-h-screen relative z-10">
+      <div className="flex-1 lg:ml-[240px] flex flex-col min-h-screen relative z-10">
         <header className="h-16 border-b border-brand-border/30 flex items-center justify-between px-8 bg-brand-bg/60 backdrop-blur-md sticky top-0 z-50">
           <div className="text-sm text-brand-text-dim flex items-baseline gap-2">
             <span>Update Terakhir:</span>
