@@ -2675,5 +2675,277 @@
       "total_in_qdrant": 79
     },
     "timestamp": "2026-04-20T11:10:57.708580+00:00"
+  },
+  {
+    "date": "2026-04-21",
+    "generated_at": "2026-04-21T01:56:44.613327+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta teknologi.",
+    "top_stories": [
+      {
+        "id": 15,
+        "title": "internasional",
+        "synthesis": [
+          "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/global-fallout-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-04-21T01:33:44+00:00",
+            "summary": "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon Outrage continues to grow over the Israeli soldier who was photographed desecrating a statue of Jesus Christ in southern Lebanon, including among Trump’s former MAGA allies. From a Polish MP to a Palestinian theologian, observers say it reveals a wider pattern.",
+            "key_points": [
+              "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon Outrage continu",
+              "From a Polish MP to a Palestinian theologian, observers say it reveals a wider pattern",
+              "Save Share Follow Al Jazeera English:"
+            ],
+            "cluster_id": 15
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 1,
+        "title": "internasional",
+        "synthesis": [
+          "US is ‘pretty far behind where they started’ the war on Iran"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "US is ‘pretty far behind where they started’ the war on Iran",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/quotable/2026/4/21/us-is-pretty-far-behind-where-they-started-the-war-on-iran?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T01:37:53+00:00",
+            "summary": "US is 'pretty far behind where they started' the war on Iran Daniel Benaim, the former US Deputy Assistant Secretary for Arabian Peninsula Affairs, says the US missed the early off-ramps to declare victory over Iran, and now finds itself behind where it began on all its objectives. Save Share Follow Al Jazeera English:.",
+            "key_points": [
+              "US is 'pretty far behind where they started' the war on Iran Daniel Benaim, the former US",
+              "Save Share Follow Al Jazeera English:",
+              "Informasi tambahan belum tersedia"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 0,
+        "title": "kesehatan",
+        "synthesis": [
+          "Lapar Melulu Saat Kurang Tidur? Ini Penyebab dan Cara Mengatasinya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Lapar Melulu Saat Kurang Tidur? Ini Penyebab dan Cara Mengatasinya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8453601/lapar-melulu-saat-kurang-tidur-ini-penyebab-dan-cara-mengatasinya",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T00:02:58+00:00",
+            "summary": "Kurang tidur sering dianggap sepele, sekadar konsekuensi dari jadwal yang padat atau kebiasaan scrolling sebelum tidur. Padahal, di balik rasa kantuk di pagi hari, ada dampak yang jauh lebih kompleks yang terjadi di dalam tubuh.",
+            "key_points": [
+              "Kurang tidur sering dianggap sepele, sekadar konsekuensi dari jadwal yang padat atau kebia",
+              "Padahal, di balik rasa kantuk di pagi hari, ada dampak yang jauh lebih kompleks yang terja",
+              "Mulai dari gangguan keseimbangan hormon, penurunan sensitivitas insulin, hingga meningkatn"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 3,
+        "title": "olahraga",
+        "synthesis": [
+          "Fadly Alberto Minta Maaf Usai Bikin Tendangan Kungfu ke Pemain Dewa United"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Fadly Alberto Minta Maaf Usai Bikin Tendangan Kungfu ke Pemain Dewa United",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8453635/fadly-alberto-minta-maaf-usai-bikin-tendangan-kungfu-ke-pemain-dewa-united",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T00:06:50+00:00",
+            "summary": "Fadly Alberto Hengga, pemain Bhayangkara Presisi Lampung FC U-20, meminta maaf atas tendangan kungfunya ke pemain Dewa United. Ia mengatakannya di media sosial.",
+            "key_points": [
+              "Fadly Alberto Hengga, pemain Bhayangkara Presisi Lampung FC U-20, meminta maaf atas tendan",
+              "Ia mengatakannya di media sosial",
+              "\"Assalamualaikum warrohmatullahi Wabarakatuh"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 17,
+        "title": "teknologi",
+        "synthesis": [
+          "Resmi! Tim Cook Mundur, John Ternus Jadi CEO Baru Apple"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Resmi! Tim Cook Mundur, John Ternus Jadi CEO Baru Apple",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/business/d-8453623/resmi-tim-cook-mundur-john-ternus-jadi-ceo-baru-apple",
+            "category": "Politik",
+            "published_at": "2026-04-20T23:17:39+00:00",
+            "summary": "Adi Fida Rahman - detikInet Apple mengumumkan pergantian besar di posisi puncak perusahaan. Tim Cook, yang telah memimpin Apple selama 15 tahun, akan meninggalkan kursi CEO dan beralih menjadi Executive Chairman.",
+            "key_points": [
+              "Adi Fida Rahman - detikInet Apple mengumumkan pergantian besar di posisi puncak perusahaan",
+              "Tim Cook, yang telah memimpin Apple selama 15 tahun, akan meninggalkan kursi CEO dan beral",
+              "Posisi CEO akan diisi oleh John Ternus, Senior Vice President of Hardware Engineering, mul"
+            ],
+            "cluster_id": 17
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "PMs Wong, Anwar agree on importance of diplomacy, discuss supply chain resilience amid Middle East crisis",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/pm-wong-malaysia-anwar-middle-east-diplomacy-supply-chain-6069416",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T01:49:51+00:00",
+          "summary": "Singapore Singapore Prime Minister Lawrence Wong said that he spoke with his Malaysian counterpart Anwar Ibrahim to discuss the latest developments in the Middle East. Prime Minister Lawrence Wong spoke with his Malaysian counterpart Anwar Ibrahim on Apr 20, 2026, to discuss the latest developments in the Middle East.",
+          "key_points": [
+            "Singapore Singapore Prime Minister Lawrence Wong said that he spoke with his Malaysian cou",
+            "Prime Minister Lawrence Wong spoke with his Malaysian counterpart Anwar Ibrahim on Apr 20,",
+            "(Photo: Facebook/Lawrence Wong) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T01:05:41+00:00",
+          "summary": "US musician D4vd has pleaded not guilty to charges of first-degree murder in the death of a teenage girl who vanished last year. The star, whose legal name is David Anthony Burke, is accused of murdering 14-year-old Celeste Rivas Hernandez, whose decomposing remains were found in September in a Tesla registered to his Texas address.",
+          "key_points": [
+            "US musician D4vd has pleaded not guilty to charges of first-degree murder in the death of",
+            "The star, whose legal name is David Anthony Burke, is accused of murdering 14-year-old Cel",
+            "Burke, 21, also was charged with murder for \"financial gain\" and with murder of a witness"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Donnarumma Tak Pantas Dihujat!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8453679/donnarumma-tak-pantas-dihujat",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T00:31:57+00:00",
+          "summary": "Micah Richards mengecam para pengkritik Gianluigi Donnarumma yang blunder saat melawan Arsenal. Para pengkritik seolah melupakan peran besar Donnarumma hanya karena blunder.",
+          "key_points": [
+            "Micah Richards mengecam para pengkritik Gianluigi Donnarumma yang blunder saat melawan Ars",
+            "Para pengkritik seolah melupakan peran besar Donnarumma hanya karena blunder",
+            "Man City menang 2-1 atas Arsenal di Etihad Stadium pada laga lanjutan Liga Inggris, Minggu"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Six women win 2026 Goldman prize, world’s top environmental award",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/21/six-women-win-2026-goldman-prize-worlds-top-environmental-award?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T00:07:04+00:00",
+          "summary": "First all-women cohort of winners hails from Colombia, Nigeria, Papua New Guinea, South Korea, the UK and the US. Save Share This year’s prestigious Goldman Environmental Prize has been awarded to six grassroots environmental activists from around the world for their efforts to fight climate change and save biodiversity.",
+          "key_points": [
+            "First all-women cohort of winners hails from Colombia, Nigeria, Papua New Guinea, South Ko",
+            "Save Share This year’s prestigious Goldman Environmental Prize has been awarded to six gra",
+            "For the first time since the prize was created in 1989 by philanthropists Richard and Rhod"
+          ],
+          "cluster_id": 4
+        },
+        {
+          "title": "Apple names new chief executive to replace Tim Cook",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-20T22:55:39+00:00",
+          "summary": "Apple has named John Ternus as its new chief executive to replace Tim Cook who is stepping down after 15 years of leading the technology giant. Ternus, currently the head of hardware engineering who has been at Apple for 25 years, will take over on 1 September and Cook will become executive chairman.",
+          "key_points": [
+            "Apple has named John Ternus as its new chief executive to replace Tim Cook who is stepping",
+            "Ternus, currently the head of hardware engineering who has been at Apple for 25 years, wil",
+            "Cook has been chief executive of Apple since 2011 after co-founder Steve Jobs resigned for"
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Butuh Hiburan? 15 Foto Ini Bisa Jadi Penawar Sisi Negatifnya Media Sosial",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8453638/butuh-hiburan-15-foto-ini-bisa-jadi-penawar-sisi-negatifnya-media-sosial",
+          "category": "Hiburan",
+          "published_at": "2026-04-21T01:15:04+00:00",
+          "summary": "Pool - detikInet Asyik ada yang ulang tahun nih. Foto: Bored Panda Ngumpet dulu, takut difoto netizen.",
+          "key_points": [
+            "Pool - detikInet Asyik ada yang ulang tahun nih",
+            "Foto: Bored Panda Ngumpet dulu, takut difoto netizen",
+            "Foto: Bored Panda Kompak banget sih kaosnya"
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Stocks rebound as Iran peace talks in focus; Warsh hearing looms",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/stocks-rebound-iran-peace-talks-in-focus-warsh-hearing-looms-6069551",
+          "category": "Politik",
+          "published_at": "2026-04-21T01:45:42+00:00",
+          "summary": "Business Business A visitor walks past Japan's Nikkei stock prices quotation board inside a conference hall in Tokyo, Japan March 4, 2026. REUTERS/Issei Kato TOKYO, April 21 : Stocks rebounded in early trading in Asia on Tuesday as markets took heart from reports Iran is considering attending peace talks with the United States in Pakistan, with renewed bets on AI underpinning demand.",
+          "key_points": [
+            "Business Business A visitor walks past Japan's Nikkei stock prices quotation board inside",
+            "REUTERS/Issei Kato TOKYO, April 21 : Stocks rebounded in early trading in Asia on Tuesday",
+            "Investors were also keeping their eyes on a Senate confirmation hearing later for Kevin Wa"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Menkes Ungkap Kebiasaan Warga RI yang Picu Lonjakan Gagal Ginjal",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8453700/menkes-ungkap-kebiasaan-warga-ri-yang-picu-lonjakan-gagal-ginjal",
+          "category": "Politik",
+          "published_at": "2026-04-21T01:03:27+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Menteri Kesehatan (Menkes) Budi Gunadi Sadikin terang-terangan mengatakan adanya peningkatan kasus gagal ginjal di Indonesia. Kasus ini meningkat setidaknya dalam lima tahun terakhir.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Menteri Kesehatan (Menkes) Budi Gunadi Sadikin terang-tera",
+            "Kasus ini meningkat setidaknya dalam lima tahun terakhir",
+            "Menurut Menkes, hal ini dibuktikan dengan meningkatnya beban pembiayaan di BPJS Kesehatan"
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 92
+    },
+    "timestamp": "2026-04-21T01:56:44.613333+00:00"
   }
 ]
