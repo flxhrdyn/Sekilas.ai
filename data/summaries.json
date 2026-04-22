@@ -2947,5 +2947,291 @@
       "total_in_qdrant": 92
     },
     "timestamp": "2026-04-21T01:56:44.613333+00:00"
+  },
+  {
+    "date": "2026-04-22",
+    "generated_at": "2026-04-22T01:55:34.227737+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, olahraga serta kesehatan.",
+    "top_stories": [
+      {
+        "id": 3,
+        "title": "internasional",
+        "synthesis": [
+          "Trump remains ‘in a quandary’ despite Iran war ceasefire extension"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Trump remains ‘in a quandary’ despite Iran war ceasefire extension",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/quotable/2026/4/21/trump-remains-in-a-quandary-despite-iran-war-ceasefire-extension?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T23:26:57+00:00",
+            "summary": "Trump remains 'in a quandary' despite Iran war ceasefire extension Barbara Slavin, a distinguished fellow at the Stimson Center, says Trump’s decision to extend the ceasefire with Iran comes as a relief, but a diplomatic solution to the war on Iran will require the US to moderate its demands. Save Share Follow Al Jazeera English:.",
+            "key_points": [
+              "Trump remains 'in a quandary' despite Iran war ceasefire extension Barbara Slavin, a disti",
+              "Save Share Follow Al Jazeera English:",
+              "Informasi tambahan belum tersedia"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 2,
+        "title": "internasional",
+        "synthesis": [
+          "Virginia approves redistricting, giving Democrats edge in midterms"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-04-22T01:10:49+00:00",
+            "summary": "Virginia voters have approved a redistricting measure that could hand Democrats control of the thinly-divided US House of Representatives, US media report. The state is the latest front in a national battle to redraw congressional districts after President Donald Trump and Republicans initiated a national gerrymandering push aiming to help conservatives maintain a congressional majority.",
+            "key_points": [
+              "Virginia voters have approved a redistricting measure that could hand Democrats control of",
+              "The state is the latest front in a national battle to redraw congressional districts after",
+              "Democrats in California last year approved a similar measure to change the state's voting"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 0,
+        "title": "olahraga",
+        "synthesis": [
+          "Winger Muda RB Leipzig Ini Jadi Prioritas Liverpool, tapi Harganya..."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Winger Muda RB Leipzig Ini Jadi Prioritas Liverpool, tapi Harganya...",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8455414/winger-muda-rb-leipzig-ini-jadi-prioritas-liverpool-tapi-harganya",
+            "category": "Teknologi",
+            "published_at": "2026-04-22T01:30:50+00:00",
+            "summary": "Liverpool menjadikan winger muda RB Leipzig Yan Diomande sebagai target utama musim panas ini. Tapi, The Reds harus siap merogoh kocek dalam-dalam.",
+            "key_points": [
+              "Liverpool menjadikan winger muda RB Leipzig Yan Diomande sebagai target utama musim panas",
+              "Tapi, The Reds harus siap merogoh kocek dalam-dalam",
+              "Liverpool dipastikan nirgelar musim ini setelah berhasil menjuarai Liga Inggris musim lalu"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 1,
+        "title": "kesehatan",
+        "synthesis": [
+          "Habis Olahraga, Minum Air Dingin atau Hangat? Ini Plus Minusnya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Habis Olahraga, Minum Air Dingin atau Hangat? Ini Plus Minusnya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/kebugaran/d-8455363/habis-olahraga-minum-air-dingin-atau-hangat-ini-plus-minusnya",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T23:03:03+00:00",
+            "summary": "Tren lari atau jogging makin ramai, unggahan di media sosial dipenuhi rute, pace, sampai berkeringat dianggap sebagai pencapaian. Banyak yang mulai lari bukan karena rencana panjang, tapi karena dorongan melihat teman.",
+            "key_points": [
+              "Tren lari atau jogging makin ramai, unggahan di media sosial dipenuhi rute, pace, sampai b",
+              "Banyak yang mulai lari bukan karena rencana panjang, tapi karena dorongan melihat teman",
+              "FOMO yang satu ini terasa positif"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 4,
+        "title": "kesehatan",
+        "synthesis": [
+          "Cerita Wanita Punya Bayi Kembar di Usia 41 usai 8 Kali IVF dan Keguguran"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Cerita Wanita Punya Bayi Kembar di Usia 41 usai 8 Kali IVF dan Keguguran",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8455141/cerita-wanita-punya-bayi-kembar-di-usia-41-usai-8-kali-ivf-dan-keguguran",
+            "category": "Teknologi",
+            "published_at": "2026-04-21T13:30:42+00:00",
+            "summary": "Perjuangan panjang pasangan di Singapura untuk memiliki momongan akhirnya berbuah manis. Setelah 14 tahun menanti, melewati delapan siklus fertilisasi in vitro (IVF), lima kali keguguran, hingga berjuang melawan kanker payudara, wanita ini akhirnya melahirkan bayi kembar di usia 41 tahun.",
+            "key_points": [
+              "Perjuangan panjang pasangan di Singapura untuk memiliki momongan akhirnya berbuah manis",
+              "Setelah 14 tahun menanti, melewati delapan siklus fertilisasi in vitro (IVF), lima kali ke",
+              "Pada Maret 2026, pasangan bernama Josephine Foong dan Winston Yip, menyambut kelahiran dua"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-04-22T00:32:10+00:00",
+          "summary": "Tuesday began as a frantic day of diplomacy in Washington, with Air Force Two ready to fly Vice President JD Vance to Islamabad for another round of peace talks between the US and Iran. Several hours later, Air Force Two hadn't taken off and the negotiations were postponed.",
+          "key_points": [
+            "Tuesday began as a frantic day of diplomacy in Washington, with Air Force Two ready to fly",
+            "Several hours later, Air Force Two hadn't taken off and the negotiations were postponed",
+            "President Donald Trump announced that he would extend the ceasefire with Iran, set to expi"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Tim Cook Mundur dari CEO Apple, Bos Teknologi Ramai Bereaksi",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8455411/tim-cook-mundur-dari-ceo-apple-bos-teknologi-ramai-bereaksi",
+          "category": "Politik",
+          "published_at": "2026-04-22T00:15:19+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Artikel disimpan Keputusan Tim Cook mundur dari posisi CEO Apple langsung memicu gelombang reaksi dari para tokoh industri teknologi hingga politik global. Sosok yang memimpin Apple hampir 15 tahun sejak menggantikan Steve Jobs pada 2011, dinilai sebagai salah satu pemimpin paling berpengaruh dalam sejarah perusahaan tersebut.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Arti",
+            "Sosok yang memimpin Apple hampir 15 tahun sejak menggantikan Steve Jobs pada 2011, dinilai",
+            "Presiden Amerika Serikat Donald Trump menjadi salah satu yang pertama memberikan respons"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Paraguay plans to accept 25 third-country migrant deportees from US",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-21T23:10:21+00:00",
+          "summary": "The Trump administration has signed multimillion-dollar deals with foreign countries to accept non-citizen deportees. Save Share The South American nation of Paraguay has announced it will receive non-citizens expelled from the United States as part of President Donald Trump’s mass deportation push.",
+          "key_points": [
+            "The Trump administration has signed multimillion-dollar deals with foreign countries to ac",
+            "Save Share The South American nation of Paraguay has announced it will receive non-citizen",
+            "Paraguay’s Ministry of Foreign Affairs said in a statement on Tuesday that it will receive"
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Shingles: More than a rash, a painful condition not to ignore",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/advertorial/shingles-more-rash-painful-condition-not-ignore-6038611",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T01:25:00+00:00",
+          "summary": "Advertorial Advertorial The OG Gang share their experiences with shingles, a viral infection that can lead to lingering nerve pain and serious complications, especially in those aged 50 and above. Some of the most common symptoms of shingles include a burning, stabbing or throbbing rash, often followed by fever, headache, chills, fatigue and stomach upset.",
+          "key_points": [
+            "Advertorial Advertorial The OG Gang share their experiences with shingles, a viral infecti",
+            "Some of the most common symptoms of shingles include a burning, stabbing or throbbing rash",
+            "(Photos: GSK, Shutterstock) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Lini Depan Chelsea Menang Mahal Doang",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8455382/lini-depan-chelsea-menang-mahal-doang",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T01:00:05+00:00",
+          "summary": "Lini depan Chelsea boleh jadi diisi para pemain berharga mahal. Namun, Alejandro Garnacho cs justru tak mampu mencetak gol dalam 5 laga beruntun.",
+          "key_points": [
+            "Lini depan Chelsea boleh jadi diisi para pemain berharga mahal",
+            "Namun, Alejandro Garnacho cs justru tak mampu mencetak gol dalam 5 laga beruntun",
+            "Belanja besar dilakukan Chelsea pada musim panas 2025"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Material girl: Madonna offers reward for missing clothes",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/madonna-offers-reward-missing-clothes-coachella-6072241",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T00:51:00+00:00",
+          "summary": "Entertainment Entertainment \"These aren't just clothes, they are part of my history,\" the singer said. (Photo: Facebook/Madonna) Veteran songstress Madonna is appealing for the return of missing costumes she wore during her recent Coachella set with Sabrina Carpenter.",
+          "key_points": [
+            "Entertainment Entertainment \"These aren't just clothes, they are part of my history,\" the",
+            "(Photo: Facebook/Madonna) Veteran songstress Madonna is appealing for the return of missin",
+            "The Like A Virgin singer, 67, took to Instagram to ask for help in finding outfits that va"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Huawei Pura 90 Pro Max Rilis, Kamera 200MP Periskop Curi Perhatian",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8455400/huawei-pura-90-pro-max-rilis-kamera-200mp-periskop-curi-perhatian",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T23:45:40+00:00",
+          "summary": "Adi Fida Rahman - detikInet Huawei Pura 90 Pro Max resmi diperkenalkan bareng Pura 90 Pro. Kedua HP ini membawa kamera periskop 200 MP yang langsung mencuri perhatian pecinta gadget.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Huawei Pura 90 Pro Max resmi diperkenalkan bareng Pura 90 Pro",
+            "Kedua HP ini membawa kamera periskop 200 MP yang langsung mencuri perhatian pecinta gadget",
+            "Pura 90 Pro Max dibekali kamera periskop telephoto 200MP dengan sensor besar 1/1"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-21T23:08:16+00:00",
+          "summary": "The civil rights organisation has long been a target for conservative activists, who object to its characterisations of certain right-wing groups. Save Share The Southern Poverty Law Center (SPLC) in the United States has been indicted on federal fraud charges after acting Attorney General Todd Blanche accused the civil rights group of improperly raising millions of dollars to pay informants to infiltrate the Ku Klux Klan and other far-right groups.",
+          "key_points": [
+            "The civil rights organisation has long been a target for conservative activists, who objec",
+            "Save Share The Southern Poverty Law Center (SPLC) in the United States has been indicted o",
+            "The Department of Justice alleged that the law centre defrauded donors by using their mone"
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-04-21T12:28:31+00:00",
+          "summary": "The European Union's top court has ruled that Hungarian anti-LGBTQ laws violate EU rules and infringe its values of equality and minority rights. The laws were brought in by Viktor Orbán's government in 2021 and banned so-called promotion of homosexuality or gender change to under-18s, arguing it violated child protection laws.",
+          "key_points": [
+            "The European Union's top court has ruled that Hungarian anti-LGBTQ laws violate EU rules a",
+            "The laws were brought in by Viktor Orbán's government in 2021 and banned so-called promoti",
+            "The European Court of Justice ruled that the Orbán reforms breached EU rules on a number o"
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 107
+    },
+    "timestamp": "2026-04-22T01:55:34.227744+00:00"
   }
 ]
