@@ -3233,5 +3233,275 @@
       "total_in_qdrant": 107
     },
     "timestamp": "2026-04-22T01:55:34.227744+00:00"
+  },
+  {
+    "date": "2026-04-23",
+    "generated_at": "2026-04-23T01:59:52.377438+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, kesehatan serta internasional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "title": "internasional",
+        "synthesis": [
+          "Oil prices edge lower with no progress on US-Iran talks, Hormuz shipping still disrupted"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Oil prices edge lower with no progress on US-Iran talks, Hormuz shipping still disrupted",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/oil-prices-edge-lower-no-progress-us-iran-talks-hormuz-shipping-still-disrupted-6075081",
+            "category": "Politik",
+            "published_at": "2026-04-23T00:58:33+00:00",
+            "summary": "Business Business FILE PHOTO: A drone view of a pump jack and drilling rig south of Midland, Texas, U. S.",
+            "key_points": [
+              "Business Business FILE PHOTO: A drone view of a pump jack and drilling rig south of Midlan",
+              "S",
+              "June 11, 2025"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 2,
+        "title": "internasional",
+        "synthesis": [
+          "Japan's factory activity expands at strongest pace in 4 years, PMI shows"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Japan's factory activity expands at strongest pace in 4 years, PMI shows",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/japans-factory-activity-expands-strongest-pace-in-4-years-pmi-shows-6075066",
+            "category": "Teknologi",
+            "published_at": "2026-04-23T00:35:56+00:00",
+            "summary": "Business Business A worker writes next to a precision-machining machine for automotive parts inside a factory at Kyowa Industrial Co. in Takasaki, Gunma Prefecture, Japan April 11, 2025.",
+            "key_points": [
+              "Business Business A worker writes next to a precision-machining machine for automotive par",
+              "in Takasaki, Gunma Prefecture, Japan April 11, 2025",
+              "REUTERS/Issei Kato TOKYO, April 23 : Japan's manufacturing activity expanded at its strong"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 3,
+        "title": "internasional",
+        "synthesis": [
+          "Top US Navy official to leave office 'immediately:' Pentagon"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Top US Navy official to leave office 'immediately:' Pentagon",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/world/top-us-navy-official-john-phelan-leave-immediately-pentagon-6074811",
+            "category": "Politik",
+            "published_at": "2026-04-23T01:00:00+00:00",
+            "summary": "World World US Navy Secretary John Phelan speaks about the US Navy’s new Golden Fleet initiative at Mar-a-Lago in Palm Beach, Florida, on Dec 22, 2025. (Photo: AFP/Andrew Caballero-Reynolds) WASHINGTON: US Secretary of the Navy John Phelan will leave office \"immediately\", the Pentagon announced on Wednesday (Apr 22), without providing an explanation for the sudden exit.",
+            "key_points": [
+              "World World US Navy Secretary John Phelan speaks about the US Navy’s new Golden Fleet init",
+              "(Photo: AFP/Andrew Caballero-Reynolds) WASHINGTON: US Secretary of the Navy John Phelan wi",
+              "Phelan's departure follows the removal of top US Army officer General Randy George and two"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 4,
+        "title": "olahraga",
+        "synthesis": [
+          "Juventus Tawarkan Gaji Jauh Lebih Kecil daripada MLS, Lewandowski Mau?"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Juventus Tawarkan Gaji Jauh Lebih Kecil daripada MLS, Lewandowski Mau?",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8457141/juventus-tawarkan-gaji-jauh-lebih-kecil-daripada-mls-lewandowski-mau",
+            "category": "Teknologi",
+            "published_at": "2026-04-23T00:12:28+00:00",
+            "summary": "Di tengah ketidakpastian masa depannya di Barcelona, Robert Lewandowski mendapatkan berbagai tawaran. Salah satunya dari Juventus , meski tawaran gajinya kecil.",
+            "key_points": [
+              "Di tengah ketidakpastian masa depannya di Barcelona, Robert Lewandowski mendapatkan berbag",
+              "Salah satunya dari Juventus , meski tawaran gajinya kecil",
+              "Superstar sepakbola Polandia itu sedang menjalani tiga bulan terakhirnya di Catalunya"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 1,
+        "title": "kesehatan",
+        "synthesis": [
+          "Hidup dengan Satu Ginjal usai Kena Kanker, Pria Surabaya Ini Ungkap Perbedaan di Hidupnya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Hidup dengan Satu Ginjal usai Kena Kanker, Pria Surabaya Ini Ungkap Perbedaan di Hidupnya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8456908/hidup-dengan-satu-ginjal-usai-kena-kanker-pria-surabaya-ini-ungkap-perbedaan-di-hidupnya",
+            "category": "Teknologi",
+            "published_at": "2026-04-22T23:15:21+00:00",
+            "summary": "Pria bernama Mohammad Rizal Putra mengungkapkan perubahan di hidupnya pasca ginjal sebelah kirinya diangkat. Hal ini dilakukan karena didiagnosis mengidap kanker ginjal sarkoma grade 4.",
+            "key_points": [
+              "Pria bernama Mohammad Rizal Putra mengungkapkan perubahan di hidupnya pasca ginjal sebelah",
+              "Hal ini dilakukan karena didiagnosis mengidap kanker ginjal sarkoma grade 4",
+              "Menurut pria berusia 35 tahun yang tinggal di Surabaya itu, sebenarnya tidak terlalu ada p"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Semuanya Final buat Manchester City",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8457172/semuanya-final-buat-manchester-city",
+          "category": "Teknologi",
+          "published_at": "2026-04-23T01:40:00+00:00",
+          "summary": "Setelah berhasil menyalip Arsenal , Manchester City sadar kini tuntutannya adalah terus menang. Semuanya menjadi final buat The Citizens.",
+          "key_points": [
+            "Setelah berhasil menyalip Arsenal , Manchester City sadar kini tuntutannya adalah terus me",
+            "Semuanya menjadi final buat The Citizens",
+            "Kemenangan tipis 1-0 saat bertandang ke markas Burnley, Kamis (23/4/2026) dini hari WIB, m"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-23T00:40:25+00:00",
+          "summary": "Iran releases video of IRGC seizing ship in the Strait of Hormuz Iran’s revolutionary guard has released a video said to show its forces seizing a ship in the Strait of Hormuz. The container ship was one of two captured by Iran on Wednesday.",
+          "key_points": [
+            "Iran releases video of IRGC seizing ship in the Strait of Hormuz Iran’s revolutionary guar",
+            "The container ship was one of two captured by Iran on Wednesday",
+            "Save Share Follow Al Jazeera English:"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Lamine Yamal Cedera Usai Penalti, Warganet Was-was Absen Piala Dunia 2026",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8457132/lamine-yamal-cedera-usai-penalti-warganet-was-was-absen-piala-dunia-2026",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T23:45:29+00:00",
+          "summary": "Adi Fida Rahman - detikInet Kabar kurang mengenakkan datang dari Barcelona. Bintang muda Spanyol, Lamine Yamal, mengalami cedera sesaat setelah mencetak gol penalti dalam laga LaLiga melawan Celta Vigo Kamis (23/4/2026) dini hari WIB.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Kabar kurang mengenakkan datang dari Barcelona",
+            "Bintang muda Spanyol, Lamine Yamal, mengalami cedera sesaat setelah mencetak gol penalti d",
+            "Yamal membuka keunggulan Barcelona lewat titik putih pada menit ke-40"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Publisher GTA 6 Sindir Elon Musk yang Pekerjaannya Bisa Digantikan AI",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/games-news/d-8457129/publisher-gta-6-sindir-elon-musk-yang-pekerjaannya-bisa-digantikan-ai",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T23:15:06+00:00",
+          "summary": "Panji Saputro - detikInet CEO Take-Two Interactive, Strauss Zelnick, menanggapi komentar Elon Musk berkaitan dengan kecerdasan buatan (AI) yang dapat membantu orang-orang membuat game seperti GTA 6. Singkatnya, dirinya tidak setuju dengan tanggapan Elon Musk.",
+          "key_points": [
+            "Panji Saputro - detikInet CEO Take-Two Interactive, Strauss Zelnick, menanggapi komentar E",
+            "Singkatnya, dirinya tidak setuju dengan tanggapan Elon Musk",
+            "Jadi pada Januari lalu, Musk menyetujui sebuah postingan seorang pengguna X (tadinya Twitt"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Dokter Harvard Ungkap Tanda Tubuh Tak Baik-baik Saja yang Bisa Dilihat dari Feses",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8456906/dokter-harvard-ungkap-tanda-tubuh-tak-baik-baik-saja-yang-bisa-dilihat-dari-feses",
+          "category": "Teknologi",
+          "published_at": "2026-04-22T22:15:36+00:00",
+          "summary": "Kebiasaan buang air besar (BAB) kerap dianggap sepele dan jarang dibicarakan. Padahal, kondisi ini bisa menjadi indikator penting kesehatan tubuh, bahkan menandakan adanya masalah serius jika tidak berjalan normal.",
+          "key_points": [
+            "Kebiasaan buang air besar (BAB) kerap dianggap sepele dan jarang dibicarakan",
+            "Padahal, kondisi ini bisa menjadi indikator penting kesehatan tubuh, bahkan menandakan ada",
+            "Dokter Harvard Medical School Trisha Pasricha menyebut banyak orang merasa malu membicarak"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Wow! Utusan Trump Suruh FIFA Ganti Iran dengan Italia di Piala Dunia 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8457220/wow-utusan-trump-suruh-fifa-ganti-iran-dengan-italia-di-piala-dunia-2026",
+          "category": "Politik",
+          "published_at": "2026-04-23T01:20:54+00:00",
+          "summary": "Kabar mengejutkan datang dari Gedung Putih. Utusan Donald Trump, Presiden Amerika Serikat, meminta FIFA mengganti Iran dengan Italia di Piala Dunia 2026.",
+          "key_points": [
+            "Kabar mengejutkan datang dari Gedung Putih",
+            "Utusan Donald Trump, Presiden Amerika Serikat, meminta FIFA mengganti Iran dengan Italia d",
+            "Laporan ini dibagikan Financial Times pada Kamis (23/4) WIB"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "US Treasury Secretary Bessent says Gulf, Asian allies request swap lines",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-22T22:26:23+00:00",
+          "summary": "Bessent has pushed back on allegations that the Trump family’s financial ties with UAE are driving the decision to offer a swap line. Save Share United States Secretary of the Treasury Scott Bessent has said that several allies in the Gulf region and Asia have requested currency swap lines from the US to help them with the energy shocks and other fallout from the US-Israel war on Iran.",
+          "key_points": [
+            "Bessent has pushed back on allegations that the Trump family’s financial ties with UAE are",
+            "Save Share United States Secretary of the Treasury Scott Bessent has said that several all",
+            "Bessent told US senators on Wednesday that both the US and the United Arab Emirates would"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-04-22T18:10:42+00:00",
+          "summary": "The Trump family's World Liberty Financial crypto venture is being sued by one of its billionaire backers over allegations of extortion. Justin Sun has accused World Liberty of an \"illegal scheme\" to seize his WLFI tokens, a cryptocurrency issued by the company.",
+          "key_points": [
+            "The Trump family's World Liberty Financial crypto venture is being sued by one of its bill",
+            "Justin Sun has accused World Liberty of an \"illegal scheme\" to seize his WLFI tokens, a cr",
+            "Sun alleges the firm, co-founded by US President Donald Trump and his son Eric Trump, has"
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 122
+    },
+    "timestamp": "2026-04-23T01:59:52.377445+00:00"
   }
 ]
