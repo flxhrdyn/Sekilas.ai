@@ -3503,5 +3503,247 @@
       "total_in_qdrant": 122
     },
     "timestamp": "2026-04-23T01:59:52.377445+00:00"
+  },
+  {
+    "date": "2026-04-24",
+    "generated_at": "2026-04-24T02:00:00.265896+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, kesehatan serta internasional.",
+    "top_stories": [
+      {
+        "id": 1,
+        "title": "kesehatan",
+        "synthesis": [
+          "Ramai soal Naiknya Harga Kondom di China Imbas Jumlah Bayi yang Lahir Ngedrop"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Ramai soal Naiknya Harga Kondom di China Imbas Jumlah Bayi yang Lahir Ngedrop",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8458454/ramai-soal-naiknya-harga-kondom-di-china-imbas-jumlah-bayi-yang-lahir-ngedrop",
+            "category": "Teknologi",
+            "published_at": "2026-04-23T23:05:07+00:00",
+            "summary": "Peringatan soal kenaikan harga kondom ramai dibicarakan di China. Meski harganya diprediksi melonjak, banyak warga mengaku tetap akan membeli alat kontrasepsi tersebut demi mencegah kehamilan dan biaya besar untuk membesarkan anak.",
+            "key_points": [
+              "Peringatan soal kenaikan harga kondom ramai dibicarakan di China",
+              "Meski harganya diprediksi melonjak, banyak warga mengaku tetap akan membeli alat kontrasep",
+              "Topik ini viral di media sosial China, Weibo, dengan tagar soal kenaikan harga kondom yang"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 0,
+        "title": "olahraga",
+        "synthesis": [
+          "Kejurnas Taekwondo 2026 Diikuti 450 Atlet Muda"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Kejurnas Taekwondo 2026 Diikuti 450 Atlet Muda",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sport-lain/d-8458869/kejurnas-taekwondo-2026-diikuti-450-atlet-muda",
+            "category": "Teknologi",
+            "published_at": "2026-04-24T00:25:59+00:00",
+            "summary": "Kejuaraan Nasional (Kejurnas) Taekwondo 2026 berlangsung di Samarinda. Ajang ini diikuti 450 atlet muda dari 31 provinsi.",
+            "key_points": [
+              "Kejuaraan Nasional (Kejurnas) Taekwondo 2026 berlangsung di Samarinda",
+              "Ajang ini diikuti 450 atlet muda dari 31 provinsi",
+              "Kejurnas Taekwondo digelar di GOR Serbaguna Stadion Kadrie Oening pada 23-25 April 2026"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 2,
+        "title": "internasional",
+        "synthesis": [
+          "SpaceX would get enhanced protection from Texas laws, filing says"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "SpaceX would get enhanced protection from Texas laws, filing says",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/spacex-would-get-enhanced-protection-texas-laws-filing-says-6077676",
+            "category": "Teknologi",
+            "published_at": "2026-04-24T00:58:13+00:00",
+            "summary": "Business Business The SpaceX’s logo is seen in one of their buildings as the initial public offering (IPO) is expected to be announced soon in Starbase, Texas, U. S.",
+            "key_points": [
+              "Business Business The SpaceX’s logo is seen in one of their buildings as the initial publi",
+              "S",
+              "March 31, 2026"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 4,
+        "title": "olahraga",
+        "synthesis": [
+          "Yamal Cedera Jadi Pukulan Keras untuk Barcelona"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Yamal Cedera Jadi Pukulan Keras untuk Barcelona",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8458846/yamal-cedera-jadi-pukulan-keras-untuk-barcelona",
+            "category": "Teknologi",
+            "published_at": "2026-04-24T00:30:46+00:00",
+            "summary": "Gavi mengungkap cederanya Lamine Yamal jadi pukulan keras untuk Barcelona. Yamal terancam menepi hingga akhir musim ini akibat cedera hamstring.",
+            "key_points": [
+              "Gavi mengungkap cederanya Lamine Yamal jadi pukulan keras untuk Barcelona",
+              "Yamal terancam menepi hingga akhir musim ini akibat cedera hamstring",
+              "Yamal mengalami cedera hamstring usai jadi penentu kemenangan 1-0 atas Celta Vigo lewat ti"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 3,
+        "title": "teknologi",
+        "synthesis": [
+          "Kegagalan Fatal Roket Kebanggaan Jeff Bezos Berbuntut Panjang"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Kegagalan Fatal Roket Kebanggaan Jeff Bezos Berbuntut Panjang",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8458872/kegagalan-fatal-roket-kebanggaan-jeff-bezos-berbuntut-panjang",
+            "category": "Teknologi",
+            "published_at": "2026-04-24T00:45:35+00:00",
+            "summary": "Fino Yurio Kristo - detikInet Roket terbaru Blue Origin, perusahaan milik Jefff Bezos, dilarang terbang setelah Administrasi Penerbangan Federal (FAA) memerintahkan penyelidikan atas insiden kegagalan peluncuran sebuah satelit. Blue Origin berusaha menempatkan satelit AST SpaceMobile menggunakan roket New Glenn, namun gagal membawanya sejauh yang direncanakan ke dalam orbit.",
+            "key_points": [
+              "Fino Yurio Kristo - detikInet Roket terbaru Blue Origin, perusahaan milik Jefff Bezos, dil",
+              "Blue Origin berusaha menempatkan satelit AST SpaceMobile menggunakan roket New Glenn, namu",
+              "Kepala Eksekutif Blue Origin, Dave Limp, mengatakan kegagalan tersebut disebabkan oleh kur"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Jadwal MPLID S17 Week 5 Hari Ini: Evos Vs Onic",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8458912/jadwal-mplid-s17-week-5-hari-ini-evos-vs-onic",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T01:45:46+00:00",
+          "summary": "Panji Saputro - detikInet Jadwal MPL ID S17 hari ini, 24 April 2026, bakal menampilkan pertempuran dua tim hebat, yakni Evos vs Onic. Berikut jam main keduanya.",
+          "key_points": [
+            "Panji Saputro - detikInet Jadwal MPL ID S17 hari ini, 24 April 2026, bakal menampilkan per",
+            "Berikut jam main keduanya",
+            "Duel mereka terselenggara di XO Hall MPL Arena, Jakarta Barat, Jakarta"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Soal Kuota Internet Hangus di MK, Ini Penjelasan Pakar Telekomunikasi",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8458762/soal-kuota-internet-hangus-di-mk-ini-penjelasan-pakar-telekomunikasi",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T00:55:02+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Rahmat Khairurizqi - detikInet Anda menyukai artikel ini Artikel disimpan Polemik 'kuota internet hangus' kembali menguat setelah Mahkamah Konstitusi (MK) menggelar sidang lanjutan pengujian Undang-Undang Cipta Kerja yang bersinggungan dengan sektor telekomunikasi. Dalam sidang tersebut, asosiasi industri dan sejumlah penyelenggara layanan telekomunikasi hadir sebagai pihak terkait untuk menjelaskan praktik paket data yang selama ini berjalan.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Rahmat Khairurizqi - detikInet Anda menyukai artikel ini A",
+            "Dalam sidang tersebut, asosiasi industri dan sejumlah penyelenggara layanan telekomunikasi",
+            "Associate Professor di STEI ITB, M"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "US soldier charged after winning $400,000 betting on removal of Maduro",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T00:21:32+00:00",
+          "summary": "A US special forces soldier involved in the military operation that captured Nicolas Maduro has been arrested after he allegedly bet on the removal of Venezuela's former leader before the information was publicly available. The US Department of Justice (DOJ) has charged Gannon Ken Van Dyke after he allegedly made trades on Polymarket, a crypto-powered platform, on the basis of classified information.",
+          "key_points": [
+            "A US special forces soldier involved in the military operation that captured Nicolas Madur",
+            "The US Department of Justice (DOJ) has charged Gannon Ken Van Dyke after he allegedly made",
+            "\"That is clear insider trading and is illegal under federal law,\" justice department offic"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Ngeri! Gurita 19 Meter Ini Jadi Predator Laut Zaman Dinosaurus",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8458863/ngeri-gurita-19-meter-ini-jadi-predator-laut-zaman-dinosaurus",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T00:15:23+00:00",
+          "summary": "Adi Fida Rahman - detikInet Bayangkan seekor gurita raksasa dengan panjang mencapai 19 meter mengintai di lautan purba, saat dinosaurus masih berkuasa di daratan. Kedengarannya seperti kraken dalam legenda, tapi kali ini bukan mitos.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Bayangkan seekor gurita raksasa dengan panjang mencapai 19 met",
+            "Kedengarannya seperti kraken dalam legenda, tapi kali ini bukan mitos",
+            "Penelitian terbaru mengungkap bahwa makhluk ini benar-benar pernah ada dan kemungkinan men"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "iPhone 18 Dirumorkan Downgrade Layar, Apple Pakai OLED Lama",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8458855/iphone-18-dirumorkan-downgrade-layar-apple-pakai-oled-lama",
+          "category": "Teknologi",
+          "published_at": "2026-04-23T23:45:29+00:00",
+          "summary": "Adi Fida Rahman - detikInet Rumor terbaru soal iPhone 18 kembali mencuri perhatian. Kali ini bukan soal kamera atau desain, melainkan layar.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Rumor terbaru soal iPhone 18 kembali mencuri perhatian",
+            "Kali ini bukan soal kamera atau desain, melainkan layar",
+            "Model standar iPhone 18 disebut-sebut akan mengalami downgrade dengan penggunaan material"
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Politik": [
+        {
+          "title": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-23T23:04:51+00:00",
+          "summary": "The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowledge of the Venezuela attack. Save Share The United States Department of Justice has filed criminal charges against an active-duty soldier for placing a bet on the abduction of Venezuelan President Nicolas Maduro, using classified military information for personal profit.",
+          "key_points": [
+            "The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowled",
+            "Save Share The United States Department of Justice has filed criminal charges against an a",
+            "On Thursday, prosecutors accused Gannon Ken Van Dyke, 38, of cashing in on the operation a"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 137
+    },
+    "timestamp": "2026-04-24T02:00:00.265903+00:00"
   }
 ]
