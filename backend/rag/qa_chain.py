@@ -37,7 +37,7 @@ class NewsQAChain:
         self,
         retriever: NewsRetriever,
         api_key: str,
-        model: str = "models/gemini-2.0-flash",
+        model: str = "models/gemini-3.1-flash-lite-preview",
         default_top_k: int = 5,
     ) -> None:
         self.retriever = retriever
@@ -53,6 +53,7 @@ class NewsQAChain:
         top_k: int | None = None,
         category_filter: str | None = None,
     ) -> AnswerResult:
+        import time
         limit = top_k if top_k is not None else self.default_top_k
         results = self.retriever.search(
             query=question,
@@ -70,19 +71,23 @@ class NewsQAChain:
         context = build_context(results)
         prompt = QA_PROMPT.format(context=context, question=question.strip())
 
-        try:
-            response = self.model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
-            answer_text = (response.text or "").strip()
-        except ResourceExhausted as e:
-            error_msg = str(e)
-            # Deteksi otomatis limit harian (RPD)
-            if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
-                SystemMonitor.update_usage(500)
-            
-            answer_text = "Maaf, limit harian Gemini telah tercapai (500/500). Silakan coba lagi besok."
-        except Exception:
-            answer_text = "Maaf, proses jawaban sedang mengalami kendala. Coba ulangi sebentar lagi."
+        answer_text = ""
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                response = self.model.generate_content(prompt)
+                SystemMonitor.increment_gemini_usage()
+                answer_text = (response.text or "").strip()
+                break # Sukses, keluar dari loop
+            except ResourceExhausted:
+                answer_text = "Maaf, limit Gemini saat ini telah tercapai. Silakan coba lagi beberapa saat lagi atau besok."
+                break # Limit beneran habis, tidak perlu retry
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    print(f"  [RETRY] Gemini error (Attempt {attempt+1}/{max_retries}): {e}. Menunggu 2 detik...")
+                    time.sleep(2)
+                    continue
+                answer_text = "Maaf, server Gemini sedang sibuk (Error 503). Coba ulangi sebentar lagi."
 
         sources = self._unique_sources(results)
         if "http" not in answer_text and sources:

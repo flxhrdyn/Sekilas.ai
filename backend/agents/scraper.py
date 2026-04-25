@@ -11,6 +11,7 @@ import feedparser
 import httpx
 import yaml
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 from backend.agents.models import RawArticle, RawHeadline
 
@@ -138,7 +139,7 @@ class NewsScraper:
         articles: list[RawArticle] = []
         
         # Jitter: Tambahkan delay acak kecil antar request untuk meniru manusia
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             future_to_headline = {
                 executor.submit(self._fetch_article_content_standalone, h.url): h
                 for h in headlines
@@ -203,20 +204,80 @@ class NewsScraper:
             with httpx.Client(timeout=self.timeout_seconds, headers=headers, follow_redirects=True) as client:
                 response = client.get(url)
                 response.raise_for_status()
-                
-                soup = BeautifulSoup(response.text, "lxml")
-                for tag in soup(["script", "style", "noscript"]):
-                    tag.extract()
+                clean_text = self._parse_html_content(response.text)
 
-                paragraphs = [
-                    p.get_text(" ", strip=True)
-                    for p in soup.find_all("p")
-                    if p.get_text(" ", strip=True)
-                ]
-                text = "\n".join(paragraphs).strip()
-                return text[:8000]
-        except Exception:
+                # FALLBACK SAFETY & SPA CHECK
+                if len(clean_text) < 150:
+                    print(f"  [SPA DETECTED] Teks terlalu pendek ({len(clean_text)} char), mencoba Playwright untuk {url}...")
+                    clean_text = self._fetch_with_playwright(url)
+                    if len(clean_text) < 150:
+                        return ""
+
+                return clean_text[:10000]
+        except Exception as e:
+            print(f"  [!] Kesalahan HTTPX/Scraping: {e}, mencoba Playwright...")
+            try:
+                clean_text = self._fetch_with_playwright(url)
+                if len(clean_text) > 150:
+                    return clean_text[:10000]
+            except Exception:
+                pass
             return ""
+
+    def _parse_html_content(self, html: str) -> str:
+        """Shared HTML-to-text parser. Digunakan oleh HTTPX dan Playwright."""
+        from backend.agents.cleaning_utils import calculate_content_score, clean_text_noise
+
+        soup = BeautifulSoup(html, "lxml")
+        for tag in soup(["script", "style", "noscript", "aside", "nav", "footer", "header", "form"]):
+            tag.extract()
+
+        candidates = soup.find_all(['div', 'article', 'section', 'main'])
+        best_container = None
+        max_score = 0
+        for candidate in candidates:
+            if len(candidate.find_all('p')) < 2:
+                continue
+            score = calculate_content_score(candidate)
+            if score > max_score:
+                max_score = score
+                best_container = candidate
+
+        target = best_container if best_container else soup
+        paragraphs = []
+        for p in target.find_all('p'):
+            p_text = p.get_text(" ", strip=True)
+            if not p_text:
+                continue
+            links_len = sum(len(a.get_text(strip=True)) for a in p.find_all('a'))
+            if len(p_text) > 0 and (links_len / len(p_text)) > 0.4:
+                continue
+            paragraphs.append(p_text)
+
+        raw_text = "\n".join(paragraphs).strip()
+        return clean_text_noise(raw_text)
+
+    def _fetch_with_playwright(self, url: str) -> str:
+        """Fallback engine untuk web modern (SPA/JS-rendered) menggunakan headless browser."""
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent=random.choice(USER_AGENTS),
+                java_script_enabled=True,
+                viewport={"width": 1280, "height": 720}
+            )
+            page = context.new_page()
+            try:
+                # domcontentloaded jauh lebih cepat & tidak hang seperti networkidle
+                page.goto(url, wait_until="domcontentloaded", timeout=int(self.timeout_seconds * 1000))
+                page.wait_for_timeout(1500)  # Beri waktu JS render konten
+                html_content = page.content()
+            finally:
+                page.close()
+                context.close()
+                browser.close()
+
+        return self._parse_html_content(html_content)
 
     def _parse_published_datetime(self, entry: dict) -> datetime:
         for key in ("published", "updated"):

@@ -6,7 +6,7 @@ from typing import Mapping
 from typing import Sequence
 
 from qdrant_client import QdrantClient
-from qdrant_client.models import Distance, PointStruct, VectorParams, Filter, FieldCondition, Range
+from qdrant_client.models import Distance, PointStruct, VectorParams, Filter, FieldCondition, Range, SparseVectorParams, SparseIndexParams, Modifier
 from datetime import datetime, timedelta, timezone
 
 from backend.agents.models import FilteredArticle, RawArticle
@@ -25,7 +25,7 @@ class QdrantVectorStore:
             self.client.delete_collection(self.collection_name)
             print(f"[OK] Collection '{self.collection_name}' berhasil dihapus.")
 
-    def ensure_collection(self, vector_size: int = 768) -> None:
+    def ensure_collection(self, vector_size: int = 384) -> None:
         if self.client.collection_exists(self.collection_name):
             info = self.client.get_collection(self.collection_name)
             existing_size = self._extract_vector_size(info)
@@ -35,17 +35,17 @@ class QdrantVectorStore:
                     f"collection={existing_size}, embedding_model={vector_size}. "
                     "Gunakan nama collection baru atau samakan model embedding."
                 )
-            # Pastikan index selalu ada (aman dipanggil berulang kali)
-            from qdrant_client.models import PayloadSchemaType
-            self.client.create_payload_index(
-                collection_name=self.collection_name,
-                field_name="published_at_ts",
-                field_schema=PayloadSchemaType.FLOAT,
-            )
             return
+            
         self.client.create_collection(
             collection_name=self.collection_name,
-            vectors_config=VectorParams(size=vector_size, distance=Distance.COSINE),
+            vectors_config={"dense": VectorParams(size=vector_size, distance=Distance.COSINE)},
+            sparse_vectors_config={
+                "sparse": SparseVectorParams(
+                    index=SparseIndexParams(on_disk=False),
+                    modifier=Modifier.IDF
+                )
+            }
         )
         # Tambahkan index untuk kolom filtering TTL
         from qdrant_client.models import PayloadSchemaType
@@ -55,35 +55,39 @@ class QdrantVectorStore:
             field_schema=PayloadSchemaType.FLOAT,
         )
 
-    def upsert_articles(
+    def upsert_chunks(
         self,
-        articles: Sequence[ArticleLike],
-        embeddings: Sequence[Sequence[float]],
-        insights_by_url: Mapping[str, Mapping[str, Any]] | None = None,
+        chunks: Sequence[dict], # List of dicts containing chunk data and embeddings
     ) -> None:
-        if len(articles) != len(embeddings):
-            raise ValueError("Jumlah artikel dan embedding harus sama.")
+        if not chunks:
+            return
 
         points: list[PointStruct] = []
-        for article, vector in zip(articles, embeddings, strict=True):
-            category = getattr(article, "category", article.category_hint)
-            insight = insights_by_url.get(article.url, {}) if insights_by_url else {}
-            summary = str(insight.get("summary", "")).strip()
-            raw_points = insight.get("key_points", [])
-            key_points = [str(item).strip() for item in raw_points if str(item).strip()]
+        for chunk in chunks:
+            # We create a unique ID for each chunk using URL + Chunk Index
+            chunk_id_str = f"{chunk['url']}#chunk_{chunk['chunk_index']}"
+            point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, chunk_id_str))
+            
+            vector_dict = {
+                "dense": list(chunk["dense_embedding"]),
+                "sparse": chunk["sparse_embedding"]
+            }
+            
             points.append(
                 PointStruct(
-                    id=str(uuid.uuid5(uuid.NAMESPACE_URL, article.url)),
-                    vector=list(vector),
+                    id=point_id,
+                    vector=vector_dict,
                     payload={
-                        "url": article.url,
-                        "title": article.title,
-                        "source": article.source,
-                        "category": category,
-                        "published_at": article.published_at.isoformat(),
-                        "published_at_ts": article.published_at.timestamp(),
-                        "summary": summary,
-                        "key_points": key_points,
+                        "url": chunk["url"],
+                        "title": chunk["title"],
+                        "source": chunk["source"],
+                        "category": chunk["category"],
+                        "published_at": chunk["published_at"],
+                        "published_at_ts": chunk["published_at_ts"],
+                        "text_chunk": chunk["text_chunk"],
+                        "chunk_index": chunk["chunk_index"],
+                        "summary": chunk.get("summary", ""),
+                        "key_points": chunk.get("key_points", []),
                     },
                 )
             )
@@ -101,10 +105,8 @@ class QdrantVectorStore:
         
         print(f"[PROCESS] Membersihkan artikel lebih tua dari {threshold_date.isoformat()} ({days} hari)...")
         
-        # Hitung sebelum
         count_before = self.count()
         
-        # Lakukan penghapusan berdasarkan payload 'published_at_ts' (numerik)
         self.client.delete(
             collection_name=self.collection_name,
             points_selector=Filter(
@@ -117,14 +119,13 @@ class QdrantVectorStore:
             )
         )
         
-        # Hitung sesudah
         count_after = self.count()
         deleted_count = count_before - count_after
         
         if deleted_count > 0:
-            print(f"[OK] Berhasil membersihkan {deleted_count} artikel lama dari Qdrant.")
+            print(f"[OK] Berhasil membersihkan {deleted_count} chunk lama dari Qdrant.")
         else:
-            print(f"[INFO] Tidak ada artikel lama yang perlu dibersihkan.")
+            print(f"[INFO] Tidak ada chunk lama yang perlu dibersihkan.")
             
         return deleted_count
 
@@ -137,11 +138,14 @@ class QdrantVectorStore:
         if vectors is None:
             return None
 
-        size = getattr(vectors, "size", None)
-        if isinstance(size, int):
-            return size
-
+        # Check for named vectors ("dense")
         if isinstance(vectors, dict):
+            dense_cfg = vectors.get("dense")
+            if dense_cfg:
+                size = getattr(dense_cfg, "size", None)
+                if isinstance(size, int):
+                    return size
+            
             for value in vectors.values():
                 candidate = getattr(value, "size", None)
                 if isinstance(candidate, int):

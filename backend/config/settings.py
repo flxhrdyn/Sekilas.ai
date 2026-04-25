@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     qdrant_api_key: str = Field(..., alias="QDRANT_API_KEY")
     qdrant_collection: str = Field(default="sekilas_ai", alias="QDRANT_COLLECTION")
 
-    embedding_model: str = Field(default="sentence-transformers/all-MiniLM-L6-v2", alias="EMBEDDING_MODEL")
+    embedding_model: str = Field(default="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", alias="EMBEDDING_MODEL")
     embedding_output_dim: int | None = Field(default=384, alias="EMBEDDING_OUTPUT_DIM")
     classifier_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="CLASSIFIER_MODEL")
     summarizer_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="SUMMARIZER_MODEL")

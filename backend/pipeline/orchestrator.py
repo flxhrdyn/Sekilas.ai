@@ -33,6 +33,7 @@ class NewsState(TypedDict, total=False):
     story_syntheses: dict[int, dict]
     correlations: list[dict]
     embeddings: list[list[float]]
+    chunks: list[dict]
     total_in_qdrant: int
     notifier_status: str
     result: dict
@@ -258,30 +259,76 @@ def _build_graph(
         }
 
     def embed_node(state: NewsState) -> NewsState:
-        print(f"[PROCESS] Membuat embedding untuk {len(state['filtered_articles'])} artikel...")
+        from langchain_text_splitters import RecursiveCharacterTextSplitter
+        print(f"[PROCESS] Memecah dan membuat embedding untuk {len(state['filtered_articles'])} artikel...")
+        
         filtered_articles = state.get("filtered_articles", [])
-        docs = [prepare_document(article) for article in filtered_articles]
-        embeddings = embedder.embed_documents(docs)
+        insights = state.get("insights", {})
+        
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=500,
+            chunk_overlap=50,
+            length_function=len,
+            is_separator_regex=False,
+        )
+        
+        all_chunks = []
+        texts_to_embed = []
+        
+        for article in filtered_articles:
+            # We don't prepare_document for embedding anymore, we just embed the raw text chunks
+            # so the semantic meaning is pure. The metadata is stored in payload.
+            article_chunks = text_splitter.split_text(article.content)
+            
+            insight = insights.get(article.url, {})
+            summary = str(getattr(insight, "summary", "")).strip() if hasattr(insight, "summary") else str(insight.get("summary", "")).strip()
+            
+            raw_points = getattr(insight, "key_points", []) if hasattr(insight, "key_points") else insight.get("key_points", [])
+            key_points = [str(item).strip() for item in raw_points if str(item).strip()]
+            
+            for i, chunk_text in enumerate(article_chunks):
+                chunk_dict = {
+                    "url": article.url,
+                    "title": article.title,
+                    "source": article.source,
+                    "category": getattr(article, "category", article.category_hint),
+                    "published_at": article.published_at.isoformat(),
+                    "published_at_ts": article.published_at.timestamp(),
+                    "text_chunk": chunk_text,
+                    "chunk_index": i,
+                    "summary": summary,
+                    "key_points": key_points,
+                }
+                all_chunks.append(chunk_dict)
+                texts_to_embed.append(chunk_text)
+                
+        print(f"[INFO] Terbentuk {len(all_chunks)} chunks dari {len(filtered_articles)} artikel.")
+        
+        if not texts_to_embed:
+            return {"chunks": []}
+            
+        dense_embeddings, sparse_embeddings = embedder.embed_documents(texts_to_embed)
+        
+        # Attach embeddings back to chunk dicts
+        for chunk, dense, sparse in zip(all_chunks, dense_embeddings, sparse_embeddings):
+            chunk["dense_embedding"] = dense
+            chunk["sparse_embedding"] = sparse
+            
         print("[OK] Embedding selesai.")
-        return {"embeddings": embeddings}
+        return {"chunks": all_chunks}
 
     def upsert_and_persist_node(state: NewsState) -> NewsState:
         print("[PROCESS] Menyimpan data ke database dan mengirim notifikasi...")
         settings = get_settings()
         filtered_articles = state.get("filtered_articles", [])
-        embeddings = state.get("embeddings", [])
+        chunks = state.get("chunks", [])
         insights = state.get("insights", {})
-        insights_payload = state.get("insights_payload", {})
 
-        vector_size = len(embeddings[0]) if embeddings else (settings.embedding_output_dim or 768)
+        # FastEmbed e5-small has dimension 384
+        vector_size = 384
         store.ensure_collection(vector_size=vector_size)
         
-        # Format payload untuk upsert
-        insights_payload = {
-            url: {"summary": insight.summary, "key_points": insight.key_points}
-            for url, insight in insights.items()
-        }
-        store.upsert_articles(filtered_articles, embeddings, insights_by_url=insights_payload)
+        store.upsert_chunks(chunks)
 
         scraper.save_processed_urls(state.get("all_processed", set()))
 

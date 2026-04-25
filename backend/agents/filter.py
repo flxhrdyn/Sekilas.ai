@@ -93,7 +93,20 @@ class NewsFilterAgent:
 
         filtered: list[FilteredArticle] = []
         for article in unique_articles:
-            category = all_categorized.get(article.url, "Umum")
+            res = all_categorized.get(article.url, {})
+            # Handle both string (old format) and dict (new format) gracefully
+            if isinstance(res, str):
+                category = res
+                is_news = True
+            else:
+                category = res.get("category", "Umum")
+                is_news = res.get("is_news", True)
+            
+            # HARD FILTER: Buang jika bukan berita berkualitas/intelijen
+            if not is_news:
+                print(f"  [FILTERED] Membuang konten noise: {article.title[:50]}...")
+                continue
+                
             filtered.append(
                 FilteredArticle(
                     url=article.url,
@@ -139,19 +152,35 @@ class NewsFilterAgent:
                 raw_text = raw_text.split("```")[1].split("```")[0].strip()
             
             results = json.loads(raw_text)
-            url_to_cat = {}
+            url_to_res = {}
             for res in results:
                 idx = res.get("id")
                 cat = self._normalize_category(res.get("category", "Umum"))
+                is_news = res.get("is_news", True)
                 if idx is not None and 0 <= idx < len(articles):
-                    url_to_cat[articles[idx].url] = cat or "Umum"
+                    url_to_res[articles[idx].url] = {
+                        "category": cat or "Umum",
+                        "is_news": is_news
+                    }
             
-            return url_to_cat
+            return url_to_res
             
         except Exception as e:
-            print(f"  [!] Kesalahan Batch Classify: {e}. Beralih ke heuristik dasar.")
-            # Fallback to heuristics for the whole batch
-            return {art.url: self._heuristic_category(art.title, art.content) for art in articles}
+            print(f"  [!] Kesalahan Batch Classify: {e}. Beralih ke heuristik dasar yang ketat.")
+            # Fallback to heuristics for the whole batch. 
+            url_to_res = {}
+            for art in articles:
+                # Heuristic ketat: Konten harus cukup panjang dan tidak berisi kata kunci noise
+                is_news = True
+                if len(art.content) < 800:
+                    is_news = False
+                    
+                noise_keywords = ["beli", "harga", "promo", "diskon", "jual", "toko", "belanja", "zodiak", "ramalan", "gosip"]
+                if any(kw in art.content.lower() for kw in noise_keywords):
+                    is_news = False
+                    
+                url_to_res[art.url] = {"category": self._heuristic_category(art.title, art.content), "is_news": is_news}
+            return url_to_res
 
     def _deduplicate(self, articles: Sequence[RawArticle]) -> tuple[list[RawArticle], int]:
         if not articles:
@@ -159,7 +188,7 @@ class NewsFilterAgent:
 
         texts = [self._dedup_text(article) for article in articles]
         try:
-            vectors = self.embedder.embed_documents(texts)
+            vectors, _ = self.embedder.embed_documents(texts)
         except Exception:
             # Fallback aman jika API embedding gagal: dedup exact title.
             seen_titles: set[str] = set()

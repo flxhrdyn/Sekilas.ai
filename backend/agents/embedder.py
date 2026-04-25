@@ -1,89 +1,81 @@
 from __future__ import annotations
 
-import logging
+import time
 from typing import Sequence
+import logging
 
-import numpy as np
-from sentence_transformers import SentenceTransformer
+try:
+    from fastembed import TextEmbedding, SparseTextEmbedding
+except ImportError:
+    pass # Will be handled by requirements
 
 logger = logging.getLogger(__name__)
 
 class NewsEmbedder:
     """
-    Local Embedding Agent using Sentence-Transformers (e.g., all-MiniLM-L6-v2).
-    This agent runs locally to avoid API rate limits and costs.
+    Menghasilkan dense dan sparse embeddings menggunakan FastEmbed (CPU-Optimized, ONNX).
     """
-
     def __init__(
         self,
-        api_key: str | None = None,  # Kept for compatibility, not used for local
-        model: str = "sentence-transformers/all-MiniLM-L6-v2",
-        output_dimensionality: int | None = 384,
+        dense_model_name: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        sparse_model_name: str = "Qdrant/bm25"
     ) -> None:
-        self.model_name = model
-        self.output_dimensionality = output_dimensionality
-        self._client = None
+        print(f"[INIT] Memuat FastEmbed Dense model: {dense_model_name}...")
+        start_time = time.time()
+        self.dense_model = TextEmbedding(model_name=dense_model_name)
+        print(f"[OK] Dense Model dimuat dalam {time.time() - start_time:.2f} detik.")
         
-    @property
-    def client(self):
-        """Lazy loader for the SentenceTransformer model."""
-        if self._client is None:
-            print(f"[INFO] Memuat Model Embedding Lokal (Lazy): {self.model_name}...")
-            try:
-                self._client = SentenceTransformer(self.model_name)
-                print(f"[OK] Model {self.model_name} siap digunakan.")
-            except Exception as e:
-                logger.error(f"Gagal memuat model embedding {self.model_name}: {e}")
-                raise
-        return self._client
+        print(f"[INIT] Memuat FastEmbed Sparse model: {sparse_model_name}...")
+        start_time = time.time()
+        self.sparse_model = SparseTextEmbedding(model_name=sparse_model_name)
+        print(f"[OK] Sparse Model dimuat dalam {time.time() - start_time:.2f} detik.")
 
-    def embed_text(self, text: str, task_type: str = "retrieval_document") -> list[float]:
-        """Embed a single piece of text."""
-        embedding = self.client.encode(text, normalize_embeddings=True)
-        return embedding.tolist()
-
-    def embed_documents(
-        self, docs: Sequence[str], batch_size: int = 32, task_type: str = "retrieval_document"
-    ) -> list[list[float]]:
+    def embed_documents(self, texts: Sequence[str]) -> tuple[list[list[float]], list[dict]]:
         """
-        Embed a list of documents in one go.
-        Local models handle large batches much more efficiently than APIs.
+        Menghasilkan Dense dan Sparse embeddings secara bersamaan.
         """
-        if not docs:
-            return []
+        if not texts:
+            return [], []
             
-        print(f"[PROCESS] Local Embedding: Memproses {len(docs)} dokumen...")
+        print(f"[PROCESS] Generating Dense Embeddings untuk {len(texts)} dokumen...")
+        dense_embeddings_gen = self.dense_model.embed(texts)
+        dense_embeddings = [list(vec) for vec in dense_embeddings_gen]
         
-        # Bersihkan docs dari string kosong
-        valid_docs = [doc if doc and doc.strip() else "empty" for doc in docs]
+        print(f"[PROCESS] Generating Sparse Embeddings (BM25) untuk {len(texts)} dokumen...")
+        sparse_embeddings_gen = self.sparse_model.embed(texts) # Sparse doesn't need prefix
+        sparse_embeddings = [
+            {"indices": list(vec.indices), "values": list(vec.values)} 
+            for vec in sparse_embeddings_gen
+        ]
         
-        embeddings = self.client.encode(
-            valid_docs, 
-            batch_size=batch_size, 
-            show_progress_bar=False,
-            normalize_embeddings=True
-        )
-        
-        print(f"[OK] Selesai melakukan embedding untuk {len(docs)} dokumen.")
-        return embeddings.tolist()
+        return dense_embeddings, sparse_embeddings
 
-    def embed_query(self, query: str) -> list[float]:
-        """Embed a search query."""
-        return self.embed_text(query, task_type="retrieval_query")
-
-# Forward compatibility ended, using NewsEmbedder everywhere now.
+    def embed_query(self, query: str) -> tuple[list[float], dict]:
+        """
+        Menghasilkan Dense dan Sparse embeddings untuk kueri pencarian.
+        """
+        dense_gen = self.dense_model.embed([query])
+        dense_vec = list(list(dense_gen)[0])
+        
+        sparse_gen = self.sparse_model.embed([query])
+        sparse_res = list(sparse_gen)[0]
+        sparse_vec = {"indices": list(sparse_res.indices), "values": list(sparse_res.values)}
+        
+        return dense_vec, sparse_vec
 
 _embedder_instance: NewsEmbedder | None = None
 
 def get_embedder(
-    model_name: str = "sentence-transformers/all-MiniLM-L6-v2", 
-    output_dimensionality: int = 384
+    model_name: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    output_dimensionality: int | None = None,
 ) -> NewsEmbedder:
     """
-    Singleton provider for NewsEmbedder to avoid loading 
-    large models multiple times in memory.
+    Singleton provider for NewsEmbedder.
     """
     global _embedder_instance
     if _embedder_instance is None:
-        _embedder_instance = NewsEmbedder(model=model_name, output_dimensionality=output_dimensionality)
+        _embedder_instance = NewsEmbedder(dense_model_name=model_name)
+    else:
+        # Opsional: Log jika model sudah ada di memori
+        pass
     return _embedder_instance

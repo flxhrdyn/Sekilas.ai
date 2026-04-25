@@ -35,8 +35,8 @@ class NewsClusterAgent:
         print(f"[PROCESS] Clustering {len(headlines)} judul berita secara semantik...")
         
         texts = [h.title for h in headlines]
-        embeddings = self.embedder.embed_documents(texts)
-        X = np.array(embeddings)
+        dense_embeddings, _ = self.embedder.embed_documents(texts)
+        X = np.array(dense_embeddings)
 
         # DBSCAN find clusters of points that are close to each other
         clustering = DBSCAN(

@@ -2675,5 +2675,638 @@
       "total_in_qdrant": 79
     },
     "timestamp": "2026-04-20T11:10:57.708580+00:00"
+  },
+  {
+    "date": "2026-04-25",
+    "generated_at": "2026-04-25T03:29:38.551637+00:00",
+    "headline": "Kunjungan diplomatik Menteri Luar Negeri Iran ke Pakistan untuk membahas proposal perdamaian dengan Amerika Serikat membuka peluang baru bagi deeskalasi ketegangan regional melalui jalur mediasi.",
+    "top_stories": [
+      {
+        "id": 3,
+        "title": "Diplomasi Iran dan Amerika",
+        "synthesis": [
+          "Menlu Iran Abbas Araqchi tiba di Pakistan untuk membahas proposal perdamaian dengan AS via mediator.",
+          "Iran secara resmi menolak pertemuan empat mata dengan utusan khusus pemerintah Amerika Serikat.",
+          "Pakistan berfungsi sebagai saluran komunikasi kunci di tengah kebuntuan diplomatik langsung Iran-AS."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ketegangan diplomatik Iran-AS yang meningkat berpotensi memicu eskalasi konflik regional di Timur Tengah.",
+        "articles": [
+          {
+            "title": "Negosiasi via Pakistan, Menlu Iran Tolak 4 Mata dengan Utusan Trump?",
+            "source": "CNBC Indonesia",
+            "url": "https://www.cnbcindonesia.com/news/20260425093111-4-729779/negosiasi-via-pakistan-menlu-iran-tolak-4-mata-dengan-utusan-trump",
+            "category": "Internasional",
+            "published_at": "2026-04-25T03:00:00+00:00",
+            "summary": "Menteri Luar Negeri Iran, Abbas Araqchi, tiba di Pakistan untuk membahas proposal perdamaian dengan Amerika Serikat melalui mediator. Meski Amerika Serikat telah mengirim dua utusan khusus ke Islamabad, pihak Iran menyatakan tidak berencana mengadakan pertemuan langsung dengan perwakilan AS tersebut.",
+            "key_points": [
+              "Menlu Iran berkunjung ke Pakistan untuk menindaklanjuti proposal perundingan perdamaian guna mengakhiri konflik dengan AS.",
+              "Juru bicara Kemenlu Iran menegaskan tidak ada rencana pertemuan antara delegasi Iran dengan utusan khusus AS, Steve Witkoff dan Jared Kushner.",
+              "Presiden Donald Trump menyatakan bahwa Iran berencana mengajukan tawaran untuk memenuhi tuntutan AS, meskipun rincian tawaran tersebut belum diketahui."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "title": "Kerusakan Sistem Peringatan Banjir Everest",
+        "synthesis": [
+          "Sistem peringatan dini banjir di Everest terbengkalai sejak 2016 karena kurangnya perawatan rutin.",
+          "Ribuan warga lokal menghadapi risiko tinggi terhadap ancaman luapan danau glasial Imja yang fatal.",
+          "Kegagalan pemeliharaan infrastruktur kritis memicu kerentanan sistemik bagi komunitas di sekitar wilayah Everest."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kerusakan infrastruktur peringatan dini mengancam nyawa ribuan orang secara langsung akibat potensi bencana banjir glasial.",
+        "articles": [
+          {
+            "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
+            "category": "Lingkungan",
+            "published_at": "2026-04-24T23:28:09+00:00",
+            "summary": "Sistem peringatan dini banjir di wilayah Everest, Nepal, kini tidak berfungsi optimal karena kurangnya perawatan sejak proyek tersebut selesai pada tahun 2016. Hal ini menyebabkan ribuan warga di komunitas lokal menghadapi risiko tinggi jika terjadi luapan dari danau glasial Imja.",
+            "key_points": [
+              "Sistem peringatan banjir mengalami kerusakan akibat kurangnya inspeksi dan pemeliharaan, termasuk rusaknya menara sirene dan hilangnya baterai.",
+              "Data satelit yang digunakan untuk memantau ketinggian air dan mengirim peringatan ke ponsel warga dilaporkan tidak dapat diandalkan.",
+              "Pemanasan global yang mempercepat pencairan gletser meningkatkan risiko luapan danau glasial yang dapat menghancurkan permukiman di hilir."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "title": "Peluncuran Gadget Infinix Terbaru",
+        "synthesis": [
+          "Infinix memperluas ekosistem GT Verse melalui peluncuran GT Watch 5 Pro dan GT Buds 5.",
+          "Perangkat baru dirancang untuk optimasi performa gaming yang terintegrasi dengan smartphone GT 50 Pro.",
+          "Fokus strategi perusahaan adalah memperkuat loyalitas pengguna melalui interoperabilitas perangkat pendukung mobile gaming."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Peluncuran produk ini merupakan strategi ekspansi ekosistem standar tanpa disrupsi signifikan terhadap pasar teknologi global.",
+        "articles": [
+          {
+            "title": "Infinix Rilis GT Watch 5 Pro &amp; GT Buds 5, Harga Murah Temani GT 50 Pro",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8460382/infinix-rilis-gt-watch-5-pro-gt-buds-5-harga-murah-temani-gt-50-pro",
+            "category": "Teknologi",
+            "published_at": "2026-04-24T23:33:22+00:00",
+            "summary": "Infinis meluncurkan perangkat AIoT GT Watch 5 Pro dan GT Buds 5 untuk memperluas ekosistem GT Verse yang terintegrasi dengan smartphone GT 50 Pro. Produk baru ini dirancang untuk meningkatkan pengalaman bermain game melalui fitur pemantauan performa serta audio yang responsif.",
+            "key_points": [
+              "GT Watch 5 Pro dilengkapi fitur khusus esports seperti pemantauan kondisi tubuh dan sinkronisasi waktu respawn dalam game.",
+              "GT Buds 5 menawarkan latensi ultra rendah 44 ms serta dukungan Dolby Spatial Audio untuk mendukung pengalaman audio yang presisi.",
+              "GT Watch 5 Pro ditawarkan dengan harga promosi sebesar Rp699.000 dari harga resmi Rp799.000."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 2,
+        "title": "Pembobolan Server Film Avatar",
+        "synthesis": [
+          "Pria Singapura ditangkap atas akses ilegal server studio film Avatar Aang.",
+          "Tersangka mengunduh dan menyebarkan potongan film secara tidak sah.",
+          "Pelaku terancam hukuman 7 tahun penjara dan denda 50.000 USD."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Insiden ini merupakan kasus kriminal individual tanpa dampak sistemik pada stabilitas industri atau keamanan siber nasional.",
+        "articles": [
+          {
+            "title": "Bobol Server Film Avatar Aang, Pria di Singapura Terancam 7 Tahun Penjara",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8460449/bobol-server-film-avatar-aang-pria-di-singapura-terancam-7-tahun-penjara",
+            "category": "Hukum",
+            "published_at": "2026-04-25T01:45:07+00:00",
+            "summary": "Seorang pria berusia 26 tahun di Singapura ditangkap karena melakukan akses ilegal ke server media milik studio untuk mengunduh dan menyebarkan potongan film The Legend of Aang: The Last Airbender. Atas perbuatannya, tersangka kini menghadapi ancaman hukuman maksimal tujuh tahun penjara dan denda sebesar USD 50.000.",
+            "key_points": [
+              "Tersangka terbukti melakukan akses jarak jauh secara tidak sah ke server konten media untuk mengunduh film yang belum dirilis.",
+              "Polisi Singapura berhasil mengidentifikasi dan menangkap pelaku dalam waktu kurang dari sehari setelah laporan kebocoran diterima.",
+              "Tersangka dijerat pasal terkait akses tidak sah ke materi komputer dengan ancaman hukuman hingga tujuh tahun penjara serta denda."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 0,
+        "title": "Spekulasi Transfer Jadon Sancho",
+        "synthesis": [
+          "Jadon Sancho direncanakan kembali ke Borussia Dortmund setelah kontrak di Manchester United berakhir Juni 2026.",
+          "Negosiasi saat ini sedang berlangsung untuk menyelesaikan detail teknis, termasuk struktur gaji pemain.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Berita ini merupakan isu transfer pemain spesifik yang tidak memiliki dampak sistemik di luar industri sepak bola profesional.",
+        "articles": [
+          {
+            "title": "Titik Terang Nasib Jadon Sancho",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-jerman/d-8459697/titik-terang-nasib-jadon-sancho",
+            "category": "Olahraga",
+            "published_at": "2026-04-25T02:00:01+00:00",
+            "summary": "Jadon Sancho direncanakan kembali ke Borussia Dortmund setelah kontraknya di Manchester United berakhir pada 30 Juni 2026. Saat ini, kedua pihak tengah dalam tahap negosiasi untuk menyelesaikan detail kesepakatan, termasuk masalah gaji.",
+            "key_points": [
+              "Jadon Sancho akan berstatus bebas transfer setelah kontraknya dengan Manchester United habis pada musim panas 2026.",
+              "Borussia Dortmund telah menjalin kontak untuk membawa kembali Sancho ke klub tersebut.",
+              "Proses kepindahan Sancho ke Dortmund masih terkendala penyelesaian detail kontrak, salah satunya terkait besaran gaji."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Dilema Keamanan Global: Dari Stabilitas Geopolitik ke Mitigasi Krisis Lingkungan",
+        "analysis": "Terdapat korelasi strategis antara diplomasi Iran-AS dengan krisis sistem peringatan dini di Everest. Fokus sumber daya global yang tersedot ke dalam ketegangan geopolitik (seperti mediasi Iran di Pakistan) seringkali mengalihkan atensi dan pendanaan internasional dari isu 'Global Commons' seperti pemeliharaan infrastruktur iklim di Himalaya. Ketika diplomasi gagal menciptakan stabilitas kawasan, risiko konflik fisik akan memaksa negara-negara melakukan pengalihan anggaran (reallocation) dari proyek lingkungan jangka panjang menjadi anggaran pertahanan, yang pada akhirnya membiarkan infrastruktur peringatan dini banjir di Everest terus terbengkalai, meningkatkan risiko bencana transnasional bagi Asia Selatan."
+      },
+      {
+        "title": "Evolusi Ancaman Siber: Proteksi Kekayaan Intelektual vs. Ekspansi Ekosistem Gadget",
+        "analysis": "Pembobolan server film Avatar menunjukkan kerentanan keamanan siber pada sektor industri kreatif bernilai tinggi. Kaitan strategisnya terletak pada percepatan ekspansi ekosistem IoT (seperti peluncuran gadget Infinix) yang tidak dibarengi dengan standardisasi keamanan siber yang ketat. Semakin banyak perangkat periferal (Watch, Buds) yang terhubung ke jaringan pribadi pengguna, semakin besar 'attack surface' bagi peretas untuk melakukan infiltrasi data. Jika ekonomi kreatif (IP) menjadi target utama pembobolan, maka produsen gadget harus segera mengintegrasikan lapisan enkripsi yang lebih dalam ke dalam perangkat konsumen massal guna mempertahankan kepercayaan pasar, menjadikan keamanan siber sebagai variabel krusial dalam daya saing produk teknologi kelas menengah ke bawah."
+      }
+    ],
+    "other_news": {
+      "Hiburan": [
+        {
+          "title": "Mengenal NewJeans: Profil, prestasi, dan konflik yang terjadi",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5332891/mengenal-newjeans-profil-prestasi-dan-konflik-yang-terjadi",
+          "category": "Hiburan",
+          "published_at": "2026-01-04T11:58:47+00:00",
+          "summary": "NewJeans adalah grup vokal wanita asal Korea Selatan besutan ADOR yang debut pada Juli 2022 dengan mengusung konsep natural dan estetika Y2K. Sejak awal kemunculannya, grup yang terdiri dari lima anggota ini berhasil meraih popularitas global dan mencatatkan rekor penjualan album debut yang signifikan.",
+          "key_points": [
+            "NewJeans dibentuk oleh ADOR di bawah naungan HYBE Labels dan terdiri dari lima anggota yaitu Minji, Hanni, Danielle, Haerin, serta Hyein.",
+            "Grup ini dikenal melalui konsep 'girl-next-door' dengan musik bernuansa pop dan R&B era 90-an yang mudah dinikmati.",
+            "Album debut berjudul 'New Jeans' mencatatkan prestasi dengan penjualan lebih dari satu juta kopi, menjadikan mereka grup K-Pop pertama yang mencapai angka tersebut melalui album debut."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Mengenal Danielle Marsh, mantan member NewJeans yang dikeluarkan ADOR",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5327299/mengenal-danielle-marsh-mantan-member-newjeans-yang-dikeluarkan-ador",
+          "category": "Hiburan",
+          "published_at": "2025-12-30T12:29:05+00:00",
+          "summary": "Agensi ADOR secara resmi mengumumkan pemutusan kontrak eksklusif Danielle Marsh sebagai anggota grup NewJeans per Senin (29/12). Keputusan tersebut diambil pihak agensi karena adanya pelanggaran ketentuan kontrak kerja sama yang dinilai tidak dapat ditoleransi.",
+          "key_points": [
+            "Danielle Marsh resmi tidak lagi menjadi bagian dari grup NewJeans maupun artis di bawah naungan ADOR.",
+            "Pemutusan kontrak disebabkan oleh adanya pelanggaran ketentuan kerja sama yang tidak dapat ditoleransi oleh pihak agensi.",
+            "Danielle mengawali kariernya sebagai trainee ADOR pada tahun 2020 sebelum akhirnya debut bersama NewJeans pada tahun 2022."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/4/25/chkopenaissamaltmanapologises-over-failure-to-report-canadian-mass-shooter?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T02:07:18+00:00",
+          "summary": "CEO OpenAI, Sam Altman, menyampaikan permohonan maaf atas kegagalan perusahaannya dalam melaporkan aktivitas mencurigakan seorang remaja yang kemudian melakukan penembakan massal di Kanada. Meskipun akun ChatGPT pelaku telah ditangguhkan karena penyalahgunaan terkait kekerasan, pihak OpenAI saat itu menilai ancaman tersebut belum mencapai ambang batas untuk dilaporkan ke pihak berwenang.",
+          "key_points": [
+            "OpenAI menangguhkan akun ChatGPT milik pelaku pada bulan Juni sebelum insiden penembakan terjadi karena aktivitas yang terkait dengan tindakan kekerasan.",
+            "Perusahaan tidak melaporkan temuan tersebut kepada aparat penegak hukum karena menganggapnya belum memenuhi kriteria ancaman yang kredibel atau mendesak.",
+            "Sam Altman mengakui kesalahan perusahaannya dan berjanji untuk meningkatkan kerja sama dengan pemerintah guna mencegah insiden serupa di masa depan."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T21:53:44+00:00",
+          "summary": "Palantir dilaporkan telah membantu kantor investigasi kriminal IRS dalam menyelidiki berbagai kejahatan keuangan selama satu dekade terakhir. Kerja sama ini melibatkan penggunaan perangkat lunak analisis data Palantir untuk memproses catatan keuangan guna mendukung kebutuhan investigasi.",
+          "key_points": [
+            "IRS telah membayar Palantir sebesar $130 juta sejak 2018 untuk penggunaan perangkat lunak analisis data.",
+            "Perangkat lunak Palantir digunakan untuk menghubungkan jutaan catatan serta memetakan hubungan dan komunikasi antarmanusia.",
+            "Penggunaan teknologi ini bertujuan untuk memodernisasi audit dan mempermudah analisis data lintas lembaga federal."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T21:35:30+00:00",
+          "summary": "Perusahaan AI asal Kanada, Cohere, mengumumkan rencana merger dengan perusahaan AI asal Jerman, Aleph Alpha, untuk membentuk kekuatan AI transatlantik. Kesepakatan ini bertujuan menyediakan alternatif bagi bisnis dan pemerintah dalam mengelola data dengan lebih independen dari pemain teknologi dominan saat ini.",
+          "key_points": [
+            "Merger antara Cohere dan Aleph Alpha dikabarkan akan menghasilkan valuasi perusahaan sebesar $20 miliar.",
+            "Schwarz Group berkomitmen memberikan investasi sebesar $600 juta dalam putaran pendanaan Seri E Cohere.",
+            "Tujuan utama penggabungan ini adalah untuk menciptakan alternatif AI bagi sektor bisnis dan pemerintah melalui integrasi keahlian dari Kanada dan Jerman."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Meta’s loss is Thinking Machines’ gain",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T20:52:07+00:00",
+          "summary": "Weiyao Wang bergabung dengan startup AI Thinking Machines Lab (TML) setelah delapan tahun bekerja di Meta. Perpindahan ini terjadi di tengah dinamika rekrutmen talenta yang kompetitif antara kedua perusahaan tersebut.",
+          "key_points": [
+            "Weiyao Wang dan Kenneth Li adalah mantan karyawan Meta yang kini bergabung dengan Thinking Machines Lab (TML).",
+            "Thinking Machines Lab menjalin kesepakatan cloud bernilai miliaran dolar dengan Google untuk mengakses chip Nvidia GB300.",
+            "Terdapat pola saling rekrut talenta antara Meta dan TML, dengan TML tercatat sering merekrut peneliti dari Meta."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-25T00:10:51+00:00",
+          "summary": "Para pemimpin Uni Eropa membela Spanyol setelah muncul laporan mengenai ancaman Amerika Serikat untuk menangguhkan keanggotaan Spanyol di NATO. Ancaman tersebut diduga dipicu oleh sikap Spanyol yang dianggap tidak mendukung kampanye AS-Israel terhadap Iran.",
+          "key_points": [
+            "Muncul bocoran surel dari Pentagon yang menyarankan sanksi terhadap Spanyol, termasuk potensi penangguhan dari NATO, karena dinilai tidak mendukung kampanye AS-Israel melawan Iran.",
+            "Para pemimpin Uni Eropa menegaskan bahwa tidak ada ketentuan dalam perjanjian NATO yang mengizinkan pengeluaran anggota, serta menyatakan dukungan penuh terhadap posisi Spanyol.",
+            "Para pejabat negara anggota NATO menekankan bahwa tindakan sanksi terhadap anggota memerlukan persetujuan bulat dari seluruh negara anggota NATO."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-24T16:04:29+00:00",
+          "summary": "NATO menyatakan tidak ada aturan untuk menangguhkan atau mengeluarkan anggota dari aliansi militer tersebut di tengah laporan mengenai upaya Amerika Serikat untuk menghukum Spanyol. Pemerintah Spanyol menepis laporan tersebut dan menegaskan komitmen kerja sama yang tetap berpegang pada hukum internasional.",
+          "key_points": [
+            "Perjanjian pendirian NATO tidak memuat ketentuan mengenai penangguhan atau pengeluaran negara anggota.",
+            "Laporan mengenai sanksi AS terhadap Spanyol muncul setelah Spanyol menolak penggunaan pangkalan udaranya untuk serangan terhadap Iran.",
+            "Pentagon menyatakan sedang menyiapkan opsi untuk memastikan sekutu NATO lebih berkontribusi, sementara Spanyol menegaskan hanya merespons posisi resmi pemerintah AS, bukan surel internal."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+          "category": "Ekonomi",
+          "published_at": "2026-04-24T23:32:11+00:00",
+          "summary": "Mantan CEO Microsoft, Steve Ballmer, menyatakan dirinya merasa tertipu setelah Joseph Sanberg, pendiri startup Aspiration Partners yang ia dukung, mengaku bersalah atas tindak pidana penipuan. Sanberg terancam hukuman penjara atas dua dakwaan penipuan kabel yang merugikan para investor dan pemberi pinjaman.",
+          "key_points": [
+            "Joseph Sanberg, pendiri startup fintech ramah lingkungan Aspiration Partners, mengaku bersalah atas dua dakwaan penipuan pada Agustus 2025.",
+            "Steve Ballmer mengalami kerugian finansial dan reputasi akibat keterlibatannya dalam pendanaan startup milik Sanberg tersebut.",
+            "Setiap dakwaan penipuan yang menjerat Sanberg memiliki ancaman hukuman maksimal 20 tahun penjara."
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Respons BGN Soal Viral Anggaran BPOM Awasi MBG Lebih Kecil dari Pengadaan Kaus Kaki",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8460334/respons-bgn-soal-viral-anggaran-bpom-awasi-mbg-lebih-kecil-dari-pengadaan-kaus-kaki",
+          "category": "Ekonomi",
+          "published_at": "2026-04-24T23:07:17+00:00",
+          "summary": "Badan Gizi Nasional (BGN) mengklarifikasi bahwa anggaran pengawasan program Makan Bergizi Gratis (MBG) untuk BPOM tidak terbatas pada alokasi internal sebesar Rp2,9 miliar. Pemerintah telah menyiapkan total anggaran sekitar Rp700 miliar yang disalurkan melalui mekanisme swakelola tipe 2 dari APBN BGN ke BPOM.",
+          "key_points": [
+            "Muncul kritik publik terkait minimnya anggaran internal BPOM untuk pengawasan MBG yang hanya tercatat Rp2,9 miliar.",
+            "BGN menegaskan bahwa total anggaran pengawasan yang disiapkan pemerintah mencapai Rp700 miliar.",
+            "Anggaran tambahan bagi BPOM disalurkan melalui skema swakelola tipe 2 yang bersumber dari APBN BGN."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 163
+    },
+    "timestamp": "2026-04-25T03:29:38.551637+00:00"
+  },
+  {
+    "date": "2026-04-25",
+    "generated_at": "2026-04-25T09:04:03.835007+00:00",
+    "headline": "Operasi pengangkatan tumor prostat pada Perdana Menteri Benjamin Netanyahu memicu diskusi mengenai stabilitas kepemimpinan politik di tengah konflik berkepanjangan di Israel.",
+    "top_stories": [
+      {
+        "id": 28,
+        "title": "Kondisi Kesehatan Benjamin Netanyahu",
+        "synthesis": [
+          "PM Benjamin Netanyahu mengonfirmasi pengangkatan tumor prostat ganas tahap awal pascaoperasi.",
+          "Netanyahu menyatakan kondisi kesehatannya kini telah pulih sepenuhnya dan dalam keadaan prima.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kondisi kesehatan pemimpin negara yang sedang dalam konflik aktif memiliki implikasi stabilitas politik nasional.",
+        "articles": [
+          {
+            "title": "Netanyahu Sempat Kena Tumor Ganas Pasca Operasi Masalah Prostat",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8460423/netanyahu-sempat-kena-tumor-ganas-pasca-operasi-masalah-prostat",
+            "category": "Kesehatan",
+            "published_at": "2026-04-25T03:02:05+00:00",
+            "summary": "Perdana Menteri Israel Benjamin Netanyahu mengungkapkan bahwa ia sempat menjalani pengangkatan tumor ganas tahap awal pascaoperasi prostat. Ia menyatakan kondisi kesehatannya kini telah sepenuhnya pulih dan dalam keadaan prima.",
+            "key_points": [
+              "Tumor ganas berukuran kurang dari satu sentimeter ditemukan saat pemeriksaan rutin pascaoperasi pembesaran prostat jinak.",
+              "Netanyahu menyatakan bahwa masalah kesehatan tersebut telah tertangani sepenuhnya dan tidak meninggalkan jejak medis.",
+              "Publikasi laporan kesehatan sengaja ditunda untuk mencegah penyebaran propaganda oleh Iran di tengah konflik yang sedang memanas."
+            ],
+            "cluster_id": 28
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "title": "Kritik Program Sekolah Rakyat Kemensos",
+        "synthesis": [
+          "Kemensos dikritik karena menggunakan metode razia keamanan dalam menjaring anak jalanan untuk sekolah rakyat.",
+          "JPPI mendesak pemerintah beralih ke pendekatan persuasif dan humanis daripada model penertiban paksa.",
+          "Pemerintah diminta memprioritaskan perbaikan aksesibilitas pendidikan daripada sekadar membangun infrastruktur gedung baru."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kritik ini menyoroti pergeseran krusial dalam kebijakan penanganan anak jalanan dan efektivitas inklusi pendidikan nasional.",
+        "articles": [
+          {
+            "title": "Cara Kemensos Cari Anak Jalanan buat Sekolah Rakyat Dikritik",
+            "source": "Tempo Nasional",
+            "url": "https://nasional.tempo.co/read/2100320/cara-kemensos-cari-anak-jalanan-buat-sekolah-rakyat-dikritik",
+            "category": "Politik",
+            "published_at": "2026-04-25T07:36:52+00:00",
+            "summary": "Koordinator Nasional Jaringan Pemantau Pendidikan Indonesia, Ubaid Matraji, mengkritik metode Kementerian Sosial dalam menjaring anak jalanan untuk sekolah rakyat karena dinilai menggunakan pendekatan keamanan serupa razia. Pemerintah didorong untuk mengedepankan pendekatan persuasif dan kemanusiaan serta memperbaiki sistem aksesibilitas pendidikan daripada sekadar membangun gedung baru.",
+            "key_points": [
+              "Pendekatan penertiban atau razia dalam menjaring calon siswa sekolah rakyat dinilai tidak sesuai dengan pemenuhan hak pendidikan yang seharusnya bersifat persuasif.",
+              "Terdapat kekhawatiran bahwa penjaringan siswa dilakukan hanya untuk memenuhi kuota administratif agar sekolah rintisan terlihat sukses.",
+              "Pemerintah dinilai lebih mengutamakan pembangunan fisik gedung sekolah dibandingkan menyelesaikan masalah mendasar, yaitu aksesibilitas dan hambatan ekonomi anak jalanan."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "title": "Pengakuan Personal Penyanyi Jessie J",
+        "synthesis": [
+          "Penyanyi Jessie J mengonfirmasi tahun 2025 sebagai periode personal yang sangat sulit sekaligus penuh keajaiban.",
+          "Jessie J menekankan pentingnya transparansi emosional dan ekspresi kesedihan bagi kesehatan mental individu.",
+          "Informasi intelijen tambahan sedang diproses."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Berita ini terbatas pada pengalaman personal figur publik tanpa dampak signifikan terhadap industri atau kebijakan.",
+        "articles": [
+          {
+            "title": "Jessie J: Tahun 2025, salah satu tahun tersulit dalam hidup",
+            "source": "Antara Hiburan",
+            "url": "https://www.antaranews.com/berita/5328883/jessie-j-tahun-2025-salah-satu-tahun-tersulit-dalam-hidup",
+            "category": "Hiburan",
+            "published_at": "2025-12-31T13:03:01+00:00",
+            "summary": "Penyanyi Jessie J mengungkapkan bahwa tahun 2025 menjadi salah satu tahun tersulit sekaligus penuh keajaiban dalam hidupnya melalui unggahan di Instagram Stories. Ia berbagi pengalaman mengenai masa sulit yang dialaminya serta menekankan pentingnya mengekspresikan kesedihan alih-alih memendamnya.",
+            "key_points": [
+              "Jessie J menyebut tahun 2025 sebagai periode yang berat secara pribadi dan profesional, yang membuatnya merasa berada di titik terendah.",
+              "Penyanyi tersebut sempat berhenti bekerja atau tampil di depan umum selama berbulan-bulan untuk memproses emosinya.",
+              "Jessie J berpesan bahwa menangis adalah hal yang sehat dan normal, serta mengingatkan agar tidak memendam beban emosional sendirian."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 37,
+        "title": "Performa Atlet Thomas Cup 2026",
+        "synthesis": [
+          "Indonesia menang telak 5-0 atas Aljazair pada laga pembuka Thomas Cup 2026 di Denmark.",
+          "Pelatih menyoroti kendala adaptasi pemain terhadap kondisi lapangan dan kecepatan laju shuttlecock.",
+          "Evaluasi adaptasi menjadi fokus utama tim untuk menghadapi lawan yang lebih tangguh berikutnya."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Kemenangan melawan tim lemah tidak mengubah peta kekuatan, meski adaptasi lapangan krusial untuk fase selanjutnya.",
+        "articles": [
+          {
+            "title": "Thomas Cup 2026: Penyesuaian Lapangan Jadi Evaluasi Anthony Ginting dkk",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/raket/d-8460779/thomas-cup-2026-penyesuaian-lapangan-jadi-evaluasi-anthony-ginting-dkk",
+            "category": "Olahraga",
+            "published_at": "2026-04-25T07:20:30+00:00",
+            "summary": "Tim beregu putra Indonesia berhasil mengalahkan Aljazair dengan skor 5-0 pada laga pertama Thomas Cup 2026 di Denmark. Meski menang, pelatih Indra Widjaja menyoroti perlunya peningkatan adaptasi pemain terhadap kondisi lapangan dan laju shuttlecock yang cepat untuk pertandingan berikutnya.",
+            "key_points": [
+              "Indonesia menang telak 5-0 atas Aljazair dalam laga penyisihan Grup D Thomas Cup 2026.",
+              "Pelatih Indra Widjaja menekankan perlunya evaluasi taktik dan penyesuaian yang lebih baik terhadap laju shuttlecock yang kencang.",
+              "Anthony Ginting dan tim akan memanfaatkan waktu jeda untuk berlatih dan mempersiapkan strategi guna menghadapi Thailand."
+            ],
+            "cluster_id": 37
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Stabilitas Kepemimpinan dan Resiliensi Nasional dalam Krisis Multidimensi",
+        "analysis": "Kaitan antara kondisi kesehatan PM Benjamin Netanyahu (Geopolitik) dengan kritik terhadap program Kemensos (Sosial) terletak pada kerentanan tata kelola negara dalam menghadapi krisis domestik. Saat seorang pemimpin negara menghadapi tantangan kesehatan kronis, stabilitas pengambilan keputusan nasional menjadi tidak pasti, yang sering kali memicu kebijakan reaktif atau 'short-term fix' di sektor domestik—seperti metode 'razia' untuk masalah sosial. Ketidakstabilan di tingkat eksekutif berbanding lurus dengan pendekatan kebijakan yang represif alih-alih solutif, karena adanya kebutuhan untuk menunjukkan 'tindakan nyata' dengan cepat (quick wins) di tengah ketidakpastian kepemimpinan."
+      },
+      {
+        "title": "Soft Power sebagai Katup Pengaman (Pressure Valve) Sosial",
+        "analysis": "Terdapat korelasi strategis antara performa atlet Thomas Cup (Sosial-Budaya) dan pengakuan personal Jessie J (Kesehatan Mental/Sosial) sebagai mekanisme kompensasi psikologis kolektif. Dalam dunia yang penuh dengan ketegangan geopolitik (kasus Netanyahu) dan kegagalan kebijakan sosial (kritik Kemensos), masyarakat cenderung mencari validasi emosional melalui prestasi olahraga nasional atau narasi kerentanan publik figur. Keberhasilan atlet menjadi instrumen stabilitas sosial yang meredam disonansi publik terhadap isu-isu berat, membuktikan bahwa 'soft power' berfungsi sebagai katalisator untuk menjaga kohesi sosial saat kepercayaan pada institusi formal (seperti kementerian) sedang tergerus."
+      }
+    ],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Video: \"Modal\" Insurtech Raih Pertumbuhan Bisnis Asuransi Era Perang",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260422150713-19-728942/video-modal-insurtech-raih-pertumbuhan-bisnis-asuransi-era-perang",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T08:00:06+00:00",
+          "summary": "Industri insurtech menawarkan kemudahan akses layanan asuransi melalui platform digital di tengah tantangan ekonomi dan geopolitik global. Pertumbuhan ekonomi nasional yang ditargetkan mencapai 5% pada 2025 diharapkan menjadi peluang bagi perusahaan insurtech untuk meningkatkan penjualan polis.",
+          "key_points": [
+            "Insurtech menyediakan fasilitas pembelian polis dan klaim yang efisien melalui aplikasi atau web.",
+            "Teknologi insurtech dinilai mampu membantu masyarakat menjangkau layanan asuransi di tengah tekanan ekonomi global.",
+            "Target pertumbuhan ekonomi 5% pada 2025 menjadi peluang untuk mendorong penjualan produk asuransi, termasuk embedded insurance."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Tim Cook Ungkap 'Dosa Terbesar' Selama 15 Tahun Pimpin Apple",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8460724/tim-cook-ungkap-dosa-terbesar-selama-15-tahun-pimpin-apple",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T06:30:41+00:00",
+          "summary": "CEO Apple, Tim Cook, mengakui peluncuran Apple Maps pada tahun 2012 sebagai kesalahan terbesar selama masa kepemimpinannya karena produk tersebut dirilis saat belum matang. Pengakuan ini disampaikan menjelang transisi kepemimpinan Apple di mana Cook akan beralih menjadi Executive Chairman pada 1 September 2026.",
+          "key_points": [
+            "Tim Cook mengidentifikasi peluncuran Apple Maps tahun 2012 sebagai kesalahan besar karena pengujian yang kurang memadai.",
+            "Kegagalan Apple Maps menyebabkan kritik publik yang luas dan memaksa Cook untuk menyampaikan permintaan maaf secara terbuka.",
+            "Tim Cook akan mundur dari posisi CEO Apple pada 1 September 2026 dan digantikan oleh John Ternus."
+          ],
+          "cluster_id": 2
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Raja Tol Trans Sumatra Cetak Laba Bersih Rp464 M, 172,49% dari Target",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/market/20260425143753-17-729815/raja-tol-trans-sumatra-cetak-laba-bersih-rp464-m-17249-dari-target",
+          "category": "Ekonomi",
+          "published_at": "2026-04-25T07:48:52+00:00",
+          "summary": "PT Hutama Karya (Persero) mencatatkan laba bersih sebesar Rp464 miliar pada Triwulan I 2026, yang melampaui target RKAP sebesar 172,49%. Kinerja ini didorong oleh efisiensi pengendalian biaya, penguatan segmen pengoperasian jalan tol, serta kontribusi dari anak usaha perusahaan.",
+          "key_points": [
+            "Laba bersih perusahaan mencapai Rp464 miliar, melampaui target RKAP sebesar Rp269 miliar.",
+            "Kinerja keuangan diperkuat oleh penurunan total utang sebesar 15,34% (YoY) dan pertumbuhan ekuitas sebesar 2,31% (YoY).",
+            "Hingga akhir Triwulan I 2026, total panjang jalan tol yang telah terbangun di proyek Jalan Tol Trans Sumatra mencapai 1.108 kilometer."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Awas 'Kutukan' Peringkat 18 Tottenham!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8460696/awas-kutukan-peringkat-18-tottenham",
+          "category": "Olahraga",
+          "published_at": "2026-04-25T08:30:15+00:00",
+          "summary": "Tottenham Hotspur saat ini berada di peringkat ke-18 klasemen Liga Inggris dan terancam oleh tren degradasi beruntun yang dialami tim di posisi tersebut dalam dua musim terakhir. Klub memiliki lima pertandingan tersisa untuk memperbaiki posisi agar terhindar dari zona degradasi.",
+          "key_points": [
+            "Tottenham menempati peringkat ke-18 dengan 31 poin dari 33 pertandingan.",
+            "Terdapat catatan sejarah bahwa tim yang finis di peringkat ke-18 dalam dua musim terakhir mengalami degradasi berturut-turut.",
+            "Tottenham akan menghadapi Wolves pada 25 April mendatang dengan rekor pertemuan yang belum pernah menang dalam enam laga terakhir."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Sialnya Madrid: Sudah Gagal Menang, Mbappe Cedera",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8460818/sialnya-madrid-sudah-gagal-menang-mbappe-cedera",
+          "category": "Olahraga",
+          "published_at": "2026-04-25T08:00:15+00:00",
+          "summary": "Real Madrid gagal meraih kemenangan setelah ditahan imbang 1-1 oleh Real Betis, yang memperlebar jarak mereka dengan Barcelona di puncak klasemen LaLiga. Selain kehilangan poin, Madrid juga harus kehilangan Kylian Mbappe yang mengalami cedera otot hamstring.",
+          "key_points": [
+            "Skor imbang 1-1 melawan Real Betis membuat peluang Real Madrid menjuarai LaLiga semakin menipis.",
+            "Kylian Mbappe ditarik keluar pada menit ke-81 akibat cedera otot hamstring kiri dan kondisinya masih dalam pemeriksaan medis.",
+            "Absennya Mbappe menambah daftar pemain cedera di Real Madrid, menyusul Arda Guler dan Rodrygo menjelang laga krusial melawan Barcelona."
+          ],
+          "cluster_id": 4
+        },
+        {
+          "title": "Jadwal MPL ID S17 Hari Ini: RRQ vs Dewa United, Misi Kemenangan Perdana",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8460663/jadwal-mpl-id-s17-hari-ini-rrq-vs-dewa-united-misi-kemenangan-perdana",
+          "category": "Olahraga",
+          "published_at": "2026-04-25T05:45:01+00:00",
+          "summary": "Pekan kelima MPL ID Season 17 hari kedua pada Sabtu (25/4/2026) menyajikan sejumlah pertandingan krusial, termasuk upaya RRQ Hoshi meraih kemenangan perdana melawan Dewa United Esports. Seluruh pertandingan akan berlangsung menggunakan format Best of 3 (BO3) untuk menentukan posisi tim menuju babak playoff.",
+          "key_points": [
+            "RRQ Hoshi menjalani laga krusial melawan Dewa United untuk mengakhiri tren kekalahan beruntun dan meraih poin pertama musim ini.",
+            "Jadwal hari ini juga mempertandingkan Alter Ego melawan Team Liquid ID, serta Evos Esports kontra Bigetron by Vitality.",
+            "Seluruh rangkaian pertandingan pekan kelima MPL ID S17 menggunakan format Best of 3 dan dimulai pada pukul 14.15 WIB."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Politik": [
+        {
+          "title": "NasDem Usulkan Formula untuk Ambang Batas Parlemen",
+          "source": "Tempo Nasional",
+          "url": "https://nasional.tempo.co/read/2100300/nasdem-usulkan-formula-untuk-ambang-batas-parlemen",
+          "category": "Politik",
+          "published_at": "2026-04-25T04:50:24+00:00",
+          "summary": "Partai NasDem mengusulkan penerapan ambang batas parlemen tidak hanya di tingkat nasional, tetapi juga untuk DPRD provinsi dan kabupaten/kota dengan kenaikan angka di atas 5 persen. Usulan ini bertujuan memperkuat struktur partai politik guna menciptakan sistem pemerintahan yang lebih efektif dan sehat.",
+          "key_points": [
+            "NasDem mengusulkan kenaikan ambang batas parlemen nasional ke angka 5,5 hingga 7 persen.",
+            "Terdapat dua formula yang diusulkan, yaitu sistem berjenjang atau sistem standar tunggal yang mengaitkan hasil suara nasional dengan perolehan suara di daerah.",
+            "Tujuan utama usulan ini adalah untuk meningkatkan efektivitas pemerintahan melalui mekanisme checks and balances oleh partai politik yang sehat."
+          ],
+          "cluster_id": 3
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "US says two killed in boat strike as toll climbs over 180",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/us-boat-strike-alleged-drug-trafficking-vessel-narco-toll-180-6080636",
+          "category": "Internasional",
+          "published_at": "2026-04-25T07:53:00+00:00",
+          "summary": "Militer Amerika Serikat menewaskan dua orang dalam serangan terhadap sebuah kapal yang diduga terlibat perdagangan narkoba di Pasifik Timur pada Jumat (24/4). Operasi ini menambah jumlah korban jiwa dalam kampanye AS melawan organisasi yang diklaim sebagai narco-teroris menjadi sedikitnya 182 orang sejak September lalu.",
+          "key_points": [
+            "Komando Selatan AS menyatakan telah melakukan serangan mematikan terhadap kapal yang dioperasikan oleh organisasi yang mereka sebut sebagai teroris.",
+            "Serangan tersebut meningkatkan total korban tewas dalam kampanye AS terhadap narco-teroris di Amerika Latin menjadi setidaknya 182 orang.",
+            "Terdapat perdebatan mengenai legalitas operasi ini karena kurangnya bukti definitif terkait keterlibatan kapal dalam perdagangan narkoba serta kritik mengenai potensi pembunuhan di luar hukum."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-04-24T16:04:29+00:00",
+          "summary": "NATO menyatakan bahwa perjanjian pendirian aliansi tidak memiliki ketentuan untuk menangguhkan atau mengeluarkan negara anggota, menanggapi laporan mengenai potensi sanksi AS terhadap Spanyol. Ketegangan muncul setelah Spanyol menolak penggunaan pangkalan udaranya oleh AS untuk operasi militer terhadap Iran.",
+          "key_points": [
+            "NATO menegaskan bahwa tidak ada mekanisme hukum dalam perjanjian aliansi untuk menangguhkan atau mengeluarkan anggota.",
+            "Laporan mengenai sanksi AS terhadap Spanyol muncul setelah Spanyol menolak akses pangkalan bagi militer AS dalam konflik melawan Iran.",
+            "Perdana Menteri Spanyol Pedro Sánchez menepis laporan tersebut dan menegaskan komitmen negaranya pada kerja sama yang sesuai dengan hukum internasional."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Viral Kisah Pemuda Jakut Kena Kanker Limfoma di Usia 25 Tahun, Ini Gejalanya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/true-story/d-8460730/viral-kisah-pemuda-jakut-kena-kanker-limfoma-di-usia-25-tahun-ini-gejalanya",
+          "category": "Kesehatan",
+          "published_at": "2026-04-25T06:03:41+00:00",
+          "summary": "Seorang pemuda asal Jakarta Utara bernama Jeje Adriel membagikan kisahnya yang didiagnosis menderita kanker limfoma hodgkins stadium dua pada usia 25 tahun. Ia menjalani perawatan kemoterapi dan berharap pengalamannya dapat meningkatkan kesadaran masyarakat mengenai pentingnya menjaga kesehatan.",
+          "key_points": [
+            "Jeje Adriel didiagnosis kanker limfoma hodgkins stadium dua pada 17 April 2026 setelah ditemukannya benjolan di leher.",
+            "Pasien mengaku tidak merasakan gejala lain seperti demam atau keringat dingin, sehingga sempat menunda pemeriksaan medis.",
+            "Perawatan yang dijalani saat ini adalah kemoterapi dengan target mencapai remisi total."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Mengenal Danielle Marsh, mantan member NewJeans yang dikeluarkan ADOR",
+          "source": "Antara Hiburan",
+          "url": "https://www.antaranews.com/berita/5327299/mengenal-danielle-marsh-mantan-member-newjeans-yang-dikeluarkan-ador",
+          "category": "Hiburan",
+          "published_at": "2025-12-30T12:29:05+00:00",
+          "summary": "Agensi ADOR secara resmi mengumumkan pemutusan kontrak eksklusif Danielle Marsh sebagai anggota NewJeans pada Senin (29/12). Keputusan tersebut diambil karena adanya pelanggaran ketentuan kontrak kerja sama yang dinilai tidak dapat ditoleransi oleh pihak agensi.",
+          "key_points": [
+            "ADOR memutuskan hubungan kerja sama dengan Danielle Marsh karena pelanggaran ketentuan kontrak.",
+            "Danielle Marsh resmi dinyatakan tidak lagi menjadi bagian dari grup NewJeans sejak Senin (29/12).",
+            "Danielle Marsh mengawali kariernya sebagai trainee di ADOR pada tahun 2020 sebelum debut bersama NewJeans pada 2022."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 110
+    },
+    "timestamp": "2026-04-25T09:04:03.835007+00:00"
   }
 ]

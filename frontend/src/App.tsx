@@ -32,31 +32,36 @@ export default function App() {
       {/* Premium Background Ambient Glows */}
       <div className="fixed top-[-10%] left-[-10%] w-[40%] h-[40%] bg-brand-accent/5 blur-[150px] rounded-full -z-0" />
       <div className="fixed bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-brand-accent/5 blur-[150px] rounded-full -z-0" />
-      
+
       <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} />
 
       <div className="flex-1 lg:ml-[240px] flex flex-col min-h-screen relative z-10">
-        <header className="h-16 border-b border-brand-border/30 flex items-center justify-between px-8 bg-brand-bg/60 backdrop-blur-md sticky top-0 z-50">
-          <div className="text-sm text-brand-text-dim flex items-baseline gap-2">
-            <span>Update Terakhir:</span>
-            <strong className="text-brand-text-main">
+        <header className="h-20 border-b border-brand-border/10 flex items-center justify-between px-10 bg-brand-bg/80 backdrop-blur-xl sticky top-0 z-50">
+          <div className="flex flex-col gap-1.5">
+            <span className="text-[9px] font-bold text-brand-text-dim tracking-[0.25em] uppercase">
+              Status Sistem
+            </span>
+            <div className="flex items-center gap-2.5 text-sm font-black text-brand-text-main tracking-wider">
+              <span className="w-2 h-2 rounded-full bg-brand-green shadow-[0_0_15px_rgba(16,185,129,0.3)] animate-pulse" />
+              SYSTEM ONLINE
+            </div>
+          </div>
+
+          <div className="flex flex-col items-end gap-1.5 text-right">
+            <span className="text-[9px] font-bold text-brand-text-dim tracking-[0.25em] uppercase">
+              Terakhir Diperbarui
+            </span>
+            <div className="text-sm font-black text-brand-text-main tracking-wide">
               {digest?.generated_at ? (
                 <>
-                  {new Date(digest.generated_at).toLocaleDateString('id-ID', {
+                  {new Date(digest.generated_at).toLocaleDateString('en-GB', {
                     day: '2-digit', month: 'short', year: 'numeric'
-                  })}, {new Date(digest.generated_at).toLocaleTimeString([], {
-                    hour: '2-digit', minute: '2-digit'
+                  })}, {new Date(digest.generated_at).toLocaleTimeString('en-US', {
+                    hour: '2-digit', minute: '2-digit', hour12: true
                   })} WIB
-                  <span className="ml-2 font-normal text-brand-text-dim text-xs">
-                    ({Math.max(0, Math.floor((Date.now() - new Date(digest.generated_at).getTime()) / 60000))} menit lalu)
-                  </span>
                 </>
-              ) : 'Memuat...'}
-            </strong>
-          </div>
-          <div className="px-3 py-1.5 bg-brand-green/10 border border-brand-green/20 rounded-full flex items-center gap-2 text-[10px] font-bold text-brand-green tracking-widest uppercase">
-            <span className="w-1.5 h-1.5 rounded-full bg-brand-green shadow-[0_0_8px_rgba(34,197,94,0.6)]" />
-            System Online
+              ) : 'MEMUAT...'}
+            </div>
           </div>
         </header>
 

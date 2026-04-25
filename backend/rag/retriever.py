@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from typing import Any
 
 from qdrant_client import QdrantClient
-from qdrant_client.models import FieldCondition, Filter, MatchValue
+from qdrant_client.models import FieldCondition, Filter, MatchValue, Prefetch, SparseVector, FusionQuery, Fusion
 
 from backend.agents.embedder import NewsEmbedder
 
@@ -16,8 +16,8 @@ class SearchResult:
     source: str
     category: str
     published_at: str
-    summary: str
-    key_points: list[str]
+    text_chunk: str
+    chunk_index: int
     score: float
     payload: dict[str, Any]
 
@@ -40,7 +40,7 @@ class NewsRetriever:
         top_k: int = 5,
         category_filter: str | None = None,
     ) -> list[SearchResult]:
-        query_vector = self.embedder.embed_query(query)
+        dense_vec, sparse_vec = self.embedder.embed_query(query)
 
         query_filter: Filter | None = None
         if category_filter and category_filter.lower() != "semua":
@@ -53,20 +53,34 @@ class NewsRetriever:
                 ]
             )
 
-        points = self.client.search(
+        # Hybrid Search using Prefetch and Reciprocal Rank Fusion (RRF)
+        prefetch_dense = Prefetch(
+            query=dense_vec,
+            using="dense",
+            filter=query_filter,
+            limit=top_k * 2, # Fetch more for fusion
+        )
+        
+        prefetch_sparse = Prefetch(
+            query=SparseVector(indices=sparse_vec["indices"], values=sparse_vec["values"]),
+            using="sparse",
+            filter=query_filter,
+            limit=top_k * 2,
+        )
+
+        response = self.client.query_points(
             collection_name=self.collection_name,
-            query_vector=query_vector,
-            query_filter=query_filter,
+            prefetch=[prefetch_dense, prefetch_sparse],
+            query=FusionQuery(fusion=Fusion.RRF),
             limit=top_k,
             with_payload=True,
-            with_vectors=False,
         )
+        
+        points = response.points
 
         results: list[SearchResult] = []
         for point in points:
             payload = dict(point.payload or {})
-            raw_key_points = payload.get("key_points", [])
-            key_points = [str(item) for item in raw_key_points if str(item).strip()]
             results.append(
                 SearchResult(
                     url=str(payload.get("url", "")),
@@ -74,8 +88,8 @@ class NewsRetriever:
                     source=str(payload.get("source", "Unknown")),
                     category=str(payload.get("category", "Umum")),
                     published_at=str(payload.get("published_at", "")),
-                    summary=str(payload.get("summary", "")),
-                    key_points=key_points,
+                    text_chunk=str(payload.get("text_chunk", "")),
+                    chunk_index=int(payload.get("chunk_index", 0)),
                     score=float(point.score),
                     payload=payload,
                 )
@@ -84,14 +98,12 @@ class NewsRetriever:
         return results
 
 
-def build_context(results: list[SearchResult], max_chars: int = 5000) -> str:
+def build_context(results: list[SearchResult], max_chars: int = 8000) -> str:
     if not results:
         return ""
 
     chunks: list[str] = []
     for idx, item in enumerate(results, start=1):
-        summary = item.summary.strip()
-        key_points = " | ".join(item.key_points[:3])
         chunks.append(
             "\n".join(
                 [
@@ -99,8 +111,7 @@ def build_context(results: list[SearchResult], max_chars: int = 5000) -> str:
                     f"Kategori: {item.category}",
                     f"Sumber: {item.source}",
                     f"URL: {item.url}",
-                    f"Ringkasan: {summary}",
-                    f"Poin penting: {key_points}",
+                    f"Kutipan Berita: {item.text_chunk}",
                 ]
             )
         )

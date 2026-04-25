@@ -4,17 +4,25 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 import os
 from pathlib import Path
+from contextlib import asynccontextmanager
 
 from backend.api.routes import digest, search, qa
 from backend.config.logging import setup_logging
-from backend.config.settings import ROOT_DIR
+from backend.config.settings import ROOT_DIR, get_settings
 
 setup_logging()
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Model dimuat secara lazy saat request pertama masuk (via Singleton)
+    # Tidak ada pre-loading di sini agar server bisa shutdown dengan bersih
+    yield
 
 app = FastAPI(
     title="Sekilas.ai API",
     description="Backend API for Sekilas.ai Agentic-RAG News System",
-    version="0.2.0"
+    version="0.2.0",
+    lifespan=lifespan
 )
 
 # Setup CORS

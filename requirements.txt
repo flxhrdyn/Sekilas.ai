@@ -8,10 +8,12 @@ langgraph==0.2.0
 qdrant-client==1.11.0
 
 # Local AI Models
-sentence-transformers==3.0.1
-scikit-learn==1.6.1
-torch>=2.6.0
+fastembed==0.3.1
+langchain-text-splitters==0.2.1
 numpy==1.26.4
+
+# Web Scraping
+playwright==1.44.0
 
 # API & Server
 fastapi==0.110.0
