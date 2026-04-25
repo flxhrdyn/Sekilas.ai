@@ -3745,5 +3745,264 @@
       "total_in_qdrant": 137
     },
     "timestamp": "2026-04-24T02:00:00.265903+00:00"
+  },
+  {
+    "date": "2026-04-25",
+    "generated_at": "2026-04-25T01:49:55.479589+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta olahraga.",
+    "top_stories": [
+      {
+        "id": 3,
+        "title": "internasional",
+        "synthesis": [
+          "No 10 says Falklands sovereignty rests with UK after report of US 'review'"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-04-24T22:55:05+00:00",
+            "summary": "Sovereignty of the Falkland Islands \"rests with the UK\", Downing Street has said, following a report the US could review its position on Britain's claim to the territory. An internal Pentagon email reported by Reuters suggested the US was considering options to punish Nato allies it believed had failed to support its war on Iran.",
+            "key_points": [
+              "Sovereignty of the Falkland Islands \"rests with the UK\", Downing Street has said, followin",
+              "An internal Pentagon email reported by Reuters suggested the US was considering options to",
+              "The options discussed also included seeking Spain's suspension from Nato over its oppositi"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 4,
+        "title": "olahraga",
+        "synthesis": [
+          "Barcelona Bisa Kunci Juara LaLiga 2025/2026 di El Clasico"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "Barcelona Bisa Kunci Juara LaLiga 2025/2026 di El Clasico",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8460364/barcelona-bisa-kunci-juara-laliga-2025-2026-di-el-clasico",
+            "category": "Teknologi",
+            "published_at": "2026-04-25T01:00:19+00:00",
+            "summary": "Hasil imbang Real Madrid melawan Real Betis makin memperbesar peluang Barcelona juara LaLiga. Blaugrana bisa saja mengunci gelar di El Clasico.",
+            "key_points": [
+              "Hasil imbang Real Madrid melawan Real Betis makin memperbesar peluang Barcelona juara LaLi",
+              "Blaugrana bisa saja mengunci gelar di El Clasico",
+              "Madrid bertandang ke markas Betis dalam lanjutan LaLiga, Sabtu (25/4/2026) dini hari"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 2,
+        "title": "olahraga",
+        "synthesis": [
+          "FIGC Mau Guardiola Latih Italia? Bisa, Asalkan..."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "FIGC Mau Guardiola Latih Italia? Bisa, Asalkan...",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8460360/figc-mau-guardiola-latih-italia-bisa-asalkan",
+            "category": "Olahraga",
+            "published_at": "2026-04-25T00:00:27+00:00",
+            "summary": "Pep Guardiola dikabarkan terbuka dengan proposal melatih Timnas Italia. Namun FIGC selaku induk sepak bola negeri pizza itu butuh dukungan dana yang besar untuk mewujudkan mimpi tersebut.",
+            "key_points": [
+              "Pep Guardiola dikabarkan terbuka dengan proposal melatih Timnas Italia",
+              "Namun FIGC selaku induk sepak bola negeri pizza itu butuh dukungan dana yang besar untuk m",
+              "Diberitakan La Gazzetta dello Sport dan dikutip Football Italia, Guardiola, yang terikat k"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 0,
+        "title": "kesehatan",
+        "synthesis": [
+          "BGN Buka Suara soal Anggaran Zoom Meeting Capai Rp 5,7 M, Ini Alasannya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "articles": [
+          {
+            "title": "BGN Buka Suara soal Anggaran Zoom Meeting Capai Rp 5,7 M, Ini Alasannya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8460338/bgn-buka-suara-soal-anggaran-zoom-meeting-capai-rp-5-7-m-ini-alasannya",
+            "category": "Teknologi",
+            "published_at": "2026-04-25T01:03:09+00:00",
+            "summary": "Viral di media sosial narasi soal anggaran layanan Zoom meeting di Badan Gizi Nasional (BGN) yang disebut mencapai Rp 5,7 miliar untuk 9 bulan. Dalam unggahan itu, anggaran disebut setara sekitar Rp 633 juta per bulan.",
+            "key_points": [
+              "Viral di media sosial narasi soal anggaran layanan Zoom meeting di Badan Gizi Nasional (BG",
+              "Dalam unggahan itu, anggaran disebut setara sekitar Rp 633 juta per bulan",
+              "Sejumlah warganet menyoroti besarnya anggaran tersebut di tengah isu efisiensi belanja pem"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/east-asia/us-imposes-sanctions-chinese-teapot-refinery-buying-iranian-oil-6079836",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T01:36:00+00:00",
+          "summary": "East Asia East Asia The Treasury Department targeted Hengli Petrochemical (Dalian) Refinery, which it said is one of Iran's largest customers of crude oil and petroleum products. Hengli Petrochemical's new refining, petrochemical complex is seen at Changxing island in Dalian, Liaoning province, China July 16, 2018.",
+          "key_points": [
+            "East Asia East Asia The Treasury Department targeted Hengli Petrochemical (Dalian) Refiner",
+            "Hengli Petrochemical's new refining, petrochemical complex is seen at Changxing island in",
+            "REUTERS/Chen Aizhu WASHINGTON: The Trump administration said on Friday (Apr 24) it had imp"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Praka Rico Pramudia Gugur Usai Serangan Israel di Lebanon, Warganet Murka",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8460438/praka-rico-pramudia-gugur-usai-serangan-israel-di-lebanon-warganet-murka",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T01:00:22+00:00",
+          "summary": "Adi Fida Rahman - detikInet Kabar duka datang dari misi perdamaian dunia. Praka Rico Pramudia, prajurit TNI Angkatan Darat yang tergabung dalam pasukan United Nations Interim Force in Lebanon (UNIFIL), dinyatakan gugur setelah menjalani perawatan intensif di Beirut, Lebanon.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Kabar duka datang dari misi perdamaian dunia",
+            "Praka Rico Pramudia, prajurit TNI Angkatan Darat yang tergabung dalam pasukan United Natio",
+            "Praka Rico mengembuskan napas terakhir pada Jumat (24/4/2026), setelah sebelumnya mengalam"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Tennis vs pickleball: What’s a better workout for cardio and fitness?",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/wellness/tennis-pickleball-health-benefits-6064331",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T00:23:38+00:00",
+          "summary": "Wellness Wellness Both are great ways to get out and get moving, and both can cause injuries. But there are a few important differences.",
+          "key_points": [
+            "Wellness Wellness Both are great ways to get out and get moving, and both can cause injuri",
+            "But there are a few important differences",
+            "Pickleball or tennis – what would you choose"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "I couldn’t have children – but being an aunt has been its own kind of joy",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/women/pank-childless-women-aunt-role-relationships-6048886",
+          "category": "Teknologi",
+          "published_at": "2026-04-25T00:22:52+00:00",
+          "summary": "Women Women Balvinder Sandhu never had children of her own but embraced life as a PANK – Professional Aunt, No Kids – devoting time, love and yes, money to her niece and nephew. She reflects on how their relationship has evolved, from childhood outings to meaningful conversations as adults.",
+          "key_points": [
+            "Women Women Balvinder Sandhu never had children of her own but embraced life as a PANK – P",
+            "She reflects on how their relationship has evolved, from childhood outings to meaningful c",
+            "The perks of being a PANK, or Professional Aunt, No Kids, include loving someone else’s ch"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Infinix Rilis GT Watch 5 Pro &amp; GT Buds 5, Harga Murah Temani GT 50 Pro",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8460382/infinix-rilis-gt-watch-5-pro-gt-buds-5-harga-murah-temani-gt-50-pro",
+          "category": "Teknologi",
+          "published_at": "2026-04-24T23:33:22+00:00",
+          "summary": "Adi Fida Rahman - detikInet Tak hanya meluncurkan smartphone gaming GT 50 Pro, Infinix juga memperluas ekosistemnya lewat perangkat AIoT. Dua produk anyar, GT Watch 5 Pro dan GT Buds 5, resmi diperkenalkan untuk mendukung pengalaman gaming yang lebih imersif dan terintegrasi dalam ekosistem GT Verse.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Tak hanya meluncurkan smartphone gaming GT 50 Pro, Infinix jug",
+            "Dua produk anyar, GT Watch 5 Pro dan GT Buds 5, resmi diperkenalkan untuk mendukung pengal",
+            "\"Di Infinix kami percaya satu hal, performa bukan lagi pilihan, melainkan sebuah keharusan"
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Peluang Arsenal Jauhi Man City Hingga 6 Poin di Awal Mei",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8460365/peluang-arsenal-jauhi-man-city-hingga-6-poin-di-awal-mei",
+          "category": "Politik",
+          "published_at": "2026-04-25T01:30:10+00:00",
+          "summary": "Manchester City sedang 'libur panjang' dari Liga Inggris dan baru akan kembali bertanding pada 5 Mei mendatang. Arsenal punya kesempatan menjauh hingga enam poin dan memberi tekanan kepada The Citizens.",
+          "key_points": [
+            "Manchester City sedang 'libur panjang' dari Liga Inggris dan baru akan kembali bertanding",
+            "Arsenal punya kesempatan menjauh hingga enam poin dan memberi tekanan kepada The Citizens",
+            "Saat ini, City dan Arsenal sama-sama memiliki 70 poin dari 33 laga serta selisih gol +37"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Police raid Peru’s election authorities after outcry over slow vote count",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-04-24T23:22:32+00:00",
+          "summary": "Anticorruption police gathered material from the homes of election officials including former office leader Piero Corvetto. Save Share Police in the Peruvian capital of Lima have raided a home belonging to the former head of its national election agency, amid growing frustration in the aftermath of the country’s presidential election.",
+          "key_points": [
+            "Anticorruption police gathered material from the homes of election officials including for",
+            "Save Share Police in the Peruvian capital of Lima have raided a home belonging to the form",
+            "As of Friday, results still had not been finalised for the presidential race, which took p"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Respons BGN Soal Viral Anggaran BPOM Awasi MBG Lebih Kecil dari Pengadaan Kaus Kaki",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8460334/respons-bgn-soal-viral-anggaran-bpom-awasi-mbg-lebih-kecil-dari-pengadaan-kaus-kaki",
+          "category": "Politik",
+          "published_at": "2026-04-24T23:07:17+00:00",
+          "summary": "Isu keterbatasan anggaran pengawasan program Makan Bergizi Gratis (MBG) menjadi sorotan publik setelah pernyataan dalam rapat DPR terkait dana tersisa di Badan Pengawas Obat dan Makanan (BPOM RI) disebut hanya sekitar Rp 2,9 miliar. Angka ini bahkan dibandingkan dengan nilai pengadaan kaos kaki di BGN yang mencapai Rp 6,9 miliar, sehingga memicu kritik dan kebingungan.",
+          "key_points": [
+            "Isu keterbatasan anggaran pengawasan program Makan Bergizi Gratis (MBG) menjadi sorotan pu",
+            "Angka ini bahkan dibandingkan dengan nilai pengadaan kaos kaki di BGN yang mencapai Rp 6,9",
+            "Menanggapi polemik, Badan Gizi Nasional (BGN) menegaskan angka yang beredar tidak mencermi"
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Meeting with the King would 'demonstrate human dignity', says Epstein survivor",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-04-24T23:00:21+00:00",
+          "summary": "Teresa Helm, a survivor of convicted sex offender Jeffrey Epstein, says a meeting with King Charles and Queen Camilla would \"demonstrate human dignity\". Speaking to the BBC's Nada Tawfik, Helm echoed the requests of other survivors and lawmakers for the Royals to meet with Epstein survivors.",
+          "key_points": [
+            "Teresa Helm, a survivor of convicted sex offender Jeffrey Epstein, says a meeting with Kin",
+            "Speaking to the BBC's Nada Tawfik, Helm echoed the requests of other survivors and lawmake",
+            "The King and Queen are visiting Washington DC from 27 to 30 April"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 3,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 152
+    },
+    "timestamp": "2026-04-25T01:49:55.479596+00:00"
   }
 ]
