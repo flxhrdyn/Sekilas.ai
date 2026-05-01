@@ -54,8 +54,8 @@ class NewsRetriever:
                 ]
             )
 
-        # Jika ada reranker, kita ambil lebih banyak kandidat (misal 15) untuk diurutkan ulang
-        fetch_limit = max(top_k, 15) if reranker else top_k
+        # Jika ada reranker, kita ambil lebih banyak kandidat (40) untuk diurutkan ulang
+        fetch_limit = max(top_k, 40) if reranker else top_k
 
         # Hybrid Search using Prefetch and Reciprocal Rank Fusion (RRF)
         prefetch_dense = Prefetch(

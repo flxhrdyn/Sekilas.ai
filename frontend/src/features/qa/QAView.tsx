@@ -128,43 +128,38 @@ export const QAView: React.FC<{
               )}
             </div>
 
-            {/* Reasoning Process */}
-            {msg.role === 'ai' && msg.reasoning && (
-              <div className="mt-4 ml-6 space-y-3 animate-in fade-in slide-in-from-top-1 duration-700 delay-300">
-                <div className="flex items-center gap-2 text-[9px] font-bold text-brand-text-dim tracking-widest uppercase opacity-60">
-                  <Sparkles size={10} className="text-brand-accent" />
-                  Reasoning Process
-                </div>
-                <div className="space-y-1.5 pl-1 border-l border-brand-accent/20">
-                  {msg.reasoning.map((step, idx) => (
-                    <div key={idx} className="flex items-center gap-2 group">
-                      <ChevronRight size={10} className="text-brand-accent/40 group-hover:text-brand-accent transition-colors" />
-                      <span className="text-[11px] text-brand-text-dim italic font-medium opacity-80 group-hover:opacity-100 transition-opacity">
-                        {step}
-                      </span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         ))}
 
-        {/* Thinking Indicator */}
+        {/* Thinking Indicator with Dynamic Reasoning */}
         {isTyping && (
-          <div className="flex flex-col items-start animate-in fade-in duration-300">
-            <div className="flex items-center gap-2 mb-3 px-1">
-              <div className="text-[10px] font-black uppercase tracking-[0.2em] opacity-40 flex items-center gap-2">
-                <div className="w-5 h-5 rounded bg-brand-accent/20 flex items-center justify-center text-brand-accent">
-                  <Zap size={10} fill="currentColor" className="animate-pulse" />
-                </div>
-                <span>Sekilas Agent</span>
-              </div>
+          <div className="flex flex-col gap-5 py-4 animate-in fade-in slide-in-from-bottom-4 duration-500">
+            {/* Header Reasoning */}
+            <div className="flex items-center gap-3 text-brand-accent/60 px-4">
+              <Sparkles className="w-4 h-4 animate-pulse" />
+              <span className="text-[10px] font-bold tracking-[0.2em] uppercase italic">
+                Reasoning Process
+              </span>
             </div>
-            <div className="bg-brand-card/40 p-4 rounded-3xl border border-white/5 flex gap-1.5">
-              <span className="w-1.5 h-1.5 bg-brand-accent rounded-full animate-bounce" />
-              <span className="w-1.5 h-1.5 bg-brand-accent rounded-full animate-bounce [animation-delay:0.2s]" />
-              <span className="w-1.5 h-1.5 bg-brand-accent rounded-full animate-bounce [animation-delay:0.4s]" />
+            
+            {/* List of Steps */}
+            <div className="ml-8 pl-6 border-l border-brand-accent/20 space-y-4 py-1">
+              {[
+                `Analyzing intelligence query: "${messages[messages.length - 1]?.content.substring(0, 35)}..."`,
+                "Engaging Qdrant Multilingual Vector Store for hybrid retrieval",
+                "Optimizing retrieval depth (fetch_limit: 40) for edge cases",
+                "Reranking candidate chunks using Llama 3.1 8B for factual precision",
+                "Synthesizing high-fidelity response using Qwen 2.5 32B"
+              ].map((step, idx) => (
+                <div 
+                  key={idx} 
+                  className="flex items-center gap-3 text-xs text-brand-text-dim/80 italic animate-in fade-in slide-in-from-left-4 duration-700 fill-mode-both"
+                  style={{ animationDelay: `${idx * 1000}ms` }}
+                >
+                  <ChevronRight className="w-3 h-3 text-brand-accent/40" />
+                  {step}
+                </div>
+              ))}
             </div>
           </div>
         )}
