@@ -3308,5 +3308,646 @@
       "total_in_qdrant": 110
     },
     "timestamp": "2026-04-25T09:04:03.835007+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T10:42:27.984992+00:00",
+    "headline": "Regulasi Presiden Prabowo membatasi potongan aplikator ride-hailing 8% memicu perubahan model bisnis di sektor transportasi digital Indonesia.",
+    "top_stories": [
+      {
+        "id": 2,
+        "title": "Prabowo Approves 8% App Fee Cut",
+        "synthesis": [
+          "Regulasi Presiden 2026 batasi potongan aplikator ride-hailing 8%.",
+          "GoTo dan Grab siap patuhi aturan baru dengan kajian kebijakan.",
+          "Kebijakan berpotensi mengubah struktur bisnis platform transportasi digital."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Regulasi nasional mengubah struktur pendapatan industri ride-hailing secara sistemik.",
+        "articles": [
+          {
+            "title": "GoTo dan Grab Buka Suara Usai Prabowo Restui Potongan Aplikator 8%",
+            "source": "CNBC Indonesia",
+            "url": "https://www.cnbcindonesia.com/market/20260501164850-17-731582/goto-grab-buka-suara-usai-prabowo-restui-potongan-aplikator-8",
+            "category": "Ekonomi",
+            "published_at": "2026-05-01T10:15:03+00:00",
+            "summary": "GoTo dan Grab Indonesia menyatakan akan mematuhi Peraturan Presiden No. 27 Tahun 2026 yang membatasi potongan maksimal aplikator ride hailing menjadi 8%, serta akan melakukan pengkajian dan koordinasi dengan pemerintah untuk menyesuaikan kebijakan tersebut.",
+            "key_points": [
+              "Presiden Prabowo Subianto menetapkan potongan maksimal aplikator ride hailing sebesar 8% melalui Peraturan Presiden No. 27 Tahun 2026.",
+              "GoTo dan Grab Indonesia akan melakukan pengkajian terhadap regulasi tersebut dan berkoordinasi dengan pemerintah untuk penyesuaian.",
+              "Regulasi bertujuan melindungi pekerja transportasi online, menjaga keterjangkauan harga konsumen, serta memastikan keberlanjutan industri."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "title": "Catfish in Dumplings Safety Debate",
+        "synthesis": [
+          "Ikan sapu-sapu dari sungai perkotaan mengandung E. coli 100x batas standar.",
+          "Logam berat arsenik dan merkuri terdeteksi, risiko gangguan pencernaan.",
+          "Konsumsi berisiko tinggi bagi kelompok rentan seperti anak-anak dan lansia."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ancaman kesehatan publik akut dari kontaminasi makanan berbasis ikan sungai.",
+        "articles": [
+          {
+            "title": "Ikan Sapu-Sapu Dijadikan Siomai, Bahayakah Jika Dikonsumsi?",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8469610/ikan-sapu-sapu-dijadikan-siomai-bahayakah-jika-dikonsumsi",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T05:08:04+00:00",
+            "summary": "Ikan sapu-sapu yang ditangkap dari sungai perkotaan seperti Kali Ciliwung berisiko tercemar bakteri dan logam berat karena habitatnya di dasar perairan yang terkontaminasi. Uji laboratorium menunjukkan kandungan E. coli hingga 100 kali batas standar, serta logam berat seperti arsenik dan merkuri. Konsumsi ikan ini dapat menyebabkan gangguan pencernaan hingga dehidrasi, terutama pada kelompok rentan.",
+            "key_points": [
+              "Ikan sapu-sapu hidup di dasar perairan yang tercemar lumpur, sampah, dan limbah, meningkatkan risiko kontaminasi.",
+              "Uji laboratorium menemukan E. coli 100 kali lebih tinggi dari standar nasional, menunjukkan kontaminasi fekal.",
+              "Daging ikan dari sungai perkotaan mengandung logam berat seperti arsenik, kadmium, dan merkuri dari limbah industri serta rumah tangga."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "title": "MU Pursues Micky van de Ven",
+        "synthesis": [
+          "MU target Micky van de Ven untuk memperkuat lini pertahanan.",
+          "Liverpool dan Real Madrid juga dikaitkan dengan pemain 25 tahun ini.",
+          "Tottenham berisiko degradasi meski kontrak Van de Ven berakhir 2029."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Persaingan transfer elite dan risiko degradasi klub memengaruhi dinamika Liga Inggris.",
+        "articles": [
+          {
+            "title": "MU Bakal Pepet Micky van de Ven!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470299/mu-bakal-pepet-micky-van-de-ven",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T10:00:10+00:00",
+            "summary": "Manchester United dikabarkan tertarik merekrut bek Tottenham Hotspur, Micky van de Ven, untuk memperkuat lini pertahanan. Van de Ven, yang kontraknya berakhir 2029, dianggap sebagai target utama meski Tottenham berisiko degradasi. Klub lain seperti Liverpool dan Real Madrid juga disebut tertarik pada pemain berusia 25 tahun tersebut.",
+            "key_points": [
+              "MU membutuhkan bek tengah baru karena cedera berulang dan usia pemain lini pertahanan mereka.",
+              "Micky van de Ven, wakil kapten Tottenham, bisa hengkang jika klubnya terdegradasi musim ini.",
+              "Harga pasar Van de Ven mencapai 65 juta euro, dengan klub lain seperti Liverpool dan Real Madrid juga meminati."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "title": "Saudi Owners' Newcastle Commitment",
+        "synthesis": [
+          "Saudi komitmen Newcastle tetap kuat meski PIF hentikan pendanaan LIV Golf 2026.",
+          "PIF investasi $5 miliar di LIV Golf sejak 2022, kini cari pendanaan baru.",
+          "Alih fokus investasi Saudi dari golf ke sepak bola memperkuat klub Eropa."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi investasi Saudi berdampak pada ekosistem olahraga global.",
+        "articles": [
+          {
+            "title": "Saudi owners' desire for success at Newcastle remains unchanged, says Howe",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/saudi-owners-desire-success-newcastle-remains-unchanged-says-howe-6094361",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T10:07:55+00:00",
+            "summary": "Manajer Newcastle United Eddie Howe menyatakan komitmen pemilik Saudi Arabia terhadap kesuksesan klub tetap kuat meski Public Investment Fund (PIF) akan menghentikan pendanaan LIV Golf pada akhir musim 2026. PIF, yang menginvestasikan lebih dari $5 miliar ke LIV Golf sejak 2022, berencana mencari pendanaan baru untuk sirkuit golf tersebut.",
+            "key_points": [
+              "PIF akan menghentikan pendanaan LIV Golf setelah musim 2026, meski tetap berkomitmen pada investasi olahraga internasional.",
+              "Eddie Howe menegaskan bahwa komitmen pemilik Saudi terhadap kesuksesan Newcastle United tetap tidak berubah, termasuk ambisi untuk meraih gelar Liga Inggris.",
+              "Newcastle United telah meraih beberapa prestasi di bawah kepemilikan Saudi, seperti dua kali lolos ke Liga Champions dan juara Piala Liga Inggris 2023."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Regulasi Ekonomi dan Keamanan Pangan Memicu Reaksi Geopolitik dan Investasi Strategis",
+        "analysis": "Kebijakan Prabowo yang membatasi potongan aplikator ride-hailing (8%) menciptakan ekosistem digital yang lebih kompetitif, yang dapat menarik investasi asing, termasuk dari negara-negara seperti Saudi Arabia. Di sisi lain, kontroversi catfish dalam dumpling yang mengandung E. coli 100x batas standar memicu kekhawatiran publik terhadap keamanan pangan, yang mungkin mendorong regulasi lebih ketat pada rantai pasok makanan. Kedua isu ini saling terkait dengan komitmen Saudi terhadap Newcastle dan ambisi mereka di LIV Golf 2026. Dengan menghentikan pendanaan LIV Golf, Saudi mungkin fokus pada investasi yang lebih stabil, seperti olahraga tradisional (sepak bola) atau sektor digital yang diatur ketat. Sementara itu, perburuan Micky van de Ven oleh MU mencerminkan strategi klub Eropa untuk memperkuat tim di tengah ketidakpastian ekonomi global, yang bisa dipengaruhi oleh kebijakan regulasi digital yang memengaruhi pendapatan sponsor dan investasi asing."
+      },
+      {
+        "title": "Ketergantungan Geopolitik pada Regulasi Teknologi dan Keamanan Lingkungan",
+        "analysis": "Kebijakan 8% app fee cut di Indonesia berpotensi mengubah dinamika pasar teknologi, yang bisa menarik perhatian investor global seperti Saudi Arabia. Jika regulasi ini sukses, Saudi mungkin meningkatkan investasi di sektor digital Asia, termasuk melalui klub olahraga seperti Newcastle, sebagai bagian dari strategi soft power. Di sisi lain, kontroversi catfish menunjukkan risiko rantai pasok makanan yang tidak terkontrol, yang bisa memicu kebijakan lingkungan lebih ketat. Hal ini mungkin memengaruhi keputusan investasi Saudi, yang saat ini mengalihkan fokus dari LIV Golf ke proyek yang lebih berkelanjutan. Keterkaitan ini menunjukkan bagaimana regulasi teknologi dan keamanan lingkungan menjadi alat geopolitik untuk membangun kekuatan ekonomi dan reputasi global."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Who profits big from the war on Iran?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T10:13:05+00:00",
+          "summary": "Dalam kondisi perekonomian global yang sulit, perusahaan minyak, produsen senjata, dan platform taruhan mencatat keuntungan besar akibat perang di Iran, menurut penjelasan Al Jazeera's Yasmeen ElTahan.",
+          "key_points": [
+            "Perekonomian global sedang menghadapi tantangan berat.",
+            "Perusahaan minyak, produsen senjata, dan platform taruhan mengalami keuntungan maksimal dari perang di Iran.",
+            "Laporan ini disampaikan oleh Al Jazeera's Yasmeen ElTahan."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Violence in Australian town after arrest of man over girl's murder",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T04:08:19+00:00",
+          "summary": "Kekacauan terjadi di luar rumah sakit Alice Springs, Australia, setelah Jefferson Lewis ditangkap atas dugaan pembunuhan seorang anak perempuan berusia lima tahun, Kumanjayi Little Baby, yang jasadnya ditemukan pada Kamis. Kerumunan massa melemparkan benda ke polisi, yang menggunakan gas air mata untuk mengendalikan situasi, sementara seorang tokoh lokal menegaskan bahwa konsep 'payback' tradisional tidak boleh digunakan untuk memicu kekerasan.",
+          "key_points": [
+            "Jefferson Lewis ditangkap setelah diduga melakukan pembunuhan terhadap Kumanjayi Little Baby, seorang anak perempuan berusia lima tahun.",
+            "Kerumunan massa di luar rumah sakit melemparkan benda ke polisi, menyebabkan kerusakan pada kendaraan polisi dan penggunaan gas air mata.",
+            "Seorang tokoh lokal, Michael Liddle, menolak penggunaan konsep 'payback' tradisional sebagai alasan kekerasan, menekankan bahwa sistem hukum Barat akan menangani kasus ini."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Umum": [
+        {
+          "title": "May Day in the age of AI: The new war on workers",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
+          "category": "Umum",
+          "published_at": "2026-05-01T09:54:12+00:00",
+          "summary": "Artikel ini membahas perayaan May Day yang berasal dari perjuangan pekerja AS tahun 1886, serta ancaman AI terhadap hak pekerja saat ini, termasuk rencana Amazon untuk menggantikan jutaan pekerja dengan robot. AS, sebagai pemimpin pengembangan AI, dianggap mempercepat penggantian pekerja dengan mesin dalam konteks kapitalisme yang ketat.",
+          "key_points": [
+            "May Day berasal dari pemogokan pekerja AS tahun 1886 yang memperjuangkan hari kerja delapan jam.",
+            "AI dianggap mengancam hak pekerja melalui otomatisasi, seperti rencana Amazon untuk menggantikan lebih dari 500.000 pekerja dengan robot.",
+            "AS memimpin pengembangan AI dan dianggap memperkuat penggantian pekerja dengan mesin dalam sistem kapitalisme."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Kepala Wasit Serie A Buka Suara soal Tuduhan Kecurangan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-italia/d-8470301/kepala-wasit-serie-a-buka-suara-soal-tuduhan-kecurangan",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T10:20:10+00:00",
+          "summary": "Kepala wasit Serie A dan B, Gianluca Rocchi, membantah tuduhan kecurangan olahraga yang mencakup pengaruh terhadap keputusan VAR dan pergantian wasit, serta keterlibatan klub Inter Milan. Rocchi menegaskan keterbukaan kerja dan menolak hadir dalam penyelidikan karena tuduhan dianggap tidak jelas.",
+          "key_points": [
+            "Rocchi dituduh memengaruhi keputusan VAR dan mengubah wasit, termasuk kasus Inter Milan yang diduga meminta pergantian wasit melawan Bologna.",
+            "Rocchi menolak hadir dalam pemeriksaan penyidik, menyebut tuduhan terlalu samar untuk dibantah secara memadai.",
+            "Dia membantah campur tangan dalam keputusan wasit dan menegaskan konsistensi kerja yang transparan, meski dianggap melanggar protokol VAR."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Kaki Kaca Eder Militao",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/foto-sepakbola/d-8470203/kaki-kaca-eder-militao",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T09:30:10+00:00",
+          "summary": "Eder Militao, bek Real Madrid, mengalami rentetan cedera sejak Piala Dunia 2022, membuatnya absen selama 700 hari. Cedera terberat terjadi pada musim 2023/24 dan 2024/25 akibat cedera ACL, yang memicu absen masing-masing 200 hari. Kondisi ini membuatnya diprediksi absen di Piala Dunia 2026 dan mendorong Real Madrid mencari bek tengah baru.",
+          "key_points": [
+            "Eder Militao absen 700 hari akibat cedera sejak Piala Dunia 2022.",
+            "Cedera ACL pada dua musim terakhir (2023/24 dan 2024/25) menjadi cedera paling serius yang dialaminya.",
+            "Real Madrid berencana mencari bek tengah baru karena absen lama Militao."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Gamer Counter-Strike 2 Kena Banned 10 Tahun Gegara Tampar Lawannya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8470307/gamer-counter-strike-2-kena-banned-10-tahun-gegara-tampar-lawannya",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T09:13:56+00:00",
+          "summary": "MAUSchine, pemain Counter-Strike 2 semi-profesional, dilarang mengikuti kompetisi esports di Jerman selama 10 tahun setelah menampar lawannya, Fabian Salomon, di panggung penyerahan trofi turnamen CAGGTUS LAN. Penyelenggara turnamen DACH menyatakan kekerasan tidak diterima dan melaporkan insiden tersebut ke ESIC. Larangan ini diikuti oleh penyelenggara lain, Fragster, yang menekankan sikap anti-kekerasan.",
+          "key_points": [
+            "MAUSchine menerima larangan 10 tahun dari DACH akibat menampar lawannya di panggung turnamen.",
+            "Insiden terjadi setelah kekalahan tim MAUSchine di final CAGGTUS LAN, di mana Salomon meniru selebrasi MAUSchine.",
+            "DACH dan Fragster menegaskan kekerasan tidak diterima dan melaporkan kejadian ke ESIC."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Windows K2, Proyek Rahasia Microsoft untuk Lawan Apple",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8469868/windows-k2-proyek-rahasia-microsoft-untuk-lawan-apple",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T07:05:31+00:00",
+          "summary": "Microsoft berfokus pada peningkatan performa dan keandalan Windows 11 melalui proyek rahasia 'Windows K2' pada 2026, sebagai respons atas keluhan pengguna terkait pembaruan bermasalah dan fitur AI yang agresif. Proyek ini bertujuan merebut kembali pasar dari pesaing seperti macOS dan Linux dengan mengutamakan kualitas pembaruan serta memperhatikan masukan pengguna.",
+          "key_points": [
+            "Microsoft menghentikan rencana awal untuk mengubah Windows menjadi agentic OS dan lebih fokus pada stabilitas serta kepuasan pengguna.",
+            "Langkah nyata diambil, seperti mengembalikan kebebasan penggunaan taskbar dan fitur Xbox Mode, serta memperketat standar kualitas pembaruan.",
+            "Perusahaan merevitalisasi interaksi dengan komunitas Windows Insiders dan developer untuk meningkatkan kualitas sistem operasi."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Kebiasaan Sepele Ini Bikin Kabel Charger Cepat Rusak, Ini Cara Rawatnya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8469851/kebiasaan-sepele-ini-bikin-kabel-charger-cepat-rusak-ini-cara-rawatnya",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T06:00:18+00:00",
+          "summary": "Artikel ini menjelaskan bahwa kebiasaan pengguna seperti menggulung kabel charger terlalu ketat tidak menjadi penyebab utama kerusakan, tetapi kerusakan lebih sering terjadi di bagian persendian konektor akibat tekukan berulang. Untuk memperpanjang umur kabel, disarankan menghindari membeli kabel murahan dan memperlakukan bagian ujung konektor dengan hati-hati.",
+          "key_points": [
+            "Menggulung kabel charger terlalu ketat tidak berpengaruh signifikan terhadap kerusakan, menurut penelitian Michael Pecht.",
+            "Kerusakan kabel charger umumnya terjadi di bagian persendian (ujung konektor) akibat tekukan berulang.",
+            "Pengguna disarankan memilih kabel berkualitas tinggi dan menghindari kebiasaan buruk seperti memaksa melipat bagian ujung kabel."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Apple shares rise on strong quarterly sales in run-up to CEO change",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/apple-shares-rise-strong-quarterly-sales-in-run-up-ceo-change-6094376",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T10:16:28+00:00",
+          "summary": "Saham Apple naik 3% di pasar pra-awal setelah perusahaan melaporkan pertumbuhan pendapatan kuartalan terkuat dalam empat tahun, didorong oleh permintaan kuat untuk iPhone 17 Pro dan MacBook Neo, meski terganjal kenaikan biaya memori dan keterbatasan pasokan chip canggih dari TSMC.",
+          "key_points": [
+            "Apple mencatat pertumbuhan pendapatan kuartalan terbaik dalam empat tahun, melebihi estimasi Wall Street, meski menghadapi tekanan biaya memori yang meningkat.",
+            "Keterbatasan pasokan chip canggih dari TSMC menghambat kemampuan Apple memenuhi permintaan tinggi, sementara ancaman kenaikan harga produk Pro dan ProMax pada peluncuran musim gugur.",
+            "Transisi kepemimpinan ke CEO baru John Ternus pada September diiringi prediksi pertumbuhan pendapatan 14-17%, sementara Apple berusaha mengejar ketertinggalan dari rival seperti Microsoft dan Alphabet dalam AI."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Momen Prabowo Tanya Para Buruh di May Day: MBG Bermanfaat atau Tidak?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470134/momen-prabowo-tanya-para-buruh-di-may-day-mbg-bermanfaat-atau-tidak",
+          "category": "Politik",
+          "published_at": "2026-05-01T07:30:29+00:00",
+          "summary": "Presiden Prabowo Subianto menanyakan langsung kebermanfaatan program Makan Bergizi Gratis (MBG) kepada buruh saat peringatan Hari Buruh Internasional. Ia menegaskan komitmen pemerintah dalam memberikan perlindungan sosial dan menjelaskan dampak ekonomi serta kesehatan dari program tersebut.",
+          "key_points": [
+            "Prabowo menanyakan langsung tanggapan buruh tentang program MBG di acara May Day.",
+            "Pemerintah mengalokasikan Rp 500 triliun untuk perlindungan sosial bagi masyarakat berpenghasilan rendah.",
+            "Program MBG dijelaskan memiliki dampak ekonomi melalui perputaran bahan pangan dan peningkatan kesejahteraan."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Kisah Pria 'Hidup Kembali' setelah Jantungnya Berhenti Berdetak 40 Jam",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470186/kisah-pria-hidup-kembali-setelah-jantungnya-berhenti-berdetak-40-jam",
+          "category": "Kesehatan",
+          "published_at": "2026-05-01T08:01:01+00:00",
+          "summary": "Seorang pria di China berhasil 'hidup kembali' setelah jantungnya berhenti berdetak selama 40 jam berkat penggunaan teknologi ECMO. Dokter Lu Xiao menyebut kasus ini sebagai keajaiban medis hasil kerja tim dan teknologi. Pasien pulih hampir sepenuhnya tanpa efek samping serius.",
+          "key_points": [
+            "Jantung pasien berhenti berdetak selama 40 jam sebelum berhasil dihidupkan kembali.",
+            "Teknologi ECMO digunakan untuk mempertahankan fungsi tubuh selama proses pemulihan.",
+            "Kasus ini dianggap keajaiban medis berkat kombinasi teknologi dan kerja keras tim medis."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 465
+    },
+    "timestamp": "2026-05-01T10:42:27.984992+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T11:30:40.666570+00:00",
+    "headline": "Ancaman AI menggantikan pekerja AS memicu konflik baru di sektor tenaga kerja.",
+    "top_stories": [
+      {
+        "id": 4,
+        "title": "Perang Baru Buruh di Era AI",
+        "synthesis": [
+          "May Day merayakan hak pekerja AS 1886, kini ancaman AI menggantikan pekerja.",
+          "Amazon rencana gantikan jutaan pekerja dengan robot, ancam tenaga kerja.",
+          "AI menggantikan pekerja menyebabkan disrupsi sistemik di pasar tenaga kerja."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik dari AI menggantikan pekerja mengancam struktur ekonomi dan kebijakan tenaga kerja.",
+        "articles": [
+          {
+            "title": "May Day in the age of AI: The new war on workers",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
+            "category": "Ekonomi",
+            "published_at": "2026-05-01T09:54:12+00:00",
+            "summary": "Artikel ini membahas perayaan May Day yang merayakan hak pekerja, namun di AS sering diabaikan. Sejarah May Day berasal dari perjuangan pekerja AS pada 1886, sementara saat ini ancaman baru datang dari AI yang menggantikan pekerja. Contoh dijelaskan melalui rencana Amazon untuk menggantikan jutaan pekerja dengan robot.",
+            "key_points": [
+              "May Day berasal dari peristiwa pemogokan pekerja AS pada 1886 yang direspon dengan represi polisi.",
+              "AI dianggap ancaman baru bagi pekerja, terlihat dari rencana Amazon menggantikan 500.000 pekerja dengan robot.",
+              "AS menjadi pusat pengembangan AI yang berpotensi menggantikan pekerja manusia dengan mesin."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "title": "Sidang Musk Lawan OpenAI",
+        "synthesis": [
+          "Musk akui xAI gunakan model OpenAI via distilasi.",
+          "OpenAI dan pesaing klaim distilasi melanggar ketentuan layanan.",
+          "Praktik distilasi jadi sengketa hukum antar perusahaan AI."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Sengketa hukum potensi mengubah standar industri AI dan regulasi.",
+        "articles": [
+          {
+            "title": "Pengakuan Mengejutkan Elon Musk di Sidang Lawan OpenAI",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8470311/pengakuan-mengejutkan-elon-musk-di-sidang-lawan-openai",
+            "category": "Hukum",
+            "published_at": "2026-05-01T10:14:19+00:00",
+            "summary": "Elon Musk mengakui dalam persidangan bahwa startup xAI-nya menggunakan model OpenAI untuk meningkatkan model AI sendiri melalui teknik distilasi. Musk menyebut praktik ini sebagai standar industri, meski OpenAI dan perusahaan AI lainnya mencoba mencegah distilasi ilegal dari pesaing. Distilasi melibatkan pelatihan model AI kecil dengan model besar, yang bisa melanggar ketentuan layanan tertentu.",
+            "key_points": [
+              "Musk mengakui xAI menggunakan model OpenAI untuk distilasi melalui kesaksian di pengadilan.",
+              "Distilasi adalah praktik umum di industri AI, tetapi bisa melanggar ketentuan layanan jika dilakukan tanpa izin.",
+              "OpenAI dan perusahaan AI lainnya berupaya mencegah distilasi ilegal dari perusahaan seperti DeepSeek."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "title": "MU Incar Bek Micky van de Ven",
+        "synthesis": [
+          "MU menargetkan Micky van de Ven untuk memperkuat lini pertahanan.",
+          "Cedera dan usia pemain MU jadi alasan utama rekrutan.",
+          "Risiko degradasi Tottenham mungkin memengaruhi keputusan transfer."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran kekuatan tim dan stabilitas liga Premier League terancam.",
+        "articles": [
+          {
+            "title": "MU Bakal Pepet Micky van de Ven!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470299/mu-bakal-pepet-micky-van-de-ven",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T10:00:10+00:00",
+            "summary": "Manchester United dikabarkan tertarik merekrut bek Tottenham Hotspur, Micky van de Ven, untuk memperkuat lini pertahanan mengingat situasi cedera dan usia pemain di skuad saat ini. Tottenham yang berisiko degradasi menjadi faktor yang mungkin memengaruhi keputusan transfer.",
+            "key_points": [
+              "Manchester United membidik Micky van de Ven sebagai tambahan bek tengah menggantikan kelemahan lini pertahanan saat ini.",
+              "Van de Ven memiliki kontrak hingga 2029, tetapi Tottenham yang berada di ambang degradasi bisa melepasnya dengan harga tinggi.",
+              "Van de Ven juga diminati klub elite lain seperti Liverpool dan Real Madrid, memperketat persaingan untuk mendapatkannya."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "title": "Keamanan Konsumsi Kepala Lele",
+        "synthesis": [
+          "Persepsi lele kotor menyebabkan kepala sering dibuang meski aman konsumsi.",
+          "Pola konsumsi ini mengurangi nilai gizi dan efisiensi pangan.",
+          "Pakar diperlukan untuk klarifikasi keamanan konsumsi bagian kepala lele."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mengubah praktik konsumsi dan pengolahan ikan berdampak pada efisiensi pangan.",
+        "articles": [
+          {
+            "title": "Infografis: Kepala Lele Sering Dipotong-Dibuang, Amankah Dikonsumsi?",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/infografis/d-8469623/infografis-kepala-lele-sering-dipotong-dibuang-amankah-dikonsumsi",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T06:59:38+00:00",
+            "summary": "Artikel ini membahas persepsi lele sebagai ikan kotor yang hidup di lingkungan berlumpur, sehingga kepala lele sering dipotong dan dibuang. Meski bagian kepala lele bersinggungan langsung dengan lingkungan luar, artikel ini menanyakan keamanan konsumsinya dengan merujuk pada pendapat pakar.",
+            "key_points": [
+              "Lele dianggap 'ikan kotor' karena habitatnya yang berlumpur, menyebabkan sebagian orang tidak menyukai konsumsinya.",
+              "Kepala lele sering dipotong dan dibuang karena berpotensi terpapar lingkungan luar.",
+              "Artikel mempertanyakan keamanan konsumsi kepala lele dengan merujuk pada pandangan pakar."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "title": "Review Monitor LG UltraGear OLED 240Hz",
+        "synthesis": [
+          "Monitor OLED 240Hz 27 inci dengan resolusi 1440p",
+          "Desain ergonomis dan bezel tipis untuk fleksibilitas penggunaan",
+          "Konektivitas HDMI 2.1, DisplayPort 1.4, dan USB hub"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Produk teknologi konsumen dengan peningkatan spesifikasi rutin.",
+        "articles": [
+          {
+            "title": "Review LG UltraGear 27GX704A-B: Monitor OLED 240Hz Murah, Visual Nendang!",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/review-produk/d-8470314/review-lg-ultragear-27gx704a-b-monitor-oled-240hz-murah-visual-nendang",
+            "category": "Teknologi",
+            "published_at": "2026-05-01T11:15:24+00:00",
+            "summary": "LG UltraGear 27GX704A-B adalah monitor OLED 27 inci dengan resolusi 1440p dan refresh rate 240Hz yang menawarkan kualitas gambar premium serta fleksibilitas ergonomis. Monitor ini memiliki desain minimalis dengan bezel tipis dan aksen hexagonal lighting, serta stand yang dapat disesuaikan untuk berbagai posisi penggunaan. Konektivitasnya meliputi port HDMI 2.1, DisplayPort 1.4, dan USB hub.",
+            "key_points": [
+              "Penggunaan coating glossy yang berbeda dari pendekatan matte sebelumnya, memberikan dampak signifikan pada tampilan visual.",
+              "Desain ergonomis dengan stand fleksibel yang mendukung penyesuaian tinggi, kemiringan, rotasi, dan mode portrait.",
+              "Konektivitas lengkap termasuk dua HDMI 2.1, DisplayPort 1.4, dan port USB yang mendukung kebutuhan gaming dan produktivitas."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "AI dan Regulasi Teknologi Memicu Perubahan Struktural di Pasar Tenaga Kerja",
+        "analysis": "Sidang hukum Elon Musk terhadap OpenAI (teknologi) mempercepat regulasi distilasi model AI, yang berdampak pada percepatan pengembangan teknologi otomatisasi. Hal ini secara langsung memperkuat ancaman AI terhadap pekerjaan manusia (Perang Baru Buruh di Era AI), karena perusahaan-perusahaan akan lebih agresif mengadopsi AI untuk menggantikan tenaga kerja. Di sisi lain, regulasi yang ketat dari sidang Musk juga bisa memperlambat inovasi AI, menciptakan keseimbangan antara kebutuhan industri dan perlindungan hak pekerja. Kaitan ini menunjukkan bagaimana isu hukum-teknologi (Sidang Musk) menjadi katalis pergeseran struktural di sektor ekonomi dan sosial."
+      },
+      {
+        "title": "Inovasi Teknologi Konsumen Mendorong Ketergantungan pada Ekosistem AI",
+        "analysis": "Peluncuran monitor LG UltraGear OLED 240Hz (teknologi) mencerminkan permintaan pasar akan perangkat kelas atas untuk pengembangan AI. Monitor ini akan digunakan oleh perusahaan teknologi (termasuk OpenAI dan xAI) untuk meningkatkan efisiensi pelatihan model AI. Dengan meningkatnya kualitas perangkat keras, pengembangan AI menjadi lebih cepat dan efektif, yang secara tidak langsung mempercepat ancaman terhadap pekerja manusia (Perang Baru Buruh). Ini menunjukkan bagaimana inovasi produk konsumen (teknologi) menjadi fondasi ekosistem AI yang berdampak pada dinamika tenaga kerja global."
+      }
+    ],
+    "other_news": {
+      "Lingkungan": [
+        {
+          "title": "Underwater robot tracks sperm whale conversations in real time",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/underwater-robot-tracks-sperm-whale-conversations-in-real-time-6094351",
+          "category": "Lingkungan",
+          "published_at": "2026-05-01T10:07:12+00:00",
+          "summary": "Ilmuwan menggunakan robot bawah air bernama 'glider' untuk melacak komunikasi lumba-lumba sperma secara real-time dengan mendeteksi klik suara mereka. Robot ini dilengkapi hidrofon dan sistem navigasi otomatis yang mengarahkan pergerakannya berdasarkan sumber suara.",
+          "key_points": [
+            "Robot glider menggunakan empat hidrofon dan fitur 'backseat driver' untuk mendeteksi dan mengikuti lumba-lumba sperma berdasarkan klik suara mereka.",
+            "Lumba-lumba sperma menghasilkan pola klik bernama 'codas' yang diduga berperan dalam komunikasi, tetapi pengamatan terus-menerus sulit karena mereka menyelam hingga kedalaman 1,6 km selama 50 menit per jam.",
+            "Glider bergerak dengan mengubah bobotnya secara perlahan, mirip burung albatros yang tenang dan efisien dalam menjelajah laut."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-01T04:11:53+00:00",
+          "summary": "Aung San Suu Kyi, mantan pemimpin Myanmar, telah dipindahkan ke rumah tahanan oleh militer setelah sebelumnya ditahan di penjara militer sejak kudeta 2021. Keluarganya menyatakan skeptisisme terhadap pengumuman tersebut dan belum menerima bukti konkret tentang kondisi atau lokasinya. Tim hukumnya juga mengaku belum menerima pemberitahuan langsung terkait perpindahannya.",
+          "key_points": [
+            "Aung San Suu Kyi dipindahkan ke rumah tahanan setelah sebelumnya ditahan di penjara militer sejak kudeta 2021.",
+            "Putra Aung San Suu Kyi, Kim Aris, meragukan pengumuman tersebut dan belum memiliki bukti bahwa ibunya masih hidup atau telah dipindahkan.",
+            "Tim hukum dan keluarga Aung San Suu Kyi tidak memiliki kontak langsung dengannya selama lebih dari dua hingga tiga tahun."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Kisah Pria 'Hidup Kembali' setelah Jantungnya Berhenti Berdetak 40 Jam",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470186/kisah-pria-hidup-kembali-setelah-jantungnya-berhenti-berdetak-40-jam",
+          "category": "Kesehatan",
+          "published_at": "2026-05-01T08:01:01+00:00",
+          "summary": "Seorang pria di China selamat setelah jantungnya berhenti berdetak selama 40 jam berkat penggunaan teknologi ECMO yang mempertahankan fungsi tubuhnya. Dokter mengatakan keberhasilan ini merupakan kombinasi dari perkembangan medis, kerja tim, dan keberuntungan.",
+          "key_points": [
+            "Jantung pria berusia 40 tahun berhenti berdetak selama 40 jam, tetapi ia bertahan hidup berkat alat ECMO.",
+            "ECMO digunakan untuk menggantikan fungsi jantung dan paru-paru dengan mengalirkan darah keluar tubuh, menambahkan oksigen, lalu mengembalikannya.",
+            "Dokter menekankan keberhasilan ini disebabkan oleh teknologi medis, kerja keras tim medis, dan faktor keberuntungan."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Ikan Sapu-Sapu Dijadikan Siomai, Bahayakah Jika Dikonsumsi?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8469610/ikan-sapu-sapu-dijadikan-siomai-bahayakah-jika-dikonsumsi",
+          "category": "Kesehatan",
+          "published_at": "2026-05-01T05:08:04+00:00",
+          "summary": "Ikan sapu-sapu yang ditangkap di bantaran Kali Ciliwung, Jakarta, menuai perdebatan lantaran habitatnya yang tercemar limbah dan sampah. Penelitian menunjukkan ikan ini mengandung bakteri E. coli hingga 100 kali batas standar serta logam berat seperti arsenik dan merkuri, yang berisiko menyebabkan gangguan kesehatan jika dikonsumsi.",
+          "key_points": [
+            "Ikan sapu-sapu hidup di dasar perairan yang rentan terkontaminasi lumpur, sampah, dan limbah.",
+            "Uji laboratorium menemukan kandungan E. coli pada ikan sapu-sapu jauh melebihi batas standar nasional.",
+            "Studi menunjukkan daging ikan sapu-sapu dari Sungai Ciliwung mengandung logam berat berbahaya seperti arsenik dan merkuri."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Kepala Wasit Serie A Buka Suara soal Tuduhan Kecurangan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-italia/d-8470301/kepala-wasit-serie-a-buka-suara-soal-tuduhan-kecurangan",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T10:20:10+00:00",
+          "summary": "Kepala wasit Serie A Gianluca Rocchi membantah tuduhan campur tangan dalam keputusan VAR dan pemilihan wasit, meski sedang diinvestigasi terkait insiden musim 2024/2025. Inter Milan dituding bersekongkol dengannya untuk mengubah wasit saat melawan Bologna. Rocchi menegaskan keterbukaan kerja timnya dan menolak hadir di penyelidikan karena tuduhan dianggap samar.",
+          "key_points": [
+            "Rocchi dituduh mempengaruhi keputusan VAR dan mengubah wasit, termasuk dalam laga Inter Milan vs Bologna April 2025.",
+            "Inter Milan disebut-sebut terlibat dalam dugaan kolusi dengan Rocchi untuk keuntungan klub.",
+            "Rocchi menolak hadir di penyelidikan karena menganggap tuduhan tidak jelas, sambil membantah semua klaim di media."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Violence in Australian town after arrest of man over girl's murder",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-05-01T04:08:19+00:00",
+          "summary": "Keributan terjadi di luar rumah sakit Alice Springs, Australia, setelah seorang pria yang diduga membunuh seorang anak perempuan berusia lima tahun ditangkap. Kerumunan menyerang polisi dengan lemparan benda, sementara polisi menggunakan gas air mata. Komunitas setempat menuntut penerapan 'payback' tradisional, tetapi tokoh lokal menegaskan bahwa sistem hukum barat akan menangani kasus tersebut.",
+          "key_points": [
+            "Jefferson Lewis ditangkap atas dugaan pembunuhan seorang anak perempuan bernama Kumanjayi Little Baby, yang ditemukan tewas pada Kamis.",
+            "Kerumunan warga menyerang polisi dengan lemparan benda dan menuntut penerapan 'payback' tradisional, sementara polisi menggunakan gas air mata dan kendaraan mereka rusak.",
+            "Michael Liddle, tokoh lokal Alyawarre, menegaskan bahwa 'payback' tradisional tidak bertujuan balas dendam dan sistem hukum barat akan menangani kasus Lewis."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Rasio Utang Sudah Tembus 100% dari PDB, AS Terancam Bangkrut?",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260501165208-4-731583/rasio-utang-sudah-tembus-100-dari-pdb-as-terancam-bangkrut",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T11:20:08+00:00",
+          "summary": "Jakarta, CNBC Indonesia - Utang nasional Amerika Serikat kini telah melampaui 100% terhadap produk domestik bruto (PDB), menembus ambang batas yang sebelumnya dianggap sulit terjadi. Kondisi ini menempatkan rasio utang terhadap PDB di jalur untuk melampaui rekor yang tercatat setelah Perang Dunia II.",
+          "key_points": [
+            "Jakarta, CNBC Indonesia - Utang nasional Amerika Serikat kini telah melampaui 100% terhada",
+            "Kondisi ini menempatkan rasio utang terhadap PDB di jalur untuk melampaui rekor yang terca",
+            "Berdasarkan data per 31 Maret, utang publik AS mencapai US$31,265 triliun, sementara PDB s"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T08:41:52+00:00",
+          "summary": "Perang di Iran mengganggu pasokan pupuk dan bahan utamanya, berpotensi mengurangi produksi pangan hingga 10 miliar porsi per minggu secara global, dengan dampak terbesar pada negara-negara miskin. CEO Yara, Svein Tore Holsether, memperingatkan risiko perang harga pangan dan kenaikan biaya produksi yang akan terasa di Eropa dalam beberapa bulan ke depan.",
+          "key_points": [
+            "Kekurangan pupuk nitrogen akibat konflik di Selat Hormuz mengancam produksi pangan global hingga 10 miliar porsi per minggu.",
+            "Negara-negara miskin di Asia, Afrika, dan Amerika Latin akan paling terkena dampak penurunan hasil panen akibat kurangnya pupuk.",
+            "Kenaikan biaya produksi pangan di Eropa diprediksi mulai terlihat dalam tagihan belanja mingguan warga dalam beberapa bulan mendatang."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Anne Hathaway Blak-Blakan soal Cinta Arsenal",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/gila-bola/d-8470329/anne-hathaway-blak-blakan-soal-cinta-arsenal",
+          "category": "Hiburan",
+          "published_at": "2026-05-01T11:00:10+00:00",
+          "summary": "Anne Hathaway mengakui kecintaannya pada Arsenal sejak masa kejayaan 'The Invincibles' di bawah Arsene Wenger, yang memengaruhi keluarganya untuk menjadi penggemar klub tersebut. Ia juga menyambut baik peningkatan performa Arsenal di bawah Mikel Arteta, yang kini berada di puncak klasemen Premier League. Seorang pemain Arsenal, Leandro Trossard, menghubungi Anne setelah melihat video selebrasi golnya.",
+          "key_points": [
+            "Anne Hathaway menjadi penggemar Arsenal karena pengaruh ayahnya yang terinspirasi oleh era 'The Invincibles' di bawah Arsene Wenger.",
+            "Arsenal saat ini berada di puncak klasemen Premier League musim 2023/2024 di bawah kepelatihan Mikel Arteta.",
+            "Leandro Trossard mengirim pesan ke Anne Hathaway setelah melihat video selebrasi golnya di media sosial."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/1/falklands-claim-can-argentinas-milei-use-trump-ties-to-challenge-the-uk?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T10:35:20+00:00",
+          "summary": "Presiden Argentina Javier Milei memperkuat retorika klaim terhadap Falkland Islands (Las Malvinas) di tengah hubungan dekatnya dengan Presiden AS Donald Trump, yang berselisih dengan Inggris. Pentagon dikabarkan mempertimbangkan ulang netralitas AS terhadap sengketa tersebut, sementara Inggris dan Argentina memiliki klaim sejarah berbeda atas pulau tersebut.",
+          "key_points": [
+            "Milei memperkuat klaim Argentina atas Falkland Islands sambil mempertahankan hubungan dekat dengan Trump.",
+            "Pentagon mungkin merevisi netralitas AS terhadap sengketa Falkland akibat ketegangan antara AS dan Inggris.",
+            "Klaim Inggris didasarkan pada keberadaan jangka panjang dan preferensi penduduk, sementara Argentina mengklaim hak turunan dari Spanyol."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 554
+    },
+    "timestamp": "2026-05-01T11:30:40.666570+00:00"
   }
 ]

@@ -1,16 +1,16 @@
 from __future__ import annotations
 
 import json
+import re
 import time
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from typing import Sequence
 
-import google.generativeai as genai
-
+from groq import Groq
+from backend.utils.llm_utils import extract_json
 from backend.agents.models import FilteredArticle, RawHeadline
 from backend.config.monitor import SystemMonitor
-from google.api_core.exceptions import ResourceExhausted
 
 
 SUMMARIZE_AND_EXTRACT_PROMPT = """
@@ -51,7 +51,7 @@ Contoh Output yang SALAH: **Global Headline:** "Ketegangan geopolitik di Selat H
 Data:
 {digest_context}
 
-Global Headline:
+Global Headline (Gunakan Bahasa Indonesia):
 """.strip()
 
 BATCH_NAMING_PROMPT = """
@@ -61,6 +61,7 @@ INSTRUKSI KHUSUS:
 1. Judul harus spesifik, deskriptif, dan merujuk pada subjek nyata/peristiwa (Bukan abstrak).
 2. HINDARI kata-kata klise/abstrak: "Dinamika Global", "Jendela Waktu", "Langkah Strategis", "Tantangan Baru".
 3. CONTOH BAGUS: "Krisis Logistik Selat Hormuz", "Akuisisi Startup AI X", "Lonjakan Harga Minyak Dunia".
+4. WAJIB menggunakan Bahasa Indonesia yang formal.
 
 Daftar Klaster:
 {clusters_data}
@@ -80,6 +81,7 @@ INSTRUKSI KETAT:
 1. Singkat & Padat: Max 15-20 kata per poin.
 2. Fokus Dampak: Langsung ke info penting, jangan gunakan kalimat pembuka yang basa-basi.
 3. ANTI-HALUSINASI: Jangan tambahkan angka atau proyeksi yang tidak ada di sumber berita.
+4. Gunakan Bahasa Indonesia yang ringkas dan profesional.
 
 Kembalikan respon JSON:
 {{
@@ -119,6 +121,7 @@ Format JSON valid:
 }}
 
 Pastikan analisis Anda tajam, tidak generik, dan menunjukkan pemahaman mendalam tentang hubungan sebab-akibat antar sektor.
+Seluruh respon HARUS dalam Bahasa Indonesia.
 """.strip()
 
 
@@ -147,10 +150,9 @@ class NewsSummarizerAgent:
         model: str,
         max_content_chars: int = 2000,
     ) -> None:
-        self.model_name = self._canonical_model_name(model)
+        self.model_name = model.strip()
         self.max_content_chars = max_content_chars
-        genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(model_name=self.model_name)
+        self.client = Groq(api_key=api_key)
 
     def generate_daily_headline(
         self, 
@@ -192,35 +194,32 @@ class NewsSummarizerAgent:
         
         for attempt in range(2):
             try:
-                response = self.model.generate_content(prompt)
-                SystemMonitor.increment_gemini_usage()
+                response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.7,
+                )
+                SystemMonitor.increment_llm_usage()
                 
-                # Cek jika ada respon yang terblokir safety filter
-                if not response.candidates or response.candidates[0].finish_reason == 3: # 3 = SAFETY
-                    print(f"  [!] Headline terblokir safety filter (percobaan {attempt+1})")
-                    continue
-                
-                headline = (response.text or "").strip()
+                headline = (response.choices[0].message.content or "").strip()
                 if headline:
+                    # Clean potential markdown/thinking blocks
+                    if "<think>" in headline:
+                        headline = re.sub(r'<think>.*?</think>', '', headline, flags=re.DOTALL).strip()
+                    
                     # Bersihkan label umum dan markdown jika AI tetap mengembalikannya
                     clean_headline = headline.replace("**Global Headline:**", "").replace("Global Headline:", "")
                     clean_headline = clean_headline.replace("**Headline:**", "").replace("Headline:", "")
                     clean_headline = clean_headline.replace("**", "").replace("*", "") # Hapus bolding
                     clean_headline = clean_headline.strip('"').strip("'").strip()
                     return " ".join(clean_headline.split())
-            except ResourceExhausted as e:
-                error_msg = str(e)
-                # Tampilkan pesan asli dari Google untuk diagnosa Ghost Limit
-                print(f"  [!] ResourceExhausted (Percobaan {attempt+1}): {error_msg}")
-                
-                # Deteksi otomatis limit harian
-                if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
-                    SystemMonitor.update_usage(500)
-                    print("  [AUTO-SYNC] Sinkronisasi kuota harian (500/500) berdasarkan respon Google.")
-                
-                if attempt == 0:
-                    print("  [>] Mencoba lagi dalam 15 detik...")
-                    time.sleep(15.0)
+            except Exception as e:
+                print(f"  [!] Kesalahan pembuatan headline (percobaan {attempt+1}): {e}")
+                if "rate_limit_exceeded" in str(e).lower():
+                    print("  [>] Rate limit tercapai. Menunggu 25 detik...")
+                    time.sleep(25.0)
+                elif attempt == 0:
+                    time.sleep(10.0)
             except Exception as e:
                 print(f"  [!] Kesalahan pembuatan headline (percobaan {attempt+1}): {e}")
                 if attempt == 0:
@@ -276,7 +275,8 @@ class NewsSummarizerAgent:
                 insights[article.url] = rep_insight
             
             # Small delay
-            time.sleep(1.5)
+            # Jeda antar klaster untuk menjaga TPM/RPM
+            time.sleep(3.5)
             
         return insights
 
@@ -300,14 +300,16 @@ class NewsSummarizerAgent:
         prompt = BATCH_NAMING_PROMPT.format(clusters_data="\n".join(clusters_info))
         
         try:
-            response = self.model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
+            response = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
             
-            raw_text = (response.text or "").strip()
-            if "```json" in raw_text:
-                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
-            
-            results = json.loads(raw_text)
+            raw_text = response.choices[0].message.content
+            results = extract_json(raw_text)
             names = ["" for _ in range(len(potential_trending))]
             for res in results:
                 idx = res.get("id")
@@ -354,17 +356,16 @@ class NewsSummarizerAgent:
 
         prompt = STORY_SYNTHESIS_PROMPT.format(summaries="\n".join(context))
         try:
-            response = self.model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
+            response = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
             
-            raw_text = response.text or ""
-            # Bersihkan markdown jika ada
-            if "```json" in raw_text:
-                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
-            elif "```" in raw_text:
-                raw_text = raw_text.split("```")[1].split("```")[0].strip()
-            
-            data = json.loads(raw_text)
+            raw_text = response.choices[0].message.content
+            data = extract_json(raw_text)
             
             # Validasi struktur
             synthesis = data.get("synthesis", [])[:3]
@@ -400,14 +401,16 @@ class NewsSummarizerAgent:
         
         prompt = CORRELATION_PROMPT.format(stories_summary="\n".join(summary_list))
         try:
-            response = self.model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
+            response = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
             
-            raw_text = response.text or ""
-            if "```json" in raw_text:
-                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
-            
-            data = json.loads(raw_text)
+            raw_text = response.choices[0].message.content
+            data = extract_json(raw_text)
             return data.get("correlations", [])[:2]
         except Exception as e:
             print(f"  [!] Gagal membuat korelasi strategis: {e}")
@@ -431,33 +434,30 @@ class NewsSummarizerAgent:
         )
 
         try:
-            response = self.model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
-            text = (response.text or "").strip()
+            response = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.3,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
+            text = response.choices[0].message.content
             summary, key_points = self._parse_summary_json(text)
             if summary and len(key_points) == 3:
                 return summary, key_points
-        except ResourceExhausted as e:
-            error_msg = str(e)
-            print(f"  [!] LIMIT GEMINI TERCAPAI: {error_msg}")
-            # Deteksi otomatis jika limit harian (RPD) tercapai dari pesan Google
-            if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
-                SystemMonitor.update_usage(500)
-                print("  [AUTO-SYNC] Mendeteksi batas harian 500 telah tercapai.")
         except Exception as e:
             print(f"  [!] Gagal memproses artikel {article.title[:30]}: {e}")
+            if "rate_limit_exceeded" in str(e).lower():
+                print("  [>] Rate limit tercapai. Menunggu 20 detik...")
+                time.sleep(20)
+            else:
+                time.sleep(2) # Jeda kecil jika error biasa
 
         return self._fallback_summary(article.content)
 
     def _parse_summary_json(self, text: str) -> tuple[str, list[str]]:
-        cleaned = text.strip()
-        if cleaned.startswith("```"):
-            cleaned = cleaned.strip("`")
-            if cleaned.lower().startswith("json"):
-                cleaned = cleaned[4:].strip()
-
         try:
-            data = json.loads(cleaned)
+            data = extract_json(text)
         except Exception as e:
             print(f"  [!] Gagal parsing JSON Ringkasan: {e}")
             return "", []
@@ -504,10 +504,7 @@ class NewsSummarizerAgent:
 
     @staticmethod
     def _canonical_model_name(model_name: str) -> str:
-        cleaned = model_name.strip()
-        if cleaned.startswith("models/"):
-            return cleaned
-        return f"models/{cleaned}"
+        return model_name.strip()
 
     @staticmethod
     def _top_category(articles: Sequence[FilteredArticle]) -> str:

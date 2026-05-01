@@ -2,11 +2,10 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-import google.generativeai as genai
-
+import re
+from groq import Groq
 from backend.rag.retriever import NewsRetriever, SearchResult, build_context
 from backend.config.monitor import SystemMonitor
-from google.api_core.exceptions import ResourceExhausted
 
 
 QA_PROMPT = """
@@ -37,15 +36,13 @@ class NewsQAChain:
         self,
         retriever: NewsRetriever,
         api_key: str,
-        model: str = "models/gemini-3.1-flash-lite-preview",
+        model: str = "qwen/qwen3-32b",
         default_top_k: int = 5,
     ) -> None:
         self.retriever = retriever
-        self.model_name = self._canonical_model_name(model)
+        self.model_name = model.strip()
         self.default_top_k = default_top_k
-
-        genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(model_name=self.model_name)
+        self.client = Groq(api_key=api_key)
 
     def answer(
         self,
@@ -75,19 +72,31 @@ class NewsQAChain:
         max_retries = 3
         for attempt in range(max_retries):
             try:
-                response = self.model.generate_content(prompt)
-                SystemMonitor.increment_gemini_usage()
-                answer_text = (response.text or "").strip()
+                response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.3,
+                )
+                SystemMonitor.increment_llm_usage()
+                
+                raw_answer = (response.choices[0].message.content or "").strip()
+                # Clean potential thinking blocks
+                if "<think>" in raw_answer:
+                    raw_answer = re.sub(r'<think>.*?</think>', '', raw_answer, flags=re.DOTALL).strip()
+                
+                answer_text = raw_answer
                 break # Sukses, keluar dari loop
-            except ResourceExhausted:
-                answer_text = "Maaf, limit Gemini saat ini telah tercapai. Silakan coba lagi beberapa saat lagi atau besok."
-                break # Limit beneran habis, tidak perlu retry
             except Exception as e:
+                error_str = str(e).lower()
+                if "rate_limit_exceeded" in error_str:
+                    answer_text = "Maaf, limit API saat ini telah tercapai. Silakan coba lagi beberapa saat lagi."
+                    break
+                
                 if attempt < max_retries - 1:
-                    print(f"  [RETRY] Gemini error (Attempt {attempt+1}/{max_retries}): {e}. Menunggu 2 detik...")
+                    print(f"  [RETRY] Groq error (Attempt {attempt+1}/{max_retries}): {e}. Menunggu 2 detik...")
                     time.sleep(2)
                     continue
-                answer_text = "Maaf, server Gemini sedang sibuk (Error 503). Coba ulangi sebentar lagi."
+                answer_text = "Maaf, server AI sedang sibuk. Coba ulangi sebentar lagi."
 
         sources = self._unique_sources(results)
         if "http" not in answer_text and sources:
@@ -102,10 +111,7 @@ class NewsQAChain:
 
     @staticmethod
     def _canonical_model_name(model_name: str) -> str:
-        cleaned = model_name.strip()
-        if cleaned.startswith("models/"):
-            return cleaned
-        return f"models/{cleaned}"
+        return model_name.strip()
 
     @staticmethod
     def _unique_sources(results: list[SearchResult]) -> list[str]:

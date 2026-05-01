@@ -10,7 +10,7 @@ import time
 
 def worker(num_increments):
     for _ in range(num_increments):
-        SystemMonitor.increment_gemini_usage()
+        SystemMonitor.increment_llm_usage()
 
 def test_race_condition():
     print("[TEST] Memulai pengujian race condition (simultan)...")
@@ -31,7 +31,7 @@ def test_race_condition():
     
     end_time = time.time()
     final_stats = SystemMonitor.get_stats()
-    final_usage = final_stats.get("gemini_usage", 0)
+    final_usage = final_stats.get("llm_usage", 0)
     expected = num_threads * increments_per_thread
     
     print(f"[RESULT] Selesai dalam {end_time - start_time:.2f} detik.")

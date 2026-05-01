@@ -19,16 +19,16 @@ class Settings(BaseSettings):
         extra="ignore",
     )
 
-    gemini_api_key: str = Field(..., alias="GEMINI_API_KEY")
+    groq_api_key: str = Field(..., alias="GROQ_API_KEY")
     qdrant_url: str = Field(..., alias="QDRANT_URL")
     qdrant_api_key: str = Field(..., alias="QDRANT_API_KEY")
     qdrant_collection: str = Field(default="sekilas_ai", alias="QDRANT_COLLECTION")
 
     embedding_model: str = Field(default="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2", alias="EMBEDDING_MODEL")
     embedding_output_dim: int | None = Field(default=384, alias="EMBEDDING_OUTPUT_DIM")
-    classifier_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="CLASSIFIER_MODEL")
-    summarizer_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="SUMMARIZER_MODEL")
-    qa_model: str = Field(default="models/gemini-3.1-flash-lite-preview", alias="QA_MODEL")
+    classifier_model: str = Field(default="qwen/qwen3-32b", alias="CLASSIFIER_MODEL")
+    summarizer_model: str = Field(default="qwen/qwen3-32b", alias="SUMMARIZER_MODEL")
+    qa_model: str = Field(default="qwen/qwen3-32b", alias="QA_MODEL")
     qa_top_k: int = Field(default=5, alias="QA_TOP_K")
     max_per_source: int = Field(default=8, alias="MAX_PER_SOURCE")
     dedup_threshold: float = Field(default=0.92, alias="DEDUP_THRESHOLD")

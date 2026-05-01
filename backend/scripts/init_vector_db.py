@@ -9,7 +9,8 @@ def main() -> None:
         model_name=settings.embedding_model,
         output_dimensionality=settings.embedding_output_dim,
     )
-    vector_size = len(embedder.embed_query("dimension probe"))
+    dense_vec, _ = embedder.embed_query("dimension probe")
+    vector_size = len(dense_vec)
 
     store = QdrantVectorStore(
         url=settings.qdrant_url,
@@ -19,7 +20,7 @@ def main() -> None:
     store.ensure_collection(vector_size=vector_size)
     print(
         f"Collection '{settings.qdrant_collection}' siap. "
-        f"Model: {embedder.model}, dimensi: {vector_size}."
+        f"Model: {settings.embedding_model}, dimensi: {vector_size}."
     )
 
 

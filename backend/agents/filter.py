@@ -6,12 +6,11 @@ import time
 from dataclasses import dataclass
 from typing import Sequence
 
-import google.generativeai as genai
-
+from groq import Groq
+from backend.utils.llm_utils import extract_json
 from backend.agents.embedder import NewsEmbedder
 from backend.agents.models import FilteredArticle, RawArticle
 from backend.config.monitor import SystemMonitor
-from google.api_core.exceptions import ResourceExhausted
 
 
 CATEGORIES: tuple[str, ...] = (
@@ -62,10 +61,10 @@ class NewsFilterAgent:
         min_content_chars: int = 200,
     ) -> None:
         self.embedder = embedder
-        self.classifier_model = self._canonical_model_name(classifier_model)
+        self.classifier_model = classifier_model
         self.dedup_threshold = dedup_threshold
         self.min_content_chars = min_content_chars
-        genai.configure(api_key=api_key)
+        self.client = Groq(api_key=api_key)
 
     def run(self, articles: Sequence[RawArticle]) -> tuple[list[FilteredArticle], FilterStats]:
         quality_articles = [a for a in articles if len(a.content.strip()) >= self.min_content_chars]
@@ -130,7 +129,7 @@ class NewsFilterAgent:
 
     def _classify_batch(self, articles: Sequence[RawArticle]) -> dict[str, str]:
         """
-        Classifies a batch of articles in a single Gemini call.
+        Classifies a batch of articles in a single LLM call.
         Returns a mapping of URL -> Category.
         """
         news_list_str = []
@@ -140,18 +139,17 @@ class NewsFilterAgent:
         prompt = BATCH_CLASSIFY_PROMPT.format(news_list="\n".join(news_list_str))
         
         try:
-            model = genai.GenerativeModel(model_name=self.classifier_model)
-            response = model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
+            response = self.client.chat.completions.create(
+                model=self.classifier_model,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
             
-            raw_text = (response.text or "").strip()
-            # Clean JSON markers if present
-            if "```json" in raw_text:
-                raw_text = raw_text.split("```json")[1].split("```")[0].strip()
-            elif "```" in raw_text:
-                raw_text = raw_text.split("```")[1].split("```")[0].strip()
+            raw_text = response.choices[0].message.content
+            results = extract_json(raw_text)
             
-            results = json.loads(raw_text)
             url_to_res = {}
             for res in results:
                 idx = res.get("id")
@@ -230,26 +228,24 @@ class NewsFilterAgent:
         return unique, duplicate_discarded
 
     def _classify(self, title: str, content: str) -> str:
-        prompt = CLASSIFY_PROMPT.format(
-            title=title.strip(),
-            content_preview=content[:300].replace("\n", " ").strip(),
+        prompt = BATCH_CLASSIFY_PROMPT.format(
+            news_list=f"ID: 0 | Judul: {title.strip()} | Preview: {content[:150].replace('\n', ' ').strip()}"
         )
 
         try:
-            model = genai.GenerativeModel(model_name=self.classifier_model)
-            response = model.generate_content(prompt)
-            SystemMonitor.increment_gemini_usage()
-            text = (response.text or "").strip()
-            category = self._normalize_category(text)
-            if category:
-                return category
-        except ResourceExhausted as e:
-            error_msg = str(e)
-            print(f"  [!] LIMIT GEMINI TERCAPAI: {error_msg}")
-            # Deteksi otomatis jika limit harian (RPD) tercapai dari pesan Google
-            if "GenerateRequestsPerDayPerProjectPerModel-FreeTier" in error_msg:
-                SystemMonitor.update_usage(500)
-                print("  [AUTO-SYNC] Mendeteksi batas harian 500 telah tercapai.")
+            response = self.client.chat.completions.create(
+                model=self.classifier_model,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.1,
+                response_format={"type": "json_object"}
+            )
+            SystemMonitor.increment_llm_usage()
+            raw_text = response.choices[0].message.content
+            results = extract_json(raw_text)
+            if results and isinstance(results, list):
+                category = self._normalize_category(results[0].get("category", "Umum"))
+                if category:
+                    return category
         except Exception as e:
             print(f"  [!] Kesalahan Klasifikasi: {e}")
 
@@ -257,10 +253,7 @@ class NewsFilterAgent:
 
     @staticmethod
     def _canonical_model_name(model_name: str) -> str:
-        cleaned = model_name.strip()
-        if cleaned.startswith("models/"):
-            return cleaned
-        return f"models/{cleaned}"
+        return model_name.strip()
 
     @staticmethod
     def _dedup_text(article: RawArticle) -> str:

@@ -18,7 +18,8 @@ ArticleLike = RawArticle | FilteredArticle
 class QdrantVectorStore:
     def __init__(self, url: str, api_key: str, collection_name: str = "sekilas_ai") -> None:
         self.collection_name = collection_name
-        self.client = QdrantClient(url=url, api_key=api_key)
+        # Meningkatkan timeout untuk koneksi Qdrant Cloud yang lambat
+        self.client = QdrantClient(url=url, api_key=api_key, timeout=60)
 
     def delete_collection(self) -> None:
         if self.client.collection_exists(self.collection_name):
@@ -58,45 +59,52 @@ class QdrantVectorStore:
     def upsert_chunks(
         self,
         chunks: Sequence[dict], # List of dicts containing chunk data and embeddings
+        batch_size: int = 50,
     ) -> None:
         if not chunks:
             return
 
-        points: list[PointStruct] = []
-        for chunk in chunks:
-            # We create a unique ID for each chunk using URL + Chunk Index
-            chunk_id_str = f"{chunk['url']}#chunk_{chunk['chunk_index']}"
-            point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, chunk_id_str))
+        print(f"[PROCESS] Mengunggah {len(chunks)} chunk ke Qdrant dalam batch {batch_size}...")
+        
+        for i in range(0, len(chunks), batch_size):
+            batch = chunks[i : i + batch_size]
+            points: list[PointStruct] = []
             
-            vector_dict = {
-                "dense": list(chunk["dense_embedding"]),
-                "sparse": chunk["sparse_embedding"]
-            }
-            
-            points.append(
-                PointStruct(
-                    id=point_id,
-                    vector=vector_dict,
-                    payload={
-                        "url": chunk["url"],
-                        "title": chunk["title"],
-                        "source": chunk["source"],
-                        "category": chunk["category"],
-                        "published_at": chunk["published_at"],
-                        "published_at_ts": chunk["published_at_ts"],
-                        "text_chunk": chunk["text_chunk"],
-                        "chunk_index": chunk["chunk_index"],
-                        "summary": chunk.get("summary", ""),
-                        "key_points": chunk.get("key_points", []),
-                    },
+            for chunk in batch:
+                # We create a unique ID for each chunk using URL + Chunk Index
+                chunk_id_str = f"{chunk['url']}#chunk_{chunk['chunk_index']}"
+                point_id = str(uuid.uuid5(uuid.NAMESPACE_URL, chunk_id_str))
+                
+                vector_dict = {
+                    "dense": list(chunk["dense_embedding"]),
+                    "sparse": chunk["sparse_embedding"]
+                }
+                
+                points.append(
+                    PointStruct(
+                        id=point_id,
+                        vector=vector_dict,
+                        payload={
+                            "url": chunk["url"],
+                            "title": chunk["title"],
+                            "source": chunk["source"],
+                            "category": chunk["category"],
+                            "published_at": chunk["published_at"],
+                            "published_at_ts": chunk["published_at_ts"],
+                            "text_chunk": chunk["text_chunk"],
+                            "chunk_index": chunk["chunk_index"],
+                            "summary": chunk.get("summary", ""),
+                            "key_points": chunk.get("key_points", []),
+                        },
+                    )
                 )
-            )
 
-        self.client.upsert(
-            collection_name=self.collection_name,
-            points=points,
-            wait=True,
-        )
+            self.client.upsert(
+                collection_name=self.collection_name,
+                points=points,
+                wait=True,
+            )
+            print(f"  [OK] Berhasil mengunggah batch {i//batch_size + 1}")
 
     def cleanup_old_articles(self, days: int) -> int:
         """Menghapus artikel yang lebih tua dari jumlah hari tertentu."""

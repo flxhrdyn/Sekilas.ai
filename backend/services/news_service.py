@@ -98,7 +98,7 @@ class NewsService:
         retriever = NewsService.get_retriever()
         return NewsQAChain(
             retriever=retriever,
-            api_key=settings.gemini_api_key,
+            api_key=settings.groq_api_key,
             model=settings.qa_model,
             default_top_k=settings.qa_top_k,
         )

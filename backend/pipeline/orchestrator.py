@@ -154,7 +154,7 @@ def _build_graph(
         
         # Seleksi beragam dari klaster
         # SELEKSI KETAT: Hanya ambil 18 artikel terbaik (satu per klaster)
-        # Ini adalah bottleneck utama untuk menghemat API Gemini
+        # Ini adalah bottleneck utama untuk menghemat kuota API
         selected_headlines = cluster_agent.select_best_representatives(clusters, limit=18)
         
         return {
@@ -437,7 +437,7 @@ def run_pipeline() -> dict:
 
     filter_agent = NewsFilterAgent(
         embedder=embedder,
-        api_key=settings.gemini_api_key,
+        api_key=settings.groq_api_key,
         classifier_model=settings.classifier_model,
         dedup_threshold=settings.dedup_threshold,
         min_content_chars=settings.min_content_chars,
@@ -449,7 +449,7 @@ def run_pipeline() -> dict:
     )
 
     summarizer = NewsSummarizerAgent(
-        api_key=settings.gemini_api_key,
+        api_key=settings.groq_api_key,
         model=settings.summarizer_model,
         max_content_chars=settings.summary_max_content_chars,
     )
@@ -472,7 +472,7 @@ def run_pipeline() -> dict:
     # Muat stats untuk logging awal
     from backend.config.monitor import SystemMonitor
     stats = SystemMonitor.get_stats()
-    print(f"[INFO] Status Penggunaan Gemini Hari Ini: {stats.get('gemini_usage', 0)}/500")
+    print(f"[INFO] Status Penggunaan LLM (Groq) Hari Ini: {stats.get('llm_usage', 0)}")
     
     graph = _build_graph(
         scraper, embedder, filter_agent, cluster_agent, summarizer, store, notifier, max_scan=150
