@@ -39,6 +39,7 @@ class NewsRetriever:
         query: str,
         top_k: int = 5,
         category_filter: str | None = None,
+        reranker: Any | None = None,
     ) -> list[SearchResult]:
         dense_vec, sparse_vec = self.embedder.embed_query(query)
 
@@ -53,26 +54,29 @@ class NewsRetriever:
                 ]
             )
 
+        # Jika ada reranker, kita ambil lebih banyak kandidat (misal 15) untuk diurutkan ulang
+        fetch_limit = max(top_k, 15) if reranker else top_k
+
         # Hybrid Search using Prefetch and Reciprocal Rank Fusion (RRF)
         prefetch_dense = Prefetch(
             query=dense_vec,
             using="dense",
             filter=query_filter,
-            limit=top_k * 2, # Fetch more for fusion
+            limit=fetch_limit * 2,
         )
         
         prefetch_sparse = Prefetch(
             query=SparseVector(indices=sparse_vec["indices"], values=sparse_vec["values"]),
             using="sparse",
             filter=query_filter,
-            limit=top_k * 2,
+            limit=fetch_limit * 2,
         )
 
         response = self.client.query_points(
             collection_name=self.collection_name,
             prefetch=[prefetch_dense, prefetch_sparse],
             query=FusionQuery(fusion=Fusion.RRF),
-            limit=top_k,
+            limit=fetch_limit,
             with_payload=True,
         )
         
@@ -95,7 +99,20 @@ class NewsRetriever:
                 )
             )
 
-        return results
+        # Jalankan Reranking jika tersedia
+        if reranker and results:
+            results = reranker.rerank(query, results)
+        
+        # Deduplikasi berdasarkan URL agar satu berita tidak muncul berkali-kali
+        unique_results: list[SearchResult] = []
+        seen_urls = set()
+        
+        for res in results:
+            if res.url not in seen_urls:
+                unique_results.append(res)
+                seen_urls.add(res.url)
+        
+        return unique_results[:top_k]
 
 
 def build_context(results: list[SearchResult], max_chars: int = 8000) -> str:

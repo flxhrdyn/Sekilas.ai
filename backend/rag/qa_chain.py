@@ -38,11 +38,13 @@ class NewsQAChain:
         api_key: str,
         model: str = "qwen/qwen3-32b",
         default_top_k: int = 5,
+        reranker: Any | None = None,
     ) -> None:
         self.retriever = retriever
         self.model_name = model.strip()
         self.default_top_k = default_top_k
         self.client = Groq(api_key=api_key)
+        self.reranker = reranker
 
     def answer(
         self,
@@ -56,6 +58,7 @@ class NewsQAChain:
             query=question,
             top_k=limit,
             category_filter=category_filter,
+            reranker=self.reranker,
         )
 
         if not results:

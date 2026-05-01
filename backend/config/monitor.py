@@ -131,7 +131,7 @@ class SystemMonitor:
         stats["agents"] = [
             {"id": "planner", "name": "Strategic Planner (Llama 3.1 - 8B)", "status": "standby", "last_run": last_synthesis},
             {"id": "researcher", "name": "Deep Researcher (Llama 3.1 + Tavily)", "status": "standby", "last_run": last_synthesis},
-            {"id": "summarizer", "name": "Intelligence Summarizer (Qwen 2.5 - 32B)", "status": "standby", "last_run": last_synthesis},
+            {"id": "summarizer", "name": "Intelligence Summarizer (Qwen 3 - 32B)", "status": "standby", "last_run": last_synthesis},
         ]
 
         return stats

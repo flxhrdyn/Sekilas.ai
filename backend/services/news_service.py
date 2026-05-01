@@ -5,6 +5,7 @@ from backend.tools.embedder import NewsEmbedder, get_embedder
 from backend.config.settings import get_settings
 from backend.rag.qa_chain import NewsQAChain
 from backend.rag.retriever import NewsRetriever
+from backend.rag.reranker import NewsReranker
 
 
 class NewsService:
@@ -96,9 +97,19 @@ class NewsService:
     def get_qa_chain() -> NewsQAChain:
         settings = get_settings()
         retriever = NewsService.get_retriever()
+        reranker = NewsService.get_reranker()
         return NewsQAChain(
             retriever=retriever,
             api_key=settings.groq_api_key,
             model=settings.qa_model,
             default_top_k=settings.qa_top_k,
+            reranker=reranker,
+        )
+
+    @staticmethod
+    def get_reranker() -> NewsReranker:
+        settings = get_settings()
+        return NewsReranker(
+            api_key=settings.groq_api_key,
+            model="llama-3.1-8b-instant"
         )

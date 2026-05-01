@@ -7,8 +7,14 @@ router = APIRouter(prefix="/search", tags=["search"])
 @router.post("")
 def search_articles(req: SearchQuery):
     retriever = NewsService.get_retriever()
+    reranker = NewsService.get_reranker()
     try:
-        results = retriever.search(req.query, top_k=req.top_k, category_filter=req.category_filter)
+        results = retriever.search(
+            req.query, 
+            top_k=req.top_k, 
+            category_filter=req.category_filter,
+            reranker=reranker
+        )
         return {
              "results": [{
                  "url": r.url,
