@@ -60,12 +60,14 @@ The system is powered by a collaborative agentic workflow:
 ```mermaid
 graph TB
     subgraph UI_Layer [User Experience]
-        UI[React Dashboard] <--> API[FastAPI Gateway]
+        User((User)) <--> UI[React Dashboard]
+        UI <--> API[FastAPI Gateway]
     end
 
     subgraph Agent_Orchestration [Intelligence Orchestration]
         API <--> QA_Agent[Agentic-RAG Orchestrator]
         QA_Agent --> Rerank[Llama 8B Reranker]
+        Rerank --> QA_Agent
         
         Pipeline[Background Pipeline] --> Planner[Strategic Planner]
         Planner --> Research[Deep Researcher]
@@ -75,7 +77,7 @@ graph TB
     subgraph Knowledge_Memory [Knowledge & Memory]
         Summarize --> Embed[FastEmbed Engine]
         Embed --> QDR[(Qdrant Vector DB)]
-        QDR <--> QA_Agent
+        QA_Agent <-->|Hybrid Search| QDR
     end
 
     subgraph External_Integrations [External Integration]
@@ -83,26 +85,6 @@ graph TB
         Scraper[News Scraper] --> RSS[RSS Feeds]
         Scraper --> Pipeline
     end
-```
-
-### RAG Intelligence Flow (The Journey of a Query)
-
-```mermaid
-sequenceDiagram
-    participant U as User
-    participant A as FastAPI Gateway
-    participant Q as Qdrant (Hybrid Search)
-    participant R as Llama 8B Reranker
-    participant LLM as Qwen 2.5 32B (QA Agent)
-
-    U->>A: User Query ("Apa yang terjadi di Grobogan?")
-    A->>Q: Dense + Sparse Retrieval (Hybrid)
-    Q-->>A: Top 40 News Chunks (Unranked)
-    A->>R: Cross-Reference Reranking
-    R-->>A: Top 5 High-Precision Context
-    A->>LLM: Synthesis with Context & Temporal Grounding
-    LLM-->>A: Grounded Intelligence Answer
-    A->>U: Final Output with Citations
 ```
 
 ---
