@@ -103,7 +103,15 @@ class SystemMonitor:
         if latest_digest:
             gen_at = latest_digest.get("generated_at", "")
             if "T" in gen_at:
-                last_synthesis = gen_at.split("T")[1][:5]
+                try:
+                    # Konversi string ISO ke datetime object
+                    dt_utc = datetime.fromisoformat(gen_at.replace('Z', '+00:00'))
+                    # Tambahkan 7 jam untuk WIB
+                    from datetime import timedelta
+                    dt_wib = dt_utc + timedelta(hours=7)
+                    last_synthesis = dt_wib.strftime("%H:%M")
+                except Exception:
+                    last_synthesis = gen_at.split("T")[1][:5]
 
         # Real-time service health checks
         qdrant_status = "offline"
@@ -121,13 +129,9 @@ class SystemMonitor:
         groq_status = "online" if settings.groq_api_key else "offline"
 
         stats["agents"] = [
-            {"id": "scraper", "name": "News Scraper Agent", "status": "standby", "last_run": last_synthesis},
-            {"id": "filter", "name": "Gatekeeper Filter", "status": "standby", "last_run": last_synthesis},
-            {"id": "cluster", "name": "Discovery Cluster", "status": "standby", "last_run": last_synthesis},
-            {"id": "summarizer", "name": "Intelligence Agent", "status": "standby", "last_run": last_synthesis},
-            {"id": "notifier", "name": "Broadcast Notifier", "status": "standby", "last_run": last_synthesis},
-            {"id": "embedder", "name": "Knowledge Embedder", "status": qdrant_status, "last_run": "Live"},
-            {"id": "qa", "name": "Executive QA Agent", "status": groq_status, "last_run": "Ready"},
+            {"id": "planner", "name": "Strategic Planner (Llama 3.1 - 8B)", "status": "standby", "last_run": last_synthesis},
+            {"id": "researcher", "name": "Deep Researcher (Llama 3.1 + Tavily)", "status": "standby", "last_run": last_synthesis},
+            {"id": "summarizer", "name": "Intelligence Summarizer (Qwen 2.5 - 32B)", "status": "standby", "last_run": last_synthesis},
         ]
 
         return stats

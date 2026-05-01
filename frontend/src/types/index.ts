@@ -47,7 +47,7 @@ export interface AgentPulse {
 
 export interface SystemStatus {
   date: string;
-  gemini_usage: number;
+  llm_usage: number;
   model_name?: string;
   agents?: AgentPulse[];
 }

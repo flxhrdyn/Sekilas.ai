@@ -8,8 +8,8 @@ export const RightPanel: React.FC<{
   systemStatus: SystemStatus | null,
   onSyncSuccess?: () => void
 }> = ({ stats, systemStatus, onSyncSuccess }) => {
-  const LIMIT = 500;
-  const usage = systemStatus?.gemini_usage || 0;
+  const LIMIT = 1000;
+  const usage = systemStatus?.llm_usage || 0;
   const percentage = Math.min((usage / LIMIT) * 100, 100);
 
   const handleSync = async () => {
@@ -70,7 +70,7 @@ export const RightPanel: React.FC<{
     {systemStatus?.agents && (
       <div className="metric-group">
         <div className="text-[11px] text-brand-text-dim uppercase tracking-wider mb-3 flex items-center justify-between">
-          <span>AI Agents Pulse</span>
+          <span>AI Agents Status</span>
           <div className="flex items-center gap-1.5">
              <div className="w-1 h-1 rounded-full bg-brand-green animate-ping" />
              <span className="text-[7px] text-brand-green font-black tracking-widest">ORCHESTRATED</span>
@@ -107,9 +107,9 @@ export const RightPanel: React.FC<{
 
     <div className="metric-group">
       <div className="flex justify-between items-end mb-3">
-        <div className="text-[11px] text-brand-text-dim uppercase tracking-wider">Gemini Usage</div>
+        <div className="text-[11px] text-brand-text-dim uppercase tracking-wider">LLM Usage</div>
         <div className="text-[9px] px-1.5 py-0.5 bg-brand-accent/10 border border-brand-accent/20 rounded text-brand-accent font-mono">
-          {systemStatus?.model_name || 'Gemini Flash'}
+          {systemStatus?.model_name || 'Groq LLM'}
         </div>
       </div>
       <div className="flex justify-between text-[11px] font-mono mb-2">
