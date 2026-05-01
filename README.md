@@ -25,7 +25,7 @@ The system is powered by a collaborative agentic workflow:
 
 - **Strategic Planner (Llama 3.1 8B)**: Analyzes trending headlines and identifies topics requiring deep investigation.
 - **Deep Researcher (Tavily + Llama 8B)**: Executes autonomous web research to gather historical context and external facts.
-- **Intelligence Summarizer (Qwen 2.5 32B)**: Synthesizes raw data and research findings into structured "Story Syntheses" and "Strategic Correlations."
+- **Intelligence Summarizer (Qwen 3 32B)**: Synthesizes raw data and research findings into structured "Story Syntheses" and "Strategic Correlations."
 - **Agentic-RAG (Hybrid Search + Reranker)**: An advanced QA agent that utilizes **RRF (Reciprocal Rank Fusion)** and **Llama-based Reranking** to ensure the highest factual precision.
 
 ## Key Technical Features
