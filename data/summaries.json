@@ -3949,5 +3949,1397 @@
       "total_in_qdrant": 554
     },
     "timestamp": "2026-05-01T11:30:40.666570+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T12:52:51.782889+00:00",
+    "headline": "Perang Iran memicu gangguan pasokan pupuk dan ancaman produksi pangan global.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Presiden RI Libatkan Ahli Jerman Benahi Ekonomi",
+        "synthesis": [
+          "Indonesia 1950-an mengalami krisis ekonomi parah dengan inflasi tinggi, utang besar, dan produksi stagnan.",
+          "Hjalmar Schacht, ekonom Jerman, dipanggil untuk reformasi keuangan dan stabilisasi ekonomi nasional.",
+          "Ketergantungan pada ahli asing menunjukkan kelemahan kapasitas birokrasi Indonesia era pasca-kemerdekaan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Krisis ekonomi sistemik memicu intervensi ahli asing untuk reformasi kebijakan fiskal dan moneter.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Presiden RI Panggil Ahli Jerman Buat Benahi Ekonomi, Ini Sosoknya!",
+            "source": "CNBC Indonesia",
+            "url": "https://www.cnbcindonesia.com/entrepreneur/20260430101004-25-731208/presiden-ri-panggil-ahli-jerman-buat-benahi-ekonomi-ini-sosoknya",
+            "category": "Ekonomi",
+            "published_at": "2026-05-01T12:30:25+00:00",
+            "summary": "Pada awal 1950-an, pemerintah Indonesia mengundang Hjalmar Schacht, ekonom dan bankir Jerman terkenal, untuk membantu mengatasi krisis ekonomi pasca-kemerdekaan yang ditandai dengan inflasi tinggi, utang besar, dan produksi yang belum pulih. Schacht dikenal karena keberhasilannya mengatasi hiperinflasi di Jerman pada 1920-an dan memulihkan ekonomi nasional Jerman sebelum Perang Dunia II.",
+            "key_points": [
+              "Hjalmar Schacht adalah ekonom Jerman yang pernah memimpin bank sentral Jerman dan memulihkan ekonomi negara tersebut dari hiperinflasi pada 1920-an.",
+              "Indonesia pada 1950-an menghadapi inflasi tinggi, utang menumpuk, dan aktivitas produksi yang belum pulih setelah kemerdekaan.",
+              "Pemerintah Indonesia memilih Schacht sebagai konsultan karena reputasinya dalam mengelola krisis ekonomi dan mengendalikan peredaran uang."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Resiko Pangan Akibat Perang Iran",
+        "synthesis": [
+          "Perang Iran ganggu pasokan pupuk, ancam produksi pangan.",
+          "Risiko 10 miliar porsi makanan terancam per minggu.",
+          "Negara miskin paling terdampak, harga pangan global naik."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik pasokan pupuk mengancam keamanan pangan global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pria Hidup Kembali Setelah Jantung Berhenti 40 Jam",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Pria Hidup Kembali Setelah Jantung Berhenti 40 Jam\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pria tersebut menerima perawatan ECMO (oksigenasi membran ekstrakorporeal)**: Pasien tersebut menerima perawatan ECMO selama sekitar 10 hari setelah detak jantungnya pulih.\n2. **Pria tersebut pulih setelah 20 hari**: Pasien tersebut pulih setelah 20 hari dan berjalan keluar rumah sakit sendirian tanpa efek samping.\n3. **Penyebab henti jantung mendadak pada usia muda**: Henti jantung mendadak pada usia di bawah 35 tahun sangat jarang ditemui dan biasanya tercetus karena kelainan struktur atau fungsi jantung yang belum pernah diketahui sebelumnya.\n4. **Teknologi diagnostik canggih dapat meningkatkan kualitas pelayanan medis**: Berbagai teknologi diagnostik canggih telah diterapkan di rumah sakit untuk meningkatkan kualitas pelayanan medis dan menyelamatkan nyawa."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-01T08:41:52+00:00",
+            "summary": "Perang di Iran mengganggu pasokan pupuk dan bahan utamanya, berpotensi mengurangi produksi pangan hingga 10 miliar porsi per minggu, dengan dampak terbesar pada negara-negara miskin. Kepala perusahaan pupuk Yara, Svein Tore Holsether, memperingatkan bahwa penurunan penggunaan pupuk dapat memicu persaingan harga pangan global.",
+            "key_points": [
+              "Kurangnya produksi pupuk nitrogen hingga 500.000 ton per minggu akibat konflik di Selat Hormuz.",
+              "Potensi penurunan hasil panen hingga 50% di wilayah yang sudah kekurangan pupuk, seperti Afrika Sub-Sahara.",
+              "Dampak krisis pupuk di Asia baru terlihat pada akhir tahun, ketika hasil panen yang seharusnya ditanam musim ini dipanen."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "TelkomGroup Dukung Ruang Digital Aman Anak",
+        "synthesis": [
+          "TelkomGroup dukung PP Tunas untuk keamanan digital anak.",
+          "Luncurkan edukasi etika media digital melalui Telkom University.",
+          "Kolaborasi dengan Komdigi cegah disinformasi dan perlindungan data."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kebijakan nasional PP Tunas berdampak sistemik pada keamanan digital generasi muda.",
+        "external_research": [
+          {
+            "title": "Deep Research: TelkomGroup Dukung Ruang Digital Aman Anak",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang TelkomGroup yang mendukung ruang digital aman anak:\n\n1. **TelkomGroup mendukung implementasi PP TUNAS**: Perusahaan telekomunikasi digital ini menyatakan komitmennya dalam mendukung kebijakan pemerintah melalui berbagai inisiatif, termasuk penguatan keamanan digital, perlindungan data pribadi, dan pengembangan solusi digital yang aman dan bertanggung jawab.\n2. **TelkomGroup menghadirkan program edukasi etika bermedia digital**: Perusahaan ini juga menghadirkan berbagai program edukasi bagi generasi muda dan komunitas pendidikan di berbagai daerah mengenai etika bermedia digital, keamanan siber, serta pemanfaatan teknologi secara positif.\n3. **TelkomGroup berkomitmen untuk menjadi penjaga kebenaran di ruang digital**: Menkomdigi, Meutya Hafid, mengajak para lulusan untuk menjadi agen literasi digital di masyarakat dan menjadi penjaga kualitas informasi di ruang digital.\n4. **Pemerintah dan TelkomGroup berkolaborasi untuk melindungi anak di ruang digital**: Pemerintah dan TelkomGroup berkomitmen untuk melindungi anak di ruang digital melalui implementasi PP TUNAS dan Perpres PARD, serta meningkatkan keamanan siber dan perlindungan data pribadi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "TelkomGroup Dukung Komdigi Ciptakan Ruang Digital Aman Anak Lewat PP Tunas",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/law-and-policy/d-8470470/telkomgroup-dukung-komdigi-ciptakan-ruang-digital-aman-anak-lewat-pp-tunas",
+            "category": "Teknologi",
+            "published_at": "2026-05-01T10:56:27+00:00",
+            "summary": "Menteri Komunikasi dan Digital Meutya Hafid menekankan pentingnya literasi digital, etika teknologi, dan kolaborasi untuk menciptakan ruang digital aman bagi generasi muda, sejalan dengan PP Tunas. Ia menyoroti peran lulusan Telkom University dalam mendorong masa depan digital Indonesia dan mengatasi tantangan seperti misinformasi.",
+            "key_points": [
+              "Pentingnya literasi digital dan etika teknologi sesuai Peraturan Pemerintah Nomor 17 Tahun 2025 (PP TUNAS).",
+              "Lulusan Telkom University diharapkan memiliki tanggung jawab moral untuk membangun ruang digital yang aman dan berkeadilan.",
+              "Misinformasi di ruang digital diidentifikasi sebagai tantangan global yang memerlukan peran aktif generasi muda sebagai agen literasi."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Pulangnya Thompson-Herah Pasca Cedera",
+        "synthesis": [
+          "Elaine Thompson-Herah kembali berlari setelah 20 bulan rehabilitasi cedera Achilles.",
+          "Absennya di Olimpiade Paris 2024 mengurangi peluang medali emas Jamaika.",
+          "Fokus pada persiapan Olimpiade berikutnya sebagai langkah pemulihan karier."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pengaruh signifikan terhadap kontinuitas atletik Jamaika dan persaingan Olimpiade masa depan.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Thompson-Herah happy to be back in competition after missing Paris due to injury",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/thompson-herah-happy-be-back-in-competition-after-missing-paris-due-injury-6094571",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T12:36:00+00:00",
+            "summary": "Elaine Thompson-Herah, atlet lari asal Jamaika yang absen di Olimpiade Paris 2024 karena cedera tendon Achilles, kembali berkompetisi setelah menjalani rehabilitasi selama 20 bulan. Ia menggunakan musim ini sebagai langkah awal untuk kembali ke performa terbaiknya dan menatap Olimpiade berikutnya.",
+            "key_points": [
+              "Thompson-Herah absen di Olimpiade Paris 2024 akibat cedera tendon Achilles.",
+              "Ia telah menjalani proses rehabilitasi selama 20 bulan sebelum kembali berlari.",
+              "Musim ini dijadikannya sebagai 'tangga' untuk membangun kembali performa menuju Olimpiade mendatang."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Pria Hidup Kembali Setelah Jantung Berhenti 40 Jam",
+        "synthesis": [
+          "Pria hidup kembali setelah jantung berhenti 40 jam berkat ECMO.",
+          "Teknologi ECMO dan kerja tim intensif selamatkan nyawa.",
+          "Pasien pulih hampir penuh tanpa efek samping serius."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Inovasi medis ECMO menunjukkan potensi penyelamatan nyawa di luar batas waktu kritis.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kisah Pria 'Hidup Kembali' setelah Jantungnya Berhenti Berdetak 40 Jam",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8470186/kisah-pria-hidup-kembali-setelah-jantungnya-berhenti-berdetak-40-jam",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T08:01:01+00:00",
+            "summary": "Seorang pria berusia 40 tahun di China berhasil selamat setelah jantungnya berhenti berdetak selama 40 jam dengan bantuan teknologi ECMO. Dokter Lu Xiao mengungkapkan bahwa perawatan ini merupakan kombinasi dari inovasi medis dan kerja tim yang intensif. Pasien akhirnya pulih hampir sepenuhnya tanpa efek samping serius.",
+            "key_points": [
+              "Jantung pria tersebut berhenti berdetak selama 40 jam sebelum berhasil dihidupkan kembali.",
+              "Teknologi ECMO digunakan untuk mempertahankan fungsi tubuh pasien saat jantung tidak berdetak.",
+              "Pasien pulih hampir sepenuhnya tanpa mengalami komplikasi serius seperti stroke atau gangguan organ."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Kolaborasi Ekonomi-Geopolitik dan Keamanan Digital",
+        "analysis": "Libatkan ahli Jerman dalam reformasi ekonomi Indonesia (geopolitik-ekonomi) berpotensi memperkuat kerja sama teknologi dengan negara-negara Eropa, termasuk dalam pengembangan infrastruktur digital. Hal ini secara langsung mendukung inisiatif TelkomGroup untuk menciptakan ruang digital aman bagi anak (teknologi-sosial), karena stabilitas ekonomi yang dihasilkan kolaborasi tersebut memungkinkan investasi dalam keamanan siber. Selain itu, keamanan digital yang kuat menjadi prioritas nasional saat Indonesia bergantung pada teknologi asing untuk pemulihan ekonomi."
+      },
+      {
+        "title": "Geopolitik Perang Iran dan Ketergantungan Pangan",
+        "analysis": "Perang Iran yang mengancam pasokan pupuk (geopolitik-lingkungan) memperkuat urgensi Indonesia untuk memperbaiki ketahanan pangan secara mandiri. Ini berpotensi memicu kebijakan ekonomi yang lebih pro-kebijakan pertanian (ekonomi-lingkungan), yang selaras dengan upaya Indonesia membenahi ekonomi dengan bantuan ahli Jerman. Ketergantungan pada pupuk impor juga mengingatkan pentingnya diversifikasi sumber daya, yang bisa dipercepat melalui inovasi teknologi pertanian yang didukung oleh investasi ekonomi."
+      }
+    ],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Tetangga Dekat RI Larang Penjualan Kompor Listrik, Ini Alasannya!",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260501181013-4-731595/tetangga-dekat-ri-larang-penjualan-kompor-listrik-ini-alasannya",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T12:20:40+00:00",
+          "summary": "Singapura melarang penjualan dan iklan kompor listrik jenis electric fire stove atau plasma stove karena dianggap berisiko tinggi bagi keselamatan. Otoritas setempat menyatakan produk ini tidak memenuhi standar keamanan internasional dan belum memiliki sertifikasi Safety Mark yang wajib untuk produk terkendali. Masyarakat yang sudah membeli diminta menggunakan perangkat tersebut dengan pertimbangan sendiri.",
+          "key_points": [
+            "Singapura melarang penjualan kompor listrik plasma stove karena risiko keamanan tinggi yang terkait dengan tegangan listrik tinggi dan suhu panas.",
+            "Produk ini tidak memenuhi persyaratan registrasi Safety Mark yang dikeluarkan oleh Consumer Product Safety Office (CPSO).",
+            "Penggunaan kompor listrik plasma stove yang belum terdaftar disebut memiliki risiko bawaan dan menjadi tanggung jawab pengguna."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Kekurangan Pekerja, Maskapai Jepang Uji Coba Pakai Robot di Bandara",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/tech/20260501175510-37-731594/kekurangan-pekerja-maskapai-jepang-uji-coba-pakai-robot-di-bandara",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T12:10:10+00:00",
+          "summary": "Japan Airlines bekerja sama dengan GMO AI & Robotics untuk menguji robot humanoid di Bandara Haneda, Tokyo, guna mengatasi kekurangan tenaga kerja akibat populasi yang menua. Uji coba, yang mencakup tugas seperti pemuatan bagasi dan pembersihan kabin, dimulai Mei 2024 dan berlangsung selama dua tahun. Perusahaan juga mengevaluasi kelayakan teknologi ini sebelum implementasi penuh.",
+          "key_points": [
+            "Japan Airlines menguji robot humanoid dari Unitree Robotics untuk tugas operasional darat di Bandara Haneda.",
+            "Kekurangan tenaga kerja di Jepang dipicu oleh populasi yang menua dan angka kelahiran rendah.",
+            "Uji coba berlangsung selama dua tahun dengan studi kelayakan dan penilaian risiko terus dilakukan."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Who profits big from the war on Iran?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T10:13:05+00:00",
+          "summary": "Perang di Iran memberikan keuntungan besar bagi perusahaan minyak, produsen senjata, dan platform taruhan, yang melaporkan laba rekor meskipun ekonomi global sedang mengalami kesulitan. Al Jazeera melaporkan hal ini melalui penjelasan Yasmeen ElTahan.",
+          "key_points": [
+            "Ekonomi global sedang mengalami kesulitan.",
+            "Perusahaan minyak, produsen senjata, dan platform taruhan mendapat keuntungan besar dari perang di Iran.",
+            "Laba rekor dicatat oleh sektor-sektor tersebut akibat konflik tersebut."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Umum": [
+        {
+          "title": "10 Gereja Tertua di Dunia, Usianya Ribuan Tahun",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260424150958-128-729618/10-gereja-tertua-di-dunia-usianya-ribuan-tahun",
+          "category": "Umum",
+          "published_at": "2026-05-01T12:40:50+00:00",
+          "summary": "Artikel ini memaparkan 10 gereja tertua di dunia yang berdiri sejak abad ke-3 Masehi hingga kini, mencerminkan sejarah peradaban, iman, dan budaya. Beberapa gereja masih berfungsi, sementara lainnya menjadi reruntuhan. Gereja-gereja ini tersebar di Timur Tengah dan Eropa serta memiliki kisah unik terkait penemuan dan peninggalan sejarah.",
+          "key_points": [
+            "Gereja Dura-Europos dianggap sebagai gereja Kristen tertua, dibangun sekitar tahun 233 M.",
+            "Gereja Megiddo ditemukan secara tidak sengaja oleh narapidana pada 2005 dengan mosaik berbahasa Yunani dan simbol ikan.",
+            "Gereja Kelahiran Yesus di Bethlehem dibangun tahun 325 M dan diakui sebagai situs sejarah penting."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Indonesia train crash kills four: Police",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-train-crash-kills-four-java-grobogan-6094511",
+          "category": "Umum",
+          "published_at": "2026-05-01T12:34:00+00:00",
+          "summary": "Sebuah kereta tabrak mobil di Grobogan, Jawa Tengah, menewaskan empat orang termasuk dua anak-anak akibat kabut tebal yang menghalangi pandangan pengemudi di perlintasan tanpa pengawasan. Kecelakaan ini terjadi hanya beberapa hari setelah tabrakan kereta lainnya di luar Jakarta yang menewaskan 16 orang.",
+          "key_points": [
+            "Kereta menabrak mobil di perlintasan tanpa pengawasan di Grobogan, Jawa Tengah, menyebabkan empat korban tewas dan lima luka-luka.",
+            "Presiden Prabowo Subianto menyalahkan perlintasan tidak aman sebagai penyebab tabrakan kereta di Bekasi Timur dan memerintahkan peningkatan keamanan secara nasional.",
+            "Indonesia sering mengalami kecelakaan transportasi, termasuk tabrakan kereta, akibat sarana transportasi yang usang dan perlintasan tidak aman."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Anne Hathaway Blak-Blakan soal Cinta Arsenal",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/gila-bola/d-8470329/anne-hathaway-blak-blakan-soal-cinta-arsenal",
+          "category": "Hiburan",
+          "published_at": "2026-05-01T11:00:10+00:00",
+          "summary": "Anne Hathaway, aktris asal Amerika Serikat, secara terbuka menyatakan dirinya sebagai penggemar Arsenal sejak masa kejayaan klub di bawah Arsene Wenger. Ia mengikuti jejak ayahnya yang menjadi penggemar setelah menonton tim 'The Invincibles' pada 2003/2004. Saat ini, Arsenal di bawah Mikel Arteta berada di puncak klasemen Premier League, dan Anne turut merayakan kemenangan klub, termasuk mengunggah video gol Leandro Trossard yang kemudian direspons langsung oleh pemain tersebut.",
+          "key_points": [
+            "Anne Hathaway menjadi penggemar Arsenal sejak masa kejayaan 'The Invincibles' pada 2003/2004 yang dipengaruhi oleh ayahnya.",
+            "Arsenal saat ini berada di puncak klasemen Premier League musim 2023/2024 di bawah asuhan Mikel Arteta.",
+            "Anne Hathaway merayakan kemenangan Arsenal melalui media sosial, yang kemudian direspons langsung oleh pemain Leandro Trossard."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Carragher: Nggak Akan Ada Rival yang Keder kalau Carrick Jadi Manajer MU",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470332/carragher-nggak-akan-ada-rival-yang-keder-kalau-carrick-jadi-manajer-mu",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:20:10+00:00",
+          "summary": "Jamie Carragher menilai penunjukan Michael Carrick sebagai manajer interim Manchester United memberikan stabilitas tim, meski ia meragukan kualitas Carrick sebagai manajer yang menakutkan bagi rival. Carrick membawa MU meraih sembilan kemenangan dari 13 pertandingan, mengangkat tim ke peringkat ketiga klasemen Liga Inggris. Namun, perdebatan soal kelayakan Carrick sebagai manajer tetap MU terus muncul di media.",
+          "key_points": [
+            "Carragher mengakui Carrick adalah pilihan ideal untuk memimpin MU saat ini karena stabilitas yang dibawanya, tetapi meragukan tim akan ditakuti oleh rival.",
+            "Carrick membawa MU meraih sembilan kemenangan dari 13 pertandingan, mengangkat tim ke peringkat ketiga klasemen Liga Inggris.",
+            "Perdebatan soal kelayakan Carrick sebagai manajer tetap MU terus menjadi sorotan media Inggris, dengan kritik terhadap kurangnya 'nama besar' Carrick."
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Guardiola urges City focus amid packed May schedule",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/guardiola-urges-city-focus-amid-packed-may-schedule-6094506",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T11:46:44+00:00",
+          "summary": "Pelatih Manchester City, Pep Guardiola, menekankan pentingnya fokus tim menghadapi jadwal padat di bulan Mei, termasuk persaingan gelar Liga Inggris dengan Arsenal dan laga final Piala FA melawan Chelsea. Guardiola menyebut tim harus beradaptasi seperti saat meraih treble, sambil memantau pemulihan beberapa pemain inti.",
+          "key_points": [
+            "Manchester City memiliki jadwal padat dengan enam pertandingan dalam tiga minggu, termasuk laga krusial melawan Everton dan Brentford serta final Piala FA.",
+            "Guardiola menegaskan tim harus memenangkan setiap pertandingan untuk mengejar Arsenal yang unggul tiga poin di klasemen Liga Inggris.",
+            "Rodri, Ruben Dias, dan Josko Gvardiol masih dalam proses pemulihan dan belum siap tampil melawan Everton."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T12:22:26+00:00",
+          "summary": "Seorang uskup Ortodoks Yunani di Yerusalem mengutuk serangan brutal terhadap seorang biarawati dan menyuarakan kekhawatiran meningkat terhadap masa depan komunitas Kristen di Tanah Suci. Polisi Israel telah menangkap seorang pria Yahudi berusia 36 tahun yang diduga melakukan serangan tersebut, sementara laporan menunjukkan peningkatan serangan terhadap komunitas Kristen di wilayah yang diduduki.",
+          "key_points": [
+            "Serangan terhadap biarawati Perancis di Yerusalem disebut sebagai bagian dari pola yang mengancam keberadaan Kristen di Tanah Suci.",
+            "Polisi Israel menangkap tersangka pria Yahudi berusia 36 tahun yang diduga melakukan serangan terhadap biarawati.",
+            "Lembaga Rossing Center mencatat peningkatan serangan terhadap komunitas Kristen di Yerusalem Timur dan Israel dalam beberapa tahun terakhir."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Krisis Sampah Bali Kian Parah, Bau Busuk Ganggu Wisata dan Usaha",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260501144130-7-731558/krisis-sampah-bali-kian-parah-bau-busuk-ganggu-wisata-usaha",
+          "category": "Lingkungan",
+          "published_at": "2026-05-01T12:00:03+00:00",
+          "summary": "Bali menghadapi krisis sampah akibat berhentinya tempat pembuangan terbesar menerima limbah organik sejak April 2026, menyebabkan tumpukan sampah yang mengganggu lingkungan, kawasan wisata, dan kesehatan. Kondisi ini diperparah oleh lonjakan jumlah wisatawan dan minimnya fasilitas pengelolaan sampah yang memadai.",
+          "key_points": [
+            "Tempat pembuangan sampah terbesar di Bali berhenti menerima limbah organik sejak April 2026 sebagai upaya menegakkan larangan pembuangan terbuka sejak 2013.",
+            "Tumpukan sampah menyebabkan bau busuk, penyebaran tikus, dan memburuknya kualitas udara akibat pembakaran sampah oleh warga.",
+            "Lonjakan wisatawan hingga tujuh juta per tahun memperparah masalah sampah, meski ada ancaman hukuman penjara dan denda."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 645
+    },
+    "timestamp": "2026-05-01T12:52:51.782889+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T13:21:38.393472+00:00",
+    "headline": "Ketegangan geopolitik dan harga energi yang tinggi memicu sinyal kenaikan suku bunga oleh bank sentral global guna menekan inflasi.",
+    "global_headline": "Ketegangan geopolitik dan harga energi yang tinggi memicu sinyal kenaikan suku bunga oleh bank sentral global guna menekan inflasi.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Kenaikan Suku Bunga Bank Sentral Global",
+        "synthesis": [
+          "Bank sentral global sinyal kenaikan suku bunga untuk tekan inflasi akibat ketegangan geopolitik dan harga energi.",
+          "The Fed hapus 'bias pelonggaran', buka kemungkinan pengetatan moneter.",
+          "ECB, Jepang, Australia, dan Norwegia siap ikuti langkah kenaikan suku bunga."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Koordinasi kebijakan moneter global berpotensi mengganggu stabilitas pasar keuangan dan pertumbuhan ekonomi.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kenaikan Suku Bunga Bank Sentral Global",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang kenaikan suku bunga Bank Sentral Global:\n\n1. **Pertama kali sejak 2008, The Fed memangkas suku bunga acuan 25 basis poin (bps) ke kisaran 2%-2,25% pada Rabu (31/7)**. Pemangkasan ini merupakan yang pertama kali dilakukan sejak Desember 2008.\n2. **Suku bunga acuan di Amerika Serikat terakhir tercatat sebesar 3,75 persen**. Dalam jangka panjang, suku bunga Fed Funds Amerika Serikat diproyeksikan akan cenderung sekitar 3,25 persen pada tahun 2027.\n3. **Pertumbuhan ekonomi Indonesia dipengaruhi oleh suku bunga**. Hasil penelitian menunjukkan bahwa suku bunga berdampak positif terhadap pertumbuhan ekonomi Indonesia, tetapi juga dapat mempengaruhi inflasi dan stabilitas ekonomi.\n4. **Bank sentral memainkan peranan penting dalam mendorong pertumbuhan ekonomi**. Kebijakan suku bunga dan stabilitas ekonomi makro, termasuk kurs mata uang, inflasi, dan suku bunga, memainkan peranan penting dalam mendorong pertumbuhan ekonomi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Bank Sentral Besar Ramai-Ramai Mau Naikkan Suku Bunga",
+            "source": "CNBC Indonesia",
+            "url": "https://www.cnbcindonesia.com/market/20260501183229-17-731596/bank-sentral-besar-ramai-ramai-mau-naikkan-suku-bunga",
+            "category": "Ekonomi",
+            "published_at": "2026-05-01T13:00:40+00:00",
+            "summary": "Bank-bank sentral utama dunia mempertahankan suku bunga tetap pekan ini, namun memberi sinyal kenaikan potensial untuk mengatasi risiko inflasi akibat ketegangan geopolitik dan tekanan harga energi. Bank sentral AS (The Fed) menghapus indikasi 'bias pelonggaran', sementara bank sentral Eropa, Jepang, Australia, dan Norwegia menunjukkan kemungkinan kenaikan suku bunga mendatang.",
+            "key_points": [
+              "Bank sentral utama mempertahankan suku bunga tetap tetapi memperingatkan kenaikan untuk mengendalikan inflasi yang dipicu oleh konflik AS-Israel-Iran dan kenaikan harga energi.",
+              "Federal Reserve (The Fed) menghapus pernyataan 'bias pelonggaran' dalam kebijakan suku bunga, sementara bank sentral Eropa dan Jepang memberi sinyal kenaikan suku bunga di masa depan.",
+              "Reserve Bank of Australia (RBA) dan Norges Bank berencana menaikkan suku bunga untuk meredam inflasi yang masih di atas target, dengan RBA mempertimbangkan setidaknya dua kali kenaikan lagi hingga akhir tahun."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Bahaya Operasi Wajah Ilegal oleh Dokter Kecantikan",
+        "synthesis": [
+          "Kematian akibat operasi wajah ilegal meningkat di Korea Selatan.",
+          "Operasi wajah dan leher paling berisiko dengan tingkat komplikasi tinggi.",
+          "Kementerian Kesehatan RI peringatkan praktik 'dokter kecantikan' ilegal."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ancaman sistemik terhadap keselamatan publik akibat praktik medis ilegal.",
+        "external_research": [
+          {
+            "title": "Deep Research: Bahaya Operasi Wajah Ilegal oleh Dokter Kecantikan",
+            "content": "Berikut adalah 3-4 poin fakta yang paling relevan dan kredibel tentang bahaya operasi wajah ilegal oleh dokter kecantikan:\n\n1. **Kematian akibat operasi wajah ilegal meningkat**: Jumlah kematian akibat operasi plastik di Korea meningkat setiap tahun, dengan rata-rata 5,6 kasus per tahun. Pada tahun 2016, terdapat 4 kasus kematian, pada tahun 2020 terdapat 7 kasus, dan pada tahun 2021 terdapat 8 kasus.\n2. **Operasi wajah dan leher paling berisiko**: Jenis prosedur yang paling banyak dikaitkan dengan kematian adalah operasi wajah dan leher (26 kasus) serta sedot lemak atau liposuction (11 kasus). Pasien operasi wajah dan leher paling rentan mengalami kematian akibat anestesi.\n3. **Klinik kecil lebih berisiko**: Studi menemukan bahwa klinik kecil dengan kurang dari 30 tempat tidur tercatat menyumbang 22 kasus kematian akibat anestesi, sementara rumah sakit universitas hanya mencatat satu kasus serupa.\n4. **Pentingnya pengawasan dan pelaporan**: Konsumen dapat melaporkan masalah mereka langsung atau membuat laporan ke Badan POM (Badan Pengawas Obat dan Makanan) untuk diikuti secara hukum dan diberikan sanksi pidana dan administratif sesuai dengan ketentuan hukum yang berlaku."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Facelift Ilegal Berujung Fatal, Ini Wanti-wanti Kemenkes soal Profesi 'Dokter Kecantikan'",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8470568/facelift-ilegal-berujung-fatal-ini-wanti-wanti-kemenkes-soal-profesi-dokter-kecantikan",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T12:27:13+00:00",
+            "summary": "Kementerian Kesehatan RI memperingatkan masyarakat terhadap praktik ilegal 'dokter kecantikan' setelah kasus dugaan malpraktik yang melibatkan eks finalis Puteri Indonesia Riau. Mereka menegaskan bahwa istilah 'dokter kecantikan' bukan profesi resmi, dan tindakan medis estetika hanya boleh dilakukan oleh dokter yang terdaftar serta memenuhi standar kompetensi sesuai Permenkes 11/2025.",
+            "key_points": [
+              "Istilah 'dokter kecantikan' tidak diakui dalam sistem pelayanan kesehatan Indonesia.",
+              "Tindakan medis estetika wajib dilakukan oleh dokter yang memiliki izin praktik dan kompetensi sesuai Permenkes 11/2025.",
+              "Praktik oleh non-medis berisiko menyebabkan komplikasi serius dan dapat dipidana."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Pria Hidup Kembali Setelah Jantung Berhenti 40 Jam",
+        "synthesis": [
+          "Pria di China selamat setelah jantung berhenti 40 jam berkat ECMO.",
+          "Teknologi ECMO pertahankan fungsi tubuh selama perawatan intensif.",
+          "Pulih tanpa efek samping serius setelah 20 hari perawatan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Terobosan medis signifikan dengan potensi pengembangan teknologi kritis.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kisah Pria 'Hidup Kembali' setelah Jantungnya Berhenti Berdetak 40 Jam",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8470186/kisah-pria-hidup-kembali-setelah-jantungnya-berhenti-berdetak-40-jam",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T08:01:01+00:00",
+            "summary": "Seorang pria di China selamat setelah jantungnya berhenti berdetak selama 40 jam, dengan bantuan teknologi ECMO yang mempertahankan fungsi tubuhnya. Ia berhasil pulih tanpa efek samping serius setelah menjalani perawatan intensif selama sekitar 20 hari.",
+            "key_points": [
+              "Jantung pria berusia 40 tahun berhenti berdetak selama 40 jam sebelum akhirnya kembali berdetak.",
+              "Tim medis menggunakan alat ECMO untuk menggantikan fungsi jantung dan paru-paru selama masa kritis.",
+              "Dokter menekankan keberhasilan ini merupakan kombinasi dari teknologi medis, kerja tim, dan faktor keberuntungan."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Serangan terhadap Kristen di Yerusalem",
+        "synthesis": [
+          "Serangan terhadap biarawati di Yerusalem memicu kekhawatiran komunitas Kristen.",
+          "Polisi Israel tangkap tersangka Yahudi terkait serangan tersebut.",
+          "Gereja Ortodoks Yunani khawatir terhadap masa depan komunitas Kristen di Tanah Suci."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Meningkatkan ketegangan antaragama dan ancaman terhadap keberlanjutan komunitas minoritas.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-01T12:22:26+00:00",
+            "summary": "Pemimpin Gereja Ortodoks Yunani di Yerusalem mengecam serangan terhadap seorang biarawati dan menyatakan kekhawatiran meningkat terhadap masa depan komunitas Kristen di Tanah Suci. Polisi Israel menangkap seorang pria Yahudi yang diduga melakukan serangan tersebut.",
+            "key_points": [
+              "Serangan terhadap biarawati Prancis di Yerusalem disebut sebagai bagian dari pola kekerasan yang mengancam keberadaan Kristen.",
+              "Pihak berwenang Israel menangkap seorang pria berusia 36 tahun yang diduga melakukan serangan tersebut.",
+              "Lembaga Rossing mencatat peningkatan serangan terhadap komunitas Kristen di Yerusalem Timur dan Israel dalam beberapa tahun terakhir."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Keamanan Konsumsi Kepala Lele yang Dipotong",
+        "synthesis": [
+          "Kepala lele sering dipotong karena persepsi lingkungan hidup berlumpur.",
+          "Keamanan konsumsi kepala lele dipertanyakan, butuh penjelasan pakar.",
+          "Perilaku konsumen dipengaruhi mitos, bukan data ilmiah."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mempengaruhi pola konsumsi dan keamanan pangan berbasis persepsi salah.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan terhadap Kristen di Yerusalem",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait serangan terhadap Kristen di Yerusalem. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kasus serangan terhadap Kristen di Indonesia**: Data SETARA Institute menunjukkan bahwa dalam periode tahun 2007-2022 terdapat 573 kasus gangguan terhadap tempat ibadah dan peribadatan yang terjadi di Indonesia.\n2. **Kerusakan vila retret Kristen di Sukabumi**: Pada 27 Juni 2025, sebuah vila retret anak-anak umat Kristen di Sukabumi dirusak oleh sekelompok warga, menyebabkan kerusakan fisik dan trauma bagi para peserta retret.\n3. **Kebijakan pemerintah dalam menjaga kerukunan umat beragama**: Pada pertengahan 2025, Presiden Indonesia awalnya tidak bersedia memberikan komentar atas kasus-kasas penyerangan komunitas Kristen, tetapi kemudian memperkenalkan \"Kurikulum Cinta\" di lingkungan pendidikan sebagai strategi jangka panjang.\n4. **Konflik keagamaan di Indonesia**: Konflik keagamaan di Indonesia seringkali disebabkan oleh ekslusivitas kegiatan kelompok-kelompok keagamaan, prasangka masyarakat terhadap kelompok-kelompok tersebut, dan perbedaan pandangan keagamaan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Infografis: Kepala Lele Sering Dipotong-Dibuang, Amankah Dikonsumsi?",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/infografis/d-8469623/infografis-kepala-lele-sering-dipotong-dibuang-amankah-dikonsumsi",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T06:59:38+00:00",
+            "summary": "Artikel ini membahas persepsi lele sebagai ikan yang hidup di lingkungan berlumpur, sehingga kepala lele sering dipotong dan dibuang. Namun, keamanan konsumsi bagian tersebut dipertanyakan, dengan referensi pada pendapat pakar dalam infografis.",
+            "key_points": [
+              "Lele dianggap 'ikan kotor' karena habitat berlumpur, memengaruhi preferensi konsumsi.",
+              "Kepala lele sering dipotong karena bersinggungan langsung dengan lingkungan luar.",
+              "Keamanan konsumsi kepala lele dipertanyakan dan dibahas melalui pandangan pakar."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Kenaikan Suku Bunga Global Memicu Peningkatan Operasi Wajah Ilegal",
+        "analysis": "Kenaikan suku bunga global untuk menekan inflasi berdampak pada biaya pinjaman dan investasi, termasuk di sektor kesehatan. Di Korea Selatan, kenaikan biaya layanan medis resmi akibat tekanan ekonomi membuat masyarakat beralih ke operasi wajah ilegal yang lebih murah. Ini menciptakan hubungan antara kebijakan moneter (ekonomi) dengan kesehatan publik (sosial/teknologi), sekaligus memperlihatkan risiko regulasi yang melemah di bawah tekanan inflasi."
+      },
+      {
+        "title": "Teknologi ECMO dan Krisis Energi Global",
+        "analysis": "Penggunaan ECMO (Extracorporeal Membrane Oxygenation) untuk menyelamatkan nyawa pasien di China membutuhkan konsumsi energi tinggi dan infrastruktur medis canggih. Kenaikan harga energi global akibat ketegangan geopolitik memperberat biaya operasional teknologi medis ini, menciptakan ketergantungan antara inovasi teknologi (teknologi) dengan stabilitas harga energi (ekonomi/lingkungan). Ini juga memicu diskusi tentang redistribusi sumber daya energi untuk sektor kesehatan."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T13:12:10+00:00",
+          "summary": "Perang di Iran mengganggu pasokan pupuk dan bahan baku utamanya, berpotensi mengurangi produksi pangan hingga 10 miliar porsi per minggu secara global, dengan dampak terbesar pada negara-negara miskin. Kepala produsen pupuk Yara, Svein Tore Holsether, memperingatkan bahwa penurunan penggunaan pupuk bisa memicu persaingan harga pangan dan memperparah krisis pangan di wilayah yang sudah kekurangan pupuk, seperti Afrika Sub-Sahara.",
+          "key_points": [
+            "Kekurangan pupuk akibat konflik di Teluk mengancam produksi pangan global hingga 10 miliar porsi per minggu.",
+            "Pengurangan produksi pupuk nitrogen hingga 500.000 ton/minggu berdampak signifikan pada hasil pertanian, terutama di Asia, Afrika, dan Amerika Latin.",
+            "Wilayah dengan defisit pupuk seperti Afrika Sub-Sahara berisiko mengalami penurunan hasil panen hingga 50% di musim tanam pertama."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Iran offers new proposal amid stalled US peace talks",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/iran-new-proposal-us-peace-talks-pakistan-6094591",
+          "category": "Internasional",
+          "published_at": "2026-05-01T13:09:31+00:00",
+          "summary": "Iran mengajukan proposal baru untuk perundingan damai dengan AS melalui mediator Pakistan, meskipun perundingan antara kedua pihak tetap terhambat. Konflik yang dimulai oleh AS dan Israel pada 28 Februari 2026 masih berada dalam status tak bertindak sejak 8 April, sementara Iran mempertahankan blokade Selat Hormuz dan AS menerapkan pembatasan terhadap pelabuhan Iran.",
+          "key_points": [
+            "Iran menyerahkan proposal damai ke Pakistan sebagai mediator, tetapi perundingan langsung antara Iran dan AS belum berhasil.",
+            "Iran memblokir Selat Hormuz, menghambat ekspor minyak, gas, dan pupuk, sementara AS menerapkan balasan pembatasan terhadap pelabuhan Iran.",
+            "Pemimpin agama senior Iran menegaskan bahwa negara tersebut tidak ingin perang tetapi menolak keras tekanan dari pihak lain."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Kalau Kalah Lawan Fulham, Arsenal Juga Akan Tumbang dari Atletico",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470339/kalau-kalah-lawan-fulham-arsenal-juga-akan-tumbang-dari-atletico",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:40:45+00:00",
+          "summary": "Paul Merson memprediksi Arsenal akan memenangkan Premier League jika mengalahkan Fulham, tetapi kekalahan melawan tim tersebut akan menyebabkan kegagalan di Liga Champions melawan Atletico Madrid. Arsenal saat ini memimpin klasemen dengan 73 poin, sementara Manchester City berada di posisi kedua dengan 70 poin. Merson menekankan pentingnya kemenangan Arsenal melawan Fulham untuk mempertahankan peluang juara.",
+          "key_points": [
+            "Paul Merson yakin Arsenal bisa juara Premier League jika mengalahkan Fulham, tetapi kegagalan akan mengancam peluang di Liga Champions.",
+            "Arsenal memimpin klasemen Liga Inggris dengan 73 poin, unggul tiga poin atas Manchester City yang baru main 33 laga.",
+            "Merson memperingatkan bahwa kekalahan Arsenal dari Fulham akan berdampak pada kekalahan melawan Atletico Madrid di leg kedua Liga Champions."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Thompson-Herah happy to be back in competition after missing Paris due to injury",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/thompson-herah-happy-be-back-in-competition-after-missing-paris-due-injury-6094571",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:36:00+00:00",
+          "summary": "Elaine Thompson-Herah, juara Olimpiade lima kali yang absen di Paris karena cedera Achilles, kembali berlaga setelah 20 bulan rehabilitasi dan menargetkan Commonwealth Games sebagai langkah menuju kembalinya ke performa terbaiknya.",
+          "key_points": [
+            "Thompson-Herah absen di Olimpiade Paris 2024 akibat cedera tendon Achilles.",
+            "Ia kembali berkompetisi setelah menjalani 20 bulan rehabilitasi dan mengikuti World Athletics Relays 2024.",
+            "Ia fokus pada Commonwealth Games 2024 sebagai fondasi untuk persiapan Olimpiade berikutnya."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Wanti-wanti Carragher: Kekonyolan Wasit Tak Boleh Terjadi di Final UCL",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8470341/wanti-wanti-carragher-kekonyolan-wasit-tak-boleh-terjadi-di-final-ucl",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:00:10+00:00",
+          "summary": "Jamie Carragher mengecam keputusan wasit yang memberikan penalti kepada Atletico Madrid akibat handball Ben White, yang dianggapnya tidak adil karena bola terlebih dahulu mengenai kaki White. Ia memperingatkan agar kesalahan serupa tidak terulang di final Liga Champions, yang berpotensi mencoreng reputasi kompetisi. Carragher menegaskan bahwa insiden handball yang diawali sentuhan bagian tubuh lain seharusnya tidak dianggap sebagai pelanggaran.",
+          "key_points": [
+            "Carragher tidak setuju dengan pemberian penalti kepada Atletico Madrid karena bola lebih dahulu mengenai kaki Ben White sebelum tangan.",
+            "Ia khawatir kesalahan wasit seperti ini akan merusak citra Liga Champions jika terjadi di final.",
+            "Carragher menekankan bahwa handball yang diawali kontak bagian tubuh lain (bukan langsung ke tangan) tidak layak dianggap sebagai pelanggaran."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Semifinal Uber Cup 2026: Head to Head Indonesia Vs Korea Selatan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/raket/d-8470434/semifinal-uber-cup-2026-head-to-head-indonesia-vs-korea-selatan",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T11:45:10+00:00",
+          "summary": "Tim beregu putri Indonesia akan menghadapi Korea Selatan di semifinal Uber Cup 2026 setelah keduanya menang di perempatfinal dengan skor 3-1. Pertemuan mereka di babak empat besar Uber Cup sejak 1990 hingga 2026 tercatat sebanyak empat kali, dengan Indonesia unggul tiga kemenangan dan satu kekalahan.",
+          "key_points": [
+            "Indonesia dan Korea Selatan akan bertemu di semifinal Uber Cup 2026 setelah masing-masing mengalahkan lawannya di perempatfinal.",
+            "Dalam pertemuan semifinal sebelumnya di Uber Cup, Indonesia menang tiga kali (2024, 1996, 1994) dan kalah sekali (1992).",
+            "Pertandingan kali ini akan menjadi pertemuan kelima kedua tim di babak empat besar Uber Cup."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Tetangga Dekat RI Larang Penjualan Kompor Listrik, Ini Alasannya!",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/news/20260501181013-4-731595/tetangga-dekat-ri-larang-penjualan-kompor-listrik-ini-alasannya",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T12:20:40+00:00",
+          "summary": "Singapura melarang penjualan kompor listrik jenis electric fire stove atau plasma stove karena dianggap berisiko tinggi bagi keselamatan. Kompor ini menggunakan tegangan tinggi untuk menghasilkan api plasma yang lebih panas dari kompor konvensional, namun belum memiliki standar internasional yang memadai. Otoritas setempat meminta masyarakat yang telah membeli produk ini untuk bertanggung jawab atas penggunaannya.",
+          "key_points": [
+            "Singapura melarang penjualan dan iklan kompor listrik electric fire stove karena alasan keselamatan.",
+            "Kompor tersebut menggunakan tegangan tinggi dan menghasilkan api plasma yang lebih panas dari kompor konvensional.",
+            "Produk ini wajib memiliki label Safety Mark yang valid untuk dipasarkan secara legal, namun saat ini belum memenuhi syarat registrasi."
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Review LG UltraGear 27GX704A-B: Monitor OLED 240Hz Murah, Visual Nendang!",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/review-produk/d-8470314/review-lg-ultragear-27gx704a-b-monitor-oled-240hz-murah-visual-nendang",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T11:15:24+00:00",
+          "summary": "LG UltraGear 27GX704A-B adalah monitor OLED 27 inci dengan resolusi 1440p dan refresh rate 240Hz yang menawarkan kualitas gambar premium serta fleksibilitas ergonomis. Monitor ini memiliki desain minimalis dengan bezel tipis, aksen hexagonal lighting, dan stand yang dapat diatur tinggi, kemiringan, serta rotasi. Konektivitasnya mencakup dua HDMI 2.1, DisplayPort 1.4, dan USB hub.",
+          "key_points": [
+            "Monitor OLED 27 inci dengan resolusi 1440p dan refresh rate 240Hz.",
+            "Penggunaan coating glossy yang berbeda dari pendekatan matte sebelumnya, meningkatkan kualitas visual.",
+            "Port konektivitas lengkap termasuk HDMI 2.1, DisplayPort 1.4, dan USB hub dengan akses horizontal di bagian belakang."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Sebar Fitnah ke Presiden, Komdigi: Pelaku Terancam UU ITE",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8470199/sebar-fitnah-ke-presiden-komdigi-pelaku-terancam-uu-ite",
+          "category": "Hukum",
+          "published_at": "2026-05-01T08:10:06+00:00",
+          "summary": "Komdigi mengungkap video fitnah terhadap Presiden Prabowo Subianto yang diunggah oleh Ketua Majelis Syura Partai Ummat, menilai konten tersebut sebagai hoaks dan ujaran kebencian yang berpotensi memecah belah masyarakat. Pemerintah akan mengambil langkah hukum berdasarkan UU ITE terhadap pelaku pembuatan dan penyebaran video tersebut.",
+          "key_points": [
+            "Video fitnah terhadap Presiden Prabowo Subianto dianggap sebagai provokasi yang merendahkan martabat kepala negara.",
+            "Komdigi akan menerapkan sanksi hukum berdasarkan UU ITE, khususnya Pasal 27A dan Pasal 28 ayat (2), terhadap pelaku.",
+            "Pemerintah menekankan pentingnya literasi digital untuk menjaga ruang digital tetap sehat dan produktif."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-05-01T12:42:29+00:00",
+          "summary": "Sebuah Oscar milik Pavel Talankin hilang setelah diangkut dalam bagasi kabin di Bandara JFK, New York, karena alasan keamanan, namun kemudian ditemukan oleh maskapai Lufthansa di Frankfurt. Maskapai tersebut menyatakan akan segera mengembalikan statuette tersebut kepada pemiliknya.",
+          "key_points": [
+            "Oscar milik Talankin disita oleh TSA di Bandara JFK karena dianggap potensi senjata.",
+            "Statuette Oscar ditemukan oleh Lufthansa di Frankfurt setelah hilang saat penerbangan ke Jerman.",
+            "Kolaborator Talankin mengkritik penanganan keamanan, menyebut insiden ini tidak akan terjadi pada tokoh terkenal seperti Leonardo DiCaprio."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 120
+    },
+    "timestamp": "2026-05-01T13:21:38.393472+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T13:54:00.802068+00:00",
+    "headline": "Serangan Israel di Lebanon tewaskan wanita dan cedera anak-anak.",
+    "global_headline": "Serangan Israel di Lebanon tewaskan wanita dan cedera anak-anak.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Serangan Israel di Lebanon tewaskan wanita dan cedera anak-anak.",
+          "Israel klaim serang 40 situs Hezbollah, aktivis soroti pelanggaran HAM.",
+          "Gencatan senjata AS gagal hentikan konflik aktif."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik aktif dengan korban sipil dan pelanggaran gencatan senjata.",
+        "external_research": [
+          {
+            "title": "Deep Research: Woman killed, children injured as Israel attacks Lebanon",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Woman killed, children injured as Israel attacks Lebanon\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Serangan Israel ke Lebanon**: Serangan Israel ke Lebanon terjadi pada 2026, setelah konflik antara Israel dan Hizbullah yang dimulai pada 2023. Serangan ini menewaskan sekitar 500 orang, termasuk 127 warga sipil.\n2. **Dampak ekonomi global**: Serangan Israel ke Iran dan Lebanon telah memicu volatilitas pasar saham, kenaikan harga energi, dan inflasi global. Dampak ini juga dirasakan di Indonesia, dengan volatilitas pasar saham, arus modal keluar dari pasar keuangan domestik, dan tekanan lanjutan terhadap nilai tukar rupiah.\n3. **Kondisi ekonomi Indonesia**: Meskipun terdapat tekanan global, Dirjen Strategi Ekonomi dan Fiskal Kementerian Keuangan, Febrio Kacaribu, menyatakan bahwa fundamental ekonomi Indonesia masih relatif kuat. Ada beberapa indikator yang menjadi penopang, antara lain: pertumbuhan ekonomi yang stabil, inflasi yang terkendali, dan arus modal yang positif.\n4. **Kenaikan harga energi**: Harga minyak dipastikan akan naik dalam beberapa hari ke depan karena pasokan nyaris 21% minyak dunia tertahan di selat Hormuz. Kenaikan harga energi ini berpotensi mempengaruhi konsumsi rumah tangga dan investasi swasta di Indonesia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Woman killed, children injured as Israel attacks Lebanon",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-01T13:26:44+00:00",
+            "summary": "Seorang wanita tewas dan beberapa anak terluka akibat serangan Israel di Lebanon. Tentara Israel mengklaim telah menyerang 40 situs Hezbollah dalam 24 jam terakhir, sementara aktivis menyebut destruksi infrastruktur sipil sebagai pelanggaran hak asasi manusia. Serangan terus berlanjut meski ada gencatan senjata yang diinisiasi AS.",
+            "key_points": [
+              "Serangan Israel di Lebanon menyebabkan kematian seorang wanita dan cedera pada anak-anak, dengan korban sipil mayoritas.",
+              "Israel mengklaim menyerang 40 situs Hezbollah, sementara Hezbollah melancarkan serangan balasan di wilayah Lebanon.",
+              "Aktivis mengkritik destruksi sistematis infrastruktur sipil oleh Israel sebagai kejahatan perang, dengan penduduk dipaksa mengosongkan daerah 'buffer zone'."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Guru piano Singapura tetap pilihan karier utama meski jam kerja panjang dan pendapatan tidak pasti.",
+          "Posisi guru piano menempati urutan kedua di indeks pekerjaan terbaik 2026 setelah penasihat keuangan.",
+          "Volatilitas ekonomi dan teknologi tidak mengurangi minat terhadap profesi pendidikan musik."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam preferensi karier di sektor pendidikan kreatif di Asia-Pasifik.",
+        "external_research": [
+          {
+            "title": "Deep Research: No CPF, no days off – but their top career choice is still to be piano teachers",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"No CPF, no days off – but their top career choice is still to be piano teachers\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pasar piano di Asia-Pasifik tumbuh pesat**: Menurut laporan Market Data Forecast, pasar piano di Asia-Pasifik mencapai 25% dari pasar global pada tahun 2025, dengan pertumbuhan yang dipicu oleh meningkatnya pendapatan masyarakat dan perhatian yang kuat terhadap pendidikan musik.\n2. **Tuntutan akan guru musik meningkat**: Laporan Astute Analytica menunjukkan bahwa permintaan akan guru musik meningkat, terutama karena meningkatnya popularitas musik sebagai hobi di kalangan dewasa.\n3. **Prestise dan kesejahteraan guru**: Menurut penelitian di Universitas Lampung, masyarakat menganggap guru sebagai orang yang serba bisa dan panutan, sehingga berprofesi sebagai guru dapat meningkatkan prestise seseorang. Selain itu, kesejahteraan guru juga menjadi faktor penting dalam memilih pekerjaan.\n4. **Indikator menjadi guru**: Menurut penelitian di Universitas Indonesia, untuk menjadi guru dibutuhkan berbagai persyaratan, seperti bakat, keahlian, kepribadian yang baik, mental yang sehat, dan pengalaman serta pengetahuan yang luas."
+          }
+        ],
+        "articles": [
+          {
+            "title": "No CPF, no days off – but their top career choice is still to be piano teachers",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/today/ground-up/piano-teacher-job-good-salary-high-demand-burnout-risk-6091146",
+            "category": "Umum",
+            "published_at": "2026-05-01T13:30:00+00:00",
+            "summary": "Piano teaching di Singapura menjadi pilihan karier populer meskipun menghadapi jam kerja panjang dan pendapatan tidak pasti, terlihat dari jadwal padat Clarisa Tan yang hanya beristirahat saat sakit. Dalam indeks pekerjaan terbaik 2026, posisi guru piano menempati urutan kedua setelah penasihat keuangan, meski pasar kerja terguncang oleh volatilitas ekonomi dan perkembangan teknologi.",
+            "key_points": [
+              "Piano teaching dianggap sebagai karier fleksibel dan resilien meskipun menghadapi tantangan ekonomi dan jam kerja yang panjang.",
+              "Contoh kasus Clarisa Tan menunjukkan jadwal kerja intensif dengan hingga 40 siswa per minggu dan hanya beristirahat saat sakit.",
+              "Posisi guru piano menempati urutan kedua dalam indeks pekerjaan terbaik Singapura 2026, di bawah penasihat keuangan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Arsenal kalah lawan Fulham berisiko tumbang di Liga Champions melawan Atletico.",
+          "Arsenal unggul 3 poin atas Man City di Premier League dengan 73 poin.",
+          "Prediksi Paul Merson menghubungkan hasil Fulham dengan peluang juara Liga Inggris."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Prediksi menghubungkan hasil dua pertandingan krusial yang memengaruhi dua kompetisi utama.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kalau Kalah Lawan Fulham, Arsenal Juga Akan Tumbang dari Atletico",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470339/kalau-kalah-lawan-fulham-arsenal-juga-akan-tumbang-dari-atletico",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T12:40:45+00:00",
+            "summary": "Paul Merson memprediksi Arsenal akan memenangkan Premier League jika mengalahkan Fulham, namun kekalahan melawan Fulham berisiko membuat Arsenal juga kalah melawan Atletico Madrid di Liga Champions. Saat ini Arsenal memimpin klasemen dengan 73 poin, unggul tiga poin dari Manchester City yang baru bermain 33 laga.",
+            "key_points": [
+              "Arsenal bisa memperlebar jarak menjadi enam poin dari Manchester City jika menang melawan Fulham.",
+              "Kekalahan Arsenal dari Fulham diprediksi akan berimbas pada hasil negatif melawan Atletico Madrid di Liga Champions.",
+              "Paul Merson menekankan pentingnya kemenangan Arsenal melawan Fulham untuk memastikan gelar Premier League."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Sanex terbitkan sertifikat halal untuk 60 produk peralatan rumah tangga.",
+          "Langkah ini merespons tren permintaan sertifikasi halal di luar sektor makanan.",
+          "Sanex diapresiasi sebagai pelopor sertifikasi halal di kategori peralatan rumah tangga."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam standar industri non-pangan menuju sertifikasi halal.",
+        "external_research": [
+          {
+            "title": "Deep Research: 60 Produk Peralatan Rumah Tangga Sanex Kantongi Sertifikat Halal",
+            "content": "Berikut adalah 3-4 poin fakta yang padat tentang 60 produk peralatan rumah tangga Sanex yang mendapatkan sertifikasi halal:\n\n1. **Sanex mendapatkan sertifikasi halal untuk 60 produk rumah tangga**: Perusahaan ini telah mendapatkan sertifikasi halal untuk produk-produk seperti dispenser, kompor, teko listrik, dan lain-lain.\n2. **Proses sertifikasi dilakukan melalui audit menyeluruh**: Lembaga pemeriksa halal melakukan audit menyeluruh untuk memastikan kesesuaian standar yang berlaku, termasuk penelusuran bahan baku dan sistem jaminan halal perusahaan.\n3. **Produk yang telah tersertifikasi dipastikan memenuhi ketentuan kehalalan**: Ketua Lembaga Pemeriksa Halal, Tati Maryati, mengatakan bahwa seluruh produk yang telah tersertifikasi dipastikan memenuhi ketentuan kehalalan sesuai regulasi yang berlaku.\n4. **Sanex berencana menambah jumlah produk bersertifikasi halal**: Perusahaan berencana menambah jumlah produk bersertifikasi halal sebagai bagian dari strategi memperkuat kepercayaan konsumen dan daya saing di pasar."
+          }
+        ],
+        "articles": [
+          {
+            "title": "60 Produk Peralatan Rumah Tangga Sanex Kantongi Sertifikat Halal",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8470567/60-produk-peralatan-rumah-tangga-sanex-kantongi-sertifikat-halal",
+            "category": "Umum",
+            "published_at": "2026-05-01T13:13:04+00:00",
+            "summary": "PT Indo Surya Kencana, produsen Sanex, telah memperoleh sertifikasi halal dari BPJPH untuk 60 produk peralatan rumah tangganya. Langkah ini merespons tren meningkatnya permintaan sertifikasi halal di luar sektor makanan dan minuman, sekaligus menunjukkan komitmen perusahaan terhadap standar produksi yang sesuai syariat. Sanex diapresiasi sebagai pelopor dalam kategori peralatan rumah tangga yang menerapkan sertifikasi halal secara luas.",
+            "key_points": [
+              "60 produk Sanex telah terdaftar dengan sertifikat halal dari BPJPH.",
+              "Tren sertifikasi halal mulai merambah ke sektor peralatan rumah tangga, selain makanan dan minuman.",
+              "Sanex diakui sebagai pelopor dalam penerapan sertifikasi halal di kategori home appliances."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Modric pensiun lebih awal akibat cedera retak tulang pipi melawan Juventus.",
+          "Klausul perpanjangan kontrak satu tahun kemungkinan diaktifkan untuk Liga Champions.",
+          "Keputusan memengaruhi strategi AC Milan di bursa transfer dan kompetisi Eropa."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi klub dan ambisi Liga Champions terganggu akibat cedera pemain kunci.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Modric Pilih Mana, Pensiun Cedera atau Perpanjang Kontrak di Milan?",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-italia/d-8470454/modric-pilih-mana-pensiun-cedera-atau-perpanjang-kontrak-di-milan",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T13:20:15+00:00",
+            "summary": "Luka Modric dipastikan menutup musim 2025/2026 bersama AC Milan lebih awal akibat cedera retak tulang pipi yang didapat saat laga melawan Juventus. Ia memiliki klausul perpanjangan kontrak satu tahun yang kemungkinan akan diaktifkan untuk melanjutkan karier bersama Milan, terutama karena keinginannya bermain di Liga Champions musim depan.",
+            "key_points": [
+              "Modric cedera retak tulang pipi dalam laga AC Milan vs Juventus, memaksa dirinya absen hingga akhir musim 2025/2026.",
+              "Kontrak Modric di Milan memiliki klausul tambahan satu tahun yang ia dipastikan akan diaktifkan.",
+              "Modric berpotensi melanjutkan karier di Milan untuk musim depan, terutama untuk bermain di Liga Champions di bawah asuhan Massimiliano Allegri."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Ekonomi: Konflik Lebanon Memicu Ketidakpastian Pasar Halal Global",
+        "analysis": "Serangan Israel di Lebanon (geopolitik) memicu ketidakstabilan regional yang berdampak pada rantai pasok dan kepercayaan konsumen di kawasan Timur Tengah. Sanex, perusahaan teknologi yang menerbitkan sertifikat halal, mungkin menghadapi risiko penurunan permintaan di pasar Timur Tengah akibat konflik ini. Sebaliknya, stabilitas Singapura memungkinkan masyarakat tetap memilih karier di bidang seni seperti guru piano, menunjukkan bahwa keamanan nasional memengaruhi preferensi ekonomi dan sosial. Konflik juga bisa mengalihkan investasi dari sektor teknologi ke pertahanan, mengurangi dana untuk inovasi halal."
+      },
+      {
+        "title": "Sosial dan Ekonomi: Ketahanan Karier Seni di Singapura vs. Fragilitas Ekonomi di Wilayah Konflik",
+        "analysis": "Pilihan karier guru piano di Singapura, meski tidak menjanjikan secara finansial, mencerminkan nilai sosial yang tinggi terhadap seni di masyarakat stabil. Di sisi lain, konflik Israel-Lebanon menghancurkan infrastruktur pendidikan dan ekonomi lokal, memaksa masyarakat beralih ke pekerjaan sementara. Ketidakpastian ekonomi akibat perang juga memengaruhi konsumen halal: permintaan produk halal Sanex mungkin menurun jika konflik mengurangi daya beli di pasar Muslim. Ini menunjukkan bagaimana stabilitas geopolitik membangun ekosistem sosial-ekonomi yang mendukung karier spesialisasi."
+      }
+    ],
+    "other_news": {
+      "Ekonomi": [
+        {
+          "title": "Bukan Subsidi, Ternyata Vietnam Pakai Ikan Buat Jaga Harga BBM",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260501120711-128-731534/bukan-subsidi-ternyata-vietnam-pakai-ikan-buat-jaga-harga-bbm",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T13:45:36+00:00",
+          "summary": "Vietnam mengatasi kenaikan biaya logistik akibat harga minyak global dengan mengalihkan fokus ekspor ikan nila ke pasar dekat untuk meminimalkan beban bahan bakar. Strategi ini berhasil mendorong pertumbuhan ekspor ikan nila hingga US$ 99 juta pada 2025 dan US$ 35 juta pada kuartal I-2026.",
+          "key_points": [
+            "Vietnam menggunakan ikan nila sebagai komoditas utama untuk menjaga stabilitas ekspor perikanan di tengah kenaikan biaya logistik.",
+            "Ekspor ikan nila Vietnam mengalami pertumbuhan signifikan, mencapai US$ 99 juta pada 2025 dan US$ 35 juta pada kuartal I-2026.",
+            "Vietnam mengurangi ketergantungan pada pasar jauh seperti Amerika Serikat dan Brasil dengan memprioritaskan rute pendek untuk mengurangi biaya transportasi."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T13:12:10+00:00",
+          "summary": "Perang di Iran berpotensi mengganggu pasokan pupuk dan bahan baku utamanya, yang dapat mengurangi produksi pangan hingga 10 miliar porsi per minggu secara global, terutama di negara-negara miskin. Kepala produsen pupuk Yara, Svein Tore Holsether, memperingatkan bahwa penurunan penggunaan pupuk nitrogen akan mengurangi hasil panen hingga 50% di musim tanam pertama dan memicu persaingan harga pangan.",
+          "key_points": [
+            "Kekurangan pupuk nitrogen global mencapai 500.000 ton akibat konflik di Teluk, mengancam produksi pangan hingga 10 miliar porsi per minggu.",
+            "Penurunan hasil panen terbesar akan terjadi di Asia, Afrika Tengah, dan Amerika Latin, dengan dampak paling parah di negara-negara dengan penggunaan pupuk yang sudah rendah.",
+            "Dampak krisis pupuk di Asia baru terlihat pada akhir tahun, saat hasil panen yang seharusnya ditanam saat ini dipetik."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Man United Vs Liverpool: The Reds Tanpa Salah",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470446/man-united-vs-liverpool-the-reds-tanpa-salah",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T13:00:20+00:00",
+          "summary": "Liverpool akan menghadapi Manchester United tanpa Mohamed Salah karena cedera hamstring. Manajer Arne Slot menyatakan kondisi Salah belum memungkinkan tampil di pertandingan tersebut, meski Liverpool optimis ia bisa kembali di sisa musim. Slot juga menegaskan cedera Salah tidak parah dan ia layak mendapatkan perpisahan yang layak.",
+          "key_points": [
+            "Mohamed Salah absen melawan Manchester United akibat cedera hamstring.",
+            "Liverpool memastikan Salah masih bisa bermain di sisa musim meski tidak tampil di pertandingan kontra Man United.",
+            "Manajer Arne Slot menyatakan cedera Salah tidak parah dan berharap ia kembali di akhir musim."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Thompson-Herah happy to be back in competition after missing Paris due to injury",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/thompson-herah-happy-be-back-in-competition-after-missing-paris-due-injury-6094571",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:36:00+00:00",
+          "summary": "Elaine Thompson-Herah, juara Olimpiade lima kali dari Jamaika yang absen di Olimpiade Paris karena cedera tendon Achilles, kembali berlaga setelah 20 bulan rehabilitasi. Ia mengatakan musim ini sebagai langkah awal untuk memulihkan performa terbaiknya dan bersiap menghadapi Commonwealth Games Juli mendatang.",
+          "key_points": [
+            "Thompson-Herah absen di Olimpiade Paris 2024 akibat cedera tendon Achilles yang membutuhkan rehabilitasi 20 bulan.",
+            "Ia kembali berkompetisi tahun ini dan mengikuti World Athletics Relays di Botswana sebagai bagian dari tim 4x100m Jamaika.",
+            "Thompson-Herah fokus membangun performa untuk Commonwealth Games 2023 dan persiapan Olimpiade berikutnya sambil menjaga kesabaran dalam pemulihan."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Iran offers new proposal amid stalled US peace talks",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/iran-new-proposal-us-peace-talks-pakistan-6094591",
+          "category": "Internasional",
+          "published_at": "2026-05-01T13:09:00+00:00",
+          "summary": "Iran mengajukan proposal baru untuk perundingan damai dengan AS melalui mediator Pakistan, meskipun negosiasi antara kedua pihak tetap terhambat. Konflik yang dimulai oleh AS dan Israel pada 28 Februari 2026 masih berada dalam status jeda sejak 8 April, sementara blokade saling dilakukan di Selat Hormuz dan pelabuhan Iran, yang memicu kenaikan harga minyak.",
+          "key_points": [
+            "Iran menyerahkan proposal damai ke Pakistan sebagai mediator pada 30 April 2026.",
+            "Perundingan AS-Iran terhenti meskipun ada jeda konflik sejak 8 April 2026.",
+            "Blokade saling dilakukan di Selat Hormuz dan pelabuhan Iran, menyebabkan harga minyak melonjak lebih dari 50% dari tingkat sebelum perang."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T10:12:57+00:00",
+          "summary": "Israel melepaskan sebagian besar aktivis pro-Palestina yang ditahan setelah kapal bantuan Gaza dihentikan di perairan internasional, sementara dua orang masih dibawa ke Israel untuk pemeriksaan. Aktivis lain tiba di Kreta, Yunani, sebelum direncanakan kembali ke negara asal.",
+          "key_points": [
+            "175 aktivis ditahan Israel, namun sebagian besar dilepaskan di Kreta, Yunani.",
+            "Dua aktivis, Saif Abu Keshek dan Thiago Ávila, ditahan Israel karena dugaan afiliasi teroris dan aktivitas ilegal.",
+            "Aktivis yang dilepaskan akan sementara tinggal di Heraklion sebelum kembali ke negara asal."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T05:04:08+00:00",
+          "summary": "Pasangan Lindsay dan Craig Foreman dari Inggris menjalani hukuman 10 tahun penjara di Iran atas tuduhan spionase yang mereka ingkari, sambil berjuang untuk tetap tenang melalui rutinitas harian. Mereka berada di penjara Evin, dipisahkan dalam sel berbeda, dan berkomunikasi dengan putra mereka, Joe, melalui panggilan telepon yang dipantau dan sering terputus.",
+          "key_points": [
+            "Pasangan Inggris Lindsay dan Craig Foreman dihukum 10 tahun penjara di Iran atas tuduhan spionase yang mereka bantah.",
+            "Mereka menjaga kesehatan mental melalui aktivitas fisik dan rutinitas harian, meski mengaku kesulitan menerima masa tahanan yang panjang.",
+            "Komunikasi dengan keluarga di luar terbatas dan dipantau, dengan panggilan telepon yang sering terganggu dan diinterupsi oleh pihak penjara."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Giorgia Meloni’s moral retreat on Gaza",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-01T12:33:00+00:00",
+          "summary": "Giorgia Meloni, yang dulu tegas mengutuk serangan Israel di Gaza pada 2014, kini sebagai Perdana Menteri Italia mengeluarkan pernyataan yang canggung dan ambigu terkait konflik tersebut. Italia menghentikan otomatisasi perpanjangan pakta pertahanan dengan Israel, tetapi keputusan ini diambil setelah insiden langsung terhadap pasukan perdamaian PBB yang ditempatkan di Lebanon, bukan karena krisis kemanusiaan di Gaza. Sikap Meloni terhadap isu-isu internasional tampak lebih reaktif terhadap kejadian yang menyerang kepentingan Italia secara langsung.",
+          "key_points": [
+            "Meloni berubah dari sikap tegas mengecam pembunuhan di Gaza (2014) menjadi pernyataan ambigus sebagai PM Italia.",
+            "Penghentian pakta pertahanan Italia-Israel diumumkan setelah insiden pasukan UNIFIL, bukan karena krisis kemanusiaan di Gaza.",
+            "Kritik Meloni terhadap Donald Trump hanya muncul setelah Trump menghina Paus Leo XIV, menunjukkan responsif terhadap kejadian yang mengancam kepentingan Italia."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Umum": [
+        {
+          "title": "10 Gereja Tertua di Dunia, Usianya Ribuan Tahun",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/research/20260424150958-128-729618/10-gereja-tertua-di-dunia-usianya-ribuan-tahun",
+          "category": "Umum",
+          "published_at": "2026-05-01T12:40:50+00:00",
+          "summary": "Artikel ini mengulas 10 gereja tertua di dunia yang berusia ribuan tahun, mencakup sejarah pembangunan, penemuan, dan makna budaya serta spiritualnya. Contohnya, Gereja Dura-Europos sebagai gereja Kristen tertua yang ditemukan, gereja Megiddo yang ditemukan oleh narapidana, serta Gereja Kelahiran Yesus di Betlehem.",
+          "key_points": [
+            "Gereja Dura-Europos dianggap sebagai gereja Kristen tertua di dunia, dibangun sekitar tahun 233 M.",
+            "Gereja Megiddo ditemukan secara tidak sengaja oleh narapidana pada 2005 dan memiliki mosaik dengan simbol ikan.",
+            "Gereja Kelahiran Yesus di Betlehem dibangun pada 325 M dan diakui sebagai situs kelahiran Yesus."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "10 Wilayah Baru yang Masuk Blue Zone, Rata-rata Umurnya sampai 100 Tahun",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470297/10-wilayah-baru-yang-masuk-blue-zone-rata-rata-umurnya-sampai-100-tahun",
+          "category": "Kesehatan",
+          "published_at": "2026-05-01T09:05:39+00:00",
+          "summary": "Studi terbaru dari World Depopulation (Maret 2026) mengidentifikasi 10 wilayah baru dengan peluang hidup panjang, didominasi oleh kota-kota di Eropa dan Australia. Kota-kota ini dinilai berdasarkan kualitas hidup, lingkungan, dan indikator kesehatan seperti harapan hidup, tingkat merokok, obesitas, serta aktivitas fisik lansia.",
+          "key_points": [
+            "Norwegia menjadi wilayah teratas dengan kota Bergen yang memiliki indeks umur panjang 88,87 dan rata-rata usia 84 tahun.",
+            "Australia dan Prancis mendominasi daftar dengan Canberra (Australia) dan kota-kota seperti Nantes serta Grenoble (Prancis) yang unggul dalam sistem kesehatan dan pola makan sehat.",
+            "Swiss masuk lima besar melalui kota Bern, yang dikenal dengan keamanan pangan, kualitas layanan kesehatan, dan tingkat aktivitas fisik lansia yang tinggi."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 250
+    },
+    "timestamp": "2026-05-01T13:54:00.802068+00:00"
+  },
+  {
+    "date": "2026-05-01",
+    "generated_at": "2026-05-01T14:08:02.266432+00:00",
+    "headline": "Kabut tebal dan perlintasan tanpa pengawasan di Grobogan memicu tabrakan kereta yang tewaskan 4 orang, termasuk 2 anak-anak.",
+    "global_headline": "Kabut tebal dan perlintasan tanpa pengawasan di Grobogan memicu tabrakan kereta yang tewaskan 4 orang, termasuk 2 anak-anak.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Kecelakaan Kereta Api di Indonesia",
+        "title": "Kecelakaan Kereta Api di Indonesia",
+        "synthesis": [
+          "Tabrakan kereta di Grobogan tewaskan 4 orang, termasuk 2 anak-anak, akibat kabut tebal dan perlintasan tanpa pengawasan.",
+          "Kecelakaan kereta di luar Jakarta 16 hari sebelumnya menewaskan 16 orang, menunjukkan pola kejadian serupa.",
+          "Penyebab utama: kelalaian manusia dan faktor lingkungan seperti kabut tebal di perlintasan rawan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik transportasi dan risiko keamanan publik akibat kejadian berulang.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kecelakaan Kereta Api di Indonesia",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang kecelakaan kereta api di Indonesia. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penyebab utama kecelakaan kereta api**: Kelalaian manusia menjadi salah satu penyebab utama kecelakaan kereta api di Indonesia. Faktor-faktor seperti kesalahan operator, pelanggaran sinyal, dan kecelakaan manusia lainnya sering kali menjadi penyebab kecelakaan.\n2. **Faktor lingkungan**: Faktor lingkungan seperti banjir, tanah longsor, dan tanah amblas juga dapat memicu kecelakaan kereta api. Kondisi geografis Indonesia yang rawan bencana alam membuat kecelakaan ini lebih sering terjadi.\n3. **Kesalahan manusia**: Faktor kesalahan manusia adalah penyebab utama kecelakaan kereta api di Indonesia. Faktor-faktor seperti kesalahan operator, pelanggaran sinyal, dan kecelakaan manusia lainnya sering kali menjadi penyebab kecelakaan.\n4. **Pentingnya keselamatan**: Menurut pakar transportasi dari Universitas Gadjah Mada, Dr. Ir. Dewanti, M.S., keselamatan harus menjadi indikator utama dalam setiap kebijakan transportasi nasional. Berbagai kecelakaan beruntun yang menimbulkan korban jiwa seharusnya dapat dihindari melalui peran aktif semua pihak yang terlibat dalam keselamatan lalu lintas."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Indonesia train crash kills four: Police",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/asia/indonesia-train-crash-kills-four-java-grobogan-6094511",
+            "category": "Umum",
+            "published_at": "2026-05-01T12:34:00+00:00",
+            "summary": "Sebuah kereta tabrak mobil di Grobogan, Jawa Tengah, menewaskan empat orang termasuk dua anak-anak karena kabut tebal menghalangi pandangan di perlintasan tanpa pengawasan. Kecelakaan ini terjadi beberapa hari setelah tabrakan kereta lain di luar Jakarta yang menewaskan 16 orang.",
+            "key_points": [
+              "Tabrakan kereta dan mobil di Grobogan menewaskan empat orang, termasuk dua anak, akibat kabut tebal di perlintasan tanpa pengawasan.",
+              "Presiden Prabowo Subianto menyalahkan perlintasan tak aman sebagai penyebab kecelakaan kereta di Bekasi Timur yang menewaskan 16 orang dan memerintahkan peningkatan infrastruktur.",
+              "Transportasi darat di Indonesia sering mengalami kecelakaan karena armada yang usang dan perlintasan tidak aman, seperti yang terjadi di Grobogan dan Bekasi."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Penangguhan Deadline Persetujuan Perang Iran",
+        "title": "Penangguhan Deadline Persetujuan Perang Iran",
+        "synthesis": [
+          "Deadline perang Iran ditangguhkan karena gencatan senjata.",
+          "Senator Kaine menantang klaim penangguhan deadline.",
+          "Selat Hormuz tertutup, mengganggu ekonomi global."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi sistemik dan eskalasi konflik regional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Penangguhan Deadline Persetujuan Perang Iran",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Penangguhan Deadline Persetujuan Perang Iran\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pemerintah AS Anggap Perang Iran Telah Berakhir**: Pemerintah AS menganggap perang Iran telah berakhir menjelang deadline 60 hari Kongres, menurut laporan dari Kompas.\n2. **Iran Kewalahan Hadapi Blokade AS**: Iran kewalahan hadapi blokade AS dan strategi lama tidak lagi efektif, menurut laporan dari Sindonews.\n3. **Negara-negara Teluk Menggembar-gemborkan Keberhasilan**: Negara-negara Teluk menggembar-gemborkan keberhasilan dalam mencegat serangan rudal dan drone Iran selama lima minggu konflik, menurut laporan dari The Guardian.\n4. **Iran Bersikeras Mempertahankan Kendali atas Selat Hormuz**: Iran bersikeras mempertahankan kendali atas Selat Hormuz, tempat sebagian besar perdagangan mereka mengalir, menurut laporan dari Sindonews.\n\nNamun, perlu diingat bahwa informasi ini masih dalam proses pengembangan dan dapat berubah seiring dengan perkembangan situasi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-05-01T11:05:14+00:00",
+            "summary": "Menteri Pertahanan AS Pete Hegseth menyatakan bahwa tenggat waktu 60 hari untuk mencari persetujuan Kongres atas perang AS-Israel dengan Iran telah dihentikan sementara karena adanya gencatan senjata. Namun, Senator Demokrat Tim Kaine menantang klaim tersebut, menegaskan bahwa tenggat waktu tetap berjalan sesuai hukum. Sementara itu, Selat Hormuz masih tertutup, berdampak pada ekonomi global.",
+            "key_points": [
+              "Hegseth berargumen bahwa gencatan senjata sejak April 2024 menghentikan hitungan 60 hari sesuai Resolusi Kekuatan Perang AS.",
+              "Senator Tim Kaine menolak klaim tersebut, menekankan bahwa tenggat waktu 60 hari tetap berlaku tanpa pengecualian hukum.",
+              "Selat Hormuz, jalur laut vital, tetap tertutup dan menyebabkan dampak ekonomi global meski gencatan senjata telah berlaku."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Serangan terhadap Kristen di Yerusalem",
+        "title": "Serangan terhadap Kristen di Yerusalem",
+        "synthesis": [
+          "Serangan terhadap biarawati Kristen di Yerusalem meningkatkan ancaman komunitas Kristen.",
+          "Polisi Israel menangkap tersangka serangan, tetapi tren kekerasan terhadap Kristen terus naik.",
+          "Peringatan Gereja Ortodoks Yunani soal ancaman sistemik terhadap keberadaan Kristen di Tanah Suci."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran dinamika keamanan dan ketegangan antaragama di wilayah multi-keagamaan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan terhadap Kristen di Yerusalem",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang serangan terhadap Kristen di Yerusalem dan kawasan lainnya. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Serangan terhadap Kristen di Yerusalem**: Pada tahun 2021, para pemimpin gereja Jerusalem membuat pernyataan bersama yang mengungkapkan bahwa sejumlah kelompok radikal, pemerintah, dan polisi lokal sering melakukan tindakan kekerasan verbal dan fisik terhadap umat Kristiani, termasuk para pendeta, pastor, dan gereja serta properti mereka.\n2. **Kekerasan terhadap minoritas Kristen di Suriah**: Pada Juni 2025, sebuah serangan bom bunuh diri terhadap komunitas Kristen di Damaskus mengancam transisi multikulturalisme di Suriah. Insiden tersebut turut menebar ketakutan di kalangan minoritas agama di seluruh penjuru negeri.\n3. **Serangan terhadap gereja Katolik di Istanbul**: Pada bulan lalu, dua pria bersenjata melancarkan serangan mematikan terhadap sebuah gereja Katolik di Istanbul. Kelompok Negara Islam (ISIS) mengaku bertanggung jawab atas serangan itu dan memperingatkan bahwa mereka menarget orang Yahudi dan Kristen.\n4. **Kekerasan terhadap umat Kristen di Gaza**: Komunitas Kristiani di Gaza yang kecil mempengaruhi segala macam relasi mereka. Menurut Elias Jarada, anggota Dewan Gereja Ortodoks Arab, jumlah mereka hanya sedikit dan ingin anak-anak mereka terbuka terhadap komunitas Kristen dan mengenal keluarga mereka serta menjalani kehidupan normal."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-01T12:22:26+00:00",
+            "summary": "Seorang uskup Ortodoks Yunani di Yerusalem mengutuk serangan terhadap seorang biarawati oleh seorang pria Yahudi dan memperingatkan ancaman terhadap keberadaan Kristen di Tanah Suci. Polisi Israel telah menangkap tersangka serangan tersebut, sementara laporan menunjukkan peningkatan serangan terhadap komunitas Kristen di wilayah tersebut dalam beberapa tahun terakhir.",
+            "key_points": [
+              "Serangan terhadap biarawati Prancis di Yerusalem dilakukan oleh seorang pria Yahudi, yang telah ditangkap oleh polisi Israel.",
+              "Uskup Atallah Hanna menyatakan bahwa serangan tersebut bukan insiden terisolasi, tetapi bagian dari pola yang mengancam keberadaan Kristen di Tanah Suci.",
+              "Lembaga Rossing mencatat peningkatan serangan terhadap komunitas Kristen di Yerusalem Timur dan Israel dalam beberapa tahun terakhir."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Tantangan Mental Juara Persib oleh Bojan Hodak",
+        "title": "Tantangan Mental Juara Persib oleh Bojan Hodak",
+        "synthesis": [
+          "Persib comeback 4-2, kembali pimpin klasemen Super League.",
+          "Bojan Hodak tantang mental juara untuk memicu performa tim.",
+          "Marc Klok tekankan komitmen penuh di setiap pertandingan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran posisi puncak klasemen dan dinamika kompetisi regional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Karena Bojan Hodak Tantang Mental Juara Persib",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8470354/karena-bojan-hodak-tantang-mental-juara-persib",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T13:40:30+00:00",
+            "summary": "Persib Bandung comeback mengalahkan Bhayangkara FC 4-2 di lanjutan Super League, kembali memimpin klasemen. Pelatih Bojan Hodak memicu semangat tim dengan tantangan mental juara, sementara Marc Klok menekankan pentingnya memberikan segalanya di lapangan.",
+            "key_points": [
+              "Persib Bandung menang 4-2 atas Bhayangkara FC dan kembali ke peringkat pertama klasemen Super League.",
+              "Bojan Hodak memotivasi tim dengan teriakan dan pertanyaan soal mental juara untuk membangkitkan semangat.",
+              "Persib Bandung dan Borneo FC kini berada di posisi teratas klasemen dengan 69 poin dari 30 laga."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Laga Man United Kontra Liverpool Tanpa Salah",
+        "title": "Laga Man United Kontra Liverpool Tanpa Salah",
+        "synthesis": [
+          "Mohamed Salah absen vs Man United karena cedera hamstring",
+          "Arne Slot optimis Salah kembali di sisa musim",
+          "Kehilangan pemain kunci berisiko strategi Liverpool"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Absennya pemain bintang mengubah dinamika pertandingan dan kekuatan tim.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Man United Vs Liverpool: The Reds Tanpa Salah",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470446/man-united-vs-liverpool-the-reds-tanpa-salah",
+            "category": "Olahraga",
+            "published_at": "2026-05-01T13:00:20+00:00",
+            "summary": "Liverpool akan menghadapi Manchester United tanpa Mohamed Salah yang mengalami cedera hamstring. Manajer Arne Slot menyatakan kondisi Salah belum memungkinkan untuk tampil, tetapi ia optimis pemain Mesir itu bisa kembali di sisa musim ini.",
+            "key_points": [
+              "Mohamed Salah absen dalam laga Liverpool vs Manchester United karena cedera hamstring.",
+              "Liverpool memastikan Salah masih bisa bermain di sisa musim meski tidak tampil pada pertandingan tersebut.",
+              "Arne Slot menyebut Salah layak mendapatkan perpisahan yang layak setelah musim ini."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Keterkaitan Geopolitik dan Infrastruktur dalam Krisis Multisektoral",
+        "analysis": "Penangguhan deadline perang Iran (geopolitik) dan kecelakaan kereta di Grobogan (infrastruktur) menunjukkan ketergantungan antara stabilitas politik dan kualitas manajemen risiko infrastruktur. Ketegangan geopolitik di Timur Tengah memicu alih prioritas sumber daya negara-negara terkait ke isu keamanan, mengurangi investasi pada pemeliharaan infrastruktur kritis seperti sistem perlintasan kereta di daerah rawan kabut. Di sisi lain, kecelakaan kereta yang menewaskan anak-anak memicu tekanan publik terhadap pemerintah Indonesia untuk meningkatkan pengawasan, yang bisa mengalihkan perhatian dari isu regional seperti dinamika Iran-Israel yang berpotensi memengaruhi jalur perdagangan global melalui Selat Hormuz."
+      },
+      {
+        "title": "Dinamika Sosial dan Keamanan dalam Konteks Konflik Berkelanjutan",
+        "analysis": "Serangan terhadap biarawati di Yerusalem (sosial/keamanan) dan penangguhan perang Iran (geopolitik) saling memperkuat ancaman keamanan global. Peningkatan kekerasan terhadap minoritas di Yerusalem memicu eskalasi ketegangan antaragama, yang bisa memicu intervensi militer atau sanksi internasional. Hal ini secara tidak langsung memengaruhi proses negosiasi Iran, karena pemerintah Iran mungkin mengalihkan sumber daya ke penjagaan perbatasan internal atau kampanye propaganda untuk mengalihkan perhatian dari ketegangan nuklir. Sebaliknya, ketidakpastian perang Iran berpotensi memicu kekhawatiran global terhadap keamanan agama, memperburuk situasi di Yerusalem."
+      }
+    ],
+    "other_news": {
+      "Ekonomi": [
+        {
+          "title": "No CPF, no days off – but their top career choice is still to be piano teachers",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/today/ground-up/piano-teacher-job-good-salary-high-demand-burnout-risk-6091146",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T13:30:00+00:00",
+          "summary": "Piano teaching di Singapura semakin diminati sebagai pilihan karier yang fleksibel dan tahan terhadap krisis ekonomi, meski instruktur bekerja dalam jam yang panjang dan pendapatan yang tidak pasti. Contoh seperti Clarisa Tan, yang memiliki jadwal padat hampir setiap hari, tetap merasa puas dengan pekerjaannya. Posisi 'piano teacher' bahkan menempati urutan kedua dalam indeks pekerjaan terbaik Singapura 2026.",
+          "key_points": [
+            "Piano teaching menjadi pilihan karier populer karena fleksibilitas dan ketahanan terhadap volatilitas ekonomi.",
+            "Instruktur piano seperti Clarisa Tan bekerja hampir tanpa hari libur dengan jadwal padat 35-40 siswa per minggu.",
+            "Piano teacher menempati peringkat kedua dalam indeks pekerjaan terbaik Singapura 2026, di bawah financial adviser."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "RI Bisa Tiru China! Driver Ojol Dapat Gaji UMR dan Batasan Jam Kerja",
+          "source": "CNBC Indonesia",
+          "url": "https://www.cnbcindonesia.com/tech/20260501190352-37-731597/ri-bisa-tiru-china-driver-ojol-dapat-gaji-umr-batasan-jam-kerja",
+          "category": "Hukum",
+          "published_at": "2026-05-01T14:00:00+00:00",
+          "summary": "China menerapkan aturan baru untuk melindungi pekerja platform digital seperti driver ojol dan kurir, termasuk gaji minimum setara UMR, batas jam kerja, dan tambahan upah pada hari libur. Platform diwajibkan menegosiasikan jam kerja dengan perwakilan pekerja serta menghentikan pesanan baru setelah batas waktu kerja tercapai. Regulasi ini bertujuan mengatasi risiko kerja berbahaya akibat tekanan algoritma.",
+          "key_points": [
+            "Pekerja platform digital diwajibkan menerima gaji minimum lokal (UMR) dan upah tambahan pada hari libur.",
+            "Platform harus menetapkan batas jam kerja serta menghentikan pesanan baru setelah batas waktu tercapai.",
+            "Regulasi mengatur kontrak kerja atau perjanjian tertulis serta mengakui risiko kerja berbahaya dari algoritma pengiriman."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Iran offers new proposal amid stalled US peace talks",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/iran-new-proposal-us-peace-talks-pakistan-6094591",
+          "category": "Internasional",
+          "published_at": "2026-05-01T13:09:00+00:00",
+          "summary": "Iran mengajukan proposal baru untuk perundingan damai dengan AS melalui mediator Pakistan, meskipun negosiasi antara kedua pihak tetap terhambat. Konflik yang dimulai oleh AS dan Israel pada 28 Februari 2026 masih berada dalam status pemogokan sejak 8 April, sementara blokade saling diterapkan di Selat Hormuz memengaruhi harga minyak global.",
+          "key_points": [
+            "Iran menyerahkan proposal damai ke Pakistan sebagai mediator, namun perundingan langsung dengan AS belum berhasil tercapai.",
+            "Konflik AS-Israel yang melibatkan Iran berdampak pada blokade Selat Hormuz dan kenaikan harga minyak lebih dari 50% dari level sebelum perang.",
+            "Pemimpin tinggi Iran menegaskan tidak ingin perang berlanjut, tetapi menolak keras tekanan dari pihak luar."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T05:04:08+00:00",
+          "summary": "Pasangan Britania Lindsay dan Craig Foreman menjalani hukuman 10 tahun penjara di Iran atas tuduhan spionase yang mereka ingkari. Mereka mengaku kesulitan menerima kenyataan bahwa masa tahanan akan berlangsung lama, sementara komunikasi keluarga terbatas melalui panggilan telepon yang dipantau.",
+          "key_points": [
+            "Pasangan tersebut ditahan di Iran sejak Januari 2025 atas tuduhan spionase yang mereka bantah.",
+            "Mereka menerima hukuman 10 tahun penjara dan dipisahkan dalam sel berbeda di penjara Evin.",
+            "Komunikasi keluarga hanya dilakukan melalui panggilan telepon terbatas yang dipantau otoritas Iran."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "PS5 Naik Gila-gilaan! Ini Harga Terbaru di Indonesia per 1 Mei 2026",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/games-news/d-8470563/ps5-naik-gila-gilaan-ini-harga-terbaru-di-indonesia-per-1-mei-2026",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T12:18:58+00:00",
+          "summary": "Harga PlayStation 5 (PS5) di Indonesia naik per 1 Mei 2026, dengan kenaikan mencapai lebih dari Rp 1 juta untuk kedua jenis konsol. Kenaikan ini berlaku di Indonesia dan lima negara ASEAN lainnya, serta diumumkan oleh PlayStation pada 27 April 2026.",
+          "key_points": [
+            "Harga PS5 Slim Digital Edition naik Rp 1,8 juta dari Rp 8.199.000 menjadi Rp 9.999.000, sementara PS5 Slim Disc Edition naik Rp 1,7 juta dari Rp 9.699.000 menjadi Rp 11.399.000.",
+            "Kenaikan harga PS5 terjadi di Indonesia, Singapura, Malaysia, Thailand, Filipina, dan Vietnam akibat tekanan ekonomi global.",
+            "PlayStation menyatakan kenaikan harga diperlukan untuk memastikan pengalaman bermain game inovatif dan berkualitas tetap bisa diberikan kepada pemain."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "TelkomGroup Dukung Komdigi Ciptakan Ruang Digital Aman Anak Lewat PP Tunas",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8470470/telkomgroup-dukung-komdigi-ciptakan-ruang-digital-aman-anak-lewat-pp-tunas",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T10:56:27+00:00",
+          "summary": "Menteri Komunikasi dan Digital Meutya Hafid menekankan pentingnya literasi digital dan kolaborasi untuk menciptakan ruang digital aman bagi anak, sejalan dengan Peraturan Pemerintah Nomor 17 Tahun 2025 (PP TUNAS). Ia juga menyoroti peran generasi muda, khususnya lulusan Telkom University, dalam menggerakkan inovasi digital dan mengatasi tantangan seperti misinformasi.",
+          "key_points": [
+            "PP TUNAS diamanatkan untuk melindungi anak dalam tata kelola sistem elektronik.",
+            "Generasi muda diharapkan menjadi agen literasi digital dan penggerak inovasi nasional.",
+            "Misinformasi di ruang digital diidentifikasi sebagai tantangan global yang memerlukan peran aktif pemuda."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Momen Prabowo Tanya Para Buruh di May Day: MBG Bermanfaat atau Tidak?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470134/momen-prabowo-tanya-para-buruh-di-may-day-mbg-bermanfaat-atau-tidak",
+          "category": "Umum",
+          "published_at": "2026-05-01T07:30:29+00:00",
+          "summary": "Presiden Prabowo Subianto menanyakan langsung kebermanfaatan program Makan Bergizi Gratis (MBG) kepada para buruh saat peringatan Hari Buruh Internasional. Ia menegaskan komitmen pemerintah dalam memberikan perlindungan sosial dan menjelaskan dampak program MBG terhadap kesehatan anak serta perputaran ekonomi nasional.",
+          "key_points": [
+            "Prabowo Subianto menanyakan langsung tanggapan buruh terkait program MBG.",
+            "Pemerintah berkomitmen memberikan perlindungan sosial sebesar Rp 500 triliun untuk rakyat berpenghasilan rendah.",
+            "Program MBG dijelaskan memiliki dampak ganda, yaitu meningkatkan gizi anak dan mendorong perputaran ekonomi melalui sektor pangan."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Thompson-Herah happy to be back in competition after missing Paris due to injury",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/thompson-herah-happy-be-back-in-competition-after-missing-paris-due-injury-6094571",
+          "category": "Olahraga",
+          "published_at": "2026-05-01T12:36:00+00:00",
+          "summary": "Elaine Thompson-Herah, sprinter Jamaika yang absen di Olimpiade Paris 2024 karena cedera Achilles, kembali berlaga setelah 20 bulan pemulihan. Ia menggunakan musim ini sebagai langkah awal untuk kembali ke performa terbaiknya dan berfokus pada persiapan Commonwealth Games Juli 2023.",
+          "key_points": [
+            "Thompson-Herah absen di Olimpiade Paris 2024 akibat cedera Achilles yang memerlukan rehabilitasi 20 bulan.",
+            "Ia kembali berkompetisi di awal 2023 dan menargetkan penampilan di Commonwealth Games Juli 2023 sebagai langkah menuju Olimpiade berikutnya.",
+            "Thompson-Herah menekankan pentingnya kesabaran dalam proses pemulihan dan fokus pada kembalinya ke performa terbaik tanpa tekanan."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Giorgia Meloni’s moral retreat on Gaza",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-01T12:33:00+00:00",
+          "summary": "Giorgia Meloni, yang dulu tegas mengutuk pembunuhan di Gaza pada 2014, kini sebagai Perdana Menteri Italia mengeluarkan pernyataan yang canggung dan ambigu terkait konflik Israel-Palestina. Italia menghentikan otomatisasi perpanjangan pakta pertahanan dengan Israel, tetapi keputusan itu diambil setelah serangan langsung terhadap pasukan perdamaian PBB yang ditempatkan Italia, bukan karena krisis kemanusiaan di Gaza. Sikap kritis Meloni terhadap Presiden AS Donald Trump muncul hanya setelah Trump menghina Paus Leo XIV.",
+          "key_points": [
+            "Meloni berubah dari tegas mengutuk pembunuhan di Gaza (2014) menjadi bersikap ambigu sebagai PM Italia.",
+            "Penghentian otomatisasi perpanjangan pakta pertahanan Italia-Israel dipicu oleh serangan langsung terhadap pasukan perdamaian PBB, bukan krisis kemanusiaan di Gaza.",
+            "Kritik Meloni terhadap Trump muncul hanya setelah Trump menghina Paus, menunjukkan responsif terhadap penghinaan langsung."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Gamer Counter-Strike 2 Kena Banned 10 Tahun Gegara Tampar Lawannya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8470307/gamer-counter-strike-2-kena-banned-10-tahun-gegara-tampar-lawannya",
+          "category": "Hiburan",
+          "published_at": "2026-05-01T09:13:56+00:00",
+          "summary": "MAUSchine, seorang pemain Counter-Strike 2 semi-profesional, dilarang mengikuti kompetisi esports di Jerman selama 10 tahun setelah menampar lawannya, Fabian Salomon, di panggung penyerahan trofi turnamen CAGGTUS LAN. Penyelenggara turnamen DACH melarangnya dan melaporkan insiden tersebut ke ESIC, sementara Fragster juga menolak kekerasan dalam acara mereka.",
+          "key_points": [
+            "MAUSchine menerima larangan 10 tahun dari DACH akibat menampar lawannya di panggung turnamen.",
+            "Insiden terjadi setelah MAUSchine kalah dari regnum4games di final LAN semi-profesional dan tersinggung dengan selebrasi Salomon.",
+            "Penyelenggara turnamen DACH dan Fragster menegaskan bahwa kekerasan tidak diterima dalam kompetisi esports."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 310
+    },
+    "timestamp": "2026-05-01T14:08:02.266432+00:00"
   }
 ]

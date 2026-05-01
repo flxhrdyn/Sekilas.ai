@@ -8,13 +8,15 @@ import json
 from pathlib import Path
 from typing import TypedDict
 
-from backend.agents.embedder import NewsEmbedder, get_embedder
-from backend.agents.filter import NewsFilterAgent
+from backend.tools.embedder import NewsEmbedder, get_embedder
+from backend.tools.filter import NewsFilter
 from backend.agents.summarizer import NewsSummarizerAgent, build_daily_digest_record
-from backend.agents.notifier import TelegramNotifier
-from backend.agents.models import prepare_document, RawHeadline, FilteredArticle
-from backend.agents.scraper import NewsScraper
-from backend.agents.cluster_agent import NewsClusterAgent
+from backend.tools.notifier import TelegramNotifier
+from backend.models.schemas import prepare_document, RawHeadline, FilteredArticle
+from backend.tools.scraper import NewsScraper
+from backend.tools.cluster import NewsCluster
+from backend.agents.planner import NewsPlannerAgent
+from backend.agents.researcher import NewsResearcherAgent
 from backend.config.settings import ROOT_DIR, get_settings
 from langgraph.graph import END, StateGraph
 from backend.rag.vector_store import QdrantVectorStore
@@ -36,6 +38,8 @@ class NewsState(TypedDict, total=False):
     chunks: list[dict]
     total_in_qdrant: int
     notifier_status: str
+    research_tasks: list[dict]
+    research_results: dict[int, list[dict]]
     result: dict
 
 
@@ -98,12 +102,14 @@ def _select_diverse_articles(articles: list[FilteredArticle], limit: int) -> lis
     return selected
 
 
-def _build_graph(
+def build_graph(
     scraper: NewsScraper,
     embedder: NewsEmbedder,
-    filter_agent: NewsFilterAgent,
-    cluster_agent: NewsClusterAgent,
+    filter_tool: NewsFilter,
+    cluster_tool: NewsCluster,
     summarizer: NewsSummarizerAgent,
+    planner: NewsPlannerAgent,
+    researcher: NewsResearcherAgent,
     store: QdrantVectorStore,
     notifier: TelegramNotifier | None,
     max_scan: int = 150,
@@ -138,7 +144,7 @@ def _build_graph(
 
     def cluster_node(state: NewsState) -> NewsState:
         headlines = state.get("raw_headlines", [])
-        clusters = cluster_agent.cluster_headlines(headlines)
+        clusters = cluster_tool.cluster_headlines(headlines)
         
         # Only name and track clusters with 2+ articles as 'Top Trending'
         # UNLESS user allows solo stories for top representatives
@@ -155,7 +161,7 @@ def _build_graph(
         # Seleksi beragam dari klaster
         # SELEKSI KETAT: Hanya ambil 18 artikel terbaik (satu per klaster)
         # Ini adalah bottleneck utama untuk menghemat kuota API
-        selected_headlines = cluster_agent.select_best_representatives(clusters, limit=18)
+        selected_headlines = cluster_tool.select_best_representatives(clusters, limit=18)
         
         return {
             "trending_topics_map": trending_topics_map,
@@ -169,7 +175,7 @@ def _build_graph(
         raw_articles = scraper.fetch_full_contents(selected_headlines)
         
         print(f"[PROCESS] Memfilter kualitas dan mengklasifikasi {len(raw_articles)} artikel...")
-        filtered_articles, filter_stats = filter_agent.run(raw_articles)
+        filtered_articles, filter_stats = filter_tool.run(raw_articles)
         
         # Pastikan tetap dalam limit
         # Final selection untuk diringkas (maksimal 15 agar hemat API)
@@ -187,7 +193,7 @@ def _build_graph(
         }
 
     def route_after_filter(state: NewsState) -> str:
-        return "all-filtered-out" if not state.get("filtered_articles") else "summarize"
+        return "all-filtered-out" if not state.get("filtered_articles") else "planner"
 
     def all_filtered_node(state: NewsState) -> NewsState:
         print("[INFO] Semua artikel difilter keluar.")
@@ -207,6 +213,23 @@ def _build_graph(
         }
 
 
+    def planner_node(state: NewsState) -> NewsState:
+        clusters_map = state.get("trending_topics_map", {})
+        filtered_articles = state.get("filtered_articles", [])
+        
+        research_tasks = planner.plan_research(clusters_map, filtered_articles)
+        return {"research_tasks": research_tasks}
+
+    def route_after_planner(state: NewsState) -> str:
+        tasks = state.get("research_tasks", [])
+        return "researcher" if tasks else "summarize"
+
+    def researcher_node(state: NewsState) -> NewsState:
+        tasks = state.get("research_tasks", [])
+        results = researcher.execute_research(tasks)
+        return {"research_results": results}
+
+
     def summarize_node(state: NewsState) -> NewsState:
         print(f"[PROCESS] Membuat ringkasan untuk {len(state['filtered_articles'])} artikel...")
         filtered_articles = state.get("filtered_articles", [])
@@ -214,6 +237,7 @@ def _build_graph(
         
         # Perform Story Synthesis for top clusters
         trending_map = state.get("trending_topics_map", {})
+        research_results = state.get("research_results", {})
         story_syntheses = {}
         
         # Group filtered articles by cluster
@@ -226,7 +250,9 @@ def _build_graph(
         # Synthesize top groups
         for cid, group_articles in clusters_in_filtered.items():
             print(f"[PROCESS] Menyusun sintesis intelijen untuk topik: {trending_map[cid]}...")
-            story_syntheses[cid] = summarizer.synthesize_story(group_articles, insights)
+            # Pass research context if available
+            external_context = research_results.get(cid)
+            story_syntheses[cid] = summarizer.synthesize_story(group_articles, insights, external_context=external_context)
             time.sleep(2.0)
 
         # 7. Generate Headline Utama
@@ -334,12 +360,13 @@ def _build_graph(
 
         total = store.count()
         digest_record = build_daily_digest_record(
-            filtered_articles,
-            insights,
-            state.get("headline", ""),
+            headline=state.get("headline", ""),
             story_syntheses=state.get("story_syntheses", {}),
             trending_topics=state.get("trending_topics_map", {}),
+            articles=filtered_articles,
+            insights=insights,
             correlations=state.get("correlations", []),
+            research_results=state.get("research_results", {}),
         )
         filter_stats = state.get("filter_stats", {})
         digest_record.update(
@@ -395,6 +422,8 @@ def _build_graph(
     builder.add_node("filter", filter_node)
     builder.add_node("all-filtered-out", all_filtered_node)
     builder.add_node("summarize", summarize_node)
+    builder.add_node("planner", planner_node)
+    builder.add_node("researcher", researcher_node)
     builder.add_node("embed", embed_node)
     builder.add_node("upsert-and-persist", upsert_and_persist_node)
     builder.add_node("housekeep-vdb", housekeep_vdb_node)
@@ -409,8 +438,14 @@ def _build_graph(
     builder.add_conditional_edges(
         "filter",
         route_after_filter,
-        {"all-filtered-out": "all-filtered-out", "summarize": "summarize"},
+        {"all-filtered-out": "all-filtered-out", "planner": "planner"},
     )
+    builder.add_conditional_edges(
+        "planner",
+        route_after_planner,
+        {"researcher": "researcher", "summarize": "summarize"},
+    )
+    builder.add_edge("researcher", "summarize")
     builder.add_edge("summarize", "embed")
     builder.add_edge("embed", "upsert-and-persist")
     builder.add_edge("upsert-and-persist", "housekeep-vdb")
@@ -435,7 +470,7 @@ def run_pipeline() -> dict:
         output_dimensionality=settings.embedding_output_dim,
     )
 
-    filter_agent = NewsFilterAgent(
+    filter_tool = NewsFilter(
         embedder=embedder,
         api_key=settings.groq_api_key,
         classifier_model=settings.classifier_model,
@@ -443,15 +478,26 @@ def run_pipeline() -> dict:
         min_content_chars=settings.min_content_chars,
     )
 
-    cluster_agent = NewsClusterAgent(
+    cluster_tool = NewsCluster(
         embedder=embedder,
-        similarity_threshold=0.72
+        similarity_threshold=settings.dedup_threshold,
     )
 
     summarizer = NewsSummarizerAgent(
         api_key=settings.groq_api_key,
-        model=settings.summarizer_model,
+        model_name=settings.summarizer_model,
         max_content_chars=settings.summary_max_content_chars,
+    )
+
+    planner_agent = NewsPlannerAgent(
+        api_key=settings.groq_api_key,
+        model=settings.planner_model,
+    )
+
+    researcher_agent = NewsResearcherAgent(
+        tavily_api_key=settings.tavily_api_key or "",
+        groq_api_key=settings.groq_api_key,
+        model=settings.planner_model,
     )
 
     store = QdrantVectorStore(
@@ -474,8 +520,17 @@ def run_pipeline() -> dict:
     stats = SystemMonitor.get_stats()
     print(f"[INFO] Status Penggunaan LLM (Groq) Hari Ini: {stats.get('llm_usage', 0)}")
     
-    graph = _build_graph(
-        scraper, embedder, filter_agent, cluster_agent, summarizer, store, notifier, max_scan=150
+    graph = build_graph(
+        scraper=scraper,
+        embedder=embedder,
+        cluster_tool=cluster_tool,
+        filter_tool=filter_tool,
+        summarizer=summarizer,
+        planner=planner_agent,
+        researcher=researcher_agent,
+        store=store,
+        notifier=notifier,
+        max_scan=settings.max_per_source * 15,
     ).compile()
     final_state = graph.invoke({"result": {}})
     return final_state.get("result", {"status": "unknown"})

@@ -20,6 +20,7 @@ class Settings(BaseSettings):
     )
 
     groq_api_key: str = Field(..., alias="GROQ_API_KEY")
+    tavily_api_key: str | None = Field(default=None, alias="TAVILY_API_KEY")
     qdrant_url: str = Field(..., alias="QDRANT_URL")
     qdrant_api_key: str = Field(..., alias="QDRANT_API_KEY")
     qdrant_collection: str = Field(default="sekilas_ai", alias="QDRANT_COLLECTION")
@@ -29,11 +30,12 @@ class Settings(BaseSettings):
     classifier_model: str = Field(default="qwen/qwen3-32b", alias="CLASSIFIER_MODEL")
     summarizer_model: str = Field(default="qwen/qwen3-32b", alias="SUMMARIZER_MODEL")
     qa_model: str = Field(default="qwen/qwen3-32b", alias="QA_MODEL")
+    planner_model: str = Field(default="llama3-8b-8192", alias="PLANNER_MODEL")
     qa_top_k: int = Field(default=5, alias="QA_TOP_K")
     max_per_source: int = Field(default=8, alias="MAX_PER_SOURCE")
     dedup_threshold: float = Field(default=0.92, alias="DEDUP_THRESHOLD")
     min_content_chars: int = Field(default=200, alias="MIN_CONTENT_CHARS")
-    summary_max_content_chars: int = Field(default=3000, alias="SUMMARY_MAX_CONTENT_CHARS")
+    summary_max_content_chars: int = Field(default=1600, alias="SUMMARY_MAX_CONTENT_CHARS")
     vdb_retain_days: int = Field(default=30, alias="VDB_RETAIN_DAYS")
  
     request_timeout_seconds: float = Field(default=20.0, alias="REQUEST_TIMEOUT_SECONDS")

@@ -9,7 +9,7 @@ from typing import Sequence
 
 from groq import Groq
 from backend.utils.llm_utils import extract_json
-from backend.agents.models import FilteredArticle, RawHeadline
+from backend.models.schemas import FilteredArticle, RawHeadline
 from backend.config.monitor import SystemMonitor
 
 
@@ -59,18 +59,21 @@ Berdasarkan daftar berita di bawah ini, berikan NAMA TOPIK (2-5 kata) untuk seti
 
 INSTRUKSI KHUSUS:
 1. Judul harus spesifik, deskriptif, dan merujuk pada subjek nyata/peristiwa (Bukan abstrak).
-2. HINDARI kata-kata klise/abstrak: "Dinamika Global", "Jendela Waktu", "Langkah Strategis", "Tantangan Baru".
-3. CONTOH BAGUS: "Krisis Logistik Selat Hormuz", "Akuisisi Startup AI X", "Lonjakan Harga Minyak Dunia".
-4. WAJIB menggunakan Bahasa Indonesia yang formal.
+2. HINDARI kata-kata generik: "Internasional", "Nasional", "Politik", "Ekonomi", "Berita", "Update".
+3. HINDARI kata klise: "Dinamika Global", "Langkah Strategis", "Tantangan Baru".
+4. CONTOH BAGUS: "Konflik Perbatasan Israel-Lebanon", "Sertifikasi Halal Produk Sanex", "Pilihan Karir Guru Piano di Singapura".
+5. WAJIB menggunakan Bahasa Indonesia yang formal.
 
 Daftar Klaster:
 {clusters_data}
 
-Kembalikan HANYA dalam format JSON:
-[
-  {{"id": 0, "name": "..."}},
-  {{"id": 1, "name": "..."}}
-]
+Kembalikan HANYA dalam format JSON object:
+{{
+  "topics": [
+    {{"id": 0, "name": "..."}},
+    {{"id": 1, "name": "..."}}
+  ]
+}}
 """.strip()
 
 STORY_SYNTHESIS_PROMPT = """
@@ -95,8 +98,11 @@ Kriteria Impact:
 - MEDIUM: Pergeseran industri signifikan atau isu regional penting.
 - LOW: Update rutin tanpa efek domino besar.
 
-Daftar Berita:
+Daftar Berita Utama:
 {summaries}
+
+Konteks Riset Tambahan (Jika ada):
+{research_context}
 
 Intelligence Brief:
 """.strip()
@@ -147,10 +153,10 @@ class NewsSummarizerAgent:
     def __init__(
         self,
         api_key: str,
-        model: str,
+        model_name: str,
         max_content_chars: int = 2000,
     ) -> None:
-        self.model_name = model.strip()
+        self.model_name = model_name.strip()
         self.max_content_chars = max_content_chars
         self.client = Groq(api_key=api_key)
 
@@ -309,9 +315,14 @@ class NewsSummarizerAgent:
             SystemMonitor.increment_llm_usage()
             
             raw_text = response.choices[0].message.content
-            results = extract_json(raw_text)
+            data = extract_json(raw_text)
+            
+            # Handle cases where it might return the list directly or inside 'topics'
+            results = data.get("topics", []) if isinstance(data, dict) else data
+            
             names = ["" for _ in range(len(potential_trending))]
             for res in results:
+                if not isinstance(res, dict): continue
                 idx = res.get("id")
                 name = res.get("name", "").strip().strip('"').strip("'")
                 if idx is not None and 0 <= idx < len(names):
@@ -320,11 +331,12 @@ class NewsSummarizerAgent:
             # Fill empty names with fallbacks
             final_names = []
             for i, name in enumerate(names):
-                if name:
+                is_generic = name.lower() in ["internasional", "nasional", "politik", "ekonomi", "berita", "update", "topik terkait", "topik"]
+                if name and not is_generic:
                     final_names.append(name)
                 else:
-                    # Fallback to category hint or first title
-                    fallback = potential_trending[i][0].category_hint or "Topik Terkait"
+                    first_title = potential_trending[i][0].title
+                    fallback = first_title[:42] + "..." if len(first_title) > 45 else first_title
                     final_names.append(fallback)
             
             return final_names
@@ -333,9 +345,10 @@ class NewsSummarizerAgent:
             print(f"  [!] Gagal menamai topik secara batch: {e}. Menggunakan nama kategori sebagai fallback.")
             return [c[0].category_hint or "Isu Terkini" for c in potential_trending]
 
-    def synthesize_story(self, articles: list[FilteredArticle], insights: dict[str, ArticleInsight]) -> dict:
+    def synthesize_story(self, articles: list[FilteredArticle], insights: dict[str, ArticleInsight], external_context: list[dict] = None) -> dict:
         """
         Synthesizes multiple articles in a cluster into a set of intelligence bullet points and impact levels.
+        Optional external_context from Researcher Agent can be provided.
         Returns: {"synthesis": list[str], "impact_level": str, "impact_reason": str}
         """
         if not articles:
@@ -347,6 +360,12 @@ class NewsSummarizerAgent:
             if insight:
                 context.append(f"- {art.title}: {insight.summary}")
         
+        research_str = ""
+        if external_context:
+            research_str = "\n".join([f"- {res.get('title')}: {res.get('content')[:500]}" for res in external_context])
+        else:
+            research_str = "Tidak ada riset eksternal tambahan."
+
         if not context:
             return {
                 "synthesis": ["Informasi detail belum tersedia untuk tren ini."],
@@ -354,7 +373,13 @@ class NewsSummarizerAgent:
                 "impact_reason": "Data sumber tidak mencukupi untuk analisis mendalam."
             }
 
-        prompt = STORY_SYNTHESIS_PROMPT.format(summaries="\n".join(context))
+        prompt = STORY_SYNTHESIS_PROMPT.format(
+            summaries="\n".join(context),
+            research_context=research_str
+        )
+        
+        time.sleep(5.0) # Throttling proaktif
+        
         try:
             response = self.client.chat.completions.create(
                 model=self.model_name,
@@ -400,6 +425,9 @@ class NewsSummarizerAgent:
             summary_list.append(f"Topik: {s['title']} (Dampak: {s.get('impact_level', 'LOW')}) - {s['synthesis'][0] if s['synthesis'] else ''}")
         
         prompt = CORRELATION_PROMPT.format(stories_summary="\n".join(summary_list))
+        
+        time.sleep(5.0) # Throttling proaktif
+        
         try:
             response = self.client.chat.completions.create(
                 model=self.model_name,
@@ -432,6 +460,9 @@ class NewsSummarizerAgent:
             title=article.title,
             content=content,
         )
+
+        # Jeda proaktif untuk menjaga kuota TPM agar tidak cepat habis (Throttling)
+        time.sleep(5.0)
 
         try:
             response = self.client.chat.completions.create(
@@ -521,6 +552,7 @@ def build_daily_digest_record(
     story_syntheses: dict[int, dict] | None = None,
     trending_topics: dict[int, str] | None = None,
     correlations: list[dict] | None = None,
+    research_results: dict[int, list[dict]] | None = None,
 ) -> dict:
     """
     Builds a story-first intelligence record.
@@ -595,14 +627,26 @@ def build_daily_digest_record(
                 # Impact: HIGH(100), MEDIUM(50), LOW(10)
                 # Volume: +1 per report (capped at 50)
                 impact_weight = {"HIGH": 100, "MEDIUM": 50, "LOW": 10}
-                rank_score = impact_weight.get(impact_level, 0) + min(report_count, 50)
+                topic_name = trending_topics.get(cid, "Topik")
+                
+                base_score = impact_weight.get(impact_level, 0) + min(report_count, 50)
+                
+                # STRATEGIC BOOST: Jika topik ini disebutkan atau sangat relevan dengan Global Headline, 
+                # berikan bonus besar agar dia naik ke urutan #1 (Cell Gede)
+                strategic_bonus = 0
+                if headline and topic_name.lower() in headline.lower():
+                    strategic_bonus = 200 # Pastikan dia jadi nomor 1
+                
+                rank_score = base_score + strategic_bonus
 
                 story_groups.append({
                     "id": cid,
-                    "title": trending_topics.get(cid, "Topik Terkait"),
+                    "topic": topic_name,
+                    "title": topic_name, # Alias for frontend compatibility
                     "synthesis": synthesis_data.get("synthesis", []),
                     "impact_level": impact_level,
                     "impact_reason": synthesis_data.get("impact_reason", ""),
+                    "external_research": research_results.get(cid) if research_results else None,
                     "articles": group_articles[:5],
                     "total_reports": report_count,
                     "rank_score": rank_score
@@ -627,6 +671,7 @@ def build_daily_digest_record(
         "date": datetime.now(UTC).strftime("%Y-%m-%d"),
         "generated_at": datetime.now(UTC).isoformat(),
         "headline": headline,
+        "global_headline": headline, # Alias for frontend compatibility
         "top_stories": top_stories,
         "correlations": correlations or [],
         "other_news": other_news,

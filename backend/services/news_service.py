@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from typing import Any, List, Optional
-from backend.agents.embedder import NewsEmbedder, get_embedder
+from backend.tools.embedder import NewsEmbedder, get_embedder
 from backend.config.settings import get_settings
 from backend.rag.qa_chain import NewsQAChain
 from backend.rag.retriever import NewsRetriever

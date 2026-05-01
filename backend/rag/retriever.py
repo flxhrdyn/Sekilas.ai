@@ -6,7 +6,7 @@ from typing import Any
 from qdrant_client import QdrantClient
 from qdrant_client.models import FieldCondition, Filter, MatchValue, Prefetch, SparseVector, FusionQuery, Fusion
 
-from backend.agents.embedder import NewsEmbedder
+from backend.tools.embedder import NewsEmbedder
 
 
 @dataclass(slots=True)

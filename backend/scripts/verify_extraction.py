@@ -1,6 +1,6 @@
 import sys
 from pathlib import Path
-from backend.agents.scraper import NewsScraper
+from backend.tools.scraper import NewsScraper
 
 def test_extraction(url: str):
     print(f"\n[TESTING] URL: {url}")

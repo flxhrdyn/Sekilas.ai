@@ -7,10 +7,10 @@ ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.append(str(ROOT_DIR))
 
 from backend.config.settings import get_settings
-from backend.agents.filter import NewsFilterAgent
+from backend.tools.filter import NewsFilter
 from backend.agents.summarizer import NewsSummarizerAgent
 from backend.rag.qa_chain import NewsQAChain
-from backend.agents.models import RawArticle, FilteredArticle
+from backend.models.schemas import RawArticle, FilteredArticle
 from datetime import datetime
 
 def test_groq_integration():
@@ -24,14 +24,14 @@ def test_groq_integration():
     # 1. Test Filter Agent
     print("\n--- Testing Filter Agent ---")
     # We need a dummy embedder for initialization but we won't call run() that needs it
-    filter_agent = NewsFilterAgent(
+    filter_tool = NewsFilter(
         embedder=None, 
         api_key=settings.groq_api_key,
         classifier_model=settings.classifier_model
     )
     
     try:
-        category = filter_agent._classify("Pasar Saham Global Melonjak", "Indeks harga saham gabungan di berbagai bursa dunia mengalami kenaikan signifikan pagi ini...")
+        category = filter_tool._classify("Pasar Saham Global Melonjak", "Indeks harga saham gabungan di berbagai bursa dunia mengalami kenaikan signifikan pagi ini...")
         print(f"Classification result: {category}")
     except Exception as e:
         print(f"Filter Agent Error: {e}")
@@ -40,7 +40,7 @@ def test_groq_integration():
     print("\n--- Testing Summarizer Agent ---")
     summarizer = NewsSummarizerAgent(
         api_key=settings.groq_api_key,
-        model=settings.summarizer_model
+        model_name=settings.summarizer_model
     )
     
     test_article = FilteredArticle(

@@ -13,7 +13,7 @@ import yaml
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
-from backend.agents.models import RawArticle, RawHeadline
+from backend.models.schemas import RawArticle, RawHeadline
 
 # Daftar User-Agent modern untuk menghindari blokir IP (Anti-Bot)
 USER_AGENTS = [
@@ -226,7 +226,7 @@ class NewsScraper:
 
     def _parse_html_content(self, html: str) -> str:
         """Shared HTML-to-text parser. Digunakan oleh HTTPX dan Playwright."""
-        from backend.agents.cleaning_utils import calculate_content_score, clean_text_noise
+        from backend.utils.text_cleaning import calculate_content_score, clean_text_noise
 
         soup = BeautifulSoup(html, "lxml")
         for tag in soup(["script", "style", "noscript", "aside", "nav", "footer", "header", "form"]):

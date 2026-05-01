@@ -8,8 +8,8 @@ from typing import Sequence
 
 from groq import Groq
 from backend.utils.llm_utils import extract_json
-from backend.agents.embedder import NewsEmbedder
-from backend.agents.models import FilteredArticle, RawArticle
+from backend.tools.embedder import NewsEmbedder
+from backend.models.schemas import FilteredArticle, RawArticle
 from backend.config.monitor import SystemMonitor
 
 
@@ -51,7 +51,7 @@ class FilterStats:
     passed: int
 
 
-class NewsFilterAgent:
+class NewsFilter:
     def __init__(
         self,
         embedder: NewsEmbedder,

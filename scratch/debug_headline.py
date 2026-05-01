@@ -6,14 +6,14 @@ from datetime import datetime, UTC
 sys.path.append(r"d:\Programming\Python\Python Projects\01_GenAI\agentic-rag-sekilas-ai")
 
 from backend.agents.summarizer import NewsSummarizerAgent, ArticleInsight
-from backend.agents.models import FilteredArticle
+from backend.models.schemas import FilteredArticle
 from backend.config.settings import get_settings
 
 def test_headline():
     settings = get_settings()
     agent = NewsSummarizerAgent(
-        api_key=settings.gemini_api_key,
-        model=settings.summarizer_model
+        api_key=settings.groq_api_key,
+        model_name=settings.summarizer_model
     )
     
     # Mock data

@@ -9,7 +9,7 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, PointStruct, VectorParams, Filter, FieldCondition, Range, SparseVectorParams, SparseIndexParams, Modifier
 from datetime import datetime, timedelta, timezone
 
-from backend.agents.models import FilteredArticle, RawArticle
+from backend.models.schemas import FilteredArticle, RawArticle
 
 
 ArticleLike = RawArticle | FilteredArticle

@@ -2,11 +2,11 @@ from __future__ import annotations
 
 import numpy as np
 from sklearn.cluster import DBSCAN
-from backend.agents.embedder import NewsEmbedder
-from backend.agents.models import RawHeadline
+from backend.tools.embedder import NewsEmbedder
+from backend.models.schemas import RawHeadline
 
 
-class NewsClusterAgent:
+class NewsCluster:
     """
     Agent responsible for grouping similar headlines into Topic Clusters
     using local semantic embeddings and DBSCAN algorithm.
