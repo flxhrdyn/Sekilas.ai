@@ -59,37 +59,50 @@ The system is powered by a collaborative agentic workflow:
 
 ```mermaid
 graph TB
-    subgraph UI_Layer [1. User Experience Layer]
-        UI[React Glassmorphism Dashboard] <--> API[FastAPI Gateway]
+    subgraph UI_Layer [User Experience]
+        UI[React Dashboard] <--> API[FastAPI Gateway]
     end
 
-    subgraph Orchestration_Layer [2. Agentic Orchestration Layer]
-        API <--> QA_Agent[QA Intelligence Agent]
-        QA_Agent --> Reranker[Llama 3.1 8B Reranker]
+    subgraph Agent_Orchestration [Intelligence Orchestration]
+        API <--> QA_Agent[Agentic-RAG Orchestrator]
+        QA_Agent --> Rerank[Llama 8B Reranker]
         
-        Pipeline[Ingestion Pipeline] --> Planner[Strategic Planner]
-        Planner --> Researcher[Deep Researcher]
-        Researcher --> Summarizer[Intelligence Summarizer]
+        Pipeline[Background Pipeline] --> Planner[Strategic Planner]
+        Planner --> Research[Deep Researcher]
+        Research --> Summarize[Intelligence Summarizer]
     end
 
-    subgraph Knowledge_Layer [3. Knowledge & Memory Layer]
-        Summarizer --> Embedder[FastEmbed Engine]
-        Embedder --> QDR[(Qdrant Vector DB)]
+    subgraph Knowledge_Memory [Knowledge & Memory]
+        Summarize --> Embed[FastEmbed Engine]
+        Embed --> QDR[(Qdrant Vector DB)]
         QDR <--> QA_Agent
     end
 
-    subgraph External_Layer [4. External Integration Layer]
-        Researcher <--> Tavily[Tavily Search API]
+    subgraph External_Integrations [External Integration]
+        Research <--> Tavily[Tavily Search API]
         Scraper[News Scraper] --> RSS[RSS Feeds]
         Scraper --> Pipeline
     end
+```
 
-    %% Styling
-    style UI_Layer fill:#f0f7ff,stroke:#007acc,stroke-width:2px
-    style Orchestration_Layer fill:#fff5f5,stroke:#ff4b4b,stroke-width:2px
-    style Knowledge_Layer fill:#f0fff4,stroke:#38a169,stroke-width:2px
-    style External_Layer fill:#fffaf0,stroke:#d69e2e,stroke-width:2px
-    style QDR fill:#f96,stroke:#333,stroke-width:4px
+### RAG Intelligence Flow (The Journey of a Query)
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant A as FastAPI Gateway
+    participant Q as Qdrant (Hybrid Search)
+    participant R as Llama 8B Reranker
+    participant LLM as Qwen 2.5 32B (QA Agent)
+
+    U->>A: User Query ("Apa yang terjadi di Grobogan?")
+    A->>Q: Dense + Sparse Retrieval (Hybrid)
+    Q-->>A: Top 40 News Chunks (Unranked)
+    A->>R: Cross-Reference Reranking
+    R-->>A: Top 5 High-Precision Context
+    A->>LLM: Synthesis with Context & Temporal Grounding
+    LLM-->>A: Grounded Intelligence Answer
+    A->>U: Final Output with Citations
 ```
 
 ---
