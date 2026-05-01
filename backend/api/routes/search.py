@@ -16,8 +16,9 @@ def search_articles(req: SearchQuery):
                  "source": r.source,
                  "category": r.category,
                  "published_at": r.published_at,
-                 "summary": r.summary,
-                 "key_points": r.key_points,
+                 "summary": r.payload.get("summary", ""),
+                 "key_points": r.payload.get("key_points", []),
+                 "text_chunk": r.text_chunk,
                  "score": r.score
              } for r in results]
         }

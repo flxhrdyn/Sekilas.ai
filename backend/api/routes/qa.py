@@ -15,7 +15,11 @@ def qa_agent(req: QAQuery):
             "retrieved": [{
                  "url": r.url,
                  "title": r.title,
-                 "source": r.source
+                 "source": r.source,
+                 "category": r.payload.get("category", "Umum"),
+                 "summary": r.payload.get("summary", ""),
+                 "key_points": r.payload.get("key_points", []),
+                 "published_at": r.published_at
             } for r in ans.retrieved]
         }
     except Exception as e:

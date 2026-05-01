@@ -14,8 +14,14 @@ setup_logging()
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Model dimuat secara lazy saat request pertama masuk (via Singleton)
-    # Tidak ada pre-loading di sini agar server bisa shutdown dengan bersih
+    # Pre-load (warm-up) model saat startup agar pencarian pertama tidak timeout
+    print("[INIT] Melakukan warm-up untuk Embedding Models...")
+    try:
+        from backend.services.news_service import NewsService
+        NewsService.get_retriever() # Ini akan memicu get_embedder()
+        print("[OK] Warm-up selesai, model siap di memori.")
+    except Exception as e:
+        print(f"[!] Gagal warm-up model: {e}")
     yield
 
 app = FastAPI(
