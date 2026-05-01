@@ -99,6 +99,22 @@ Required Environment Variables:
 
 ---
 
+## GitHub Actions & Secrets Setup
+
+To enable the daily autonomous pipeline, you must add the following **Secrets** to your GitHub repository:
+
+1. Go to your repository on GitHub.
+2. Navigate to **Settings** > **Secrets and variables** > **Actions**.
+3. Add the following **Repository Secrets**:
+   - `GROQ_API_KEY`: Your API key from Groq Cloud.
+   - `TAVILY_API_KEY`: Your API key from Tavily AI.
+   - `QDRANT_URL`: Your Qdrant database URL.
+   - `QDRANT_API_KEY`: Your Qdrant API key.
+   - `TELEGRAM_BOT_TOKEN`: (Optional) For notifications.
+   - `TELEGRAM_CHAT_ID`: (Optional) For notifications.
+
+---
+
 ## Author
 
 **Felix Hardyan**
