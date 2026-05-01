@@ -45,10 +45,11 @@ jobs:
           QDRANT_API_KEY: ${{ secrets.QDRANT_API_KEY }}
           QDRANT_COLLECTION: ${{ vars.QDRANT_COLLECTION }}
           # Multi-Agent Model Config
-          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'sentence-transformers/all-MiniLM-L6-v2' }}
+          EMBEDDING_MODEL: ${{ vars.EMBEDDING_MODEL || 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2' }}
           EMBEDDING_OUTPUT_DIM: ${{ vars.EMBEDDING_OUTPUT_DIM || '384' }}
-          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'llama-3.1-8b-instant' }}
-          SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'qwen-2.5-32b' }}
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL || 'qwen/qwen3-32b' }}
+          SUMMARIZER_MODEL: ${{ vars.SUMMARIZER_MODEL || 'qwen/qwen3-32b' }}
+          QA_MODEL: ${{ vars.QA_MODEL || 'qwen/qwen3-32b' }}
           PLANNER_MODEL: ${{ vars.PLANNER_MODEL || 'llama-3.1-8b-instant' }}
           HF_HOME: .cache/huggingface
           # Truth-Driven Thresholds
