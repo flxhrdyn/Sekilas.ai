@@ -59,24 +59,26 @@ The system is powered by a collaborative agentic workflow:
 
 ```mermaid
 graph TD
-    subgraph Ingestion_Level
-        RSS[RSS Feeds] -->|Raw News| LG[Agentic Orchestrator]
+    subgraph Pipeline [Autonomous Intelligence Pipeline]
+        RSS[RSS Feeds] --> Scrape[News Scraper]
+        Scrape --> Cluster[News Clustering]
+        Cluster --> Filter[Agentic Quality Filter]
+        Filter --> Planner[Strategic Planner]
+        Planner -->|Research Tasks| Research[Deep Researcher]
+        Research -->|Fact Injection| Summarizer[Intelligence Summarizer]
+        Summarizer -->|Insights| Embed[Local Embedding Engine]
+        Embed -->|Vector Upsert| QDR[(Qdrant Vector DB)]
     end
     
-    subgraph Intelligence_Level
-        LG --> Planner[Strategic Planner]
-        Planner -->|Tasks| Research[Deep Researcher]
-        Research -->|Facts| Summarizer[Intelligence Summarizer]
-        Summarizer -->|Synthesis| QDR[Qdrant Vector DB]
+    subgraph Application [Agentic RAG Gateway]
+        User[User Query] --> API[FastAPI Gateway]
+        API -->|Hybrid Search| QDR
+        QDR -->|Top 40 Chunks| Rerank[Llama 8B Reranker]
+        Rerank -->|Top 5 Context| Qwen[Qwen 32B QA Agent]
+        Qwen -->|Grounded Answer| User
     end
-    
-    subgraph RAG_QA_Level
-        User[User Query] --> API[FastAPI]
-        API --> Hybrid[Hybrid Search Qdrant]
-        Hybrid -->|Top 40| Rerank[Llama 8B Reranker]
-        Rerank -->|Top 5| Qwen[Qwen 32B QA Agent]
-        Qwen -->|Response| User
-    end
+
+    style QDR fill:#f96,stroke:#333,stroke-width:4px
 ```
 
 ---
