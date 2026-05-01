@@ -58,26 +58,37 @@ The system is powered by a collaborative agentic workflow:
 ## System Flow
 
 ```mermaid
-graph TD
-    subgraph Pipeline [Autonomous Intelligence Pipeline]
-        RSS[RSS Feeds] --> Scrape[News Scraper]
-        Scrape --> Cluster[News Clustering]
-        Cluster --> Filter[Agentic Quality Filter]
-        Filter --> Planner[Strategic Planner]
-        Planner -->|Research Tasks| Research[Deep Researcher]
-        Research -->|Fact Injection| Summarizer[Intelligence Summarizer]
-        Summarizer -->|Insights| Embed[Local Embedding Engine]
-        Embed -->|Vector Upsert| QDR[(Qdrant Vector DB)]
-    end
-    
-    subgraph Application [Agentic RAG Gateway]
-        User[User Query] --> API[FastAPI Gateway]
-        API -->|Hybrid Search| QDR
-        QDR -->|Top 40 Chunks| Rerank[Llama 8B Reranker]
-        Rerank -->|Top 5 Context| Qwen[Qwen 32B QA Agent]
-        Qwen -->|Grounded Answer| User
+graph TB
+    subgraph UI_Layer [1. User Experience Layer]
+        UI[React Glassmorphism Dashboard] <--> API[FastAPI Gateway]
     end
 
+    subgraph Orchestration_Layer [2. Agentic Orchestration Layer]
+        API <--> QA_Agent[QA Intelligence Agent]
+        QA_Agent --> Reranker[Llama 3.1 8B Reranker]
+        
+        Pipeline[Ingestion Pipeline] --> Planner[Strategic Planner]
+        Planner --> Researcher[Deep Researcher]
+        Researcher --> Summarizer[Intelligence Summarizer]
+    end
+
+    subgraph Knowledge_Layer [3. Knowledge & Memory Layer]
+        Summarizer --> Embedder[FastEmbed Engine]
+        Embedder --> QDR[(Qdrant Vector DB)]
+        QDR <--> QA_Agent
+    end
+
+    subgraph External_Layer [4. External Integration Layer]
+        Researcher <--> Tavily[Tavily Search API]
+        Scraper[News Scraper] --> RSS[RSS Feeds]
+        Scraper --> Pipeline
+    end
+
+    %% Styling
+    style UI_Layer fill:#f0f7ff,stroke:#007acc,stroke-width:2px
+    style Orchestration_Layer fill:#fff5f5,stroke:#ff4b4b,stroke-width:2px
+    style Knowledge_Layer fill:#f0fff4,stroke:#38a169,stroke-width:2px
+    style External_Layer fill:#fffaf0,stroke:#d69e2e,stroke-width:2px
     style QDR fill:#f96,stroke:#333,stroke-width:4px
 ```
 
