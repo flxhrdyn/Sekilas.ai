@@ -12,6 +12,18 @@ export default function App() {
   const [activeTab, setActiveTab] = useState<Tab>('digest');
   const [digest, setDigest] = useState<DigestData | null>(null);
   const [systemStatus, setSystemStatus] = useState<SystemStatus | null>(null);
+  const [qaMessages, setQaMessages] = useState<any[]>([
+    {
+      role: 'ai',
+      content: 'Halo! Saya asisten cerdas Sekilas.ai. Saya sudah siap membantu Anda membedah berita hari ini menggunakan teknologi Hybrid-RAG (Dense + Sparse). Apa yang ingin Anda ketahui?',
+      reasoning: [
+        'Connecting to Qdrant Multilingual Vector Store',
+        'Loading Multilingual-MiniLM-L12-v2 for semantic context',
+        'Initializing BM25 Sparse Search for keyword precision',
+        'Ready for Hybrid Fusion & Synthesis'
+      ]
+    }
+  ]);
 
   const refreshSystemStatus = () => {
     apiService.getSystemStatus()
@@ -77,7 +89,13 @@ export default function App() {
               >
                 {activeTab === 'digest' && <DigestView data={digest} />}
                 {activeTab === 'search' && <SearchView onSearchSuccess={refreshSystemStatus} />}
-                {activeTab === 'qa' && <QAView onActionSuccess={refreshSystemStatus} />}
+                {activeTab === 'qa' && (
+                  <QAView 
+                    messages={qaMessages} 
+                    setMessages={setQaMessages} 
+                    onActionSuccess={refreshSystemStatus} 
+                  />
+                )}
               </motion.div>
             </AnimatePresence>
           </div>

@@ -119,19 +119,28 @@ def build_context(results: list[SearchResult], max_chars: int = 8000) -> str:
     if not results:
         return ""
 
-    chunks: list[str] = []
+    context_parts: list[str] = []
     for idx, item in enumerate(results, start=1):
-        chunks.append(
-            "\n".join(
-                [
-                    f"[{idx}] Judul: {item.title}",
-                    f"Kategori: {item.category}",
-                    f"Sumber: {item.source}",
-                    f"URL: {item.url}",
-                    f"Kutipan Berita: {item.text_chunk}",
-                ]
-            )
-        )
+        # Format tanggal agar AI sadar waktu (Temporal Awareness)
+        formatted_date = item.published_at
+        try:
+            from datetime import datetime
+            dt = datetime.fromisoformat(item.published_at.replace('Z', '+00:00'))
+            formatted_date = dt.strftime("%d %B %Y, %H:%M WIB")
+        except:
+            pass
 
-    context = "\n\n".join(chunks)
-    return context[:max_chars]
+        context_parts.append(
+            f"--- DOKUMEN {idx} ---\n"
+            f"JUDUL: {item.title}\n"
+            f"SUMBER: {item.source} ({formatted_date})\n"
+            f"WAKTU PUBLIKASI: {formatted_date}\n"
+            f"RINGKASAN ARTIKEL: {item.payload.get('summary', '')}\n"
+            f"ISI POTONGAN TEKS: {item.text_chunk}\n"
+            f"URL: {item.url}"
+        )
+    
+    context = "\n\n".join(context_parts)
+    if len(context) > max_chars:
+        context = context[:max_chars] + "\n... (konteks dipotong)"
+    return context

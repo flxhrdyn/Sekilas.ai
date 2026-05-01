@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Send, Bot, User, Sparkles, Zap, ChevronRight } from 'lucide-react';
 import { apiService } from '../../services/api';
+import ReactMarkdown from 'react-markdown';
 
 interface Message {
   role: 'user' | 'ai';
@@ -8,27 +9,31 @@ interface Message {
   reasoning?: string[];
 }
 
-export const QAView: React.FC<{ onActionSuccess?: () => void }> = ({ onActionSuccess }) => {
-  const [messages, setMessages] = useState<Message[]>([
-    {
-      role: 'ai',
-      content: 'Halo! Saya asisten cerdas Sekilas.ai. Saya sudah siap membantu Anda membedah berita hari ini menggunakan teknologi Hybrid-RAG (Dense + Sparse). Apa yang ingin Anda ketahui?',
-      reasoning: [
-        'Connecting to Qdrant Multilingual Vector Store',
-        'Loading Multilingual-MiniLM-L12-v2 for semantic context',
-        'Initializing BM25 Sparse Search for keyword precision',
-        'Ready for Hybrid Fusion & Synthesis'
-      ]
-    }
-  ]);
+export const QAView: React.FC<{ 
+  messages: Message[];
+  setMessages: React.Dispatch<React.SetStateAction<Message[]>>;
+  onActionSuccess?: () => void 
+}> = ({ messages, setMessages, onActionSuccess }) => {
   const [input, setInput] = useState('');
   const [isTyping, setIsTyping] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
 
-  useEffect(() => {
+  const scrollToBottom = () => {
     if (scrollRef.current) {
-      scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
+      // Menggunakan requestAnimationFrame untuk memastikan DOM sudah selesai update
+      requestAnimationFrame(() => {
+        if (scrollRef.current) {
+          scrollRef.current.scrollTo({
+            top: scrollRef.current.scrollHeight,
+            behavior: 'smooth'
+          });
+        }
+      });
     }
+  };
+
+  useEffect(() => {
+    scrollToBottom();
   }, [messages, isTyping]);
 
   const handleSend = async (e: React.FormEvent) => {
@@ -103,7 +108,24 @@ export const QAView: React.FC<{ onActionSuccess?: () => void }> = ({ onActionSuc
                 ? 'bg-brand-accent text-white font-medium rounded-tr-none'
                 : 'bg-brand-card/80 border border-white/5 text-brand-text-main rounded-tl-none backdrop-blur-sm'
               }`}>
-              {msg.content}
+              {msg.role === 'ai' ? (
+                <div className="markdown-content prose prose-invert prose-sm max-w-none">
+                  <ReactMarkdown 
+                    components={{
+                      a: ({node, ...props}) => <a {...props} target="_blank" rel="noopener noreferrer" className="text-brand-accent hover:underline font-bold" />,
+                      h3: ({node, ...props}) => <h3 {...props} className="text-brand-accent text-base font-bold mt-4 mb-2 border-b border-white/10 pb-1" />,
+                      ul: ({node, ...props}) => <ul {...props} className="list-disc ml-4 space-y-1 my-3" />,
+                      li: ({node, ...props}) => <li {...props} className="text-brand-text-main/90" />,
+                      p: ({node, ...props}) => <p {...props} className="mb-3 last:mb-0" />,
+                      strong: ({node, ...props}) => <strong {...props} className="text-brand-accent font-bold" />
+                    }}
+                  >
+                    {msg.content}
+                  </ReactMarkdown>
+                </div>
+              ) : (
+                msg.content
+              )}
             </div>
 
             {/* Reasoning Process */}
