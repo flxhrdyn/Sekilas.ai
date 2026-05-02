@@ -5670,5 +5670,360 @@
       "total_in_qdrant": 388
     },
     "timestamp": "2026-05-01T17:37:07.923311+00:00"
+  },
+  {
+    "date": "2026-05-02",
+    "generated_at": "2026-05-02T02:07:27.965108+00:00",
+    "headline": "Ketegangan dengan Iran memicu penarikan 5.000 tentara AS dari Jerman.",
+    "global_headline": "Ketegangan dengan Iran memicu penarikan 5.000 tentara AS dari Jerman.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Narges Mohammadi Dirawat di Rumah Sakit",
+        "title": "Narges Mohammadi Dirawat di Rumah Sakit",
+        "synthesis": [
+          "Narges Mohammadi, penerima Nobel Perdamaian 2023, dirawat di rumah sakit akibat krisis kesehatan parah.",
+          "Kondisi kritis di penjara memicu kekhawatiran internasional terhadap pelanggaran HAM di Iran.",
+          "Vonis 7 tahun penjara atas dakwaan 'pengumpulan dan kolusi' memicu tekanan diplomatik global."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Krisis kesehatan aktivis Nobel di penjara memicu tekanan internasional dan risiko eskalasi konflik diplomatis.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-05-01T20:59:55+00:00",
+            "summary": "Aktivis hak asasi Iran dan penerima Nobel Perdamaian 2023, Narges Mohammadi, dirawat di rumah sakit setelah kesehatannya memburuk, termasuk dua kali pingsan dan krisis jantung di penjara. Pindahnya ke rumah sakit dianggap keharusan karena kondisinya tidak bisa ditangani di tempat. Ia divonis lebih dari tujuh tahun penjara, termasuk enam tahun atas dakwaan 'pengumpulan dan kolusi untuk melakukan kejahatan'.",
+            "key_points": [
+              "Mohammadi dirawat di rumah sakit akibat penurunan kesehatan tajam, termasuk dua kali pingsan dan krisis jantung di penjara.",
+              "Ia divonis lebih dari tujuh tahun penjara, dengan enam tahun di antaranya atas dakwaan 'pengumpulan dan kolusi untuk melakukan kejahatan'.",
+              "Keluarga mengklaim kesehatannya memburuk akibat diduga dipukuli saat penangkapan Desember lalu, yang disesalkan oleh Komite Nobel."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Hacker Tiongkok Rentan Ditangkap AS",
+        "title": "Hacker Tiongkok Rentan Ditangkap AS",
+        "synthesis": [
+          "Peretas Tiongkok rentan ditangkap di luar negeri akibat tekanan AS.",
+          "Ekstradisi Xu Zewei menunjukkan eskalasi konflik hukum AS-Tiongkok.",
+          "Serangan siber Tiongkok menyasar lembaga pendidikan dan penelitian vaksin."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Mengindikasikan konflik sistemik AS-Tiongkok di ranah siber dan hukum internasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Hacker Tiongkok Rentan Ditangkap AS",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang \"Hacker Tiongkok Rentan Ditangkap AS\":\n\n1. **Tiongkok dianggap sebagai ancaman siber yang paling aktif dan gigih terhadap pemerintah AS, sektor swasta, dan jaringan infrastruktur penting**. Hal ini disebutkan dalam laporan Bloomberg Technoz bahwa peretas yang disponsori pemerintah Tiongkok telah membobol jaringan Departemen Keuangan AS.\n2. **Tiongkok telah melakukan serangan siber terhadap Amerika Serikat sebelumnya**, seperti pada tahun 2007 ketika peretas dari Tiongkok yang disponsori oleh pemerintahnya menyerang jaringan instansi pemerintah Amerika Serikat yang menargetkan sektor telekomunikasi, program angkasa, dan luar angkasa AS.\n3. **Pemerintah AS telah mengidentifikasi Tiongkok sebagai salah satu dalang serangan siber terhadap Amerika Serikat**. Hal ini disebutkan dalam laporan CISA (Cybersecurity and Infrastructure Security Agency) bahwa Tiongkok adalah salah satu negara yang melakukan serangan siber terhadap Amerika Serikat.\n4. **Tiongkok dianggap sebagai ancaman siber yang semakin meningkat**. Hal ini disebutkan dalam laporan media.neliti.com bahwa serangan siber akan meluas dan terang-terangan jika keamanan cyber tidak dibenahi secara baik, dan akan menuntun Amerika kepada perang cyber yang akan sangat banyak mengancam sektor vital, infrastruktur, dan kedaulatan Amerika Serikat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Chinese hackers vulnerable to US arrest if they travel, FBI official says",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/world/chinese-hackers-possible-us-arrest-fbi-6095506",
+            "category": "Hukum",
+            "published_at": "2026-05-02T01:01:24+00:00",
+            "summary": "Seorang pejabat senior FBI memperingatkan bahwa pelaku peretasan Tiongkok dapat ditangkap saat bepergian ke luar negeri, setelah warga Tiongkok Xu Zewei diekstradisi ke AS dari Italia terkait kampanye peretasan yang diduga diarahkan pemerintah Tiongkok. Kementerian Kehakiman AS mengungkap Xu dan konsorsiumnya menyasar lembaga pendidikan dan peneliti vaksin COVID-19, sementara Kedutaan Tiongkok menolak tuduhan tersebut sebagai upaya politik.",
+            "key_points": [
+              "FBI menyatakan perlindungan pemerintah Tiongkok bagi peretas tidak berlaku saat mereka menyeberangi perbatasan.",
+              "Xu Zewei, peretas Tiongkok, diekstradisi ke AS setelah ditangkap di Italia terkait kampanye peretasan yang menyasar universitas dan peneliti vaksin COVID-19.",
+              "Kedutaan Tiongkok menolak tuduhan AS, menyebut kasus ini politis dan melanggar hak Xu."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 23,
+        "topic": "Penarikan Pasukan AS dari Jerman",
+        "title": "Penarikan Pasukan AS dari Jerman",
+        "synthesis": [
+          "AS tarik 5.000 tentara dari Jerman akibat ketegangan Iran.",
+          "Kritik Merz soal pendekatan perang AS di Iran merugikan ekonomi global.",
+          "Penarikan berlangsung 6-12 bulan, mengganggu kerja sama militer transatlantik."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik hubungan militer AS-Eropa dan stabilitas regional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Penarikan Pasukan AS dari Jerman",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang penarikan pasukan AS dari Jerman. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penambahan Pasukan AS di Eropa**: Kementerian Pertahanan AS mengumumkan akan menambah 20.000 pasukan ke Eropa, sehingga total pasukan AS di Eropa saat ini mencapai 80.000 personel.\n2. **Kritik Trump terhadap Jerman**: Presiden AS Donald Trump mengkritik Kanselir Jerman Friedrich Merz, menyatakan bahwa Merz \"melakukan pekerjaan yang buruk\" dan bahwa AS sedang mempertimbangkan pengurangan pasukan di Jerman.\n3. **Jerman Siap Hadapi Rencana Penarikan Pasukan AS**: Jerman siap hadapi rencana penarikan pasukan AS oleh Donald Trump, dengan Kanselir Jerman Friedrich Merz menyatakan bahwa hubungan pribadinya dengan Trump tetap baik dan bahwa Jerman dan Eropa sangat menderita akibat dampak konflik di Iran.\n4. **Pengurangan Pasukan AS di Jerman**: Trump menyatakan bahwa AS sedang mempertimbangkan pengurangan pasukan di Jerman, dengan jumlah pasukan yang akan dikurangi tidak disebutkan secara spesifik."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-01T22:54:30+00:00",
+            "summary": "Amerika Serikat dikabarkan akan menarik 5.000 tentara dari Jerman akibat ketegangan terkait perang melawan Iran. Keputusan Pentagon diumumkan setelah Kanselir Jerman, Friedrich Merz, mengkritik AS atas pendekatan perang tersebut, yang dianggap merugikan ekonomi global dan menyerupai konflik sebelumnya seperti Irak dan Afghanistan. Penarikan ini rencananya berlangsung selama 6-12 bulan ke depan.",
+            "key_points": [
+              "AS menarik 5.000 tentara dari Jerman sebagai respons atas kritik Jerman terkait perang melawan Iran.",
+              "Trump mengkritik sekutu Eropa yang dianggap tidak mendukung perang AS-Israel terhadap Iran secara memadai.",
+              "Perang melawan Iran dianggap merusak ekonomi global dan menyerupai konflik sebelumnya, dengan dampak langsung pada output ekonomi Jerman."
+            ],
+            "cluster_id": 23
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Coinbase Sepakati Pasal Kunci RUU Kripto",
+        "title": "Coinbase Sepakati Pasal Kunci RUU Kripto",
+        "synthesis": [
+          "Coinbase capai kesepakatan pasal kunci RUU kripto AS.",
+          "Stablecoin reward dibatasi setara bunga bank.",
+          "Platform kripto tetap izinkan penggunaan penghasilan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Menyelesaikan hambatan regulasi kripto yang memengaruhi sektor keuangan dan teknologi.",
+        "external_research": [
+          {
+            "title": "Deep Research: Coinbase Sepakati Pasal Kunci RUU Kripto",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Coinbase Sepakati Pasal Kunci RUU Kripto\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Coinbase menarik dukungannya dari RUU Kripto**: Pada bulan Januari 2026, Coinbase menarik dukungannya dari RUU Kripto yang bertujuan untuk membentuk struktur formal pengawasan pasar kripto. Hal ini menyebabkan harga Bitcoin mengalami koreksi sebesar 6,5% dalam 24 jam.\n2. **Kekhawatiran tentang kerangka kerja yang menguntungkan institusi keuangan mapan**: Para kritikus berargumen bahwa beberapa aspek RUU tersebut berisiko menciptakan kerangka kerja yang menguntungkan institusi keuangan mapan dibandingkan perusahaan yang berasal dari dunia kripto.\n3. **Coinbase akan terus mendorong para pembuat undang-undang**: CEO Coinbase, Brian Armstrong, menyatakan bahwa perusahaan akan terus mendorong para pembuat undang-undang untuk bertindak dengan cepat sambil memastikan bahwa setiap legislasi yang akhirnya disahkan memenuhi kepentingan konsumen.\n4. **Hasil RUU tersebut masih belum pasti**: Para pembuat undang-undang terus melakukan negosiasi terhadap bahasa dalam RUU tersebut, sehingga hasilnya masih belum pasti."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Coinbase says deal reached on key provision of crypto bill",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/coinbase-says-deal-reached-key-provision-crypto-bill-6095546",
+            "category": "Ekonomi",
+            "published_at": "2026-05-02T00:59:22+00:00",
+            "summary": "Coinbase mengumumkan telah mencapai kesepakatan atas pasal kunci dalam rancangan undang-undang kripto di Senat AS yang sebelumnya tertahan karena oposisi bank terkait pemberian imbalan pada stablecoin. Kesepakatan tersebut membatasi imbalan yang setara dengan bunga bank, sambil memungkinkan pengguna kripto tetap mendapatkan penghasilan melalui platform.",
+            "key_points": [
+              "Banks menentang pemberian imbalan pada stablecoin karena khawatir mengurangi dana deposito untuk kredit.",
+              "Kesepakatan membatasi imbalan yang 'ekonomis atau fungsional setara' dengan bunga bank tetapi memungkinkan aktivitas imbalan yang diizinkan.",
+              "Rancangan Clarity Act bertujuan menciptakan regulasi jelas untuk industri kripto yang selama ini beroperasi di area abu-abu."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Moyes Bela Grealish Tertangkap Mabuk",
+        "title": "Moyes Bela Grealish Tertangkap Mabuk",
+        "synthesis": [
+          "Moyes bantah kontroversi Grealish teler minuman keras.",
+          "Grealish cetak 2 gol & 6 assist dalam 22 laga musim ini.",
+          "Kritik profesionalisme pemain mengancam citra klub."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Isu profesionalisme pemain memengaruhi reputasi klub dan tekanan publik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Moyes Bela Grealish yang Kepergok Teler Akibat Minuman Keras",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8470840/moyes-bela-grealish-yang-kepergok-teler-akibat-minuman-keras",
+            "category": "Olahraga",
+            "published_at": "2026-05-02T01:30:40+00:00",
+            "summary": "Manajer Everton David Moyes membela Jack Grealish setelah pemain tersebut tertangkap kamera dalam kondisi mabuk minuman beralkohol selama masa pemulihan cedera. Grealish, yang dipinjam dari Manchester City, sebelumnya tampil baik dengan mencetak dua gol dan enam assist dalam 22 laga musim ini. Moyes menegaskan fokusnya pada performa Grealish di lapangan, meski kontroversi tersebut memicu kritik terhadap profesionalisme pemain.",
+            "key_points": [
+              "David Moyes membela Jack Grealish dengan menekankan penilaian berdasarkan performa di lapangan.",
+              "Grealish mengalami cedera sejak Januari dan absen, lalu terlibat kontroversi setelah tertangkap kamera mabuk minuman beralkohol.",
+              "Grealish mencatatkan dua gol dan enam assist dalam 22 pertandingan untuk Everton musim ini."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Keamanan Digital: Tindakan AS Terhadap Tiongkok dan Iran",
+        "analysis": "Penarikan pasukan AS dari Jerman akibat ketegangan dengan Iran mencerminkan pergeseran prioritas militer AS ke kawasan Timur Tengah, sementara tekanan AS terhadap peretas Tiongkok menunjukkan strategi dualistik untuk menghadapi ancaman keamanan siber. Kedua isu ini saling terkait melalui narasi keamanan global: AS memperkuat posisi strategis di Timur Tengah sambil memperketat pengawasan terhadap Tiongkok di ranah digital. Krisis kesehatan Narges Mohammadi, simbol perlawanan sipil Iran, memperkuat tekanan internasional terhadap Iran, yang bisa memicu respons militer AS dan memperumit dinamika keamanan regional. Keterkaitan ini menunjukkan bagaimana isu geopolitik dan keamanan siber saling memperkuat narasi konfrontasi antara blok kekuatan global."
+      },
+      {
+        "title": "Regulasi Kripto dan Tekanan Ekonomi: Coinbase Sebagai Titik Temu",
+        "analysis": "Kesepakatan Coinbase dengan RUU kripto AS mencerminkan upaya pemerintah untuk menguasai regulasi teknologi finansial, yang secara langsung terkait dengan tekanan terhadap peretas Tiongkok. Tiongkok, yang membatasi kripto domestik, mungkin menggunakan peretasan untuk mengakses aset digital global, sehingga AS memperkuat kerangka regulasi kripto sebagai bentuk pertahanan ekonomi. Di sisi lain, penarikan pasukan AS dari Jerman dan krisis kesehatan Narges Mohammadi menunjukkan ketidakstabilan geopolitik yang bisa memengaruhi kepercayaan investor terhadap aset digital, memaksa perusahaan seperti Coinbase untuk mempercepat regulasi guna mempertahankan legitimasi pasar."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-01T22:35:07+00:00",
+          "summary": "Departemen Pertahanan AS berencana menarik 5.000 tentara dari Jerman akibat ketegangan antara Presiden Trump dan Perdana Menteri Jerman Friedrich Merz terkait perang dengan Iran. Keputusan ini diambil setelah Trump mengkritik Merz atas pernyataannya yang menyebut AS dihina oleh negosiator Iran, sementara Pentagon menyatakan penarikan ini hasil dari evaluasi posisi kekuatan militer di Eropa.",
+          "key_points": [
+            "AS akan menarik 5.000 tentara dari Jerman dalam 6-12 bulan ke depan sebagai bagian dari peninjauan ulang posisi kekuatan militer di Eropa.",
+            "Ketegangan antara Trump dan Merz memicu kritik terbuka Trump terhadap kebijakan Jerman, termasuk soal imigrasi dan energi, serta ancaman penarikan pasukan dari Italia dan Spanyol.",
+            "Jerman meningkatkan anggaran pertahanan hingga 3,1% dari PDB pada 2027, tetapi Trump tetap mengkritik negara tersebut atas keterlibatan yang dianggap tidak efektif dalam konflik dengan Iran."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "IKA FK Unsri Kawal Kemenkes Investigasi Kematian Dokter Internship di Palembang",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470882/ika-fk-unsri-kawal-kemenkes-investigasi-kematian-dokter-internship-di-palembang",
+          "category": "Kesehatan",
+          "published_at": "2026-05-02T01:05:21+00:00",
+          "summary": "IKA FK Unsri berkomitmen mengawal investigasi kematian dokter intern di Palembang yang dilakukan Kementerian Kesehatan. Pihaknya telah melaporkan kejadian tersebut ke pusat dan menunggu hasil investigasi resmi. Dugaan penyebab kematian terkait masalah pernapasan dan isu lingkungan kerja seperti bullying sedang diselidiki.",
+          "key_points": [
+            "IKA FK Unsri melaporkan kasus kematian dokter intern ke Kementerian Kesehatan untuk investigasi resmi.",
+            "Dugaan penyebab kematian mencakup infeksi paru-paru, meski belum dikonfirmasi secara medis.",
+            "Investigasi mencakup pemeriksaan isu lingkungan kerja, termasuk dugaan perundungan di rumah sakit."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Kemenkes Usut Viral Dokter Internship Unsri Meninggal, Dipaksa Masuk saat Sesak Napas",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8470723/kemenkes-usut-viral-dokter-internship-unsri-meninggal-dipaksa-masuk-saat-sesak-napas",
+          "category": "Kesehatan",
+          "published_at": "2026-05-01T23:02:24+00:00",
+          "summary": "Dokter internship dari Fakultas Kedokteran Universitas Sriwijaya, dr Myta Aprilia Azmy, meninggal dunia setelah viral laporan soal beban kerja berlebihan dan dipaksa bekerja meski sakit. Surat dari Ikatan Alumni FK Unsri menyebut adanya dugaan pelanggaran aturan kerja, kelalaian medis, dan bullying verbal. Kementerian Kesehatan menyatakan sedang mendalami informasi tersebut.",
+          "key_points": [
+            "dr Myta dipaksa bekerja tanpa libur selama 3 bulan dan tidak mendapat supervisi dokter definitif.",
+            "Ia tetap dipaksa jaga malam meski mengalami sesak napas berat dengan saturasi oksigen 80 persen.",
+            "Dugaan bullying verbal terhadap dr Myta, termasuk narasi gaslighting terhadap generasi Z."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Manusia Diprediksi Tinggal dan Bekerja di Bulan Tahun 2030-an",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8468686/manusia-diprediksi-tinggal-dan-bekerja-di-bulan-tahun-2030-an",
+          "category": "Teknologi",
+          "published_at": "2026-05-01T22:45:16+00:00",
+          "summary": "Dylan Taylor dari Voyager Technologies memprediksi manusia akan tinggal dan bekerja di Bulan pada 2030-an melalui habitat tiup dan sistem pendukung kehidupan, didukung oleh rencana perusahaan seperti SpaceX dan Blue Origin serta kucuran dana pemerintah AS.",
+          "key_points": [
+            "Prediksi pendaratan manusia di Bulan pada akhir 2020-an dengan pembangunan pangkalan permanen pada 2030-an.",
+            "Keterlibatan perusahaan seperti SpaceX dan Blue Origin dalam proyek kolonisasi Bulan, termasuk rencana kota mandiri dan fokus pada keberlanjutan.",
+            "Dukungan finansial pemerintah AS melalui anggaran pertahanan dan investasi sektor antariksa yang meningkat, mencapai USD 45 miliar pada 2025."
+          ],
+          "cluster_id": 4
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Jadwal Semifinal Uber Cup 2026: Indonesia VS Korea Selatan Sore Nanti",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/raket/d-8470905/jadwal-semifinal-uber-cup-2026-indonesia-vs-korea-selatan-sore-nanti",
+          "category": "Olahraga",
+          "published_at": "2026-05-02T01:46:45+00:00",
+          "summary": "Uber Cup 2026 memasuki babak semifinal dengan laga Indonesia vs Korea Selatan yang dijadwalkan pada Sabtu (2/5/2026) pukul 15.00 WIB di Forum Horsens, Denmark. Pertemuan kedua tim ini merupakan ulangan semifinal edisi 2024 yang dimenangkan Indonesia dengan skor 3-2. Rekor pertemuan kedua negara sejak 1992 berimbang dengan masing-masing memenangkan empat pertandingan.",
+          "key_points": [
+            "Jadwal semifinal Uber Cup 2026 antara Indonesia vs Korea Selatan di Forum Horsens, Denmark, Sabtu (2/5/2026) pukul 15.00 WIB.",
+            "Indonesia dan Korea Selatan memiliki rekor pertemuan imbang (4-4) sejak 1992, dengan kemenangan terakhir Indonesia di Uber Cup 2024.",
+            "Kemenangan Indonesia atas Korea Selatan di semifinal 2026 diharapkan menjadi momentum perbaikan prestasi tim."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Polling: Buah Apa Saja yang Kulitnya Bisa Dimakan?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/polling/d-8470657/polling-buah-apa-saja-yang-kulitnya-bisa-dimakan",
+          "category": "Umum",
+          "published_at": "2026-05-01T14:25:41+00:00",
+          "summary": "Beberapa buah dapat dikonsumsi bersama kulitnya karena mengandung nutrisi yang lebih beragam. Namun, kulit buah harus dibersihkan dari debu dan residu kimia sebelum dimakan. Selain itu, pastikan buah dalam kondisi segar dan buang bagian yang rusak sebelum dikonsumsi.",
+          "key_points": [
+            "Beberapa buah memiliki nutrisi lebih jika dimakan bersama kulitnya.",
+            "Kulit buah harus dibersihkan dari kotoran dan residu kimia sebelum dikonsumsi.",
+            "Buah harus dalam kondisi segar, dan bagian rusak harus dikupas sebelum dimakan."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-02T00:41:43+00:00",
+          "summary": "Presiden Donald Trump mengklaim bahwa gencatan senjata dengan Iran membuat konflik berakhir, sehingga ia tidak perlu meminta persetujuan Kongres untuk perang. Trump mengacu pada Undang-Undang Kekuatan Perang 1973 yang mewajibkan presiden mengakhiri konflik dalam 60 hari tanpa persetujuan resmi, tetapi ia berargumen bahwa gencatan senjata sementara menghentikan kewajiban tersebut.",
+          "key_points": [
+            "Trump menyatakan bahwa konflik dengan Iran berakhir karena gencatan senjata, sehingga melepaskan kewajibannya untuk meminta persetujuan Kongres dalam 60 hari sesuai Undang-Undang Kekuatan Perang.",
+            "Iran mengirimkan proposal negosiasi baru ke Pakistan, tetapi detailnya belum dipublikasikan dan belum diketahui apakah proposal tersebut sampai ke AS.",
+            "Para ahli hukum dan senator menantang interpretasi Trump bahwa gencatan senjata menghentikan perhitungan 60 hari, dengan argumen bahwa hanya akhir konflik permanen yang memenuhi syarat."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Trump considering option to ‘blast the hell out of’ Iran",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-01T22:27:26+00:00",
+          "summary": "Presiden AS Donald Trump menyatakan ketidakpuasan terhadap proposal perdamaian terbaru Iran dan memperingatkan bahwa alternatif dari pembicaraan adalah melakukan serangan militer terhadap negara tersebut.",
+          "key_points": [
+            "Trump tidak puas dengan proposal perdamaian Iran",
+            "Trump memperingatkan kemungkinan serangan militer sebagai alternatif dari pembicaraan",
+            "Trump menggunakan frasa 'blast the hell out of' untuk menggambarkan ancaman militer"
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-05-01T13:12:10+00:00",
+          "summary": "Perang di Iran mengganggu pasokan pupuk dan bahan utamanya, berpotensi mengurangi produksi pangan hingga 10 miliar porsi per minggu, terutama di negara miskin. Kepala produsen pupuk global, Svein Tore Holsether, memperingatkan bahwa kelangkaan pupuk nitrogen bisa mengurangi hasil panen hingga 50% di musim tanam pertama, sementara harga pupuk telah naik 80% sejak konflik dimulai.",
+          "key_points": [
+            "Kelangkaan pupuk global akibat konflik di Selat Hormuz berisiko mengurangi produksi pangan hingga 10 miliar porsi per minggu.",
+            "Wilayah seperti Afrika Sub-Sahara, Asia Tenggara, dan Amerika Latin akan paling terdampak karena kurangnya akses pupuk dan ketergantungan pada impor.",
+            "Kenaikan harga pupuk dan biaya produksi yang tidak seimbang dengan harga jual hasil pertanian berpotensi memicu persaingan pembelian pangan antara negara kaya dan miskin."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "9 Tren TikTok Berbahaya yang Berujung Hilangnya Nyawa",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8470823/9-tren-tiktok-berbahaya-yang-berujung-hilangnya-nyawa",
+          "category": "Hiburan",
+          "published_at": "2026-05-01T23:30:55+00:00",
+          "summary": "Pool - detikInet Tren Galaxy Gas mulai populer di media sosial pada 2024. Para pengguna membagikan video dirinya menghirup tabung nitrous oxide untuk mendapatkan efek euforia singkat.",
+          "key_points": [
+            "Pool - detikInet Tren Galaxy Gas mulai populer di media sosial pada 2024",
+            "Para pengguna membagikan video dirinya menghirup tabung nitrous oxide untuk mendapatkan ef",
+            "Salah satu kasus yang menimbulkan kekhwatiran melibatkan penduduk Nashville, Kelly Rosenth"
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 481
+    },
+    "timestamp": "2026-05-02T02:07:27.965117+00:00"
   }
 ]
