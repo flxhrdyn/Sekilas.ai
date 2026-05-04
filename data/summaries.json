@@ -6355,5 +6355,342 @@
       "total_in_qdrant": 606
     },
     "timestamp": "2026-05-03T02:12:04.395316+00:00"
+  },
+  {
+    "date": "2026-05-04",
+    "generated_at": "2026-05-04T02:12:37.523223+00:00",
+    "headline": "<think> Okay, let's tackle this. The user wants a single, concise Global Headline in Indonesian based on the provided news topics. The key points are to avoid abstraction, mention specific actors/locations, use a clear cause-effect structure, and keep it professional yet simple. First, I need to look at the five topics given. Let's go through each: 1. Malaysia's Biodiesel B50 Policy: They're implementing it to reduce fuel imports starting 2026. That's a significant policy change affecting energy strategy. 2. Bank of Korea's Interest Rate Hike Consideration: Due to high inflation pressure. Central bank decisions are always impactful on the economy and markets. 3. Emergency Doctors Handling Bekasi Train Accident: Doctors with experience from Gaza/Myanmar led the evacuation. It's a notable event showing expertise in crisis management. 4. Real Madrid vs. Barcelona Liga Spanyol: Real Madrid's win keeps their 11-point lead. While important in sports, maybe less impactful globally compared to others. 5. Xiaomi TV Product Review: A local product under 2 million. Probably not the most significant globally. Now, the user wants the most significant event. Malaysia's biodiesel policy is a strategic move affecting energy markets. The Bank of Korea's potential rate hike is also significant for economic policy. The Bekasi accident response is important for public health and emergency services. The other two are sports and consumer tech, which might not be as impactful for a strategic headline. Between the first two: Biodiesel policy is a long-term strategy, while the interest rate is a reaction to immediate inflation. However, both are sector-specific. The Bekasi event is a specific incident with local impact. The user's example about Hormuz Strait relates to geopolitical tension, which is a major global issue. Here, perhaps the biodiesel policy is the most strategic as it's a national policy with potential global implications in energy markets and sustainability. So, structuring the headline: [Event] memicu [Effect]. Malaysia's B50 policy aims to reduce imports. The effect would be on energy import dependency and possibly biofuel markets. The example uses \"memicu lonjakan harga minyak global\", so here maybe \"memicu penurunan impor bahan bakar\" but the user wants the most significant impact. Wait, the policy is to reduce imports, so the effect is that Malaysia's energy import dependency decreases. However, the cause is the policy, the effect is the reduction in imports. But the user's example has cause-effect as [event] causes [specific effect]. So the headline would be: \"Kebijakan biodiesel B50 Malaysia memicu penurunan impor bahan bakar dan percepatan transisi energi terbarukan.\" Wait, but the user's example uses a specific event causing a specific effect. Let me check the data again. The first topic says Malaysia implements B50 to reduce fuel imports. So the cause is the policy, effect is reducing imports. But maybe there's another effect? Or maybe the policy is in response to the energy cost surge. Wait, the topic title says \"Peningkatan Penggunaan Biodiesel di Malaysia Akibat Lonjakan Biaya Energi\", so the cause is the energy cost surge leading to the policy. But the user's instruction is to make the headline based on the data provided, not the underlying reason. Wait, the data provided in the topics: \"Malaysia menerapkan kebijakan biodiesel B50 mulai 2026 untuk mengurangi impor bahan bakar.\" So the action is the policy, the reason is to reduce imports. However, the user's instruction is to have the headline as [Real Event/Trend] memicu [Specific Impact]. So the policy is the event, and the impact is reduced fuel imports. However, maybe the energy cost surge is the cause leading to the policy, but the user wants the headline to be based on the data given, which states the policy is implemented to reduce imports. So the headline would be \"Kebijakan biodiesel B50 Malaysia memicu pengurangan impor bahan bakar dan diversifikasi sumber energi.\" But the user's example uses \"memicu lonjakan harga minyak global\", so the impact is a direct effect. So the policy is the cause, the effect is the reduction in imports. But the example's structure is cause-effect. So the headline would be \"Penerapan kebijakan biodiesel B50 oleh Malaysia memicu pengurangan impor bahan bakar dan percepatan penggunaan energi terbarukan.\" Wait, but the data says \"untuk mengurangi impor bahan bakar\" which is the stated goal. So the policy's implementation is the event, and the effect is the reduction in imports. The headline should be in Bahasa Indonesia. The user's example is in Indonesian, so I need to make sure the structure matches. Alternatively, maybe the most significant event here is the Bank of Korea considering rate hikes due to inflation. Let's compare: \"Kemungkinan kenaikan suku bunga Bank of Korea memicu gelombang tekanan pada pasar keuangan Asia.\" But between Malaysia's policy and Korea's central bank decision, which is more significant globally? The example given in the problem is about Hormuz Strait affecting oil prices, which is global. Malaysia's policy is a national policy but could have regional energy market effects. The Bank of Korea's decision affects financial markets, which can be global. However, the user asks for the most significant per the data given. The topics are all separate. The user wants one headline based on the most significant per the data. Let me check again. The user's example is about Hormuz Strait causing oil prices to spike. In the given data, the topics are: 1. Malaysia's B50 policy to reduce fuel imports. 2. Bank Korea considering rate hike due to inflation. 3. Emergency doctors in Bekasi. 4. Real Madrid's win. 5. Xiaomi TV. So, the most significant would be either 1 or 2. Which one is more impactful? If the user wants the headline to be about the most significant event, then the Bank of Korea's potential rate hike is a major economic decision that can affect not just Korea but global markets. However, the user's example is about a geopolitical event leading to oil prices. The data about Malaysia's policy is a strategic move affecting energy markets, which could be significant as well. But the user's instruction is to pick the most significant per the data. Since the data is provided as separate topics, the user might want the headline to be based on the most impactful among them. The Bank of Korea's rate hike is a policy decision that can have wide-reaching effects on the economy, exchange rates, etc. The Malaysia policy is a national policy with potential sectoral impact. However, in terms of immediacy and market impact, the Bank of Korea's decision might be more significant. But the user's example is a geopolitical event. Let me check the user's example again: \"Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.\" So, the example uses a geopolitical event (cause) leading to a global effect (oil prices and supply chains). In the given data, the most significant in terms of global impact would be either Malaysia's biodiesel policy or the Bank of Korea's rate hike. However, the biodiesel policy is a proactive measure to reduce imports, which could have implications on the global biofuel market and energy sustainability. The Bank of Korea's decision affects financial markets, which is also significant. But the user's instruction is to pick the most significant. Since the user provided five topics, and the example uses a geopolitical event, perhaps the user expects that the headline should reflect the most impactful event. Between the two, perhaps the Bank of Korea's rate hike is more immediately impactful on global markets, but the Malaysia policy is a strategic move. However, the example uses a cause (geopolitical tension) leading to specific effects. So in the given data, the Malaysia policy is the cause leading to reduced imports and energy transition. The Bank of Korea's decision is due to inflation leading to rate hikes, which could affect markets. Looking back, the user's example has [event] memicu [effect]. So for the Malaysia case: \"Kebijakan biodiesel B50 Malaysia memicu penurunan impor bahan bakar dan percepatan transisi energi terbarukan.\" But the data says \"untuk mengurangi impor bahan bakar,\" so the effect is the reduction in imports. However, the user's example includes both effects (oil price spike and supply chain uncertainty). Maybe the user wants to mention two specific effects. Let me check the data again. The Malaysia topic is about implementing B50 to reduce fuel imports. The effect would be reduced imports and increased use of biodiesel. Alternatively, maybe it's about energy security. But the user wants specific effects. Alternatively, if the Bank of Korea's potential rate hike is the event, then the effect is increased pressure on inflation or market volatility. But the data says \"pertimbangkan kenaikan suku bunga akibat tekanan inflasi tinggi.\" So the cause is high inflation leading to the consideration of rate hikes. But the user wants the headline to be [event] memicu [effect]. If the event is the consideration of rate hike, the effect would be uncertainty in financial markets or potential capital outflows. But the data is about the bank considering it, not implementing it yet. So maybe the headline would",
+    "global_headline": "<think> Okay, let's tackle this. The user wants a single, concise Global Headline in Indonesian based on the provided news topics. The key points are to avoid abstraction, mention specific actors/locations, use a clear cause-effect structure, and keep it professional yet simple. First, I need to look at the five topics given. Let's go through each: 1. Malaysia's Biodiesel B50 Policy: They're implementing it to reduce fuel imports starting 2026. That's a significant policy change affecting energy strategy. 2. Bank of Korea's Interest Rate Hike Consideration: Due to high inflation pressure. Central bank decisions are always impactful on the economy and markets. 3. Emergency Doctors Handling Bekasi Train Accident: Doctors with experience from Gaza/Myanmar led the evacuation. It's a notable event showing expertise in crisis management. 4. Real Madrid vs. Barcelona Liga Spanyol: Real Madrid's win keeps their 11-point lead. While important in sports, maybe less impactful globally compared to others. 5. Xiaomi TV Product Review: A local product under 2 million. Probably not the most significant globally. Now, the user wants the most significant event. Malaysia's biodiesel policy is a strategic move affecting energy markets. The Bank of Korea's potential rate hike is also significant for economic policy. The Bekasi accident response is important for public health and emergency services. The other two are sports and consumer tech, which might not be as impactful for a strategic headline. Between the first two: Biodiesel policy is a long-term strategy, while the interest rate is a reaction to immediate inflation. However, both are sector-specific. The Bekasi event is a specific incident with local impact. The user's example about Hormuz Strait relates to geopolitical tension, which is a major global issue. Here, perhaps the biodiesel policy is the most strategic as it's a national policy with potential global implications in energy markets and sustainability. So, structuring the headline: [Event] memicu [Effect]. Malaysia's B50 policy aims to reduce imports. The effect would be on energy import dependency and possibly biofuel markets. The example uses \"memicu lonjakan harga minyak global\", so here maybe \"memicu penurunan impor bahan bakar\" but the user wants the most significant impact. Wait, the policy is to reduce imports, so the effect is that Malaysia's energy import dependency decreases. However, the cause is the policy, the effect is the reduction in imports. But the user's example has cause-effect as [event] causes [specific effect]. So the headline would be: \"Kebijakan biodiesel B50 Malaysia memicu penurunan impor bahan bakar dan percepatan transisi energi terbarukan.\" Wait, but the user's example uses a specific event causing a specific effect. Let me check the data again. The first topic says Malaysia implements B50 to reduce fuel imports. So the cause is the policy, effect is reducing imports. But maybe there's another effect? Or maybe the policy is in response to the energy cost surge. Wait, the topic title says \"Peningkatan Penggunaan Biodiesel di Malaysia Akibat Lonjakan Biaya Energi\", so the cause is the energy cost surge leading to the policy. But the user's instruction is to make the headline based on the data provided, not the underlying reason. Wait, the data provided in the topics: \"Malaysia menerapkan kebijakan biodiesel B50 mulai 2026 untuk mengurangi impor bahan bakar.\" So the action is the policy, the reason is to reduce imports. However, the user's instruction is to have the headline as [Real Event/Trend] memicu [Specific Impact]. So the policy is the event, and the impact is reduced fuel imports. However, maybe the energy cost surge is the cause leading to the policy, but the user wants the headline to be based on the data given, which states the policy is implemented to reduce imports. So the headline would be \"Kebijakan biodiesel B50 Malaysia memicu pengurangan impor bahan bakar dan diversifikasi sumber energi.\" But the user's example uses \"memicu lonjakan harga minyak global\", so the impact is a direct effect. So the policy is the cause, the effect is the reduction in imports. But the example's structure is cause-effect. So the headline would be \"Penerapan kebijakan biodiesel B50 oleh Malaysia memicu pengurangan impor bahan bakar dan percepatan penggunaan energi terbarukan.\" Wait, but the data says \"untuk mengurangi impor bahan bakar\" which is the stated goal. So the policy's implementation is the event, and the effect is the reduction in imports. The headline should be in Bahasa Indonesia. The user's example is in Indonesian, so I need to make sure the structure matches. Alternatively, maybe the most significant event here is the Bank of Korea considering rate hikes due to inflation. Let's compare: \"Kemungkinan kenaikan suku bunga Bank of Korea memicu gelombang tekanan pada pasar keuangan Asia.\" But between Malaysia's policy and Korea's central bank decision, which is more significant globally? The example given in the problem is about Hormuz Strait affecting oil prices, which is global. Malaysia's policy is a national policy but could have regional energy market effects. The Bank of Korea's decision affects financial markets, which can be global. However, the user asks for the most significant per the data given. The topics are all separate. The user wants one headline based on the most significant per the data. Let me check again. The user's example is about Hormuz Strait causing oil prices to spike. In the given data, the topics are: 1. Malaysia's B50 policy to reduce fuel imports. 2. Bank Korea considering rate hike due to inflation. 3. Emergency doctors in Bekasi. 4. Real Madrid's win. 5. Xiaomi TV. So, the most significant would be either 1 or 2. Which one is more impactful? If the user wants the headline to be about the most significant event, then the Bank of Korea's potential rate hike is a major economic decision that can affect not just Korea but global markets. However, the user's example is about a geopolitical event leading to oil prices. The data about Malaysia's policy is a strategic move affecting energy markets, which could be significant as well. But the user's instruction is to pick the most significant per the data. Since the data is provided as separate topics, the user might want the headline to be based on the most impactful among them. The Bank of Korea's rate hike is a policy decision that can have wide-reaching effects on the economy, exchange rates, etc. The Malaysia policy is a national policy with potential sectoral impact. However, in terms of immediacy and market impact, the Bank of Korea's decision might be more significant. But the user's example is a geopolitical event. Let me check the user's example again: \"Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.\" So, the example uses a geopolitical event (cause) leading to a global effect (oil prices and supply chains). In the given data, the most significant in terms of global impact would be either Malaysia's biodiesel policy or the Bank of Korea's rate hike. However, the biodiesel policy is a proactive measure to reduce imports, which could have implications on the global biofuel market and energy sustainability. The Bank of Korea's decision affects financial markets, which is also significant. But the user's instruction is to pick the most significant. Since the user provided five topics, and the example uses a geopolitical event, perhaps the user expects that the headline should reflect the most impactful event. Between the two, perhaps the Bank of Korea's rate hike is more immediately impactful on global markets, but the Malaysia policy is a strategic move. However, the example uses a cause (geopolitical tension) leading to specific effects. So in the given data, the Malaysia policy is the cause leading to reduced imports and energy transition. The Bank of Korea's decision is due to inflation leading to rate hikes, which could affect markets. Looking back, the user's example has [event] memicu [effect]. So for the Malaysia case: \"Kebijakan biodiesel B50 Malaysia memicu penurunan impor bahan bakar dan percepatan transisi energi terbarukan.\" But the data says \"untuk mengurangi impor bahan bakar,\" so the effect is the reduction in imports. However, the user's example includes both effects (oil price spike and supply chain uncertainty). Maybe the user wants to mention two specific effects. Let me check the data again. The Malaysia topic is about implementing B50 to reduce fuel imports. The effect would be reduced imports and increased use of biodiesel. Alternatively, maybe it's about energy security. But the user wants specific effects. Alternatively, if the Bank of Korea's potential rate hike is the event, then the effect is increased pressure on inflation or market volatility. But the data says \"pertimbangkan kenaikan suku bunga akibat tekanan inflasi tinggi.\" So the cause is high inflation leading to the consideration of rate hikes. But the user wants the headline to be [event] memicu [effect]. If the event is the consideration of rate hike, the effect would be uncertainty in financial markets or potential capital outflows. But the data is about the bank considering it, not implementing it yet. So maybe the headline would",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Peningkatan Penggunaan Biodiesel di Malaysia Akibat Lonjakan Biaya Energi",
+        "title": "Peningkatan Penggunaan Biodiesel di Malaysia Akibat Lonjakan Biaya Energi",
+        "synthesis": [
+          "Malaysia menerapkan kebijakan biodiesel B50 mulai 2026 untuk mengurangi impor bahan bakar.",
+          "Pemanfaatan industri kelapa sawit sebagai bahan baku utama biodiesel.",
+          "Tantangan infrastruktur dan kapasitas produksi menghambat implementasi kebijakan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kebijakan B50 merupakan langkah strategis pemerintah untuk mencapai kemandirian energi nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Peningkatan Penggunaan Biodiesel di Malaysia Akibat Lonjakan Biaya Energi",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait peningkatan penggunaan biodiesel di Malaysia akibat lonjakan biaya energi. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Peningkatan kebijakan biodiesel**: Pemerintah Malaysia telah menerapkan kebijakan biodiesel B50 mulai 1 Juli 2026, yang merupakan bagian dari upaya kemandirian energi dan efisiensi energi. Langkah ini diharapkan dapat mengurangi penggunaan BBM fosil sebanyak 4 juta KL dalam 1 tahun.\n2. **Ketersediaan bahan baku**: Malaysia merupakan salah satu produsen terbesar minyak sawit dunia, sehingga pasokan bahan baku relatif terjamin untuk produksi biodiesel.\n3. **Kemampuan kompetitif**: Biodiesel sawit dinilai memiliki keunggulan karena lebih kompetitif dibandingkan diesel berbasis fosil, terutama ketika harga minyak dunia melonjak.\n4. **Tantangan infrastruktur**: Pengembangan biodiesel di Malaysia juga dihadapkan pada tantangan infrastruktur, terutama fasilitas pencampuran dan distribusi bahan bakar.\n\nNamun, perlu diingat bahwa masih ada beberapa tantangan yang perlu diatasi, seperti kesiapan infrastruktur, skala produksi, dan kebijakan yang lebih komprehensif untuk mendukung pengembangan biodiesel di Malaysia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Malaysia ramps up biodiesel use amid soaring energy bills",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/asia/malaysia-biodiesel-biofuel-energy-crunch-oil-prices-6094726",
+            "category": "Lingkungan",
+            "published_at": "2026-05-04T01:13:43+00:00",
+            "summary": "Malaysia meningkatkan penggunaan biodiesel untuk mengatasi biaya energi yang tinggi dan mengurangi ketergantungan pada impor bahan bakar. Negara ini memanfaatkan industri kelapa sawitnya yang besar untuk memproduksi bahan bakar alternatif ini, meski masih menghadapi tantangan infrastruktur dan kapasitas produksi.",
+            "key_points": [
+              "Malaysia mendorong penggunaan campuran biodiesel (B15/B30) sebagai solusi jangka panjang terhadap fluktuasi harga energi global.",
+              "Upgrading infrastruktur blending depot diperlukan untuk mendukung transisi ke campuran biodiesel yang lebih tinggi, dengan biaya estimasi mencapai 600 juta ringgit.",
+              "Kapasitas produksi biodiesel Malaysia mencapai 2,4 juta ton per tahun, tetapi hanya 6,5% dari produksi kelapa sawit nasional yang digunakan untuk biodiesel saat ini."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 301
+      },
+      {
+        "id": 4,
+        "topic": "Pertimbangan Kenaikan Suku Bunga oleh Bank Korea",
+        "title": "Pertimbangan Kenaikan Suku Bunga oleh Bank Korea",
+        "synthesis": [
+          "Bank of Korea pertimbangkan kenaikan suku bunga akibat tekanan inflasi tinggi.",
+          "Pertumbuhan ekonomi diperkirakan 2% didorong boom ekspor chip.",
+          "Panduan kebijakan moneter akan lebih hawkish pada pertemuan berikutnya."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kebijakan moneter Bank Korea berpotensi mengubah dinamika inflasi dan pertumbuhan ekonomi nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pertimbangan Kenaikan Suku Bunga oleh Bank Korea",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang pertimbangan kenaikan suku bunga oleh Bank Korea. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Bank Korea menaikkan suku bunga acuan sebesar 25 basis poin (bps) ke level 0,75% pada Kamis (26/8)**. Keputusan ini diambil karena melihat adanya risiko keuangan yang menimbulkan ancaman yang lebih besar terhadap ekonomi dibandingkan gelombang terakhir kasus Covid-19.\n2. **Dewan Kebijakan Moneter Bank of Korea mempertahankan suku bunga acuan di angka 2,5% pada tanggal 26 Februari 2026**. Suku bunga acuan telah dipertahankan selama enam kali berturut-turut sejak Juli 2025.\n3. **Ekonomi Korea berada dalam tren pertumbuhan berkat pemulihan konsumsi dan peningkatan ekspor**. Namun, ING memprakirakan pertumbuhan akan melambat pada Kuartal II 2026 karena gangguan energi, sementara ekspektasi inflasi yang meningkat dan \"chipflation\" meningkatkan tekanan pada Bank of Korea untuk menaikkan suku bunga pada Semester II 2026.\n4. **Kenaikan suku bunga juga mempengaruhi money flow, dimana ketika The Fed meningkatkan suku bunga maka yield treasury (risk free) di negara safe haven akan meningkat**. Hal ini dapat mempengaruhi investasi dan perdagangan di negara-negara lain."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Bank of Korea deputy chief says time to consider rate hikes",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/bank-korea-deputy-chief-says-time-consider-rate-hikes-6097716",
+            "category": "Ekonomi",
+            "published_at": "2026-05-04T01:42:53+00:00",
+            "summary": "Wakil Gubernur Bank of Korea, Ryoo Sang-dai, menyatakan bahwa panduan kebijakan moneter akan lebih hawkish pada pertemuan berikutnya bulan ini, sambil mempertimbangkan kenaikan suku bunga. Ia menekankan tekanan inflasi masih tinggi meski pemerintah telah mengambil langkah-langkah untuk mengendalikan harga konsumen, sementara pertumbuhan ekonomi diperkirakan sekitar 2% tahun ini didorong oleh boom ekspor chip.",
+            "key_points": [
+              "Wakil Gubernur Bank of Korea menyatakan perlu mempertimbangkan kenaikan suku bunga pada pertemuan berikutnya.",
+              "Inflasi tetap tinggi meski pemerintah telah menerapkan langkah-langkah pengendalian harga konsumen.",
+              "Pertumbuhan ekonomi diperkirakan 2% tahun ini, didukung oleh boom ekspor chip."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Penanganan Korban Kecelakaan Kereta Bekasi oleh Dokter Emergensi",
+        "title": "Penanganan Korban Kecelakaan Kereta Bekasi oleh Dokter Emergensi",
+        "synthesis": [
+          "Dokter emergensi dengan pengalaman konflik Gaza/Myanmar pimpin evakuasi korban kereta Bekasi.",
+          "Lima korban terjepit kritis, koordinasi medis-rescue efektif meski menghadapi tantangan evakuasi.",
+          "Insiden kereta Bekasi 27 April 2026 menegaskan pentingnya integrasi respons darurat multi-agensi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam koordinasi respons darurat regional dan evaluasi keamanan transportasi.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Dokter Emergensi Ceritakan Momen Tangani Korban Tragedi Kereta Bekasi",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8473001/dokter-emergensi-ceritakan-momen-tangani-korban-tragedi-kereta-bekasi",
+            "category": "Kesehatan",
+            "published_at": "2026-05-04T01:01:06+00:00",
+            "summary": "Dr. Muhammad Iqbal El Mubarak, dokter emergensi dengan pengalaman menangani konflik di Gaza dan Myanmar, memimpin penanganan korban kecelakaan KRL dan KA Argo Bromo di Stasiun Bekasi Timur pada 27 April 2026. Ia fokus pada lima korban terjepit yang kondisinya kritis dan memastikan koordinasi medis-rescue berjalan efektif meski proses evakuasi menghadapi tantangan berat.",
+            "key_points": [
+              "Dr. Iqbal ditunjuk sebagai Incident Commander oleh Kementerian Kesehatan untuk memimpin tim medis di lokasi kejadian.",
+              "Lima korban terjepit dalam kondisi kritis dengan tanda vital tidak stabil, seperti detak jantung mencapai 180 per menit.",
+              "Ia menekankan pentingnya sinergi antara tim medis dan SAR untuk memaksimalkan upaya penyelamatan nyawa dalam situasi darurat."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Kompetisi Real Madrid-Barcelona Liga Spanyol",
+        "title": "Kompetisi Real Madrid-Barcelona Liga Spanyol",
+        "synthesis": [
+          "Real Madrid menang 2-0 atas Espanyol, menjaga selisih 11 poin dari Barcelona.",
+          "Barcelona masih membutuhkan satu poin tambahan untuk memastikan gelar juara.",
+          "Brace Vinicius Junior menjadi kunci kemenangan Real Madrid."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam persaingan gelar Liga Spanyol.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Klasemen Liga Spanyol: Real Madrid Masih Tunda Pesta Juara Barcelona",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8472999/klasemen-liga-spanyol-real-madrid-masih-tunda-pesta-juara-barcelona",
+            "category": "Olahraga",
+            "published_at": "2026-05-04T01:00:10+00:00",
+            "summary": "Real Madrid menang 2-0 atas Espanyol berkat brace Vinicius Junior, menjaga selisih 11 poin dari Barcelona di puncak klasemen Liga Spanyol. Barcelona masih membutuhkan satu poin tambahan untuk memastikan gelar juara.",
+            "key_points": [
+              "Real Madrid mengalahkan Espanyol 2-0 dengan dua gol dari Vinicius Junior.",
+              "Selisih poin antara Barcelona dan Real Madrid tetap 11 poin setelah laga ini.",
+              "Barcelona masih memerlukan satu poin tambahan untuk menyegel gelar juara Liga Spanyol."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Ulasan Xiaomi TV A Pro 32 2026 QLED Harga Rp 2 Jutaan",
+        "title": "Ulasan Xiaomi TV A Pro 32 2026 QLED Harga Rp 2 Jutaan",
+        "synthesis": [
+          "Xiaomi TV A Pro 32 2026 QLED di bawah Rp 2 juta.",
+          "Visual dan audio melebihi ekspektasi kelas entry-level.",
+          "Target pasar ruang kecil dengan harga terjangkau."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pengenalan QLED ke segmen harga rendah menggeser kompetisi.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Review Xiaomi TV A Pro 32 2026: QLED Rp 2 Jutaan, Layak Beli?",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/review-produk/d-8473045/review-xiaomi-tv-a-pro-32-2026-qled-rp-2-jutaan-layak-beli",
+            "category": "Teknologi",
+            "published_at": "2026-05-04T01:45:45+00:00",
+            "summary": "Xiaomi TV A Pro 32 2026 adalah Smart TV QLED dengan harga Rp 2 jutaan yang menawarkan kualitas visual dan audio di atas ekspektasi untuk kelas entry-level, cocok untuk ruangan kecil.",
+            "key_points": [
+              "Panel QLED dengan coverage DCI-P3 hingga 90% dan dukungan HDR10 menghasilkan warna hidup dan tajam meski resolusi hanya HD.",
+              "Dukungan audio Dolby dan DTS-X dengan driver 10W serta fitur Dialog Enhancer memberikan kualitas suara jernih dan imersif tanpa perlu soundbar.",
+              "Antarmuka Google TV dengan rekomendasi konten personal, integrasi voice control, dan akses langsung ke layanan streaming populer seperti Netflix dan YouTube."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Nigeria summons South African envoy over attacks on its nationals",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-03T10:16:01+00:00",
+          "summary": "Nigeria memanggil Duta Besar Selandia Selatan terkait serangkaian serangan terhadap warga negaranya di negara tersebut, yang dikhawatirkan merusak hubungan bilateral. Pemerintah Nigeria menyampaikan keprihatinannya mengenai insiden tersebut, termasuk aksi protes anti-imigran dan penyerangan terhadap bisnis warga asing. Presiden Selandia Selatan Cyril Ramaphosa mengecam serangan tersebut, namun juga memperingatkan warga asing untuk mematuhi hukum setempat.",
+          "key_points": [
+            "Nigeria memanggil Duta Besar Selandia Selatan untuk menyampaikan keprihatinan atas serangan terhadap warga Nigeria dan dampaknya terhadap hubungan bilateral.",
+            "Setidaknya dua warga Nigeria dan empat warga Etiopia tewas dalam serangan terbaru, sementara kelompok anti-imigran melakukan protes dengan memeriksa dokumen identitas warga asing.",
+            "Presiden Selandia Selatan Cyril Ramaphosa mengecam serangan tersebut, tetapi juga menekankan pentingnya warga asing mematuhi hukum lokal, sementara sentimen anti-imigran meningkat di tengah isu pekerjaan dan kejahatan."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-02T23:19:27+00:00",
+          "summary": "Presiden Ukraina Volodymyr Zelensky memanfaatkan konflik Iran untuk memperkuat aliansi militer dengan negara-negara Teluk melalui pertukaran teknologi drone, sementara upaya perdamaian dengan Rusia masih terganjal oleh ketidakpastian kebijakan AS di bawah Trump. Ukraina juga menargetkan infrastruktur energi Rusia sebagai balasan atas serangan drone Iran ke negara-negara Teluk.",
+          "key_points": [
+            "Ukraina menandatangani kerja sama pertahanan dengan Saudi, UAE, dan Qatar untuk berbagi teknologi drone dan memperkuat pertahanan bersama.",
+            "Trump menyatakan optimisme terhadap solusi perang Ukraina-Rusia, tetapi belum ada kemajuan konkret karena tekanan politik dan ekonomi.",
+            "Ukraina menyerang infrastruktur energi Rusia dengan drone buatan sendiri, mengikuti strategi serupa yang digunakan dalam konflik dengan Iran."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Australian inquiry opens public hearings into Bondi Beach shooting",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/australia-bondi-beach-shooting-inquiry-public-hearings-antisemitism-6097711",
+          "category": "Hukum",
+          "published_at": "2026-05-04T01:39:00+00:00",
+          "summary": "Pemerintah Australia membuka sidang umum investigasi terhadap penembakan antisemitik di Bondi Beach yang menewaskan 15 orang pada Desember 2024. Investigasi federal ini bertujuan mengungkap faktor penyebab serangan oleh dua pelaku terhadap keluarga Yahudi saat perayaan Hanukkah. Sidang juga membahas peningkatan kebencian terhadap komunitas Yahudi di Australia yang dikaitkan dengan konflik di Timur Tengah.",
+          "key_points": [
+            "Investigasi federal Australia membuka sidang umum untuk menyelidiki penembakan terburuk dalam 30 tahun di Bondi Beach, yang dilakukan oleh dua pelaku terhadap keluarga Yahudi.",
+            "Penyelidik menyoroti korelasi antara peningkatan antisemitisme di Australia dengan peristiwa konflik Timur Tengah, termasuk aksi protes anti-perang di Sydney tahun 2023.",
+            "Pelaku, Sajid Akram (50) dan putranya Naveed (24), dituduh melakukan serangan teror dengan menembak 15 korban, sementara Sajid tewas ditembak polisi dan Naveed ditahan."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-04T00:40:20+00:00",
+          "summary": "Sebanyak 40.000 peserta menghadiri pesta ilegal di area tembak militer Prancis dekat Bourges, meski pihak berwenang memperingatkan risiko serius dari sisa amunisi Perang Dunia II. Penyelenggara mengklaim acara tersebut sebagai protes terhadap rencana undang-undang yang menargetkan pesta tanpa izin.",
+          "key_points": [
+            "Pesta ilegal diadakan di area militer Prancis yang berisiko karena sisa amunisi Perang Dunia II.",
+            "Sekitar 40.000 peserta menghadiri acara tersebut.",
+            "Penyelenggara menyatakan pesta ini sebagai protes terhadap undang-undang yang mengatur pesta tanpa izin."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "'Stoked' Kerr claims Chelsea goalscoring record with WSL strike",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/stoked-kerr-claims-chelsea-goalscoring-record-wsl-strike-6097686",
+          "category": "Olahraga",
+          "published_at": "2026-05-04T01:25:19+00:00",
+          "summary": "Sam Kerr, penyerang Australia, mencetak rekor sebagai pemain dengan jumlah gol terbanyak di Women's Super League (WSL) untuk Chelsea dengan torehan 64 gol, setelah membobol gawang Leicester City dalam kemenangan 3-1. Ia mengungkapkan rasa senang dan kehormatan atas pencapaian tersebut.",
+          "key_points": [
+            "Sam Kerr mencetak 64 gol untuk Chelsea di WSL, melebihi rekor sebelumnya yang dipegang Fran Kirby.",
+            "Gol yang memecahkan rekor dicetak pada menit ke-13 melalui sundulan dari umpan Niamh Charles dalam pertandingan melawan Leicester City.",
+            "Kerr adalah penyerang Australia dengan jumlah gol terbanyak (75 gol dalam 139 pertandingan) dan pernah memenangkan gelar top skor WSL dua musim berturut-turut."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "King MU Kalahkan Liverpool 3-2: Assalamualaikum Liga Champions Bergema",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8472969/king-mu-kalahkan-liverpool-3-2-assalamualaikum-liga-champions-bergema",
+          "category": "Olahraga",
+          "published_at": "2026-05-03T23:45:07+00:00",
+          "summary": "Manchester United menang dramatis 3-2 atas Liverpool di Old Trafford, disambut euforia fans dengan frasa 'Assalamualaikum Liga Champions' yang viral di media sosial. Kemenangan ini memastikan MU lolos ke Liga Champions musim depan dan memperlebar jarak poin mereka di klasemen Premier League.",
+          "key_points": [
+            "MU unggul 3-2 berkat gol Matheus Cunha, Benjamin Sesko, dan Kobbie Mainoo, sementara Liverpool mencetak dua gol balasan melalui Szoboszlai dan Gakpo.",
+            "Frasa 'Assalamualaikum Liga Champions' menjadi viral di media sosial sebagai simbol kebangkitan MU setelah absen dua musim dari Liga Champions.",
+            "Kemenangan ini memastikan MU finis di zona Liga Champions dengan 64 poin, unggul 6 poin dari Liverpool di peringkat keempat."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Thousands in India’s Manipur mark three years since ethnic clashes began",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-03T23:04:52+00:00",
+          "summary": "Ribuan orang di Manipur, India, memperingati tiga tahun konflik etnis antara komunitas Meitei dan Kuki-Zo yang dimulai Mei 2023. Konflik yang dipicu sengketa tanah dan kekuasaan politik telah menewaskan hampir 260 orang dan mengungsikan sekitar 60.000.",
+          "key_points": [
+            "Protes besar-besaran di Manipur memperingati tiga tahun konflik etnis antara Meitei dan Kuki-Zo.",
+            "Konflik dipicu oleh sengketa tanah dan kekuasaan politik antara kedua komunitas.",
+            "Konflik telah menewaskan 260 orang dan mengungsikan 60.000 warga."
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "French left-wing’s Melenchon says he will run for president in 2027",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-03T21:25:48+00:00",
+          "summary": "Jean-Luc Melenchon, politikus Partai Kiri Prancis Unbowed, mengumumkan akan kembali maju dalam pemilihan presiden 2027, yang berpotensi menjadi persaingan ketat dengan rival sentris dan kanan. Ini merupakan upaya keduanya setelah sebelumnya mencapai posisi ketiga pada pemilu 2022. Situasi politik Prancis saat ini dinilai tidak stabil dengan tidak adanya mayoritas partai dan pergantian pemerintahan yang sering terjadi.",
+          "key_points": [
+            "Melenchon akan mengikuti pemilihan presiden 2027 untuk keempat kalinya, setelah sebelumnya mencapai 22% suara pada pemilu 2022.",
+            "Partai Unbowed (LFI) kritis terhadap Israel dan mendukung regulasi lingkungan ketat serta pajak tinggi bagi kaya.",
+            "Pemilihan 2027 dianggap terbuka karena Macron tidak bisa maju akibat batas jabatan, sementara Le Pen menghadapi larangan politik yang dia gugat."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Spyware Morpheus Serang Android, Bisa Bajak WhatsApp Diam-diam",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/security/d-8472994/spyware-morpheus-serang-android-bisa-bajak-whatsapp-diam-diam",
+          "category": "Teknologi",
+          "published_at": "2026-05-04T00:45:37+00:00",
+          "summary": "Spyware Morpheus, berasal dari Italia, digunakan oleh lembaga penegak hukum dan intelijen untuk menargetkan pengguna Android di lebih dari 20 negara. Ia memanfaatkan kondisi ponsel tanpa akses data seluler untuk menginfeksi perangkat melalui file APK palsu, lalu mengambil alih akun WhatsApp korban tanpa sepengetahuan pengguna.",
+          "key_points": [
+            "Morpheus adalah spyware Android yang digunakan oleh lembaga hukum dan intelijen, beroperasi di lebih dari 20 negara.",
+            "Spyware ini menyebar melalui instalasi APK ilegal saat ponsel korban kehilangan akses data, memanfaatkan fitur side loading Android.",
+            "Morpheus dapat mengambil alih akun WhatsApp korban dengan menautkan perangkat baru tanpa izin pengguna, serangan bersifat sangat terarah."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-03T21:59:20+00:00",
+          "summary": "Tiga orang dinyatakan meninggal di kapal pesiar MV Hondius di Atlantik akibat dugaan wabah hantavirus, dengan satu kasus terkonfirmasi dan lima lainnya dicurigai terinfeksi. Organisasi Kesehatan Dunia (WHO) sedang melakukan investigasi lebih lanjut, termasuk pengujian laboratorium dan koordinasi evakuasi pasien. Hantavirus, yang menyebar melalui kotoran atau air kencing tikus, diketahui dapat menyebabkan demam berdarah yang fatal.",
+          "key_points": [
+            "Tiga korban meninggal dan satu pasien dalam perawatan intensif akibat dugaan infeksi hantavirus di kapal MV Hondius.",
+            "WHO memastikan satu kasus terkonfirmasi dan lima lainnya dicurigai terinfeksi, dengan investigasi dan pengujian laboratorium sedang berlangsung.",
+            "Hantavirus menyebar melalui kontak dengan kotoran atau air kencing tikus, dan dua dari tiga korban adalah pasangan berusia 70 dan 69 tahun dengan kewarganegaraan belum diungkap."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 692
+    },
+    "timestamp": "2026-05-04T02:12:37.523231+00:00"
   }
 ]
