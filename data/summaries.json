@@ -7023,5 +7023,332 @@
       "total_in_qdrant": 782
     },
     "timestamp": "2026-05-05T02:10:33.842028+00:00"
+  },
+  {
+    "date": "2026-05-06",
+    "generated_at": "2026-05-06T02:11:07.008976+00:00",
+    "headline": "WHO menyelidiki penularan Hantavirus antarmanusia di kapal pesiar MV Hondius memicu kekhawatiran kesehatan global.",
+    "global_headline": "WHO menyelidiki penularan Hantavirus antarmanusia di kapal pesiar MV Hondius memicu kekhawatiran kesehatan global.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "Pergerakan Dollar dan Yen Akibat Harapan Kesepakatan AS-Iran",
+        "title": "Pergerakan Dollar dan Yen Akibat Harapan Kesepakatan AS-Iran",
+        "synthesis": [
+          "Dolar melemah akibat harapan kesepakatan AS-Iran mengurangi ketegangan Timur Tengah.",
+          "Yen melemah mendekati level intervensi Jepang akibat tekanan suku bunga AS-Jepang.",
+          "Harga minyak turun setelah AS menghentikan operasi pengawalan kapal di Selat Hormuz."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi sistemik dalam geopolitik energi global dan kebijakan moneter utama.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pergerakan Dollar dan Yen Akibat Harapan Kesepakatan AS-Iran",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel terkait pergerakan dollar dan yen akibat harapan kesepakatan AS-Iran:\n\n1. **Penguatan Yen**: Pemerintah Jepang membuka peluang penggunaan kebijakan moneter untuk menahan laju inflasi dengan memperkuat nilai tukar yen, di tengah tekanan kenaikan harga energi akibat konflik di Timur Tengah.\n2. **Perbedaan Suku Bunga**: Perbedaan suku bunga yang lebar antara Amerika Serikat dan Jepang juga menjadi faktor utama yang memengaruhi pergerakan mata uang.\n3. **Intervensi Otoritas Jepang**: Otoritas Jepang telah mengintervensi pasar valuta asing untuk memperlambat pergerakan nilai tukar yen, terutama setelah adanya peringatan dari otoritas Jepang.\n4. **Dampak pada Ekonomi Indonesia**: Kenaikan dollar AS dapat meningkatkan harga impor, mengurangi margin keuntungan para produsen dalam negeri, dan mendorong inflasi yang lebih tinggi di Indonesia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Dollar eases as US-Iran deal hopes grow, yen drifts",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/dollar-eases-us-iran-deal-hopes-grow-yen-drifts-6102596",
+            "category": "Internasional",
+            "published_at": "2026-05-06T01:02:34+00:00",
+            "summary": "Dolar AS melemah terhadap sebagian besar mata uang utama setelah AS menunjukkan tanda-tanda hampir mencapai kesepakatan dengan Iran, sementara yen terus melemah mendekati level yang sebelumnya memicu intervensi Jepang. Presiden Donald Trump mengumumkan akan sementara menghentikan operasi pengawalan kapal di Selat Hormuz, sementara harga minyak turun setelah pernyataan tersebut.",
+            "key_points": [
+              "Dolar AS melemah karena harapan kesepakatan AS-Iran menguat, mengurangi ketegangan geopolitik.",
+              "Yen melemah mendekati level yang sebelumnya memicu intervensi pemerintah Jepang, meski belum ada tindakan baru.",
+              "Harga minyak turun setelah Trump menghentikan operasi pengawalan kapal, tetapi tekanan kenaikan harga minyak masih berpotensi mengganggu pasar."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Hantavirus yang Menewaskan Penumpang Kapal Pesiar",
+        "title": "Hantavirus yang Menewaskan Penumpang Kapal Pesiar",
+        "synthesis": [
+          "WHO selidiki penularan Hantavirus antarmanusia di kapal pesiar MV Hondius.",
+          "3 penumpang tewas dari 149 penumpang dari 23 negara.",
+          "Kapal diawasi ketat di perairan Tanjung Verde."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi sistem kesehatan global dan risiko penyebaran lintas batas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Hantavirus yang Menewaskan Penumpang Kapal Pesiar",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang hantavirus yang menewaskan penumpang kapal pesiar. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Hantavirus tidak menyebar lewat interaksi sosial, tetapi melalui lingkungan yang terkontaminasi**: Virus ini dapat menyebar melalui paparan kotoran atau cairan tubuh hewan pengerat, seperti tikus, meskipun gigitan juga mungkin terjadi.\n2. **Penularan hantavirus dapat terjadi melalui kontak dengan urin, kotoran, atau air liur hewan pengerat yang terinfeksi**: Manusia dapat terinfeksi saat menghirup partikel udara yang terkontaminasi dari kotoran atau urine tikus yang mengering.\n3. **WHO tidak menemukan bukti penularan antarmanusia yang signifikan**: Meskipun beberapa kasus sebelumnya menunjukkan potensi penularan antar manusia dalam kondisi tertentu, WHO tidak menemukan bukti yang kuat untuk mendukung kemungkinan penularan antarmanusia.\n4. **WHO tidak merekomendasikan pembatasan perjalanan terkait hantavirus**: Organisasi Kesehatan Dunia (WHO) menegaskan bahwa kasus-kasus individual tidak serta merta memicu risiko pandemi atau penularan global yang cepat, dan kebijakan pembatasan perjalanan dianggap tidak proporsional dan tidak efektif dalam mengendalikan Hantavirus."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Apa Itu Hantavirus? Virus yang Tewaskan 3 Penumpang Kapal Pesiar",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8476313/apa-itu-hantavirus-virus-yang-tewaskan-3-penumpang-kapal-pesiar",
+            "category": "Kesehatan",
+            "published_at": "2026-05-06T01:45:49+00:00",
+            "summary": "Organisasi Kesehatan Dunia (WHO) menyelidiki dugaan penularan Hantavirus antarmanusia di kapal pesiar MV Hondius, yang telah menewaskan tiga penumpang. Kapal dengan 149 penumpang dari 23 negara kini diawasi ketat di perairan Tanjung Verde. Hantavirus biasanya menular dari hewan pengerat, tetapi kasus ini mencatat kemungkinan penularan manusia ke manusia yang jarang terjadi.",
+            "key_points": [
+              "WHO menduga terjadi penularan Hantavirus antarmanusia di kapal pesiar MV Hondius, yang telah menewaskan tiga penumpang.",
+              "Kapal MV Hondius dengan 149 penumpang dari 23 negara masih diawasi di perairan Tanjung Verde untuk mencegah penyebaran lebih luas.",
+              "Hantavirus umumnya ditularkan oleh hewan pengerat, tetapi kasus ini menjadi perhatian karena dugaan penularan antarmanusia yang langka."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Penerimaan Kekalahan Atletico oleh Simeone",
+        "title": "Penerimaan Kekalahan Atletico oleh Simeone",
+        "synthesis": [
+          "Atletico Madrid tersingkir Liga Champions agregat 1-2, tanpa menyalahkan wasit.",
+          "Diego Simeone akui tim kurang klinis, terima kekalahan secara profesional.",
+          "Gagal memenangkan trofi musim ini setelah kalah di Copa del Rey dan Liga Spanyol."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kekalahan memengaruhi reputasi klub dan strategi kompetitif di Eropa.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Simeone Terima Kekalahan Atletico",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/uefa/d-8476231/simeone-terima-kekalahan-atletico",
+            "category": "Olahraga",
+            "published_at": "2026-05-06T00:20:25+00:00",
+            "summary": "Atletico Madrid tersingkir dari Liga Champions setelah kalah 0-1 di leg kedua semifinal melawan Arsenal, dengan agregat 1-2. Pelatih Diego Simeone menerima kekalahan tersebut tanpa menyalahkan wasit dan mengakui timnya kurang klinis. Musim ini, Atletico gagal memenangkan trofi apa pun setelah kalah di final Copa del Rey dan hanya finis empat besar di Liga Spanyol.",
+            "key_points": [
+              "Atletico Madrid kalah 0-1 di leg kedua semifinal Liga Champions melawan Arsenal, tersingkir dengan agregat 1-2.",
+              "Simeone menerima kekalahan tanpa menyalahkan wasit dan mengakui Arsenal lebih efektif dalam memanfaatkan peluang.",
+              "Atletico gagal memenangkan trofi musim ini setelah kalah di final Copa del Rey dan hanya finis empat besar di Liga Spanyol."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Arsenal ke Final Liga Champions dan Reaksi Medsos",
+        "title": "Arsenal ke Final Liga Champions dan Reaksi Medsos",
+        "synthesis": [
+          "Arsenal melaju ke final Liga Champions 2025/2026 tanpa kalah.",
+          "Kemenangan agregat 2-1 atas Atletico Madrid picu reaksi polarisasi di media sosial.",
+          "Mikel Arteta berpeluang memenangkan trofi Liga Champions pertama sebagai pelatih."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mempengaruhi dinamika sepak bola Eropa dan reputasi Arsenal secara global.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Arsenal ke Final Liga Champions Tanpa Kalah, Haters Kepanasan di Medsos",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8476239/arsenal-ke-final-liga-champions-tanpa-kalah-haters-kepanasan-di-medsos",
+            "category": "Olahraga",
+            "published_at": "2026-05-05T23:48:24+00:00",
+            "summary": "Arsenal berhasil melaju ke final Liga Champions 2025/2026 dengan status tak terkalahkan setelah mengalahkan Atletico Madrid agregat 2-1. Kemenangan ini memicu reaksi beragam di media sosial, mulai dari pujian atas konsistensi tim hingga kritik dari pendukung yang skeptis. Mikel Arteta kini berpeluang mempersembahkan trofi Liga Champions pertama Arsenal.",
+            "key_points": [
+              "Arsenal lolos ke final Liga Champions tanpa terkalahkan sepanjang musim.",
+              "Kemenangan agregat 2-1 atas Atletico Madrid disambut reaksi positif dan negatif di media sosial.",
+              "Arsenal berpeluang meraih treble atau double winner setelah hampir memastikan gelar Premier League."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Kesehatan Global Mempengaruhi Stabilitas Ekonomi",
+        "analysis": "Pergerakan dolar dan yen akibat harapan kesepakatan AS-Iran (geopolitik) serta wabah hantavirus di kapal pesiar (kesehatan) secara bersamaan menciptakan ketidakpastian ekonomi global. Penurunan ketegangan Timur Tengah mengurangi harga minyak mentah, yang biasanya mendorong inflasi dan memperkuat dolar. Namun, wabah hantavirus yang menyebar melalui transportasi internasional (kapal pesiar) memicu kekhawatiran tentang penurunan permintaan perjalanan dan pariwisata, sektor yang sangat bergantung pada stabilitas geopolitik. Kombinasi kedua faktor ini memicu volatilitas pasar keuangan, karena investor menimbang antara optimisme geopolitik dan risiko kesehatan yang mengancam pertumbuhan ekonomi. Dolar melemah karena ekspektasi kenaikan suku bunga AS tertunda akibat tekanan inflasi dari krisis kesehatan, sementara yen menjadi aset lindung nilai karena kebijakan moneter Jepang yang lebih stabil. Kaitan ini menunjukkan bagaimana isu geopolitik dan krisis kesehatan saling memperkuat ketidakpastian ekonomi global."
+      }
+    ],
+    "other_news": {
+      "Hiburan": [
+        {
+          "title": "Mexican BTS fans go wild as concerts grow near",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/bts-in-mexico-arirang-2026-6102721",
+          "category": "Hiburan",
+          "published_at": "2026-05-06T02:02:03+00:00",
+          "summary": "BTS akan menggelar konser di ibu kota Meksiko pada 7, 9, dan 10 Mei 2026, dengan lebih dari 135.000 tiket yang ludes dalam hitungan menit. Antusiasme penggemar K-pop di Meksiko meluas ke berbagai aktivitas seperti kelas tarian dan belajar bahasa Korea, sementara Presiden Claudia Sheinbaum berupaya mempercepat penambahan jadwal konser tanpa hasil.",
+          "key_points": [
+            "Tiket konser BTS di Meksiko terjual habis dalam waktu singkat, mencerminkan antusiasme tinggi penggemar.",
+            "K-pop di Meksiko tidak hanya melibatkan musik, tetapi juga aktivitas budaya seperti tarian, kelas bahasa Korea, dan pertemuan di kafe.",
+            "Presiden Meksiko Claudia Sheinbaum meminta tambahan konser BTS, tetapi permintaan tersebut belum diwujudkan oleh pihak manajemen."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-05T21:07:59+00:00",
+          "summary": "Dalam wawancara eksklusif dengan Al Jazeera, juru bicara US Central Command, Tim Hawkins, menyatakan bahwa prioritas utama dalam 'Project Freedom' adalah menjamin jalur aman bagi kapal dagang di Selat Hormuz dan menetapkan blokade terhadap Iran.",
+          "key_points": [
+            "Prioritas utama 'Project Freedom' adalah menjamin jalur aman di Selat Hormuz.",
+            "Upaya fokus pada perlindungan kapal dagang dari ancaman.",
+            "Program ini juga mencakup penerapan blokade terhadap Iran."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-05T16:38:50+00:00",
+          "summary": "Organisasi Kesehatan Dunia (WHO) menyatakan ada kemungkinan transmisi hantavirus antarpenumpang pada kapal pesiar MV Hondius, di mana tiga penumpang meninggal. Kapal yang berada di dekat Cape Verde saat ini menjalani pemeriksaan kesehatan terhadap 149 penumpang dan awak, sementara dua kru akan dievakuasi karena gejala pernapasan akut.",
+          "key_points": [
+            "WHO menduga terjadi transmisi hantavirus antar 'kontak sangat dekat' di kapal, meski risiko publik dianggap rendah.",
+            "Tujuh kasus hantavirus teridentifikasi (dua terkonfirmasi, lima dicurigai), termasuk kematian dua penumpang Belanda dan satu warga Jerman.",
+            "Dua kru (satu Britania dan satu Belanda) serta kerabat warga Jerman yang meninggal akan dievakuasi ke Belanda untuk perawatan medis."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Perjalanan Arsenal ke Final Liga Champions 2025-26: Unbeaten!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8476288/perjalanan-arsenal-ke-final-liga-champions-2025-26-unbeaten",
+          "category": "Olahraga",
+          "published_at": "2026-05-06T01:40:10+00:00",
+          "summary": "Arsenal melaju ke final Liga Champions 2025-26 tanpa terkalahkan sejak fase grup, mengikuti jejak tim 2006. Mereka menyingkirkan Atletico Madrid di semifinal dan memiliki rekor 11 kemenangan serta tiga imbang dalam 14 laga. Tim ini akan menghadapi final kedua mereka sejak 2006, dengan target memenangkan trofi pertama tanpa kekalahan.",
+          "key_points": [
+            "Arsenal tidak terkalahkan sejak fase grup hingga semifinal Liga Champions 2025-26.",
+            "Tim ini mencatat delapan kemenangan beruntun di fase gugur, termasuk mengalahkan Atletico Madrid di semifinal.",
+            "Ini adalah final Liga Champions kedua Arsenal sejak 2006, ketika mereka kalah dari Barcelona di partai puncak."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Arsenal Memegang Kendali di Dua Kompetisi",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8476234/arsenal-memegang-kendali-di-dua-kompetisi",
+          "category": "Olahraga",
+          "published_at": "2026-05-06T00:40:30+00:00",
+          "summary": "Arsenal memastikan diri lolos ke final Liga Champions 2026 setelah mengalahkan Atletico Madrid dengan agregat 2-1, sementara di Premier League mereka memimpin klasemen dengan 76 poin dan hanya butuh tiga kemenangan lagi untuk memastikan gelar juara. Ini merupakan final Liga Champions pertama Arsenal dalam 20 tahun terakhir.",
+          "key_points": [
+            "Arsenal menang agregat 2-1 atas Atletico Madrid di semifinal Liga Champions dan akan tampil di final pertama mereka sejak 2006.",
+            "Arsenal memimpin Premier League dengan 76 poin, unggul lima poin dari Manchester City, dan hanya perlu tiga kemenangan lagi untuk memastikan gelar juara.",
+            "Kiper David Raya menyatakan Arsenal mengendalikan nasibnya sendiri di dua kompetisi dan berharap menulis sejarah dengan memenangkan Liga Champions dan Premier League."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Arsenal beat Atletico to reach first Champions League final in 20 years",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/5/5/arsenal-beat-atletico-to-reach-first-champions-league-final-in-20-years?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-05-05T21:05:20+00:00",
+          "summary": "Arsenal mencapai final Liga Champions untuk pertama kalinya dalam 20 tahun setelah menang 1-0 atas Atletico Madrid di leg kedua semifinal. Gol kemenangan dicetak oleh Bukayo Saka di babak pertama, membawa Arsenal melaju ke final melawan pemenang antara PSG dan Bayern Munich. Tim ini kini berpeluang meraih gelar Liga Champions pertama sekaligus mengejar rekor double domestik.",
+          "key_points": [
+            "Arsenal mencapai final Liga Champions untuk pertama kalinya sejak 2006 setelah mengalahkan Atletico Madrid 1-0 secara agregat 2-1.",
+            "Bukayo Saka menjadi pahlawan kemenangan dengan mencetak gol kemenangan di Emirates Stadium.",
+            "Arsenal akan menghadapi PSG atau Bayern Munich di final Liga Champions yang berlangsung pada 30 Mei."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Samsung Electronics market value tops US$1 trillion on chip boom",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/samsung-electronics-market-value-ai-chip-boom-6102711",
+          "category": "Teknologi",
+          "published_at": "2026-05-06T02:00:44+00:00",
+          "summary": "Nilai pasar Samsung Electronics melampaui US$1 triliun pada 6 Mei 2026, didorong oleh boom chip kecerdasan buatan (AI) yang mendorong indeks saham Kospi ke rekor tertinggi. Perusahaan mencatat laba kuartal pertama tertinggi sepanjang sejarah, dengan kenaikan pendapatan operasional hingga 750% secara tahunan.",
+          "key_points": [
+            "Nilai pasar Samsung Electronics mencapai US$1 triliun untuk pertama kalinya, menjadikannya perusahaan Asia kedua setelah TSMC yang mencapai cap tersebut.",
+            "Samsung menjadi pemain kunci dalam pasokan chip AI bersama SK Hynix, memenuhi permintaan pasar yang meningkat akibat perkembangan pesat industri AI.",
+            "Laba kuartal pertama Samsung naik 750% secara tahunan hingga 57,2 triliun won (US$39,3 miliar), didorong inovasi teknologi AI dan permintaan memori yang kuat."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/samsung-electronics-market-cap-surpasses-1-trln-after-us-ai-chip-stocks-surge-6102611",
+          "category": "Teknologi",
+          "published_at": "2026-05-06T01:06:44+00:00",
+          "summary": "Kapitalisasi pasar Samsung Electronics melampaui $1 triliun pada 6 Mei 2025, menjadikannya perusahaan Asia kedua setelah TSMC yang mencapai tonggak sejarah tersebut. Kenaikan ini didorong oleh kenaikan signifikan saham-saham terkait AI di AS, sehingga saham Samsung naik 12% di bursa Seoul.",
+          "key_points": [
+            "Kapitalisasi pasar Samsung Electronics mencapai $1,03 triliun, menjadikannya perusahaan Asia kedua setelah TSMC yang melampaui $1 triliun.",
+            "Kenaikan nilai pasar Samsung terkait dengan kenaikan saham-saham chip AI di AS, termasuk Intel.",
+            "Saham Samsung naik 12% di bursa Seoul, melebihi kenaikan indeks Kospi sebesar 5,4%."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "97% Pengguna Galaxy S26 Pakai AI, Editing Video Kini Jadi Rutinitas",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8476248/97-pengguna-galaxy-s26-pakai-ai-editing-video-kini-jadi-rutinitas",
+          "category": "Teknologi",
+          "published_at": "2026-05-06T00:45:17+00:00",
+          "summary": "Samsung mengungkap bahwa 97% pengguna Galaxy S26 Series secara aktif menggunakan fitur Galaxy AI, yang meningkat tajam dari 88% di generasi sebelumnya. Penggunaan fitur kamera dan editing video juga naik signifikan, didorong oleh peningkatan fitur seperti Pro Camera, Pro Video, dan Photo Assist berbasis AI.",
+          "key_points": [
+            "97% pengguna Galaxy S26 Series menggunakan fitur Galaxy AI, naik dari 88% di Galaxy S24.",
+            "Penggunaan fitur kamera seperti Pro Camera dan Pro Video hampir dua kali lebih tinggi dibanding generasi sebelumnya.",
+            "Rata-rata pengguna Galaxy S26 Ultra mengedit video 15 kali per minggu, didukung oleh performa perangkat yang mumpuni."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Navigating climate risks in a carbon-constrained world",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/navigating-climate-risks-in-carbon-constrained-world-6100036",
+          "category": "Lingkungan",
+          "published_at": "2026-05-06T01:55:32+00:00",
+          "summary": "Singapura mengatasi risiko perubahan iklim dengan memperluas penggunaan energi surya, menggali sumber energi baru, dan memperkuat adaptasi untuk ketahanan jangka panjang. Negara ini menghadapi tantangan seperti kenaikan suhu, pola hujan yang tidak stabil, dan kenaikan permukaan air laut, serta memanfaatkan permukaan yang tersedia untuk instalasi panel surya. Selain itu, Singapura mengeksplorasi hidrogen rendah karbon, teknologi penangkapan karbon, serta mendukung sektor bisnis dalam transisi energi dan adaptasi terhadap perubahan iklim.",
+          "key_points": [
+            "Singapura meningkatkan kapasitas energi surya dengan memanfaatkan atap, waduk, dan lahan industri, mencapai target 3 gigawatt-peak (GWp) hingga 2030.",
+            "Negara ini mengeksplorasi sumber energi alternatif seperti hidrogen, biomethane, dan teknologi nuklir untuk memperluas campuran energi di masa depan.",
+            "Singapura mengembangkan Rencana Adaptasi Nasional pertama pada 2026 untuk menghadapi dampak perubahan iklim, termasuk perlindungan dari banjir dan keamanan air."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-05-05T10:56:53+00:00",
+          "summary": "Seorang pria berusia 33 tahun menabrak kerumunan di jalan utama Leipzig, Jerman, menyebabkan dua kematian dan 22 luka, dengan tiga korban luka parah. Pelaku ditangkap dan diduga memiliki riwayat gangguan mental, sementara otoritas menegaskan tidak ada indikasi motif politik atau agama. Kejadian ini terjadi di area pasar yang biasanya ramai, memicu kejutan dan kekhawatiran masyarakat setempat.",
+          "key_points": [
+            "Dua orang tewas dan 22 lainnya terluka, termasuk tiga korban luka serius, akibat tabrakan mobil di Leipzig.",
+            "Pelaku, seorang warga Jerman berusia 33 tahun dengan riwayat gangguan mental, ditangkap dan dianggap sebagai pelaku tunggal tanpa ancaman keamanan publik.",
+            "Insiden ini terjadi di area pasar yang biasanya sibuk, dengan saksi mata menggambarkan kekacauan dan upaya penangkapan pelaku sebelum polisi tiba."
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 904
+    },
+    "timestamp": "2026-05-06T02:11:07.008984+00:00"
   }
 ]
