@@ -8052,5 +8052,354 @@
       "total_in_qdrant": 1165
     },
     "timestamp": "2026-05-08T02:21:21.100079+00:00"
+  },
+  {
+    "date": "2026-05-09",
+    "generated_at": "2026-05-09T02:14:09.937553+00:00",
+    "headline": "Pelantikan Laura Fernandez sebagai Presiden Kanan Costa Rica memicu peningkatan upaya pemberantasan kejahatan dan penguatan hubungan diplomatik dengan Amerika Serikat.",
+    "global_headline": "Pelantikan Laura Fernandez sebagai Presiden Kanan Costa Rica memicu peningkatan upaya pemberantasan kejahatan dan penguatan hubungan diplomatik dengan Amerika Serikat.",
+    "top_stories": [
+      {
+        "id": 14,
+        "topic": "Pelantikan Laura Fernandez Presiden Kanan Costa Rica",
+        "title": "Pelantikan Laura Fernandez Presiden Kanan Costa Rica",
+        "synthesis": [
+          "Laura Fernandez resmi jadi presiden Costa Rica, fokus melawan kejahatan dan perkuat hubungan dengan AS.",
+          "Rodrigo Chaves pindah ke pos menteri ganda, tetap pengaruh dalam pemerintahan.",
+          "Costa Rica perluas kerja sama deportasi dengan AS sebagai kebijakan krusial."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Perubahan kepemimpinan sistemik dan kebijakan deportasi yang berdampak luas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pelantikan Laura Fernandez Presiden Kanan Costa Rica",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Pelantikan Laura Fernandez Presiden Kanan Costa Rica\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tidak ada informasi tentang pelantikan Laura Fernandez sebagai Presiden Kanan Costa Rica**. Semua informasi yang saya temukan terkait dengan data ekonomi dan kebijakan publik Costa Rica, tetapi tidak ada informasi tentang pelantikan Laura Fernandez.\n2. **PDB Costa Rica rata-rata sebesar 19,98 miliar USD dari tahun 1960 hingga 2024**, mencapai rekor tertinggi sebesar 95,35 miliar USD pada tahun 2024.\n3. **PDB per Kapita di Kosta Rika rata-rata sebesar 7562,52 USD dari tahun 1960 hingga 2024**, mencapai puncak tertinggi sebesar 14.866,58 USD pada tahun 2024.\n4. **Kebijakan publik adalah suatu tindakan yang mengarah pada tujuan yang diusulkan oleh seseorang, kelompok, atau pemerintah dalam lingkungan tertentu**, seperti yang dijelaskan oleh Carl Friedrich dan Knoepfel dan kawan-kawan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Laura Fernandez sworn in as Costa Rica’s new president",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-08T20:12:50+00:00",
+            "summary": "Laura Fernandez resmi menjadi presiden Costa Rica dan berkomitmen melawan kenaikan kejahatan serta memperkuat hubungan dengan Amerika Serikat. Ia menggantikan Rodrigo Chaves, yang tetap berpengaruh dalam pemerintahan sebagai menteri ganda, sementara Costa Rica memperluas kerja sama deportasi dengan AS.",
+            "key_points": [
+              "Laura Fernandez terpilih sebagai presiden Costa Rica setelah memenangkan pemilu Februari 2024, berfokus pada reformasi keamanan dan perang terhadap kejahatan terorganisir.",
+              "Rodrigo Chaves, presiden terdahulu, tetap memegang peran sebagai menteri kepresidenan dan keuangan, mempertahankan pengaruh politik di pemerintahan baru.",
+              "Costa Rica memperkuat hubungan dengan AS melalui penunjukan wakil presiden sebagai duta besar serta menyetujui kesepakatan penerimaan deportan dari Amerika Serikat."
+            ],
+            "cluster_id": 14
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "West Ham Vs Arsenal: Pertandingan Tidak Terhindarkan",
+        "title": "West Ham Vs Arsenal: Pertandingan Tidak Terhindarkan",
+        "synthesis": [
+          "West Ham wajib menang untuk selamat dari degradasi.",
+          "Arsenal butuh kemenangan untuk mempertahankan peluang juara.",
+          "Hasil pertandingan menentukan nasib kedua tim secara langsung."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Pertandingan menentukan kelangsungan hidup West Ham dan peluang gelar Arsenal.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "West Ham Vs Arsenal: The Hammers Tak Bisa Sembunyi",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8481222/west-ham-vs-arsenal-the-hammers-tak-bisa-sembunyi",
+            "category": "Olahraga",
+            "published_at": "2026-05-09T01:30:15+00:00",
+            "summary": "West Ham United harus mengalahkan Arsenal di London Stadium pada pekan ke-36 Liga Inggris untuk menjaga peluang bertahan di Premier League, sementara Arsenal juga membutuhkan kemenangan untuk mempertahankan asa juara. West Ham saat ini berada di zona degradasi dengan 36 poin, tertinggal satu poin dari Tottenham Hotspur di zona aman.",
+            "key_points": [
+              "West Ham United duduk di peringkat ke-18 dengan 36 poin, berada di zona degradasi Premier League.",
+              "Arsenal membutuhkan kemenangan untuk menjaga peluang meraih gelar Liga Inggris musim ini.",
+              "Arsenal memiliki rekor positif dalam dua laga terakhir melawan West Ham, menang 5-2 dan 6-0."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Navigasi Kota Chongqing 8D",
+        "title": "Navigasi Kota Chongqing 8D",
+        "synthesis": [
+          "Chongqing 8D struktur kompleks menghambat navigasi wisatawan.",
+          "Pameran drone dan budaya lokal menjadi daya tarik utama.",
+          "Tips praktis diperlukan untuk mengakses transportasi lokal."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Struktur kota memengaruhi pengalaman wisata dan efisiensi mobilitas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Navigasi Kota Chongqing 8D",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait navigasi kota Chongqing 8D. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pergeseran Lalu Lintas Wisatawan**: Pada tahun 2020, terjadi pergeseran lalu lintas wisatawan mancanegara ke Indonesia, dengan lebih banyak wisatawan masuk melalui pintu laut dan darat dibandingkan dengan transportasi udara. Hal ini disebabkan oleh pembatasan mobilitas internasional akibat pandemi Covid-19.\n2. **Kunjungan Wisatawan Mancanegara**: Pada tahun 2020, jumlah kunjungan wisatawan mancanegara ke Indonesia mencapai 4,05 juta, yang merupakan penurunan drastis sebesar 74,84% dibandingkan tahun sebelumnya.\n3. **Negara Asal Wisatawan**: Berdasarkan data, negara-negara asal wisatawan mancanegara yang paling banyak mengunjungi Indonesia pada tahun 2020 adalah Malaysia, Tiongkok, Papua Nugini, dan Amerika Serikat.\n4. **Pengaruh Infrastruktur**: Infrastruktur yang memadai dapat memperlancar mobilitas barang dan jasa, menciptakan lapangan kerja, menarik investasi, dan mengurangi kemiskinan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "A first-timer's guide to Chongqing: Navigating an '8D' labyrinth of culture and cyberpunk",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/travel/chongqing-first-time-travel-tips-culture-food-6088051",
+            "category": "Umum",
+            "published_at": "2026-05-09T00:00:50+00:00",
+            "summary": "Artikel ini memberikan panduan bagi wisatawan pertama kali ke Chongqing, menggambarkan kota tersebut sebagai kota '8D' dengan lanskap berbukit dan arsitektur kompleks yang membingungkan. Kota ini juga menawarkan pengalaman budaya, sejarah, dan kuliner, serta teknologi modern seperti pameran drone. Penulis memberikan tips praktis untuk navigasi dan penggunaan aplikasi lokal.",
+            "key_points": [
+              "Chongqing dikenal sebagai kota '8D' karena lanskap berbukit dan arsitektur multidimensi yang membingungkan.",
+              "Kota ini menggabungkan sejarah (seperti Ciqikou Ancient Town) dengan inovasi modern seperti pameran drone dan transportasi elektrik.",
+              "Wisatawan disarankan menggunakan aplikasi lokal (WeChat, Alipay, Amap, Didi) dan membawa perlengkapan pribadi untuk toilet tradisional."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Auction Kenangan Pribadi Marilyn Monroe",
+        "title": "Auction Kenangan Pribadi Marilyn Monroe",
+        "synthesis": [
+          "Auction Marilyn Monroe pribadi 1 Juni 2026",
+          "Barang lelang: pakaian, surat, dokumen pribadi",
+          "Dampak ekonomi dari penjualan kenangan ikonik"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran nilai budaya dan ekonomi dari aset sejarah ikonik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Auction Kenangan Pribadi Marilyn Monroe",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait \"Auction Kenangan Pribadi Marilyn Monroe\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tidak ada informasi yang relevan**: Hasil pencarian mentah tidak menyebutkan \"Auction Kenangan Pribadi Marilyn Monroe\" secara spesifik. Namun, saya menemukan beberapa artikel yang membahas tentang \"Kopi Kenangan Podomoro City\" dan \"dampak ekonomi\" yang mungkin terkait dengan topik tersebut.\n2. **Dampak ekonomi positif**: Artikel dari Labsky Library (http://labskylibrary.labschool-unj.sch.id/labskylibrary/index.php?p=fstream-pdf&fid=2261&bid=8784) menyebutkan bahwa \"dampak ekonominya signifikan, termasuk peningkatan nilai ekonomi lokal dan penciptaan lapangan kerja\".\n3. **Kondisi ekonomi sulit**: Artikel dari Labsky Library juga menyebutkan bahwa kondisi ekonomi yang sulit menyebabkan berkurangnya permintaan dan konsumsi masyarakat.\n4. **Kontribusi positif bagi masyarakat**: Artikel dari EJurnal Kampus Akademik (https://ejurnal.kampusakademik.co.id/index.php/jiem/article/download/8478/7188/30731) menyebutkan bahwa \"keberadaan Kopi Kenangan Podomoro City. Medan memberikan kontribusi positif bagi masyarakat sekitar melalui\" (namun tidak disebutkan apa saja kontribusi tersebut).\n\nNamun, perlu diingat bahwa tidak ada informasi yang relevan tentang \"Auction Kenangan Pribadi Marilyn Monroe\" dalam hasil pencarian mentah."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Marilyn Monroe’s personal memorabilia heads to auction ahead of 100th birthday",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/entertainment/marilyn-monroe-memorabilia-auction-6110531",
+            "category": "Hiburan",
+            "published_at": "2026-05-09T00:31:00+00:00",
+            "summary": "Memorabilia pribadi Marilyn Monroe akan dilelang pada 1 Juni 2026, menyusul ulang tahun ke-100 yang seharusnya dirayakan tahun ini. Barang-barang yang dijual mencakup pakaian, surat, catatan tangan, dan dokumen baru yang mengungkap hubungan serta perjuangan pribadinya.",
+            "key_points": [
+              "Lelang diadakan oleh Heritage Auctions, menampilkan barang-barang dari 1955 hingga 1962, termasuk pakaian, perhiasan, dan dokumen tak terlihat sebelumnya.",
+              "Dokumen baru mengungkap perasaan Monroe tentang kehilangan kehamilan, hubungan romantis, dan refleksi tentang kematian.",
+              "Surat dari mantan suami dan dokumen psikologis yang menggambarkan kondisi mental Monroe menjelang kematiannya juga menjadi bagian dari lelang."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Jurus Jitu Menjaga Ketenangan Jiwa Gen Z",
+        "title": "Jurus Jitu Menjaga Ketenangan Jiwa Gen Z",
+        "synthesis": [
+          "Gen Z disarankan journaling dan pernapasan untuk ketenangan mental.",
+          "Teknik sederhana diungkapkan mengelola stres dan emosi secara efektif.",
+          "Fokus pada solusi praktis tanpa intervensi medis."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Konsultasi kesehatan mental individu tanpa efek sistemik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Dear Gen Z, Catat Jurus Jitu Bikin Mental dan Jiwa Tetap Tenang",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8480944/dear-gen-z-catat-jurus-jitu-bikin-mental-dan-jiwa-tetap-tenang",
+            "category": "Kesehatan",
+            "published_at": "2026-05-09T00:00:32+00:00",
+            "summary": "Artikel ini membahas cara menjaga ketenangan mental dan jiwa, khususnya bagi Gen Z yang mungkin mengalami stres. Guru meditasi Tsamara Fahrana menyarankan journaling dan teknik pernapasan sebagai metode sederhana untuk mengelola emosi dan pikiran.",
+            "key_points": [
+              "Journaling membantu merapikan pikiran, mengelola emosi, dan meningkatkan kesadaran diri.",
+              "Teknik pernapasan dapat meregulasi tubuh secara fisik dan emosional, baik untuk relaksasi maupun energi.",
+              "Variasi teknik olah napas melalui lubang hidung berbeda (kiri atau kanan) menghasilkan efek relaksasi atau penguatan energi."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Kolaborasi Teknologi AS-Kosta Rika untuk Infrastruktur Kota Kompleks",
+        "analysis": "Pelantikan Laura Fernandez sebagai Presiden Kanan Costa Rica yang fokus pada penguatan hubungan dengan AS dapat memicu kolaborasi teknologi antara kedua negara. AS memiliki keahlian dalam sistem navigasi cerdas (seperti AI-based traffic management) yang bisa diterapkan di kota-kota dengan struktur kompleks seperti Chongqing 8D. Dengan memperkuat aliansi geopolitik, Costa Rica dapat menjadi uji coba teknologi infrastruktur yang kemudian diekspor ke kota-kota Asia, menghubungkan isu geopolitik, teknologi, dan lingkungan."
+      },
+      {
+        "title": "Dinamika Olahraga sebagai Pendorong Ekonomi Wisata",
+        "analysis": "Pertandingan krusial West Ham vs Arsenal dengan dampak ekonomi tinggi (media rights, turis olahraga) menunjukkan potensi event besar sebagai mesin pendorong wisata. Costa Rica, yang ingin meningkatkan kunjungan wisatawan, bisa meniru model ini dengan menggabungkan acara olahraga internasional dengan promosi budaya. Hal ini menghubungkan sektor olahraga (sosial) dengan pariwisata (ekonomi) dan diplomasi budaya (geopolitik)."
+      }
+    ],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Greece examines mystery naval drone found in Ionian Sea",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-05-08T17:53:25+00:00",
+          "summary": "Militer Yunani sedang menyelidiki drone laut tanpa awak misterius yang ditemukan nelayan di Laut Ionian dekat pulau Lefkada. Drone tersebut diduga membawa bahan peledak dan mesinnya masih berjalan saat ditemukan, dengan laporan menyebut kemungkinan kaitannya dengan perang Rusia-Ukraina. Pihak militer akan memeriksa tujuan drone dan kemungkinan penyebab keberadaannya di perairan Yunani.",
+          "key_points": [
+            "Drone ditemukan di gua dekat Lefkada dan ditarik ke pelabuhan Vasiliki oleh pihak berwenang Yunani.",
+            "Laporan menyebut drone mirip model MAGURA V5 Ukraina dan mungkin terkait konflik Rusia-Ukraina.",
+            "Investigasi fokus pada kemungkinan tujuan drone, termasuk penggunaan terhadap 'shadow fleet' Rusia."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Bingkai Sepekan: Heboh Wabah Hantavirus Mematikan di Kapal Pesiar",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/fotohealth/d-8480792/bingkai-sepekan-heboh-wabah-hantavirus-mematikan-di-kapal-pesiar",
+          "category": "Kesehatan",
+          "published_at": "2026-05-09T00:30:06+00:00",
+          "summary": "Wabah hantavirus di kapal pesiar MV Hondius menyebabkan tiga kematian dan tujuh kasus terkonfirmasi atau dicurigai, dengan 149 penumpang dan awak terisolasi. WHO serta tim medis internasional memantau situasi dan menyelidiki asal virus, sementara kapal berada di lepas pantai Tanjung Verde.",
+          "key_points": [
+            "Tiga penumpang MV Hondius meninggal akibat hantavirus, satu dalam kondisi kritis, dan tiga lainnya dengan gejala ringan.",
+            "WHO dan tim medis internasional sedang menyelidiki asal virus, yang diduga berasal dari kontak dengan kotoran hewan pengerat di kapal.",
+            "Seluruh penumpang diwajibkan tetap di kabin masing-masing sebagai tindakan pencegahan, meski penularan antarmanusia jarang terjadi."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for Canary Islands",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/hantavirus-cruise-ship-evacuation-spain-6109191",
+          "category": "Kesehatan",
+          "published_at": "2026-05-08T23:38:00+00:00",
+          "summary": "Kapal pesiar MV Hondius yang terkena wabah hantavirus menuju Canary Islands, Spanyol, dengan otoritas setempat mempersiapkan evakuasi terisolasi untuk 140 penumpang dan awak. Pemerintah Spanyol bekerja sama dengan negara lain untuk repatriasi warga mereka, sementara WHO menegaskan risiko rendah bagi publik. Beberapa penumpang mengungkapkan kekhawatiran akan stigma setelah tiba di daratan.",
+          "key_points": [
+            "Spanyol mempersiapkan evakuasi terisolasi di Tenerife untuk penumpang kapal MV Hondius yang terinfeksi hantavirus, dengan koordinasi repatriasi oleh negara-negara terkait.",
+            "WHO menyatakan risiko wabah hantavirus bagi publik umum rendah, dengan penekanan bahwa virus ini tidak mudah menyebar antarmanusia.",
+            "Penumpang khawatir akan stigma sosial setelah tiba di daratan, sementara otoritas kesehatan melacak kontak penumpang yang sebelumnya turun dari kapal sebelum wabah terdeteksi."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Fakta-fakta Hantavirus di RI, Jumlah Kasus-Wilayah Sebaran",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8481021/fakta-fakta-hantavirus-di-ri-jumlah-kasus-wilayah-sebaran",
+          "category": "Kesehatan",
+          "published_at": "2026-05-08T23:04:48+00:00",
+          "summary": "Indonesia melaporkan 23 kasus hantavirus jenis seoul virus dengan 3 kematian dalam tiga tahun terakhir, terutama di Pulau Jawa. Infeksi ini berasal dari hewan pengerat, dan tidak ada penularan antarmanusia seperti kasus andes virus di kapal pesiar MV Hondius. Kemenkes menyatakan risiko penularan hantavirus andes di Indonesia rendah.",
+          "key_points": [
+            "Sebanyak 23 kasus hantavirus seoul virus tercatat dengan 3 kematian, dominan di Pulau Jawa.",
+            "Penularan terjadi melalui kontak dengan tikus atau debu terkontaminasi, bukan antarmanusia.",
+            "Kasus hantavirus andes virus di kapal MV Hondius berbeda dengan seoul virus di Indonesia."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Mau Hidup Panjang Umur? Kata Menkes, Kuncinya Jangan Obesitas",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8480942/mau-hidup-panjang-umur-kata-menkes-kuncinya-jangan-obesitas",
+          "category": "Kesehatan",
+          "published_at": "2026-05-08T22:15:27+00:00",
+          "summary": "Menteri Kesehatan Budi Gunadi Sadikin memperingatkan risiko obesitas terhadap kematian dini di Indonesia dan mengaitkannya dengan penyakit serius seperti tekanan darah tinggi dan kolesterol. Ia mencontohkan keberhasilan Denmark dalam menjaga harapan hidup yang lebih panjang melalui pola hidup sehat, serta mempromosikan label nutrisi 'Nutri Level' untuk membantu masyarakat memilih makanan dan minuman lebih sehat.",
+          "key_points": [
+            "Obesitas di Indonesia berisiko meningkatkan kematian dini akibat penyakit seperti tekanan darah tinggi dan kolesterol.",
+            "Indonesia memiliki harapan hidup lebih pendek dibanding Denmark (70-73 tahun vs 82-83 tahun) karena perbedaan pola hidup.",
+            "Program Nutri Level diterapkan untuk edukasi masyarakat tentang kandungan gizi makanan dan minuman melalui label A hingga D."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Nekat Blokir Teknologi China, Uni Eropa Terancam Buntung Rp 6.900 T",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/business/d-8481157/nekat-blokir-teknologi-china-uni-eropa-terancam-buntung-rp-6-900-t",
+          "category": "Ekonomi",
+          "published_at": "2026-05-09T01:25:38+00:00",
+          "summary": "Uni Eropa berencana melarang teknologi China dalam infrastruktur telekomunikasi, yang berisiko menimbulkan kerugian hingga USD 400 miliar atau Rp 6.900 triliun. China menuntut justifikasi kekhawatiran keamanan siber dan memperingatkan akan melakukan serangan balik jika kebijakan tersebut diterapkan. Negara-negara UE seperti Jerman dan Prancis diperkirakan mengalami kerugian signifikan akibat kebijakan ini.",
+          "key_points": [
+            "Uni Eropa berisiko mengalami kerugian hingga USD 400 miliar jika melarang teknologi China dari infrastruktur jaringan.",
+            "China menolak klaim risiko keamanan siber tanpa bukti dan ancaman akan merusak kerja sama ekonomi bilateral.",
+            "Larangan teknologi China berpotensi melemahkan rantai pasok dan digitalisasi di Uni Eropa."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Celebrated naturalist David Attenborough marks 100th birthday",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss",
+          "category": "Hiburan",
+          "published_at": "2026-05-08T22:06:21+00:00",
+          "summary": "David Attenborough, naturalis dan pembroadcaster terkenal Inggris, merayakan ulang tahun ke-100. Ia dikenal atas karyanya dalam dokumenter alam liar selama 70 tahun dan menjadi suara global untuk konservasi serta advokasi perubahan iklim.",
+          "key_points": [
+            "David Attenborough merayakan ulang tahun ke-100.",
+            "Ia memiliki karier 70 tahun dalam produksi dokumenter alam liar ikonik.",
+            "Attenborough dikenal sebagai tokoh konservasi dan advokasi perubahan iklim global."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Ayo Coba Zoom Layarnya dan Temukan Benda Tersembunyi, Ketajaman Mata Diuji",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/asah-otak/d-8480984/ayo-coba-zoom-layarnya-dan-temukan-benda-tersembunyi-ketajaman-mata-diuji",
+          "category": "Hiburan",
+          "published_at": "2026-05-08T12:58:43+00:00",
+          "summary": "Artikel ini mengajak pembaca untuk menguji ketajaman mata dengan mencari benda tersembunyi dalam gambar, seperti kodok di antara dedaunan dan cangkir kopi di sela-sela lemari. Pembaca diminta mengamati setiap sudut gambar secara teliti dan boleh memperbesar layar untuk mempermudah pencarian.",
+          "key_points": [
+            "Tes ini menguji ketajaman mata dengan mencari benda tersembunyi di lokasi tak terduga.",
+            "Contoh benda yang dicari adalah kodok di antara dedaunan dan cangkir kopi di lemari.",
+            "Pembaca diperbolehkan memperbesar layar untuk mempermudah pengamatan."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Tchouameni Minta Maaf Usai Dikabarkan Pukul Valverde",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8481251/tchouameni-minta-maaf-usai-dikabarkan-pukul-valverde",
+          "category": "Olahraga",
+          "published_at": "2026-05-09T01:00:30+00:00",
+          "summary": "Aurelien Tchouameni meminta maaf setelah dikabarkan memukul Federico Valverde di ruang ganti Real Madrid. Klub memberikan denda 500 ribu euro kepada keduanya, sementara Valverde absen dalam El Clasico akibat cedera kepala, sementara Tchouameni kemungkinan tampil melawan Barcelona.",
+          "key_points": [
+            "Tchouameni dan Valverde terlibat keributan di ruang ganti Real Madrid, di mana Tchouameni dilaporkan memukul Valverde hingga terjatuh.",
+            "Real Madrid menjatuhkan denda 500 ribu euro kepada Tchouameni dan Valverde sebagai sanksi atas insiden tersebut.",
+            "Valverde absen dalam El Clasico karena cedera kepala, sementara Tchouameni tidak mendapat larangan bertanding dan kemungkinan tampil melawan Barcelona."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Madrid Serius Minati Mourinho, Sudah Kontak Agen",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8481241/madrid-serius-minati-mourinho-sudah-kontak-agen",
+          "category": "Olahraga",
+          "published_at": "2026-05-09T00:30:50+00:00",
+          "summary": "Real Madrid dikabarkan serius meminati Jose Mourinho sebagai pelatih, dengan Presiden Florentino Perez telah berdiskusi dengan agen Mourinho, Jorge Mendes. Namun, Mourinho dan Benfica menegaskan tidak ada pendekatan dari Madrid, sementara Madrid menghadapi krisis performa tim menjelang laga melawan Barcelona.",
+          "key_points": [
+            "Real Madrid menghubungi Jorge Mendes untuk mendiskusikan kemungkinan Mourinho sebagai pelatih musim depan.",
+            "Mourinho dan Benfica membantah adanya pendekatan dari Madrid meski kontrak Mourinho berisi klausul pelepasan 3 juta euro.",
+            "Madrid menghadapi isu internal tim, termasuk konflik antara Valverde dan Tchouameni, serta jarak 11 poin dari Barcelona di liga."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 1279
+    },
+    "timestamp": "2026-05-09T02:14:09.937561+00:00"
   }
 ]
