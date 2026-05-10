@@ -8401,5 +8401,356 @@
       "total_in_qdrant": 1279
     },
     "timestamp": "2026-05-09T02:14:09.937561+00:00"
+  },
+  {
+    "date": "2026-05-10",
+    "generated_at": "2026-05-10T02:15:52.578511+00:00",
+    "headline": "Iran tuding AS rekayasa militer pasca insiden Selat Hormuz memicu meningkatnya ketegangan regional dan risiko eskalasi militer.",
+    "global_headline": "Iran tuding AS rekayasa militer pasca insiden Selat Hormuz memicu meningkatnya ketegangan regional dan risiko eskalasi militer.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "Iran Tuding AS Rekayasa Militer",
+        "title": "Iran Tuding AS Rekayasa Militer",
+        "synthesis": [
+          "Iran tuduh AS rekayasa militer pasca insiden Selat Hormuz.",
+          "AS klaim hentikan kapal tanker Iran melanggar blokade laut.",
+          "Trump tegas gencatan senjata tetap berlaku meski konflik aktif."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik di jalur strategis Selat Hormuz dengan potensi eskalasi konflik regional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Iran Tuding AS Rekayasa Militer",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Iran menuduh AS rekayasa militer**: Pada 28 Februari 2026, militer AS dan Israel melancarkan serangan udara dan rudal terhadap pangkalan militer, fasilitas pertahanan, serta struktur kepemimpinan Iran dalam operasi militer bersama yang disebut Operation Lion’s Roar.\n2. **Kebijakan AS terhadap Iran**: Kebijakan AS terhadap Iran pasca Arab Spring terbagi kedalam dua periode, yaitu periode Donald Trump dan Joe Biden. Ketika Donald Trump menjadi presiden, AS melakukan sejumlah manuver politik dengan menarik diri dari perjanjian nuklir internasional dan menjatuhkan kembali embargo terhadap Iran.\n3. **Sanksi ekonomi AS terhadap Iran**: AS menjatuhkan sanksi ekonomi terhadap Iran, termasuk embargo terhadap Iran, yang menyebabkan Iran meminta bantuan negara-negara Eropa untuk menghadapi kebijakan AS.\n4. **Respon Iran**: Iran meminta bantuan negara-negara Eropa untuk menghadapi kebijakan AS dan melakukan pengayaan uranium, yang merupakan pelanggaran terhadap ketentuan JCPOA."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Iran accuses US of 'reckless military adventure'",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-05-09T06:13:30+00:00",
+            "summary": "Iran menuduh AS melakukan 'petualangan militer yang gegabah' setelah serangkaian insiden di Selat Hormuz, sementara AS mengklaim telah menghentikan kapal tanker Iran melanggar blokade laut. Trump menegaskan gencatan senjata tetap berlaku meski konflik terus terjadi, sementara AS dan Israel mempertahankan tekanan terhadap Iran untuk mengakhiri perang.",
+            "key_points": [
+              "Iran menyalahkan AS atas insiden di Selat Hormuz dan menolak tekanan militer, sementara AS mengklaim telah menghancurkan kapal tanker Iran melanggar blokade.",
+              "AS menerapkan blokade laut terhadap pelabuhan Iran dan memblokir lebih dari 70 tanker untuk memaksa kesepakatan damai, yang dianggap provokatif oleh Teheran.",
+              "Trump menegaskan gencatan senjata dengan Israel tetap berlaku, tetapi konflik di Lebanon antara Hizbullah dan Israel masih terus terjadi meski pembicaraan damai dilanjutkan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 301
+      },
+      {
+        "id": 0,
+        "topic": "MotoGP Prancis 2026 Le Mans",
+        "title": "MotoGP Prancis 2026 Le Mans",
+        "synthesis": [
+          "MotoGP Prancis 2026 berlangsung di Le Mans, 10 Mei 2026.",
+          "Francesco Bagnaia menempati posisi pole-sitter.",
+          "Marc Marquez absen karena cedera, Jorge Martin menang sprint race."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Absennya Marc Marquez dan persaingan ketat memengaruhi dinamika kompetisi MotoGP.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Jadwal MotoGP Prancis 2026: Gaspol di Le Mans Hari Ini!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/moto-gp/d-8482450/jadwal-motogp-prancis-2026-gaspol-di-le-mans-hari-ini",
+            "category": "Olahraga",
+            "published_at": "2026-05-10T01:15:59+00:00",
+            "summary": "MotoGP Prancis 2026 berlangsung di Sirkuit Le Mans pada Minggu (10/5) malam WIB dengan Francesco Bagnaia sebagai pole-sitter. Marc Marquez absen karena cedera, sementara Jorge Martin memenangi sprint race. Balapan terbuka dengan persaingan ketat di kelas utama.",
+            "key_points": [
+              "Francesco Bagnaia memulai balapan sebagai pole-sitter setelah unggul di sesi kualifikasi.",
+              "Marc Marquez mundur dari race akibat cedera kaki dan bahu pasca-crash di sesi sprint.",
+              "Jorge Martin memenangi sprint race meski start dari posisi ke-8."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "MU Tak Mau Finis di Bawah Peringkat 3",
+        "title": "MU Tak Mau Finis di Bawah Peringkat 3",
+        "synthesis": [
+          "MU target peringkat 3 Premier League musim ini.",
+          "Butuh 2 kemenangan untuk pastikan Liga Champions.",
+          "Kiper tekankan penutupan musim dengan kemenangan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran posisi klasemen memengaruhi strategi musim depan dan stabilitas klub.",
+        "external_research": [
+          {
+            "title": "Deep Research: MU Tak Mau Finis di Bawah Peringkat 3",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait Manchester United. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Manchester United berada di peringkat 3 dalam klasemen Premier League musim 2025-26**. Mereka memiliki 63 gol dan 48 gol yang dikonversi oleh lawan.\n2. **Manchester United memiliki performa yang baik dalam menyerang**, dengan rata-rata 1,80 gol per pertandingan dan 58,64 xG (ekspektasi gol) per pertandingan.\n3. **Pemerintah Inggris telah memperkenalkan Undang-Undang Tata Kelola Sepak Bola** untuk mengatasi masalah ketidakstabilan finansial, ketidakadilan dalam distribusi dana, dan keterlibatan pemilik klub yang merugikan klub maupun penggemarnya.\n4. **Manchester United memiliki sejarah yang panjang dan sukses** dalam kompetisi Premier League, dengan beberapa gelar juara dan pemain bintang yang telah bermain untuk klub tersebut.\n\nSaya telah menghilangkan informasi yang berulang, iklan, atau tidak relevan untuk memberikan jawaban yang lebih padat dan kredibel."
+          }
+        ],
+        "articles": [
+          {
+            "title": "MU Tak Mau Finis di Bawah Peringkat 3",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8482449/mu-tak-mau-finis-di-bawah-peringkat-3",
+            "category": "Olahraga",
+            "published_at": "2026-05-10T00:40:23+00:00",
+            "summary": "Manchester United menargetkan finis ketiga di Liga Inggris meski sudah dipastikan lolos ke Liga Champions. Hasil imbang 0-0 melawan Sunderland membuat MU harus memenangkan dua laga sisa untuk memastikan posisi tiga besar. Kiper MU, Senne Lammens, menegaskan tim ingin menutup musim dengan kemenangan demi membangun performa musim depan.",
+            "key_points": [
+              "MU menargetkan finis ketiga setelah lolos ke Liga Champions, meski masih butuh kemenangan di dua laga tersisa.",
+              "Hasil imbang melawan Sunderland membuat MU melewatkan peluang mengunci peringkat tiga di klasemen.",
+              "Tim MU ingin memenangkan laga melawan Nottingham Forest dan Brighton untuk memastikan posisi tiga besar."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Gravenberch Sesalkan Cemoohan di Anfield",
+        "title": "Gravenberch Sesalkan Cemoohan di Anfield",
+        "synthesis": [
+          "Liverpool ditahan imbang Chelsea 1-1, memicu cemoohan fans di Anfield.",
+          "Gravenberch minta dukungan tetap diberikan meski hasil negatif.",
+          "Kekalahan poin penuh membuat Liverpool tertahan di peringkat keempat."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran posisi klasemen Premier League dan dinamika hubungan fans dengan pemain.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gravenberch Sesalkan Cemoohan di Anfield",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dengan topik \"Gravenberch Sesalkan Cemoohan di Anfield\". Namun, saya tidak menemukan informasi langsung tentang Gravenberch atau cemoohan di Anfield. Berikut adalah beberapa fakta yang terkait dengan topik tersebut:\n\n1. **Tragedi Hillsborough**: Pada tanggal 15 April 1989, terjadi tragedi di Hillsborough, Inggris, yang menyebabkan 97 orang meninggal dunia. Kejadian ini terjadi saat pertandingan semi final Piala FA antara Liverpool dan Nottingham Forest.\n2. **Keselamatan di Stadion**: Menurut Pasal 4-9 dari Undang-Undang Keselamatan dan Keamanan di Stadion, petugas keselamatan dan keamanan harus melakukan penilaian risiko pertandingan, termasuk aktivitas penonton, dan memberikan masukan bagi otoritas lokal seperti kepolisian.\n3. **Keterampilan Psikologis Pemain Sepakbola**: Penelitian menunjukkan bahwa keterampilan psikologis, seperti self-talk positif, manajemen emosi, dan fokus, sangat berpengaruh dalam sebuah pertandingan sepakbola. Pemain sepakbola profesional seringkali mempekerjakan psikolog olahraga untuk mengajarkan kecakapan mental ini.\n\nNamun, saya tidak menemukan informasi langsung tentang Gravenberch atau cemoohan di Anfield. Jika Anda memiliki informasi lebih lanjut atau konteks yang lebih spesifik, saya dapat membantu Anda mencari informasi yang lebih relevan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Gravenberch Sesalkan Cemoohan Fans Liverpool di Anfield",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8482484/gravenberch-sesalkan-cemoohan-fans-liverpool-di-anfield",
+            "category": "Olahraga",
+            "published_at": "2026-05-10T02:00:50+00:00",
+            "summary": "Liverpool ditahan imbang Chelsea 1-1 di Anfield, menyebabkan cemoohan dari fans setelah pertandingan. Ryan Gravenberch menyayangkan reaksi tersebut dan meminta dukungan tetap diberikan meski tim mengalami hasil negatif. Kekalahan poin penuh membuat Liverpool tertahan di peringkat keempat klasemen Premier League.",
+            "key_points": [
+              "Liverpool gagal menang melawan Chelsea yang sedang dalam tren negatif, berujung hasil imbang 1-1 di Anfield.",
+              "Fans Liverpool mencemooh tim setelah pertandingan karena kekecewaan atas hasil yang tidak memuaskan.",
+              "Ryan Gravenberch meminta dukungan fans tetap diberikan, menilai cemoohan tidak pantas meski tim mengalami hasil buruk."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Promo AC Split Polytron di Transmart",
+        "title": "Promo AC Split Polytron di Transmart",
+        "synthesis": [
+          "Promo AC Polytron 1 PK di Transmart 10 Mei 2025 dengan diskon hingga Rp 1,3 juta.",
+          "Harga normal Rp 4,699 juta ditawarkan mulai Rp 3,383 juta via kartu kredit.",
+          "Syarat dan ketentuan berlaku untuk penawaran spesial Full Day Sale."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Promosi ritel biasa tanpa efek sistemik atau pergeseran industri.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Sejuk Pakai AC Split Polytron 1 PK, Didiskon di Transmart Full Day Sale",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8481412/sejuk-pakai-ac-split-polytron-1-pk-didiskon-di-transmart-full-day-sale",
+            "category": "Umum",
+            "published_at": "2026-05-10T01:30:55+00:00",
+            "summary": "Transmart mengadakan promo Full Day Sale pada 10 Mei 2025 dengan diskon besar-besaran untuk AC split Polytron 1 PK. Harga normal Rp 4.699.000 ditawarkan mulai Rp 4.229.000, atau Rp 3.383.200 dengan kartu kredit tertentu, dengan syarat dan ketentuan berlaku.",
+            "key_points": [
+              "AC split Polytron 1 PK dijual dengan diskon hingga Rp 1.315.800 melalui promo Transmart Full Day Sale.",
+              "Pengguna kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri mendapat diskon 50% + 20%.",
+              "Promo berlaku hingga pukul 22.00 WIB dengan ketentuan tidak berlaku untuk pembelian partai besar dan minimal transaksi Rp 300.000."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik Memengaruhi Ekonomi Konsumen dan Teknologi",
+        "analysis": "Ketegangan Iran-AS di Selat Hormuz (geopolitik) berpotensi mengganggu stabilitas harga minyak global. Kenaikan harga minyak akan memicu kenaikan biaya energi listrik, yang secara tidak langsung meningkatkan permintaan AC sebagai solusi pendingin hemat energi. Promo AC Polytron (ekonomi teknologi) menjadi lebih strategis dalam konteks ini, karena konsumen mencari alternatif efisien untuk mengurangi beban biaya energi. Selain itu, ketidakpastian geopolitik juga bisa memengaruhi keputusan perusahaan teknologi dalam investasi atau ekspor, termasuk peralatan elektronik seperti AC."
+      },
+      {
+        "title": "Dampak Geopolitik pada Event Internasional dan Ekonomi Lokal",
+        "analysis": "Ketegangan Iran-AS berisiko mengganggu logistik global, termasuk pengiriman peralatan untuk event internasional seperti MotoGP Prancis 2026. Kenaikan biaya transportasi dan risiko gangguan jalur laut bisa memengaruhi anggaran penyelenggaraan event, yang pada gilirannya memicu ketergantungan pada sponsor lokal atau pemerintah. Hal ini menciptakan keterkaitan antara geopolitik (ketegangan Selat Hormuz) dengan sektor pariwisata dan ekonomi kota Le Mans, yang bergantung pada pendapatan dari event besar."
+      }
+    ],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Kulkas Polytron 436L Potong Harga di Transmart Full Day Sale!",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8481408/kulkas-polytron-436l-potong-harga-di-transmart-full-day-sale",
+          "category": "Umum",
+          "published_at": "2026-05-10T01:00:29+00:00",
+          "summary": "Transmart menggelar promo Full Day Sale pada 10 Mei 2026 dengan menawarkan diskon besar-besaran untuk kulkas Polytron 436L yang biasanya dijual Rp 9.299.000 menjadi Rp 8.599.000. Pembelian menggunakan kartu kredit Bank Mega, Bank Mega Syariah, atau Bank Mandiri memberikan diskon tambahan hingga 50% + 20%, dengan syarat dan ketentuan berlaku.",
+          "key_points": [
+            "Promo Transmart Full Day Sale hadir pada 10 Mei 2026 dengan penawaran diskon untuk kulkas Polytron 436L.",
+            "Harga kulkas Polytron 436L normal Rp 9.299.000, turun menjadi Rp 8.599.000 selama promo, dengan potensi hemat hingga Rp 2.419.800 jika menggunakan kartu kredit tertentu.",
+            "Diskon tambahan 50% + 20% berlaku untuk pembelian dengan kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri, dengan syarat transaksi minimal Rp 300 ribu dan tidak berlaku untuk pembelian partai besar."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Samsung LED TV 43 Diskon Besar di Transmart Full Day Sale",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8481402/samsung-led-tv-43-diskon-besar-di-transmart-full-day-sale",
+          "category": "Umum",
+          "published_at": "2026-05-10T00:30:58+00:00",
+          "summary": "Transmart mengadakan Full Day Sale pada Minggu, 10 Mei 2026, dengan penawaran khusus untuk Samsung LED TV 43\" UHD SMART. Pelanggan dapat membeli TV ini dengan harga diskon hingga Rp 3.599.200 jika menggunakan metode pembayaran tertentu, seperti Allo Prime atau kartu kredit Bank Mega, dari harga normal Rp 4.999.000.",
+          "key_points": [
+            "Samsung LED TV 43\" UHD SMART dijual dengan harga promo Rp 4.499.000 dari harga normal Rp 4.999.000.",
+            "Diskon tambahan hingga 50% + 20% berlaku untuk pembelian menggunakan kartu kredit Bank Mega, Bank Mega Syariah, atau Bank Mandiri.",
+            "Promo berlaku dengan syarat minimal transaksi Rp 300.000 dan tidak berlaku untuk pembelian partai besar."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Commentary: China's invisible hand is rebalancing the oil market",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/commentary/iran-war-china-cuts-oil-imports-energy-prices-6109266",
+          "category": "Ekonomi",
+          "published_at": "2026-05-09T22:00:00+00:00",
+          "summary": "China secara diam-diam mengurangi impor minyak sekitar 25% dari tingkat sebelum konflik, yang berdampak pada penurunan harga minyak global dan memicu penurunan premi impor. Penurunan ini diduga dipengaruhi oleh penggunaan cadangan minyak darurat China yang besar dan penyesuaian kebijakan ekspor produk olahan minyak.",
+          "key_points": [
+            "China mengurangi impor minyak hingga 3,5 juta barel per hari, setara dengan konsumsi Jepang, yang menjadi faktor utama keseimbangan pasar minyak global.",
+            "Perusahaan minyak negara China menjual kembali sebagian kargo minyak ke Eropa dan Asia, menyebabkan penurunan premi impor dari US$30 menjadi US$1 per barel.",
+            "Penurunan impor China tidak diikuti oleh penurunan cadangan komersial, melainkan didorong oleh penghentian pembelian berlebih untuk cadangan darurat dan kebijakan pembatasan ekspor produk olahan minyak."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-10T01:08:51+00:00",
+          "summary": "Kapal pesiar MV Hondius yang terdampak hantavirus tiba di Tenerife setelah seorang penumpang meninggal akibat virus tersebut. Pemerintah Spanyol bersama 23 negara lainnya melakukan persiapan ketat untuk mencegah penyebaran virus, termasuk pemeriksaan medis dan repatriasi penumpang. WHO memuji respons pemerintah Spanyol dan menegaskan risiko penularan umum tetap rendah.",
+          "key_points": [
+            "MV Hondius tiba di Tenerife dengan protokol keamanan ketat, termasuk zona isolasi 1 mil laut dan pemeriksaan medis bagi semua penumpang.",
+            "Repatriasi penumpang dilakukan melalui pengelompokan berdasarkan kewarganegaraan dan penggunaan pesawat khusus, dengan kesiapan fasilitas isolasi di Spanyol.",
+            "WHO menilai respons pemerintah Spanyol terhadap wabah hantavirus efektif, meski masyarakat setempat sempat mempertanyakan keputusan penanganan."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Rajin Cuci Muka Kok Tetap Jerawatan? Awas, Pola Makan Seperti Ini Bisa Jadi Pemicu",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8482400/rajin-cuci-muka-kok-tetap-jerawatan-awas-pola-makan-seperti-ini-bisa-jadi-pemicu",
+          "category": "Kesehatan",
+          "published_at": "2026-05-10T01:02:03+00:00",
+          "summary": "Artikel menjelaskan bahwa jerawat tidak hanya disebabkan oleh kurangnya kebersihan wajah, tetapi juga dipengaruhi pola makan seperti makanan tinggi gula, produk susu, dan ultra processed food. Dokter Silvia Kartika menyebut bahwa makanan tertentu dapat memicu jerawat pada sebagian orang melalui proses peradangan dan perubahan hormon, meski efeknya bervariasi antar individu.",
+          "key_points": [
+            "Pola makan seperti konsumsi makanan tinggi gula, produk susu, dan ultra processed food dapat memengaruhi munculnya jerawat.",
+            "Hubungan antara makanan dan jerawat terkait dengan peradangan serta perubahan hormon yang memengaruhi produksi minyak kulit.",
+            "Efek makanan terhadap jerawat bervariasi pada setiap individu, tergantung sensitivitas tubuh terhadap jenis makanan tertentu."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "WHO chief says Hantavirus outbreak ‘is not COVID’",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-09T23:17:31+00:00",
+          "summary": "Direktur Jenderal WHO Tedros Adhanom Ghebreyesus menegaskan bahwa wabah Hantavirus yang terjadi di kapal pesiar yang berlabuh di Tenerife tidak berisiko memicu pandemi seperti COVID-19.",
+          "key_points": [
+            "WHO menyatakan wabah Hantavirus di kapal pesiar tidak menyebabkan pandemi.",
+            "Kapal pesiar yang terkena Hantavirus berlabuh di Tenerife.",
+            "Tedros Adhanom Ghebreyesus memberikan penjelasan langsung kepada warga Tenerife."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Makan Sedikit Kok Cepat Gemuk, Apa yang Salah? Ini Penjelasan Medisnya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8482371/makan-sedikit-kok-cepat-gemuk-apa-yang-salah-ini-penjelasan-medisnya",
+          "category": "Kesehatan",
+          "published_at": "2026-05-09T22:04:50+00:00",
+          "summary": "Beberapa orang mengalami peningkatan berat badan meski makan sedikit karena Basal Metabolic Rate (BMR) yang melambat atau masalah metabolisme. Dokter spesialis gizi klinik, dr Iflan Nauval, menjelaskan bahwa penurunan massa otot dan genetik yang memengaruhi BMR juga berkontribusi pada fenomena ini. Untuk mengatasinya, diperlukan peningkatan massa otot sebagai organ metabolisme utama.",
+          "key_points": [
+            "Penurunan BMR dapat menyebabkan peningkatan berat badan meski konsumsi makanan sedikit.",
+            "Massa otot yang berkurang mengurangi kemampuan tubuh dalam membakar kalori.",
+            "Genetik memengaruhi tingkat BMR, sehingga ada orang yang cenderung tidak gemuk meski makan banyak."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
+          "category": "Lingkungan",
+          "published_at": "2026-05-10T01:23:32+00:00",
+          "summary": "Gambar satelit menunjukkan adanya tumpahan minyak yang diduga mencakup puluhan kilometer persegi di dekat Pulau Kharg, Iran, yang merupakan pusat ekspor minyak utama negara tersebut. Meski ada kekhawatiran akan bencana, pengamat lingkungan mengatakan tumpahan tersebut sedang berkurang.",
+          "key_points": [
+            "Gambar satelit mendeteksi tumpahan minyak yang diduga mencakup puluhan kilometer persegi di dekat Pulau Kharg.",
+            "Pulau Kharg merupakan pusat ekspor minyak utama Iran.",
+            "Pengamat lingkungan mencatat bahwa tumpahan minyak tersebut sedang berkurang meski ada kekhawatiran akan bencana."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Politik": [
+        {
+          "title": "I will serve - not rule over Hungary, says new PM",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-09T15:12:04+00:00",
+          "summary": "Péter Magyar, perdana menteri baru Hongaria, menyatakan komitmen untuk melayani negara setelah partainya, Tisza, meraih kemenangan besar dalam pemilu, menggulingkan pemerintahan Viktor Orbán yang berkuasa selama 16 tahun. Tisza kini menguasai 141 dari 199 kursi parlemen, sementara partai Fidesz milik Orbán terpuruk dari 135 ke 52 kursi. Pemerintahan baru menghadapi tantangan ekonomi dan investigasi terhadap korupsi serta pengembalian aset yang dicurigai disalahgunakan.",
+          "key_points": [
+            "Partai Tisza memperoleh 141 kursi di parlemen, mengakhiri dominasi Fidesz yang berkuasa sejak 2010.",
+            "Pemerintahan baru fokus pada penegakan hukum, termasuk investigasi korupsi dan pembentukan lembaga pemulihan aset negara.",
+            "Hungaria menghadapi tekanan untuk mengakses €17 miliar dana EU yang ditahan serta isu migrasi dan hubungan dengan Rusia."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Madrid Didesak Lampiaskan Frustrasi dan Kemarahan di El Clasico",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8482451/madrid-didesak-lampiaskan-frustrasi-dan-kemarahan-di-el-clasico",
+          "category": "Olahraga",
+          "published_at": "2026-05-10T01:30:50+00:00",
+          "summary": "Real Madrid menghadapi El Clasico melawan Barcelona dalam kondisi kacau akibat konflik internal dan rumor ketidakharmonisan di antara pemain. Pelatih Arbeloa meminta tim menyalurkan frustrasi dan kemarahan ke dalam performa positif untuk mengakhiri musim tanpa gelar. Madrid di ambang kehilangan gelar LaLiga jika gagal menang dalam pertandingan tersebut.",
+          "key_points": [
+            "Real Madrid mengalami konflik internal, termasuk perkelahian antara Tchouameni dan Valverde serta rumor ketidakdihormatan terhadap Arbeloa.",
+            "Arbeloa menekankan pentingnya mengalihkan emosi negatif menjadi performa baik untuk mengalahkan Barcelona.",
+            "Madrid berisiko finish tanpa gelar musim ini jika tidak memenangkan El Clasico setelah gagal di Copa del Rey dan Liga Champions."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 1385
+    },
+    "timestamp": "2026-05-10T02:15:52.578520+00:00"
   }
 ]
