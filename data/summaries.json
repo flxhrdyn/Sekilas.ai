@@ -8752,5 +8752,353 @@
       "total_in_qdrant": 1385
     },
     "timestamp": "2026-05-10T02:15:52.578520+00:00"
+  },
+  {
+    "date": "2026-05-11",
+    "generated_at": "2026-05-11T02:34:34.165685+00:00",
+    "headline": "Trump menolak respons Iran terhadap usulan perdamaian AS memicu ketegangan AS-Iran dan risiko eskalasi konflik.",
+    "global_headline": "Trump menolak respons Iran terhadap usulan perdamaian AS memicu ketegangan AS-Iran dan risiko eskalasi konflik.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Konflik AS-Iran Soal Proposal Perdamaian",
+        "title": "Konflik AS-Iran Soal Proposal Perdamaian",
+        "synthesis": [
+          "Trump tolak respons Iran terhadap usulan perdamaian AS.",
+          "Israel tuntut penghancuran stok uranium Iran sebelum damai.",
+          "Iran peringatkan konsekuensi bagi pendukung sanksi AS."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik AS-Iran berpotensi mengganggu stabilitas regional dan keamanan global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Konflik AS-Iran Soal Proposal Perdamaian",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait konflik AS-Iran soal proposal perdamaian. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Revolusi Islam 1979**: Pada tahun 1979, Iran mengalami revolusi Islam yang dipimpin oleh Ayatollah Khomeini, yang menggulingkan rezim Reza Shah dan mengubah Iran menjadi Negara Islam.\n2. **Perbedaan kepentingan**: Setelah revolusi, Iran mulai melepaskan diri dari pengaruh Amerika Serikat dan mengembangkan kepentingan yang berbeda, sehingga singgungan antara kedua negara mulai muncul.\n3. **Dukungan militer AS pada Irak**: Pada tahun 1980, AS memberikan dukungan militer pada Irak dalam perang sipil melawan Iran, yang memperkeruh suasana dan meningkatkan sentimen anti-AS di Iran.\n4. **Konflik yang berkepanjangan**: Konflik antara AS dan Iran telah berlangsung selama beberapa dekade, dengan berbagai peristiwa dan insiden yang meningkatkan ketegangan antara kedua negara.\n\nSaya telah menghilangkan informasi yang berulang, iklan, atau tidak relevan, serta mengutip sumber yang kredibel untuk mendukung fakta-fakta di atas."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-11T01:55:13+00:00",
+            "summary": "Presiden AS Donald Trump menolak tegas respons Iran terhadap usulan AS untuk mengakhiri perang, sementara Iran mengusulkan gencatan senjata dan penghapusan blokade laut AS. Perang yang dimulai oleh AS dan Israel pada Februari masih memicu ketegangan, dengan Israel menuntut penghancuran stok uranium Iran sebelum damai dicapai. Negara-negara Eropa dan sekutu AS berencana mengamankan lalu lintas di Selat Hormuz, tetapi Iran memperingatkan konsekuensi bagi pihak yang mendukung sanksi AS.",
+            "key_points": [
+              "Trump menyebut respons Iran terhadap usulan AS 'tidak bisa diterima' dan menuntut penghentian pengayaan nuklir serta pembongkaran situs pengayaan uranium Iran.",
+              "Iran mengajukan gencatan senjata, penghapusan blokade laut AS, dan jaminan tidak ada serangan lebih lanjut, tetapi AS tetap menerapkan blokade pelabuhan Iran.",
+              "AS dan sekutu berencana mengamankan Selat Hormuz pasca-perang, sementara Iran memperingatkan tindakan tegas terhadap negara yang mendukung sanksi AS atau mengirim pasukan ke kawasan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Pengangkatan Masaki di BOJ untuk Urusan Global",
+        "title": "Pengangkatan Masaki di BOJ untuk Urusan Global",
+        "synthesis": [
+          "BOJ angkat Masaki sebagai direktur urusan internasional.",
+          "Masaki fokus koordinasi kebijakan moneter global dan riset ekonomi.",
+          "Perombakan terjadi saat BOJ pertimbangkan kenaikan suku bunga akibat inflasi Timur Tengah."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi kebijakan moneter Jepang akibat tekanan inflasi global.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "BOJ appoints monetary policy expert Masaki to oversee global affairs",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/boj-appoints-monetary-policy-expert-masaki-oversee-global-affairs-6112716",
+            "category": "Ekonomi",
+            "published_at": "2026-05-11T01:35:48+00:00",
+            "summary": "Bank of Japan (BOJ) mengangkat Kazuhiro Masaki sebagai direktur eksekutif yang mengawasi urusan internasional, menggantikan Seiichi Shimizu yang akan tetap bertugas sebagai penasihat khusus hingga 21 Mei. Masaki, yang memiliki pengalaman luas dalam kebijakan moneter, akan memimpin penelitian ekonomi global dan koordinasi dengan bank sentral lainnya. Perombakan personel ini terjadi saat BOJ mempertimbangkan kenaikan suku bunga akibat tekanan inflasi dari konflik di Timur Tengah.",
+            "key_points": [
+              "Kazuhiro Masaki diangkat sebagai direktur eksekutif BOJ untuk mengawasi urusan internasional dan penelitian ekonomi global.",
+              "Seiichi Shimizu mengundurkan diri sebagai direktur eksekutif tetapi tetap bertugas sebagai penasihat khusus hingga 21 Mei.",
+              "BOJ sedang mempertimbangkan kenaikan suku bunga di tengah tekanan inflasi akibat konflik di Timur Tengah."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Pendidikan Fleksibel untuk Pengembangan Karir",
+        "title": "Pendidikan Fleksibel untuk Pengembangan Karir",
+        "synthesis": [
+          "SMU Academy luncurkan program modular untuk pengembangan keterampilan karier.",
+          "Pendekatan fleksibel dan terstruktur mendukung adaptasi terhadap perubahan industri.",
+          "Pendidikan tinggi berdampak signifikan pada peningkatan pendapatan rata-rata."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam model pendidikan menuju fleksibilitas untuk kebutuhan pasar kerja.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pendidikan Fleksibel untuk Pengembangan Karir",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait pendidikan fleksibel untuk pengembangan karir. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pendidikan tinggi mempengaruhi gaji**: Data dari Badan Pusat Statistik (BPS) menunjukkan bahwa semakin tinggi tingkat pendidikan, maka semakin besar pula rata-rata gaji yang diterima. Lulusan Diploma IV/S1/S2/S3 mendapat rata-rata gaji sebesar Rp4,35 juta per Februari 2025, lebih tinggi ketimbang lulusan SD yang menerima gaji sebesar Rp2,07 juta.\n2. **Pendidikan fleksibel meningkatkan perencanaan karir**: Penelitian menunjukkan bahwa pendidikan fleksibel dapat meningkatkan perencanaan karir siswa. Studi yang dilakukan di SMA Muallimin Muhammadiyah Makassar menemukan bahwa implementasi pemberian layanan bimbingan karir dapat meningkatkan perencanaan karir siswa.\n3. **Konseling karir efektif dalam mereduksi kesulitan membuat keputusan karir**: Penelitian menunjukkan bahwa konseling karir dapat efektif dalam mereduksi kesulitan membuat keputusan karir. Studi yang dilakukan oleh Muhajirin (2022) menemukan bahwa konseling karir dapat meningkatkan keputusan karir siswa.\n4. **Sistem pendidikan yang fleksibel dan inklusif dapat meningkatkan kualitas pendidikan**: Penelitian menunjukkan bahwa sistem pendidikan yang fleksibel dan inklusif dapat meningkatkan kualitas pendidikan. Studi yang dilakukan di Belgia menemukan bahwa sistem pendidikan yang fleksibel dan inklusif dapat meningkatkan kualitas pendidikan dan meningkatkan kemampuan komunikasi dan integrasi sosial siswa."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Advance your career with stackable, flexible learning pathways",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/brand-studio/advance-your-career-stackable-flexible-learning-pathways-6105496",
+            "category": "Umum",
+            "published_at": "2026-05-11T01:50:00+00:00",
+            "summary": "SMU Academy menyediakan program modular yang memungkinkan profesional mengembangkan keterampilan sesuai kebutuhan karier dengan pendekatan fleksibel dan terstruktur, mendukung adaptasi terhadap perubahan industri.",
+            "key_points": [
+              "Program modular SMU Academy dirancang untuk memenuhi kebutuhan industri yang berubah, dengan opsi sertifikasi bertahap hingga tingkat gelar.",
+              "Kolaborasi dengan pemerintah dan mitra industri memastikan relevansi kurikulum yang mencakup proyek dan studi kasus nyata.",
+              "Format pembelajaran yang fleksibel (online, tatap muka, hibrida) serta dukungan dana pemerintah memudahkan profesional mengakses pendidikan sambil menjalani pekerjaan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Real Madrid Gagal Raih Gelar",
+        "title": "Real Madrid Gagal Raih Gelar",
+        "synthesis": [
+          "Real Madrid gagal juara LaLiga 2025/26 setelah kalah 0-2 dari Barcelona.",
+          "Madrid finish kedua dengan 77 poin, Barcelona unggul 91 poin.",
+          "Madrid tersingkir dari Copa del Rey, Liga Champions, dan Piala Super Spanyol."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran dominasi El Clasico dan keretakan dominasi Madrid di kompetisi Spanyol.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Real Madrid Nirgelar",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8483583/real-madrid-nirgelar",
+            "category": "Olahraga",
+            "published_at": "2026-05-11T01:30:40+00:00",
+            "summary": "Real Madrid gagal meraih gelar juara LaLiga 2025/2026 setelah kalah 0-2 dari Barcelona di El Clasico, yang menjadi penutup peluang mereka. Dengan 77 poin di peringkat kedua, Madrid tidak mungkin mengejar Barcelona yang mengumpulkan 91 poin. Musim ini Madrid juga tersingkir di Copa del Rey dan Liga Champions, serta hanya menjadi runner-up Piala Super Spanyol.",
+            "key_points": [
+              "Real Madrid kalah 0-2 dari Barcelona di El Clasico, memastikan Barcelona sebagai juara LaLiga 2025/2026.",
+              "Madrid finis di peringkat kedua LaLiga dengan 77 poin, tertinggal 14 poin dari Barcelona.",
+              "Madrid tidak memenangkan trofi domestik atau Eropa musim ini, tersingkir di Copa del Rey dan Liga Champions."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Jogja Run D-City 2026 pada 24 Mei",
+        "title": "Jogja Run D-City 2026 pada 24 Mei",
+        "synthesis": [
+          "Jogja Run D-City 2026 diadakan 24 Mei 2026 sebagai bagian dari Jogja Financial Festival.",
+          "Dua kategori lomba: 5K Fun Run dan 10K dengan hadiah total puluhan juta rupiah.",
+          "Rute lomba melintasi lokasi ikonik Yogyakarta dari UGM hingga Gedung Gelanggang Inovasi."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Event rutin tahunan tanpa efek sistemik atau konflik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Jogja Run D-City 2026 Digelar 24 Mei, Sudah Daftar?",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sportstyle/d-8482526/jogja-run-d-city-2026-digelar-24-mei-sudah-daftar",
+            "category": "Olahraga",
+            "published_at": "2026-05-11T02:10:50+00:00",
+            "summary": "Jogja Run D-City 2026 akan diselenggarakan pada 24 Mei 2026 sebagai bagian dari Jogja Financial Festival. Event ini menawarkan dua kategori lomba, yaitu 5K Fun Run dan 10K, dengan total hadiah puluhan juta rupiah. Peserta akan berlari melewati rute ikonik Yogyakarta dari Lapangan Pancasila UGM hingga Gedung Gelanggang Inovasi dan Kreativitas UGM.",
+            "key_points": [
+              "Jogja Run D-City 2026 diadakan pada 24 Mei 2026 sebagai rangkaian Jogja Financial Festival.",
+              "Lomba terdiri atas dua kategori, yaitu 5K Fun Run dan 10K, dengan hadiah total puluhan juta rupiah.",
+              "Rute lomba melewati landmark populer Yogyakarta dari Lapangan Pancasila UGM hingga Gedung Gelanggang Inovasi dan Kreativitas UGM."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Ekonomi: Tegangan AS-Iran Memicu Perubahan Kebijakan BOJ",
+        "analysis": "Konflik AS-Iran yang memanas akibat penolakan Trump terhadap respons Iran terhadap proposal perdamaian menciptakan ketidakpastian global, terutama di pasar energi dan perdagangan. Ketegangan ini berpotensi mengganggu stabilitas ekonomi Jepang, yang bergantung pada impor energi dari kawasan Timur Tengah. Pengangkatan Masaki di Bank of Japan (BOJ) sebagai direktur urusan internasional menunjukkan respons strategis terhadap risiko geopolitik ini. Masaki akan memperkuat koordinasi kebijakan moneter Jepang dengan negara-negara mitra, mengelola dampak inflasi akibat kenaikan harga minyak, dan memastikan aliran investasi asing tetap stabil. Langkah ini menghubungkan isu geopolitik dengan kebijakan ekonomi makro, menunjukkan bagaimana ketegangan regional dapat memicu pergeseran dalam arsitektur keuangan global."
+      },
+      {
+        "title": "Ekonomi dan Pendidikan: Adaptasi Pasar Tenaga Kerja di Era Ketidakpastian",
+        "analysis": "Ketidakpastian ekonomi global akibat konflik AS-Iran dan perubahan kebijakan moneter BOJ mendorong permintaan akan keterampilan yang lebih fleksibel di pasar tenaga kerja. Program modular SMU Academy untuk pengembangan karier menjadi relevan karena memberikan solusi pendidikan yang responsif terhadap perubahan ekonomi. Dengan memungkinkan individu memperoleh keterampilan spesifik secara bertahap, program ini membantu pekerja mengatasi risiko pengangguran atau perpindahan sektor yang mungkin terjadi akibat volatilitas ekonomi. Ini menunjukkan keterkaitan antara kebijakan ekonomi makro (seperti kebijakan BOJ) dengan inovasi pendidikan, di mana sektor pendidikan harus beradaptasi untuk mendukung ketahanan ekonomi mikro."
+      }
+    ],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Thailand's divisive ex-PM is out of jail, but is the Thaksin era over?",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c99l1590kr0o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-11T02:03:56+00:00",
+          "summary": "Thaksin Shinawatra, mantan Perdana Menteri Thailand, bebas dari penjara setelah menjalani hukuman penjara selama satu tahun atas korupsi dan penyalahgunaan kekuasaan. Partai Pheu Thai mengklaim ia akan tetap berada di latar belakang, tetapi spekulasi tentang perannya di politik masih hangat. Analis menilai era politik Thaksin mungkin telah berakhir karena perubahan lingkungan politik dan intervensi konservatif.",
+          "key_points": [
+            "Thaksin Shinawatra bebas dari penjara setelah menjalani hukuman penjara selama satu tahun atas kasus korupsi dan penyalahgunaan kekuasaan.",
+            "Partai Pheu Thai mengalami hasil terburuk dalam pemilu Februari 2024, tergeser oleh partai konservatif Bhumjaithai dan reformis People's Party.",
+            "Analisis politik menyebut era Thaksin berakhir karena perubahan dinamika politik, intervensi konservatif melalui pengadilan, dan ketidakpercayaan yang mendalam antara Thaksin dan kelompok konservatif."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "2 Varian Selsun Masuk Daftar Kosmetik Berbahaya BPOM, PT Rohto Minta Maaf",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8483609/2-varian-selsun-masuk-daftar-kosmetik-berbahaya-bpom-pt-rohto-minta-maaf",
+          "category": "Kesehatan",
+          "published_at": "2026-05-11T01:21:12+00:00",
+          "summary": "BPOM RI menarik 11 produk kosmetik yang mengandung bahan berbahaya, termasuk dua varian shampoo Selsun yang tercemar 1,4-dioxane. PT Rohto Laboratories Indonesia meminta maaf dan melakukan penarikan produk, reformulasi formula, serta menawarkan pengganti bagi konsumen.",
+          "key_points": [
+            "BPOM RI menemukan 11 produk kosmetik ilegal atau tidak memenuhi standar keamanan, termasuk Selsun 7 Flowers dan Selsun 7 Herbal.",
+            "PT Rohto Laboratories Indonesia melakukan penarikan produk terdampak, reformulasi formula, dan menanggung biaya penggantian bagi konsumen.",
+            "Temuan bahan berbahaya seperti 1,4-dioxane, hidrokinon, dan merkuri berpotensi membahayakan kesehatan pengguna."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "5 Makanan Penangkal Stres, Bisa Turunkan Kortisol dalam Tubuh",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8483533/5-makanan-penangkal-stres-bisa-turunkan-kortisol-dalam-tubuh",
+          "category": "Kesehatan",
+          "published_at": "2026-05-11T00:04:35+00:00",
+          "summary": "Artikel ini menjelaskan bahwa asupan makanan tertentu dapat membantu menurunkan kadar kortisol, hormon stres, dalam tubuh. Contohnya termasuk makanan kaya magnesium, omega-3, dan antioksidan yang berperan dalam menenangkan sistem saraf serta mengatur respons stres.",
+          "key_points": [
+            "Magnesium dalam bayam, kangkung, dan kacang-kacangan membantu stabilisasi sistem saraf dan mengurangi respons stres.",
+            "Omega-3 dari ikan seperti salmon dan sarden menurunkan respons kortisol serta meredakan peradangan terkait stres.",
+            "Antioksidan pada buah dan sayur melindungi sel dari kerusakan dan menekan stres oksidatif yang meningkatkan kortisol."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Pemuda Tuban Kena Gagal Ginjal Sampai Cuci Darah di Usia 20-an, Inikah Pemicunya?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/true-story/d-8483290/pemuda-tuban-kena-gagal-ginjal-sampai-cuci-darah-di-usia-20-an-inikah-pemicunya",
+          "category": "Kesehatan",
+          "published_at": "2026-05-10T23:05:24+00:00",
+          "summary": "Edi Utomo (26) menderita gagal ginjal kronis stadium 5 akibat hipertensi yang disebabkan kebiasaan makan mi instan hampir setiap hari. Ia menjalani cuci darah dua kali seminggu sejak 2019 dan berharap kisahnya menjadi pelajaran bagi masyarakat. Gejala awal yang dialaminya sempat dikira masuk angin atau masalah lambung.",
+          "key_points": [
+            "Gagal ginjal kronis stadium 5 Edi disebabkan hipertensi akibat konsumsi mi instan berlebihan.",
+            "Edi mengonsumsi lebih dari dua bungkus mi instan per hari sejak kecil, yang meningkatkan natrium dan tekanan darah.",
+            "Gejala awal seperti meriang dan kelelahan sempat salah dianggap masuk angin atau gangguan lambung sebelum didiagnosis gagal ginjal."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "IDAI Imbau Tak Khawatir Soal Hantavirus, Masalah Difteri-Campak Lebih Darurat",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8483223/idai-imbau-tak-khawatir-soal-hantavirus-masalah-difteri-campak-lebih-darurat",
+          "category": "Kesehatan",
+          "published_at": "2026-05-10T22:05:00+00:00",
+          "summary": "Ikatan Dokter Anak Indonesia (IDAI) mengimbau masyarakat tidak perlu khawatir berlebihan terkait Hantavirus jenis Andes Virus yang belum ditemukan di Indonesia, sementara kasus Hantavirus yang ada sejauh ini dominan jenis Seoul Virus. IDAI menekankan bahwa masalah kesehatan seperti campak dan difteri lebih mendesak karena belum tertangani optimal, serta mendorong penerapan gaya hidup bersih dan sehat sebagai langkah pencegahan.",
+          "key_points": [
+            "IDAI menegaskan bahwa Hantavirus jenis Andes Virus belum ditemukan di Indonesia.",
+            "Kasus Hantavirus di Indonesia selama tiga tahun terakhir dominan jenis Seoul Virus.",
+            "IDAI memprioritaskan penanganan masalah kesehatan seperti campak dan difteri yang lebih mendesak."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Ngeri! BRIN Temukan Logam Berat Cemari Teluk Jakarta",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8483549/ngeri-brin-temukan-logam-berat-cemari-teluk-jakarta",
+          "category": "Lingkungan",
+          "published_at": "2026-05-10T23:17:56+00:00",
+          "summary": "Badan Riset dan Inovasi Nasional (BRIN) menemukan lima jenis logam berat mencemari sedimen dasar laut Teluk Jakarta, yaitu seng (Zn), tembaga (Cu), nikel (Ni), timbal (Pb), dan kadmium (Cd). Konsentrasi logam berat lebih tinggi ditemukan di wilayah pesisir dekat daratan, kawasan padat penduduk, dan area industri, yang mengindikasikan pengaruh kuat aktivitas manusia terhadap lingkungan laut. Pencemaran ini berpotensi mengancam ekosistem laut dan kesehatan manusia melalui akumulasi logam berat dalam rantai makanan.",
+          "key_points": [
+            "BRIN mengidentifikasi lima logam berat (Zn, Cu, Ni, Pb, Cd) dalam sedimen laut Teluk Jakarta yang melebihi standar internasional di beberapa titik.",
+            "Sumber pencemaran berasal dari limbah industri, aktivitas pelabuhan, limpasan kawasan padat penduduk, dan residu pertanian yang terbawa aliran sungai.",
+            "Logam berat berpotensi terakumulasi dalam tubuh biota laut seperti kerang dan kepiting, yang jika dikonsumsi manusia, dapat meningkatkan risiko kesehatan jangka panjang."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/5/10/barcelona-beat-real-madrid-2-0-in-el-clasico-to-retain-la-liga-title?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-05-10T21:35:48+00:00",
+          "summary": "Barcelona memenangkan El Clasico 2-0 melawan Real Madrid, mengamankan gelar La Liga ke-29 mereka, dengan kemenangan yang menempatkan mereka 14 poin di atas Madrid. Kemenangan ini menjadi yang kedua kalinya hasil La Liga ditentukan langsung oleh pertandingan El Clasico. Barcelona juga menghadapi tantangan pribadi bagi pelatih Hansi Flick yang kehilangan ayahnya sebelum pertandingan.",
+          "key_points": [
+            "Barcelona memenangkan gelar La Liga ke-29 setelah mengalahkan Real Madrid 2-0 dalam pertandingan El Clasico.",
+            "Kemenangan Barcelona menempatkan mereka 14 poin di atas Madrid dengan tiga pertandingan tersisa, memutuskan hasil La Liga hanya untuk kedua kalinya sejak 1932.",
+            "Real Madrid menghadapi musim tanpa trofi dan krisis internal, termasuk cedera pemain dan ketidakpastian masa depan pelatih."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "South Korean shares hit all-time high on AI-led chipmaker rally",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/south-korea-kospi-record-high-ai-samsung-sk-hynix-6112751",
+          "category": "Ekonomi",
+          "published_at": "2026-05-11T02:06:00+00:00",
+          "summary": "Indeks saham Korea Selatan (Kospi) mencapai rekor tertinggi pada 11 Mei 2026, didorong oleh kenaikan saham perusahaan semikonduktor seperti Samsung Electronics dan SK Hynix yang terangkat oleh optimisme terkait boom AI. Kospi naik 5,05% di awal perdagangan, sementara ekspor Korea Selatan pada awal Mei tumbuh 43,7% tahun-ke-tahun, didorong oleh penjualan chip yang melonjak 150%.",
+          "key_points": [
+            "Kospi mencapai rekor tertinggi 7.876,60 setelah naik 5,05% di awal perdagangan, dipimpin oleh saham perusahaan semikonduktor.",
+            "Samsung Electronics dan SK Hynix masing-masing naik lebih dari 5% dan 10%, mencapai level tertinggi sepanjang masa.",
+            "Ekspor Korea Selatan pada 10 hari pertama Mei 2026 tumbuh 43,7% tahun-ke-tahun, didorong oleh penjualan chip yang melonjak 150%."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Viral Penampakan 'Alien' di Bali, Faktanya Bikin Geleng Kepala",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8483575/viral-penampakan-alien-di-bali-faktanya-bikin-geleng-kepala",
+          "category": "Hiburan",
+          "published_at": "2026-05-11T00:45:34+00:00",
+          "summary": "Sebuah video viral di TikTok menampilkan penampakan makhluk mirip alien di dasar laut Bali, namun fakta menunjukkan bahwa konten tersebut adalah karya seni virtual kreator @giaplay3d yang memanfaatkan teknik editing dan fitur Google Earth untuk menciptakan ilusi menyeramkan.",
+          "key_points": [
+            "Video penampakan alien di Bali viral di media sosial karena menampilkan makhluk mirip Xenomorph di kapal tenggelam di Crystal Bay, Nusa Penida.",
+            "Konten tersebut dibantah keasliannya setelah penelusuran melalui Google Earth dan Maps tidak menemukan makhluk aneh, tetapi ditemukan bahwa kreator menggunakan editing visual untuk tujuan artistik.",
+            "Kreator @giaplay3d dikenal membuat konten misterius fiktif dengan teknik perspektif dan kontribusi Street View untuk menghasilkan ilusi realistis."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Adidas launches first pet collection in Singapore with mini football jerseys for furry fans",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/style-beauty/adidas-pet-collection-mini-football-jerseys-6108566",
+          "category": "Umum",
+          "published_at": "2026-05-11T02:12:51+00:00",
+          "summary": "Adidas meluncurkan koleksi pertama untuk hewan peliharaan di Singapura, termasuk jersi sepak bola mini untuk tim nasional Jepang, Meksiko, Kolombia, dan Argentina, yang tersedia di acara FurKids Fiesta sebelum dijual di toko dan aplikasi resmi mulai 24 Mei.",
+          "key_points": [
+            "Adidas meluncurkan koleksi pertama untuk hewan peliharaan di Singapura, mencakup jersi tim nasional sepak bola 2026 FIFA World Cup.",
+            "Koleksi ini akan dipamerkan di acara FurKids Fiesta di CQ @ Clarke Quay Fountain Square selama dua akhir pekan (15-17 Mei dan 22-23 Mei) sebelum dijual secara luas.",
+            "Jersi untuk hewan peliharaan dijual seharga S$49 (US$38) dan tersedia di toko Adidas pilihan serta platform digital mulai 24 Mei."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 1501
+    },
+    "timestamp": "2026-05-11T02:34:34.165693+00:00"
   }
 ]
