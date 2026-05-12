@@ -9100,5 +9100,352 @@
       "total_in_qdrant": 1501
     },
     "timestamp": "2026-05-11T02:34:34.165693+00:00"
+  },
+  {
+    "date": "2026-05-12",
+    "generated_at": "2026-05-12T02:20:12.571808+00:00",
+    "headline": "Penemuan hantavirus lokal pertama di Banten memicu peningkatan pemantauan kesehatan di Indonesia.",
+    "global_headline": "Penemuan hantavirus lokal pertama di Banten memicu peningkatan pemantauan kesehatan di Indonesia.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Protes Bolivia Tuntut Presiden Mundur",
+        "title": "Protes Bolivia Tuntut Presiden Mundur",
+        "synthesis": [
+          "Protes besar-besaran di La Paz dan El Alto blokir jalan utama.",
+          "Tuntutan pengunduran diri Presiden Rodrigo Paz meningkat akibat krisis bahan bakar.",
+          "Kenaikan biaya hidup dan perselisihan upah memicu ketegangan nasional."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik transportasi dan tekanan politik signifikan terhadap pemerintah.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Roads blocked in Bolivia as protesters demand president’s resignation",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_bolivia-protesters-demand-president-resign-110526?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-12T01:36:55+00:00",
+            "summary": "Bolivia mengalami gangguan perjalanan di kota-kota utama seperti La Paz dan El Alto akibat aksi pemogokan jalan raya. Para pemogok menuntut pengunduran diri Presiden Rodrigo Paz terkait kekurangan bahan bakar, kenaikan biaya hidup, dan perselisihan upah.",
+            "key_points": [
+              "Aksi pemogokan jalan raya mengganggu perjalanan di kota-kota utama Bolivia.",
+              "Protes dimulai sebagai tuntutan pengunduran diri Presiden Rodrigo Paz.",
+              "Penyebab protes meliputi kekurangan bahan bakar, kenaikan biaya hidup, dan perselisihan upah."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Megawati Gabung Hillstate Voli Korea",
+        "title": "Megawati Gabung Hillstate Voli Korea",
+        "synthesis": [
+          "Megawati pindah ke Hillstate, rival Red Sparks.",
+          "Bergabung setelah bantu Red Sparks ke playoff dan final.",
+          "Pindah ke klub yang sebelumnya dikalahkan Red Sparks di playoff."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Memengaruhi dinamika kompetitif liga voli Korea.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Megawati Kembali ke Liga Voli Korea: Gabung Hillstate, Saingan Red Sparks",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sport-lain/d-8485194/megawati-kembali-ke-liga-voli-korea-gabung-hillstate-saingan-red-sparks",
+            "category": "Olahraga",
+            "published_at": "2026-05-12T01:15:53+00:00",
+            "summary": "Megawati Hangestri Pertiwi resmi bergabung dengan klub voli Hyundai Construction Hillstate untuk musim 2026/2027, setelah sebelumnya memperkuat Red Sparks dari 2023 hingga 2025. Ia membantu Red Sparks mencapai playoff musim 2023/2024 dan final playoff 2024/2025. Pindah ke Hillstate membuatnya bergabung dengan klub yang sebelumnya dikalahkan Red Sparks di playoff musim 2024/2025.",
+            "key_points": [
+              "Megawati bergabung dengan Hillstate untuk musim 2026/2027 setelah sebelumnya memperkuat Red Sparks (2023-2025).",
+              "Ia membantu Red Sparks mencapai playoff musim 2023/2024 dan final playoff 2024/2025.",
+              "Hillstate adalah klub saingan Red Sparks, yang pernah dikalahkan Megawati di playoff musim 2024/2025."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Serang Virus: Hantavirus Lokal RI di Banten",
+        "title": "Serang Virus: Hantavirus Lokal RI di Banten",
+        "synthesis": [
+          "Serang virus ditemukan di Banten, hantavirus lokal pertama di Indonesia.",
+          "Belum terbukti menular ke manusia, berbeda dengan HFRS dan HPS.",
+          "Hantavirus telah ada di Indonesia sejak 1980-an, terdeteksi pada tikus pelabuhan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Potensi risiko kesehatan masyarakat memerlukan pemantauan intensif di wilayah endemis.",
+        "external_research": [
+          {
+            "title": "Deep Research: Hantavirus DKI: Kontak Erat dan Kronologi",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Hantavirus DKI: Kontak Erat dan Kronologi. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Hantavirus telah ada di Indonesia sejak 1980-an**: Penelitian menunjukkan bahwa virus ini telah ada di Indonesia sejak era 1980-an, awalnya terdeteksi pada populasi tikus pelabuhan dan kemudian menular ke manusia.\n2. **Kasus awal ditemukan pada tahun 1989-1991**: Kasus awal infeksi manusia pertama dilaporkan sekitar tahun 1989-1991, termasuk di Yogyakarta dan Maumere pada pekerja pelabuhan.\n3. **Penyebaran hantavirus di berbagai kota besar Indonesia**: Penelitian menemukan penyebaran hantavirus di berbagai kota besar Indonesia seperti Jakarta, Bandung, Yogyakarta, Semarang, Surabaya, Denpasar, dan Makassar.\n4. **Pemerintah Indonesia telah mengambil langkah antisipatif**: Pemerintah Indonesia telah mengambil langkah antisipatif melalui pemeriksaan kesehatan yang lebih ketat di pintu masuk pelabuhan internasional untuk mencegah penyebaran virus.\n\nSaya berharap informasi ini dapat membantu dalam memahami kontak erat dan kronologi Hantavirus di DKI."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Mengenal 'Serang Virus', Hantavirus Lokal RI yang Ditemukan di Banten",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8485104/mengenal-serang-virus-hantavirus-lokal-ri-yang-ditemukan-di-banten",
+            "category": "Kesehatan",
+            "published_at": "2026-05-11T23:02:31+00:00",
+            "summary": "Serang virus, jenis hantavirus lokal Indonesia yang pertama kali diidentifikasi di Banten, ditemukan pada tikus dan belum terbukti menular ke manusia. Kementerian Kesehatan memastikan perbedaan antara hantavirus di Indonesia (tipe HFRS) dengan kasus di kapal pesiar MV Hondius (tipe HPS), serta menekankan pentingnya pemantauan terhadap potensi penularan hantavirus.",
+            "key_points": [
+              "Serang virus ditemukan pada tikus di Banten dan belum ada bukti penularannya ke manusia di Indonesia.",
+              "Hantavirus di Indonesia (tipe HFRS) berbeda dengan hantavirus penyebab wabah di MV Hondius (tipe HPS).",
+              "Surveilans hantavirus dilakukan melalui 21 rumah sakit sentinel dan pendekatan One Health untuk mendeteksi risiko sejak dini."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Marc Marquez Operasi Akibat MotoGP Indonesia",
+        "title": "Marc Marquez Operasi Akibat MotoGP Indonesia",
+        "synthesis": [
+          "Marc Marquez jalani dua operasi akibat cedera kaki dan bahu dari MotoGP Prancis 2026 dan Indonesia.",
+          "Absen di MotoGP Prancis dan GP Catalan, fokus pada rehabilitasi pascaoperasi.",
+          "Operasi sukses di Madrid, dampak jangka panjang pada kariernya masih belum jelas."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran jadwal balapan utama dan potensi efek pada kompetisi MotoGP 2026.",
+        "external_research": [
+          {
+            "title": "Deep Research: Marc Marquez Operasi Akibat MotoGP Indonesia",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Marc Marquez Operasi Akibat MotoGP Indonesia\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Marc Marquez tidak disebutkan dalam hasil pencarian**: Tidak ada informasi yang relevan tentang Marc Marquez dalam hasil pencarian yang saya lakukan. Mungkin karena topik yang saya cari adalah \"Marc Marquez Operasi Akibat MotoGP Indonesia\", tetapi tidak ada informasi yang terkait dengan Marc Marquez dalam hasil pencarian.\n2. **Pengujian teknologi 5G pada MotoGP 2022**: Direktorat Jenderal SDPPI bersama operator seluler dan operator satelit melakukan pengujian teknologi 5G pada frekuensi 3,5 GHz dan 26 GHz selama acara MotoGP 2022 di Sirkuit Mandalika. Pengujian ini bertujuan untuk menguji co-existence 5G dan Fixed Satellite Service (FSS) pada frekuensi 3,5 GHz.\n3. **Pengawasan frekuensi dan perangkat telekomunikasi lancar**: Pengawasan frekuensi dan perangkat telekomunikasi selama penyelenggaraan acara MotoGP 2022 berjalan lancar dan gelaran Mandalika MotoGP 2022 dapat dinikmati oleh penonton di seluruh dunia.\n4. **Cedera pada atlet olahraga**: Menurut sebuah penelitian, cedera pada pergelangan kaki atau kaki adalah lokasi cedera yang paling sering terjadi pada atlet olahraga, dengan persentase 21,28%."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Marc Marquez Jalani Operasi, Ducati Sebut Gara-gara MotoGP Indonesia",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/moto-gp/d-8485201/marc-marquez-jalani-operasi-ducati-sebut-gara-gara-motogp-indonesia",
+            "category": "Olahraga",
+            "published_at": "2026-05-12T01:45:00+00:00",
+            "summary": "Marc Marquez menjalani dua operasi sekaligus akibat cedera retak kaki kanan dari kecelakaan di MotoGP Prancis 2026 dan cedera bahu yang dipicu oleh kecelakaan di MotoGP Indonesia tahun lalu. Ia absen dalam balapan utama Prancis dan GP Catalan mendatang, serta akan memulai rehabilitasi setelah operasi sukses di Madrid.",
+            "key_points": [
+              "Marc Marquez menjalani dua operasi sekaligus: satu akibat kecelakaan di MotoGP Prancis 2026 dan satu untuk memperbaiki cedera bahu lama.",
+              "Cedera bahu Marquez kembali terpicu oleh kecelakaan di MotoGP Indonesia tahun lalu, yang mengakibatkan patah tulang bahu dan absennya di sisa musim 2025.",
+              "Ducati menyatakan Marquez tidak akan tampil di GP Catalan dan waktunya kembali ke balapan bergantung pada perkembangan pemulihan dalam beberapa minggu ke depan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Hantavirus DKI: Kontak Erat dan Kronologi",
+        "title": "Hantavirus DKI: Kontak Erat dan Kronologi",
+        "synthesis": [
+          "WNA di Jakarta Pusat identifikasi kontak erat klaster hantavirus MV Hondius",
+          "Riwayat kontak dekat dengan pasien meninggal, hasil tes negatif hantavirus",
+          "Pemerintah lakukan pemantauan ketat di RSPI Sulianti Saroso"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pengidentifikasi kontak erat hantavirus memicu kewaspadaan kesehatan publik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Protes Bolivia Tuntut Presiden Mundur",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait protes Bolivia tuntut Presiden mundur. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Protes di Bolivia**: Pada Agustus 2025, terjadi protes massal di Bolivia yang menuntut Presiden mundur. Protes ini dipicu oleh ketidakpuasan rakyat atas praktik kebijakan negara yang buruk dan tidak adil.\n2. **Kerusuhan dan penjarahan**: Unjuk rasa yang semula memprotes besaran tunjangan anggota Dewan Perwakilan Rakyat (DPR) ini berubah menjadi kerusuhan dan penjarahan. Polisi menembakkan meriam air untuk mengendalikan situasi.\n3. **Polemik pemakzulan**: Polemik berkembang terkait pemakzulan Presiden, dengan beberapa pihak menekankan bahwa setiap proses pergantian kekuasaan harus mengacu pada konstitusi, baik melalui pemilu maupun mekanisme pemakzulan yang sah.\n4. **Kondisi politik Indonesia**: Kondisi politik Indonesia saat ini dinilai berbeda dengan masa lalu, dengan sistem demokrasi yang lebih kuat dan hadirnya Mahkamah Konstitusi sebagai penjaga konstitusi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Fakta-fakta Kontak Erat Hantavirus MV Hondius di DKI, Kronologi hingga Status Terkini",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8484922/fakta-fakta-kontak-erat-hantavirus-mv-hondius-di-dki-kronologi-hingga-status-terkini",
+            "category": "Kesehatan",
+            "published_at": "2026-05-11T22:06:10+00:00",
+            "summary": "Kementerian Kesehatan RI mengidentifikasi seorang WNA di Jakarta Pusat sebagai kontak erat klaster hantavirus MV Hondius berdasarkan laporan dari Inggris. WNA tersebut memiliki riwayat kontak dekat dengan pasien yang meninggal dan telah menjalani pemeriksaan medis yang menunjukkan hasil negatif hantavirus. Pemerintah memantau kondisinya secara ketat di RSPI Sulianti Saroso.",
+            "key_points": [
+              "WNA berusia 60 tahun diidentifikasi sebagai kontak erat pasien hantavirus MV Hondius yang meninggal, berdasarkan laporan IHR NFP Inggris pada 7 Mei 2026.",
+              "WNA tersebut memiliki riwayat perjalanan bersama pasien meninggal di St. Helena dan Afrika Selatan, lalu kembali ke Indonesia pada 30 April 2026.",
+              "Hasil pemeriksaan PCR pada 9 Mei 2026 menunjukkan WNA negatif hantavirus, namun tetap dipantau di RSPI Sulianti Saroso untuk mencegah risiko penularan."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Kesehatan dan Ketegangan Sosial: Dampak Hantavirus di Indonesia",
+        "analysis": "Kasus hantavirus di Banten dan DKI Jakarta menunjukkan risiko kesehatan masyarakat yang meningkat, yang dapat memicu kekhawatiran sosial dan ekonomi. Jika penyebaran virus tidak terkendali, pemerintah mungkin mengalokasikan sumber daya besar untuk penanganan krisis, mengurangi anggaran di sektor lain seperti infrastruktur atau pendidikan. Hal ini bisa memicu ketidakpuasan publik, mirip dengan protes di Bolivia yang dipicu oleh ketidakpuasan terhadap pemerintah. Selain itu, krisis kesehatan bisa mengurangi mobilitas penduduk, memengaruhi sektor pariwisata dan ekonomi kreatif, termasuk event olahraga seperti MotoGP, yang berpotensi memengaruhi jadwal atau partisipasi atlet seperti Marc Marquez. Dalam konteks geopolitik, krisis kesehatan domestik bisa mengalihkan perhatian internasional dari isu-isu lain, termasuk stabilitas politik di Bolivia."
+      }
+    ],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Viral Cerdas Cermat MPR RI, Alasan Artikulasi Bikin Warganet Murka",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8485139/viral-cerdas-cermat-mpr-ri-alasan-artikulasi-bikin-warganet-murka",
+          "category": "Umum",
+          "published_at": "2026-05-11T23:45:52+00:00",
+          "summary": "Final Lomba Cerdas Cermat Empat Pilar MPR RI 2026 di Kalimantan Barat memicu kontroversi lantaran dewan juri memberikan penilaian tidak konsisten terhadap jawaban dua peserta dengan inti serupa, dengan alasan perbedaan artikulasi. Keputusan tersebut menuai protes dari peserta dan warganet yang menilai penilaian tidak adil, hingga pihak MPR RI menyampaikan permohonan maaf dan berjanji melakukan evaluasi.",
+          "key_points": [
+            "Dewan juri memberikan nilai minus 5 kepada Regu C SMAN 1 Pontianak dan nilai sempurna 10 kepada Regu B SMAN 1 Sambas meski jawaban keduanya dianggap mirip, dengan alasan perbedaan artikulasi.",
+            "Warganet mengkritik keputusan juri sebagai tidak adil dan menuntut transparansi, dengan sindiran bahwa lomba lebih menilai pelafalan daripada pengetahuan.",
+            "MPR RI meminta maaf, mengakui kekurangan dalam pelaksanaan lomba, dan berkomitmen melakukan evaluasi terhadap sistem penilaian, kinerja juri, dan mekanisme banding."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "BOJ debated near‑term rate hike at April meeting, opening door to June move",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/boj-debated-near-term-rate-hike-april-meeting-opening-door-june-move-6114771",
+          "category": "Ekonomi",
+          "published_at": "2026-05-12T00:11:29+00:00",
+          "summary": "Bank of Japan (BOJ) membahas kenaikan suku bunga di pertemuan April, dengan kemungkinan langkah di Juni, seiring pergeseran hawkish di dewan kebijakan akibat tekanan inflasi dari konflik Timur Tengah. Beberapa anggota menekankan perlunya kenaikan suku bunga segera jika tidak ada tanda perlambatan ekonomi, sementara proyeksi inflasi diperbarui ke arah yang lebih tinggi.",
+          "key_points": [
+            "Beberapa anggota BOJ mendukung kenaikan suku bunga di April dan menyebut kemungkinan langkah di Juni.",
+            "Pergeseran hawkish di dewan dipicu oleh tekanan inflasi dari konflik Iran yang meningkatkan risiko kenaikan harga.",
+            "Tiga dari sembilan anggota BOJ mengusulkan kenaikan suku bunga di April, meski ditolak, tetapi menghasilkan revisi proyeksi inflasi yang lebih tinggi."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Trump says Iran ceasefire is on 'massive life support'",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-12T00:59:12+00:00",
+          "summary": "Presiden AS Donald Trump menyatakan bahwa gencatan senjata dengan Iran berada dalam 'dukungan hidup besar' dan menolak tawaran perdamaian Iran yang disebut 'tidak dapat diterima'. Iran menegaskan siap merespons agresi dan menuntut pengakuan hak-haknya, sementara perbedaan posisi terkait blokade pelabuhan dan isu nuklir terus menjadi penghalang.",
+          "key_points": [
+            "Trump menolak tawaran perdamaian Iran, menyebutnya 'sampah' dan mengkritik perubahan sikap Iran terhadap kesepakatan sebelumnya.",
+            "Iran menuntut akhir perang di semua front, pembubaran blokade AS, dan pengakuan kedaulatan atas Selat Hormuz dalam proposal 14 poin.",
+            "Konflik terus terjadi karena perbedaan posisi AS dan Iran terkait pengayaan nuklir serta kontrol Selat Hormuz, yang memengaruhi harga minyak global."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-11T23:20:53+00:00",
+          "summary": "Pertemuan antara Presiden AS Donald Trump dan Presiden Tiongkok Xi Jinping di Beijing diharapkan menentukan arah hubungan dua negara adidaya dalam beberapa tahun ke depan, dengan fokus pada perdagangan, ketegangan di Taiwan, dan upaya Tiongkok sebagai penengah konflik di Teluk Hormuz.",
+          "key_points": [
+            "Pertemuan Trump-Xi akan membahas isu perdagangan global, ketegangan di Taiwan, dan kompetisi teknologi tinggi yang menjadi fokus utama hubungan AS-Tiongkok.",
+            "Tiongkok berusaha menjadi penengah dalam konflik AS-Israel melawan Iran, sambil menuntut keuntungan ekonomi dari keterlibatannya di kawasan tersebut.",
+            "Trump mengambil sikap longgar terhadap hubungan Tiongkok dengan Iran, meskipun AS mengecam aksi Tiongkok di Selat Hormuz dan menekan negosiasi perdamaian."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "EU, UK sanction Russians over deportations of Ukrainian children",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-11T20:56:26+00:00",
+          "summary": "Uni Eropa dan Britania Raya memberlakukan sanksi terhadap institusi dan pejabat Rusia yang diduga terlibat dalam deportasi dan pengindoktrinan anak-anak Ukraina. Rusia telah memindahkan sekitar 20.500 anak sejak invasi penuh dimulai pada Februari 2022, yang dianggap melanggar hukum internasional. Sanksi ini mencakup pembekuan aset dan larangan perjalanan, serta ditujukan untuk menghentikan kampanye sistematis Rusia terhadap identitas nasional Ukraina.",
+          "key_points": [
+            "Uni Eropa dan Britania Raya menerapkan sanksi terhadap 23 institusi dan 85 individu/entitas Rusia terkait deportasi serta pengindoktrinan anak-anak Ukraina.",
+            "Rusia telah memindahkan sekitar 20.500 anak Ukraina sejak invasi 2022, yang dianggap sebagai pelanggaran serius terhadap hukum internasional.",
+            "Sanksi mencakup pembekuan aset dan larangan perjalanan, serta ditujukan pada kampanye informasi perang Rusia, termasuk propaganda pro-Kremlin."
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "'Britain at the heart of Europe': How Starmer's plans are going down in the EU",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-11T17:15:52+00:00",
+          "summary": "Perdana Menteri Inggris Keir Starmer berupaya memperkuat hubungan dengan Uni Eropa melalui pidato yang dianggap kurang inovatif, sementara reaksi dari Brussels bervariasi antara optimisme di bidang pertahanan dan skeptisisme terhadap rencana ekonomi. Proposal kemitraan sektoral seperti peraturan pangan dan perdagangan emisi karbon dinilai tidak cukup signifikan untuk mendorong pertumbuhan ekonomi Inggris secara keseluruhan.",
+          "key_points": [
+            "EU menilai pidato Starmer tentang penguatan hubungan dengan Uni Eropa sebagai 'damp squib' karena kurangnya inisiatif baru.",
+            "Proposal kerja sama sektoral Inggris dengan EU, seperti kesepakatan keamanan pangan dan perdagangan emisi, dianggap tidak berdampak besar pada perekonomian nasional.",
+            "Kendala politik seperti larangan imigrasi bebas dan penolakan bergabung dengan pasar tunggal EU tetap menjadi hambatan utama bagi kerja sama ekonomi lebih dalam."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "PT Rohto Imbau Buang Varian Selsun terkait Cemaran Berpotensi Kanker, Siap Ganti Rugi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8485204/pt-rohto-imbau-buang-varian-selsun-terkait-cemaran-berpotensi-kanker-siap-ganti-rugi",
+          "category": "Kesehatan",
+          "published_at": "2026-05-12T01:20:37+00:00",
+          "summary": "PT Rohto Laboratories mengimbau konsumen untuk menghentikan penggunaan shampo Selsun varian 7 flowers dan 7 herbal yang terkontaminasi 1,4 dioxane, zat berpotensi karsinogenik, serta menawarkan penggantian produk sebagai ganti rugi.",
+          "key_points": [
+            "Shampo Selsun varian 7 flowers dan 7 herbal ditemukan mengandung cemaran 1,4 dioxane yang berisiko menyebabkan kanker dan kerusakan organ hati serta ginjal.",
+            "PT Rohto Laboratories meminta maaf dan menawarkan penggantian produk kepada konsumen yang terdampak cemaran.",
+            "Konsumen diminta menghentikan penggunaan produk terdampak serta menghubungi customer care untuk mendapatkan solusi pengganti."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "BGN Ancam Tutup SPPG yang Tak Prioritaskan MBG untuk Bumil-Balita",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8485182/bgn-ancam-tutup-sppg-yang-tak-prioritaskan-mbg-untuk-bumil-balita",
+          "category": "Kesehatan",
+          "published_at": "2026-05-12T00:46:46+00:00",
+          "summary": "Badan Gizi Nasional (BGN) meminta seluruh Satuan Pelayanan Pemenuhan Gizi (SPPG) segera menambah jumlah penerima manfaat kategori, mulai dari ibu hamil, ibu menyusui, dan balita (3B) dalam dua minggu ke depan. Wakil Kepala BGN Bidang Komunikasi Publik dan Investigasi, Nanik Sudaryati Deyang, mengatakan langkah tersebut menjadi bagian dari upaya pemerintah dalam mempercepat perbaikan gizi anak.",
+          "key_points": [
+            "Badan Gizi Nasional (BGN) meminta seluruh Satuan Pelayanan Pemenuhan Gizi (SPPG) segera me",
+            "Wakil Kepala BGN Bidang Komunikasi Publik dan Investigasi, Nanik Sudaryati Deyang, mengata",
+            "Selain itu, ini juga dinilai membantu menurunkan angka stunting nasional melalui program M"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Haiti’s PM casts doubt on presidential vote by August as gang clashes grow",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-11T21:08:06+00:00",
+          "summary": "Perdana Menteri Haiti Alix Didier Fils-Aime menyatakan situasi keamanan yang tidak stabil menghambat pelaksanaan pemilu presiden pada Agustus, sementara konflik antar geng di ibu kota Port-au-Prince menyebabkan evakuasi rumah sakit dan ribuan warga mengungsi. Ia berharap pemilu bisa digelar akhir tahun ini, meski tantangan keamanan dan politik masih menghambat proses demokrasi.",
+          "key_points": [
+            "PM Fils-Aime mempertanyakan kelayakan pemilu Agustus karena ketidakstabilan keamanan di Haiti.",
+            "Konflik geng di Port-au-Prince menyebabkan evakuasi rumah sakit, korban luka, dan lebih dari 1,4 juta orang terdampak perpindahan.",
+            "Vakum kekuasaan sejak pembunuhan Presiden Jovenel Moise pada 2021 memperkuat pengaruh geng di ibu kota."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Pentagon Buka 170 File UFO Rahasia, Isinya Bikin Merinding",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8485207/pentagon-buka-170-file-ufo-rahasia-isinya-bikin-merinding",
+          "category": "Teknologi",
+          "published_at": "2026-05-12T01:45:43+00:00",
+          "summary": "Pemerintah Amerika Serikat merilis lebih dari 170 berkas terkait penampakan benda tak dikenal (UFO/UAP) yang sebelumnya diklasifikasikan, termasuk laporan dari berbagai kalangan dan luar angkasa, sebagai realisasi janji Presiden Donald Trump pada April 2026. Dokumen-dokumen tersebut ditampilkan tanpa penjelasan resmi, sehingga sebagian tetap menjadi misteri.",
+          "key_points": [
+            "Pemerintah AS merilis 170 berkas UFO/UAP yang sebelumnya tersimpan di balik klasifikasi militer, termasuk laporan dari era 1940-an hingga 2024.",
+            "Laporan mencakup penampakan dari berbagai sumber, seperti petani, pilot komersial, polisi, hingga astronot misi Gemini 7 dan Apollo.",
+            "Pentagon tidak memberikan penjelasan resmi mengenai asal usul benda-benda tersebut, meski sebagian kemungkinan bisa dijelaskan secara ilmiah."
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 1655
+    },
+    "timestamp": "2026-05-12T02:20:12.571816+00:00"
   }
 ]
