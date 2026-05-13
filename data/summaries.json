@@ -9447,5 +9447,360 @@
       "total_in_qdrant": 1655
     },
     "timestamp": "2026-05-12T02:20:12.571816+00:00"
+  },
+  {
+    "date": "2026-05-13",
+    "generated_at": "2026-05-13T02:34:34.028108+00:00",
+    "headline": "Serangan Israel di Lebanon memicu kematian 13 orang termasuk dua paramedis.",
+    "global_headline": "Serangan Israel di Lebanon memicu kematian 13 orang termasuk dua paramedis.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "Krisis Air India Jatuhnya Ahmedabad",
+        "title": "Krisis Air India Jatuhnya Ahmedabad",
+        "synthesis": [
+          "Laporan akhir kecelakaan Ahmedabad segera dirilis, memicu investigasi sistemik.",
+          "Air India mengalami kerugian besar dan kekosongan kepemimpinan kritis.",
+          "Dukungan keuangan dari Tatas dan Singapore Airlines dipersiapkan untuk stabilisasi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi sistemik pada kebijakan penerbangan nasional dan regulasi keselamatan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Krisis Air India Jatuhnya Ahmedabad",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait Krisis Air India Jatuhnya Ahmedabad. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Krisis Air India disebabkan oleh kombinasi faktor**, termasuk kenaikan harga minyak, meningkatnya pembatasan wilayah udara, dan pelemahan nilai rupee, yang menyebabkan biaya operasional meningkat dan tekanan finansial besar bagi maskapai.\n2. **Air India mengalami kerugian dan tekanan regulator**, serta gangguan operasional akibat tensi geopolitik kawasan, termasuk konflik di Timur Tengah dan larangan Pakistan terhadap maskapai India melintasi wilayah udaranya.\n3. **Pergantian pucuk pimpinan Air India menjadi langkah penting** bagi maskapai yang sedang menjalani restrukturisasi besar sejak diambil alih Tata Sons dari pemerintah India pada 2022.\n4. **Krisis Air India juga dipicu oleh krisis bahan bakar**, dengan bahan bakar jet menyumbang sekitar 40% dari total biaya maskapai, sehingga memberikan tekanan finansial yang besar bagi perusahaan penerbangan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+            "category": "Umum",
+            "published_at": "2026-05-12T22:15:50+00:00",
+            "summary": "Air India menghadapi krisis yang memburuk setelah kecelakaan penerbangan di Ahmedabad, dengan laporan akhir investigasi dijadwalkan segera dirilis. Maskapai ini mengalami kerugian besar, kekosongan kepemimpinan, dan berbagai masalah operasional serta eksternal, sementara pemegang saham seperti Tatas dan Singapore Airlines dipersiapkan untuk memberikan dukungan keuangan tambahan.",
+            "key_points": [
+              "Air India mengalami kerugian tahunan sebesar $2,4 miliar dan kehilangan CEO-nya di tengah krisis keuangan yang memburuk.",
+              "Masalah operasional seperti pelanggaran keselamatan dan kesalahan prosedur penerbangan memperburuk citra maskapai.",
+              "Faktor eksternal seperti depresiasi rupee, kenaikan harga bahan bakar, dan keterlambatan pengadaan pesawat menghambat pemulihan Air India."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Paramedis Lebanon Tewas Serangan Israel",
+        "title": "Paramedis Lebanon Tewas Serangan Israel",
+        "synthesis": [
+          "13 tewas dalam serangan Israel di Lebanon, termasuk dua paramedis.",
+          "Lebanon tuduh Israel sengaja targetkan personel medis.",
+          "Konflik Israel-Hizbullah terus berlanjut meski gencatan senjata gagal."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik dan konflik aktif dengan pelanggaran kemanusiaan.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-12T20:00:05+00:00",
+            "summary": "Serangan udara Israel di selatan Lebanon menewaskan 13 orang, termasuk dua paramedis dari layanan darurat Lebanon, sementara pihak Lebanon menuduh Israel sengaja menargetkan personel medis. Konflik yang dimulai pada 2 Maret terus berlanjut meski gencatan senjata yang dijalin dengan dukungan AS belum berhasil menghentikan pertempuran antara Israel dan Hizbullah.",
+            "key_points": [
+              "Serangan Israel di Lebanon menewaskan 13 orang, termasuk dua paramedis dari Layanan Darurat Sipil Lebanon.",
+              "Kementerian Kesehatan Lebanon menuduh Israel melanggar hukum kemanusiaan internasional dengan menargetkan tenaga medis, menyebut 108 petugas kesehatan tewas sejak perang dimulai.",
+              "Pihak Israel dan Lebanon dijadwalkan bertemu di Washington untuk membahas upaya mengakhiri konflik yang telah menewaskan ribuan orang di kedua negara."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Robot Berkendara Transformer China",
+        "title": "Robot Berkendara Transformer China",
+        "synthesis": [
+          "Unitree Robotics luncurkan robot transformable GD01",
+          "Dikemudikan langsung oleh CEO",
+          "Lengan mekanis merobohkan dinding"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Inovasi robotik transformable menggeser industri otomasi dan potensi aplikasi militer.",
+        "external_research": [
+          {
+            "title": "Deep Research: Robot Berkendara Transformer China",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang \"Robot Berkendara Transformer China\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Transformasi Digital di Industri Manufaktur**: Transformasi digital di industri manufaktur telah membawa perubahan signifikan, termasuk penggunaan robotika dan pencetakan 3D yang membuat Amerika Serikat dan Eropa bisa bersaing dengan Cina.\n2. **Penggunaan Robot Transformer**: Robot transformer telah digunakan dalam berbagai aplikasi, termasuk pengawasan keamanan, robotika, dan aplikasi otomotif. Mereka dapat melakukan tugas-tugas yang kompleks dan memiliki kemampuan pengolahan citra yang tinggi.\n3. **Pengembangan Model Internalisasi Sustainability Mindset**: Pengembangan model internalisasi sustainability mindset CEO melalui data sekunder dan pengaruhnya dalam pengambilan keputusan telah menjadi fokus penelitian di beberapa institusi, termasuk Universitas Negeri Padang.\n4. **Penggunaan Transformator dalam Kontrol Sistem**: Transformator telah digunakan dalam kontrol sistem untuk meningkatkan kinerja dan mengurangi beban komputasi. Mereka dapat digunakan dalam berbagai aplikasi, termasuk industri manufaktur, transportasi, dan lain-lain.\n\nNamun, perlu diingat bahwa beberapa sumber yang saya temukan tidak relevan dengan topik \"Robot Berkendara Transformer China\". Oleh karena itu, saya hanya menampilkan fakta-fakta yang relevan dan kredibel."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Chinese firm unveils ‘transformer’ style manned robot",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/chinese-firm-unveils-transformer-style-manned-robot?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-05-12T23:42:47+00:00",
+            "summary": "Unitree Robotics, perusahaan asal Tiongkok, memperkenalkan robot manusia bertipe transformable bernama GD01 yang dikemudikan langsung oleh CEO-nya. Robot ini memiliki tinggi 2,7 meter dengan lengan mekanis yang mampu merobohkan dinding.",
+            "key_points": [
+              "Unitree Robotics meluncurkan robot manusia transformable GD01 yang dikemudikan oleh CEO-nya.",
+              "Robot GD01 memiliki tinggi 2,7 meter dan dilengkapi lengan mekanis untuk merobohkan dinding.",
+              "Harga robot GD01 dimulai dari 650.000 dolar AS."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Resiko Kebijakan Partai Buruh Starmer",
+        "title": "Resiko Kebijakan Partai Buruh Starmer",
+        "synthesis": [
+          "Starmer dihadapkan tekanan internal akibat strategi partai yang menuju konservatif.",
+          "Kritik internal meningkat pasca hasil buruk pemilu lokal, ancam stabilitas kepemimpinan.",
+          "Resiko kebijakan partai mengurangi identitas Labour sebagai oposisi konservatif."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi partai mengancam momentum pemilu 2024 dan kekuatan politik nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Resiko Kebijakan Partai Buruh Starmer",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel tentang Resiko Kebijakan Partai Buruh Starmer. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tantangan Partai Buruh**: Partai Buruh di Inggris masih belum sekuat dengan partai-partai buruh di negara Barat, seperti yang disebutkan dalam artikel Kompas. Pemilu 2024 menjadi momentum untuk meningkatkan kekuatan partai.\n2. **Kedekatan dengan Penguasa**: Partai Buruh telah menukar perjuangan mereka demi kedekatan dengan penguasa dan koalisi, seperti yang disebutkan dalam artikel Revolusioner. Hal ini dapat berdampak pada kehilangan identitas partai sebagai suara oposisi untuk kelas pekerja.\n3. **Pengalaman Pemerintahan**: Pemerintahan Labour di Inggris telah menghadapi tantangan dalam mengelola ekonomi, seperti yang disebutkan dalam artikel RBC Wealth Management. Mereka telah menemukan bahwa mengelola ekonomi lebih sulit daripada hanya berada di oposisi.\n4. **Pemilu Lokal 2026**: Pemilu lokal Inggris 2026 telah menunjukkan hasil yang mengejutkan, dengan Partai Buruh dan Konservatif yang goyah. Hal ini dapat berdampak pada perubahan besar dalam pemerintahan Inggris."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Starmer at risk because he pushed Labour to be ‘new Conservative Party’",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/starmer-at-risk-because-he-pushed-labour-to-be-new-conservative?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-13T00:30:42+00:00",
+            "summary": "Perdana Menteri Inggris Keir Starmer dianggap menghadapi risiko karena upayanya mengubah Partai Buruh menjadi 'Partai Konservatif baru'. Strategi ini memicu kritik dari anggota parlemen yang menuntut pengunduran dirinya setelah hasil buruk pemilihan lokal.",
+            "key_points": [
+              "Starmer dianggap mengubah Partai Buruh menjadi versi baru Partai Konservatif untuk menempati posisi tengah.",
+              "Hasil pemilihan lokal yang buruk memicu tuntutan pengunduran diri dari puluhan anggota parlemen.",
+              "Strategi politik Starmer dinilai sebagai penyebab kerentanan posisinya sebagai pemimpin Partai Buruh."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Mitos 8 Gelas Air Harian",
+        "title": "Mitos 8 Gelas Air Harian",
+        "synthesis": [
+          "Anjuran minum 8 gelas air putih sehari adalah mitos, kebutuhan cairan bervariasi berdasarkan usia, aktivitas, dan kondisi kesehatan.",
+          "Mitos air dingin menyebabkan gemuk dan minum saat makan mengganggu pencernaan tidak terbukti secara ilmiah.",
+          "Konsumsi cairan berlebihan berisiko bagi kesehatan karena tubuh memiliki batas regulasi cairan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Membongkar mitos kesehatan umum yang berpotensi memengaruhi praktik hidrasi publik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Sehari Harus Minum 8 Gelas Air Putih? 5 Anjuran Sehat Ini Ternyata Sebagian Cuma Mitos",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8486820/sehari-harus-minum-8-gelas-air-putih-5-anjuran-sehat-ini-ternyata-sebagian-cuma-mitos",
+            "category": "Kesehatan",
+            "published_at": "2026-05-13T00:02:35+00:00",
+            "summary": "Artikel ini menjelaskan bahwa anjuran minum 8 gelas air putih sehari merupakan mitos, karena kebutuhan cairan bervariasi tergantung usia, aktivitas, dan kondisi kesehatan. Beberapa anggapan seperti air dingin menyebabkan gemuk atau minum air saat makan mengganggu pencernaan juga tidak terbukti secara ilmiah. Tubuh memiliki batas regulasi cairan, sehingga konsumsi berlebihan justru berisiko bagi kesehatan.",
+            "key_points": [
+              "Anjuran 8 gelas air putih sehari tidak berlaku universal karena kebutuhan cairan bervariasi berdasarkan faktor individu.",
+              "Minum air dingin tidak menyebabkan penimbunan lemak, dan air putih saat makan tidak mengganggu proses pencernaan.",
+              "Overhidrasi dapat menurunkan kadar natrium dalam darah dan berisiko bagi penderita penyakit jantung atau gagal ginjal."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Konflik Geopolitik Memicu Inovasi Teknologi Medis",
+        "analysis": "Serangan Israel di Lebanon yang menewaskan paramedis mempercepat kebutuhan teknologi medis canggih untuk medan perang. Robot transformable China (GD01) bisa dikembangkan sebagai solusi logistik kesehatan di zona konflik, menggabungkan teknologi otomatisasi dengan kebutuhan kemanusiaan. Ini menciptakan keterkaitan antara geopolitik (konflik Lebanon-Israel) dan teknologi (robotik), sambil memicu investasi global di sektor medis-robotik."
+      },
+      {
+        "title": "Krisis Infrastruktur Air Mendorong Revisi Kebijakan Energi",
+        "analysis": "Krisis air di Ahmedabad mengungkap kelemahan sistem infrastruktur India, yang bisa memicu kebijakan energi terpadu. Partai Buruh Inggris (Starmer) mungkin mengalihkan fokus ke investasi infrastruktur hijau atau teknologi desalinasi, menghubungkan isu lingkungan (krisis air) dengan kebijakan ekonomi (investasi publik) dan teknologi (desalinasi). Tekanan internal Starmer bisa mempercepat adopsi solusi inovatif."
+      }
+    ],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-13T01:59:53+00:00",
+          "summary": "Sistem pertahanan rudal 'Golden Dome' yang diusulkan Presiden AS Donald Trump diperkirakan akan memakan biaya hingga $1,2 triliun selama dua dekade, jauh lebih tinggi dari anggaran awal $175 miliar. Laporan Congressional Budget Office menyatakan sistem ini mungkin tidak mampu menghadapi serangan penuh dari negara-negara seperti Rusia atau Tiongkok, sementara Senator Jeff Merkley mengkritiknya sebagai bantuan besar bagi kontraktor pertahanan.",
+          "key_points": [
+            "Biaya pengembangan dan operasi sistem Golden Dome mencapai $1,2 triliun, jauh melampaui anggaran awal $175 miliar.",
+            "Sistem tersebut dinilai rentan terhadap serangan penuh dari negara-negara adidaya seperti Rusia atau Tiongkok.",
+            "Senator Jeff Merkley mengkritik proyek ini sebagai subsidi besar bagi perusahaan pertahanan yang dibayar oleh rakyat AS."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Digelar Bulan Mei, Cek di Sini Informasi Jogja Run D-City 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sportstyle/d-8485335/digelar-bulan-mei-cek-di-sini-informasi-jogja-run-d-city-2026",
+          "category": "Olahraga",
+          "published_at": "2026-05-13T02:10:25+00:00",
+          "summary": "Jogja Run D-City 2026 akan diselenggarakan pada 24 Mei 2026 dengan rute dari Lapangan Pancasila UGM hingga Gedung Gelanggang Inovasi dan Kreativitas UGM. Acara ini menawarkan dua kategori lomba (5K dan 10K) serta rangkaian kegiatan Jogja Financial Festival. Pendaftaran peserta dapat dilakukan melalui detikevent.",
+          "key_points": [
+            "Jogja Run D-City 2026 diadakan pada 24 Mei 2026 dengan rute melewati landmark Yogyakarta.",
+            "Tersedia dua kategori lomba, yaitu 5K Fun Run dan 10K, dengan hadiah total puluhan juta rupiah.",
+            "Event ini merupakan bagian dari Jogja Financial Festival yang meliputi kegiatan seperti Business Talks, Financial Class, dan penampilan musik."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "NBA-Jason Collins, first openly gay active NBA player, dies at 47",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/nba-jason-collins-first-openly-gay-active-nba-player-dies-47-6117376",
+          "category": "Olahraga",
+          "published_at": "2026-05-13T01:33:18+00:00",
+          "summary": "Jason Collins, pemain NBA pertama yang secara terbuka mengakui orientasi seksualnya sebagai gay, meninggal dunia pada usia 47 tahun setelah berjuang melawan kanker otak. Collins, yang dikenal sebagai pusat (center) dalam 13 musim NBA, menjadi sorotan pada 2013 saat menjadi atlet profesional pertama di Amerika Utara yang secara publik mengumumkan identitas seksualnya.",
+          "key_points": [
+            "Jason Collins meninggal pada usia 47 tahun akibat glioblastoma, jenis kanker otak yang agresif.",
+            "Ia adalah pemain NBA pertama yang secara terbuka mengakui orientasi seksualnya sebagai gay pada 2013.",
+            "Collins bermain selama 13 musim di NBA dengan berbagai tim, termasuk Brooklyn Nets, Boston Celtics, dan Washington Wizards."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Hentikan PSG Bikin Gol Sangat Sulit, Arsenal Bisa Saja Senasib Inter",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8486853/hentikan-psg-bikin-gol-sangat-sulit-arsenal-bisa-saja-senasib-inter",
+          "category": "Olahraga",
+          "published_at": "2026-05-13T01:00:02+00:00",
+          "summary": "Wesley Sneijder memprediksi Paris Saint-Germain (PSG) akan menang di final Liga Champions 2025/2026 melawan Arsenal, dengan skenario serupa kemenangan PSG 5-0 atas Inter Milan di final sebelumnya. Ia menilai Arsenal memiliki pertahanan kuat, tetapi kesulitan menghadapi serangan PSG yang produktif. Pertandingan diprediksi berakhir dengan kemenangan PSG atau skor tipis untuk Arsenal.",
+          "key_points": [
+            "Sneijder memprediksi PSG unggul karena produktivitas serangan dan pengalaman menghancurkan Inter 5-0 di final sebelumnya.",
+            "Arsenal diakui memiliki pertahanan solid dengan hanya enam gol kebobolan sejak fase grup.",
+            "Kemungkinan skor final disebut bisa 3-0/4-0 untuk PSG atau 1-0 untuk Arsenal, tergantung efektivitas pertahanan Arsenal."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Saudi Arabia launched covert attacks on Iran as regional war widened: Sources",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/saudi-arabia-uae-covert-attacks-iran-war-6117286",
+          "category": "Internasional",
+          "published_at": "2026-05-13T01:17:21+00:00",
+          "summary": "Saudi Arabia meluncurkan serangan rahasia pertama kali secara langsung ke Iran sebagai balasan atas serangan sebelumnya, sementara Uni Emirat Arab (UEA) juga melakukan serangan militer ke Iran, mengungkap keterlibatan baru kedua negara dalam perang regional. Kedua tindakan tersebut menunjukkan eskalasi konflik yang semakin meluas di Timur Tengah.",
+          "key_points": [
+            "Saudi Arabia melakukan serangan udara pertama kali secara langsung ke Iran sebagai balasan atas serangan yang menargetkan kerajaan tersebut.",
+            "Uni Emirat Arab meluncurkan serangan ke sebuah kilang minyak di Pulau Lavan, Iran, sekitar waktu Presiden AS Donald Trump mengumumkan gencatan senjata.",
+            "Saudi Arabia dan Iran mencapai kesepahaman informal untuk menurunkan eskalasi setelah serangan Saudi, yang diikuti dengan diplomasi intensif dan ancaman retaliasi."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Ngeri! King Cobra Masuk Toilet Karyawan, Netizen: Langsung Resign Aja",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8486857/ngeri-king-cobra-masuk-toilet-karyawan-netizen-langsung-resign-aja",
+          "category": "Hiburan",
+          "published_at": "2026-05-13T00:45:10+00:00",
+          "summary": "Sebuah video King Cobra muncul di toilet karyawan sebuah kantor viral di media sosial, memicu reaksi syok dan ketakutan dari netizen. Video tersebut diunggah akun @magerabis dan telah ditonton lebih dari 1 juta kali, sementara lokasi kejadian belum diketahui pasti. Warganet menyampaikan komentar khawatir, bercanda, dan menyarankan penanganan oleh pihak profesional.",
+          "key_points": [
+            "King Cobra muncul di toilet karyawan dan terekam dalam video yang viral di media sosial.",
+            "Netizen bereaksi dengan rasa takut, bercanda tentang resign, dan menyarankan pemanggilan petugas profesional untuk menangani ular.",
+            "King Cobra dikenal sebagai ular berbisa terpanjang di dunia dengan panjang hingga 6 meter dan habitat alami di hutan tropis Asia Tenggara."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Samsung Elec regrets collapse of pay talks with union, says to continue dialogue",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/samsung-elec-regrets-collapse-pay-talks-union-says-continue-dialogue-6117256",
+          "category": "Ekonomi",
+          "published_at": "2026-05-13T00:26:43+00:00",
+          "summary": "Samsung Electronics menyatakan penyesalan atas gagalnya pembicaraan kenaikan upah dengan serikat pekerja, sementara serikat memperingatkan kemungkinan mogok kerja besar-besaran yang berisiko mengganggu produksi chip AI dan lainnya.",
+          "key_points": [
+            "Samsung menyesali kegagalan negosiasi kenaikan upah dengan serikat pekerja dan berkomitmen untuk terus berdialog.",
+            "Serikat pekerja memperingatkan mogok kerja selama 18 hari mulai 21 Mei yang melibatkan lebih dari 50.000 pekerja.",
+            "Mogok kerja tersebut berpotensi mengganggu produksi chip AI dan komponen elektronik lainnya."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "No sign of larger hantavirus outbreak, says UN health agency",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-12T17:55:12+00:00",
+          "summary": "WHO menyatakan belum ada tanda penyebaran hantavirus yang lebih luas setelah kapal pesiar MV Hondius ditinggalkan, meski situasi bisa berubah. Tiga orang meninggal dan sembilan kasus terkonfirmasi, sementara 12 pekerja rumah sakit di Belanda dikarantina akibat kontak dengan pasien.",
+          "key_points": [
+            "WHO memastikan belum ada indikasi wabah besar hantavirus, tetapi memperingatkan kemungkinan peningkatan kasus dalam beberapa minggu ke depan.",
+            "Tiga korban meninggal dan sembilan kasus terkonfirmasi, termasuk dua pasien dengan gejala berat di Prancis dan Spanyol.",
+            "12 pekerja rumah sakit di Nijmegen dikarantina sebagai langkah pencegahan setelah kontak dengan sampel pasien yang terinfeksi."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Googlebook Diumumkan Jadi Pesaing MacBook, Beda dengan Chromebook?",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8486807/googlebook-diumumkan-jadi-pesaing-macbook-beda-dengan-chromebook",
+          "category": "Teknologi",
+          "published_at": "2026-05-12T23:45:18+00:00",
+          "summary": "Google memperkenalkan Googlebook sebagai laptop premium berbasis AI untuk menghadapi kompetitor seperti MacBook dan Windows Copilot+ PC. Perangkat ini berbeda dari Chromebook dengan fokus pada integrasi mendalam dengan ekosistem Android dan fitur AI kontekstual seperti Magic Pointer.",
+          "key_points": [
+            "Googlebook dirancang sebagai laptop premium berbasis AI dengan Gemini Intelligence sebagai inti pengalaman pengguna.",
+            "Fitur unggulan meliputi Magic Pointer yang memahami konteks gerakan kursor dan integrasi penuh dengan aplikasi Android.",
+            "Googlebook hadir sebagai kategori baru yang tidak menggantikan Chromebook, dengan kolaborasi hardware dari Acer, ASUS, Dell, HP, dan Lenovo."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Ramai Dikaitkan Netizen di Kasus MC Cerdas Cermat MPR, Apa Itu Gaslighting?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8486970/ramai-dikaitkan-netizen-di-kasus-mc-cerdas-cermat-mpr-apa-itu-gaslighting",
+          "category": "Hukum",
+          "published_at": "2026-05-13T02:08:29+00:00",
+          "summary": "Shindy Lutfiana, MC Lomba Cerdas Cermat MPR RI, menjadi sorotan lantaran diduga melakukan gaslighting terhadap peserta lomba. Pernyataannya viral di media sosial, diikuti reaksi netizen yang menyebut perilakunya anti-kritik dan memalukan peserta, meski ia telah meminta maaf. Gaslighting dijelaskan sebagai manipulasi emosional yang merusak kepercayaan diri korban.",
+          "key_points": [
+            "Shindy Lutfiana diduga melakukan gaslighting terhadap peserta lomba dan meminta maaf secara terbuka.",
+            "Netizen mengkritik perilaku Shindy di media sosial, menyebutnya anti-kritik dan merendahkan peserta.",
+            "Gaslighting didefinisikan sebagai bentuk manipulasi emosional yang mengganggu kepercayaan diri korban, menurut psikolog Chivonna Childs."
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 1779
+    },
+    "timestamp": "2026-05-13T02:34:34.028116+00:00"
   }
 ]
