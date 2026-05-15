@@ -10125,5 +10125,358 @@
       "total_in_qdrant": 1916
     },
     "timestamp": "2026-05-14T02:36:13.616711+00:00"
+  },
+  {
+    "date": "2026-05-15",
+    "generated_at": "2026-05-15T02:34:46.065948+00:00",
+    "headline": "Lamine Yamal menampilkan bendera Palestina dalam parade Barcelona memicu sorotan internasional terhadap konflik Israel-Palestina.",
+    "global_headline": "Lamine Yamal menampilkan bendera Palestina dalam parade Barcelona memicu sorotan internasional terhadap konflik Israel-Palestina.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Cedera dan Comeback di MotoGP",
+        "title": "Cedera dan Comeback di MotoGP",
+        "synthesis": [
+          "Risiko cedera tinggi menjadi bagian tak terhindarkan dalam MotoGP.",
+          "Proses pemulihan fisik dan mental pembalap memakan waktu panjang.",
+          "Marc Marquez menjadi contoh comeback krusial setelah cedera parah."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Isu cedera dan pemulihan sistemik mengancam karier pembalap serta keberlanjutan kompetisi.",
+        "external_research": [
+          {
+            "title": "Deep Research: Cedera dan Comeback di MotoGP",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang kecelakaan dan comeback di MotoGP. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kecelakaan Marc Marquez**: Marc Marquez mengalami kecelakaan di tikungan ke-11 saat balapan MotoGP Spanyol, yang menyebabkan dia gagal finish. Kecelakaan ini disebabkan oleh kompresi saraf yang intermittent pada posisi tertentu di bahu dan lengan, yang menyebabkan hilangnya kekuatan pada tangan dan lengan bawah.\n2. **Penyebab kecelakaan**: Penyebab kecelakaan Marquez adalah sekrup yang menyebabkan kompresi saraf yang intermittent. Hal ini menjelaskan mengapa Marquez merasa relatif baik dalam kehidupan sehari-hari atau saat berlatih motocross, namun kemudian mengalami perburukan progresif begitu naik ke atas motor MotoGP.\n3. **Kembalinya Marquez**: Marquez telah kembali ke balapan MotoGP setelah mengalami kecelakaan. Namun, dia masih mengalami masalah dengan kekuatan tangan dan lengan bawah, yang menyebabkan dia mengalami kesulitan dalam gerakan halus dan sensasi lengan \"mati\".\n4. **Pengembangan teknologi keselamatan**: MotoGP telah mengembangkan teknologi keselamatan yang lebih baik untuk mengurangi risiko kecelakaan. Namun, Marquez masih mengalami kecelakaan karena penyebab yang tidak terkait dengan teknologi keselamatan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Cedera hingga Comeback, Ini Sisi Brutal MotoGP yang Tak Banyak Dibahas",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/moto-gp/d-8489355/cedera-hingga-comeback-ini-sisi-brutal-motogp-yang-tak-banyak-dibahas",
+            "category": "Olahraga",
+            "published_at": "2026-05-15T01:15:43+00:00",
+            "summary": "Artikel ini mengulas sisi brutal MotoGP yang jarang dibahas, yaitu risiko cedera akibat kecelakaan dan perjuangan pembalap untuk bangkit kembali. Para rider harus menghadapi crash sebagai bagian dari pekerjaan, menjalani proses pemulihan panjang, dan menumbuhkan rasa percaya diri untuk kembali bersaing. Contoh nyata diungkap melalui kisah Marc Marquez yang bangkit setelah cedera parah.",
+            "key_points": [
+              "Crash dan cedera adalah risiko wajar dalam MotoGP akibat kecepatan tinggi dan keputusan kritis di lintasan.",
+              "Pembalap harus melalui proses pemulihan fisik dan mental yang panjang untuk kembali kompetitif setelah kecelakaan.",
+              "Filosofi 'No Risk, No Story' menggambarkan semangat MotoGP, di mana keberanian mengambil risiko melahirkan cerita besar dari perjuangan pembalap."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Striker Keempat Arbeloa Menurut Mbappe",
+        "title": "Striker Keempat Arbeloa Menurut Mbappe",
+        "synthesis": [
+          "Mbappe dianggap striker keempat di Real Madrid oleh Arbeloa.",
+          "Masuk sebagai pengganti dalam kemenangan 2-0 atas Real Oviedo.",
+          "Menyatakan siap menerima keputusan pelatih untuk fokus pada performa."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran hierarki penyerang Real Madrid berpotensi memengaruhi strategi tim dan performa kompetitif.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Curhat Mbappe: Buat Arbeloa, Saya Striker Nomor 4",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8489493/curhat-mbappe-buat-arbeloa-saya-striker-nomor-4",
+            "category": "Olahraga",
+            "published_at": "2026-05-15T01:00:05+00:00",
+            "summary": "Kylian Mbappe menyatakan bahwa pelatih Real Madrid, Alvaro Arbeloa, menganggapnya sebagai striker nomor empat di belakang Mastantuono, Vinicius Junior, dan Gonzalo Garcia. Ia masuk sebagai pengganti dalam kemenangan Madrid 2-0 atas Real Oviedo dan menegaskan siap menerima keputusan pelatih dengan tetap fokus pada performa terbaiknya.",
+            "key_points": [
+              "Mbappe masuk sebagai pengganti di menit ke-69 dan menciptakan assist untuk gol kemenangan Madrid.",
+              "Ia mengakui posisinya sebagai striker keempat menurut evaluasi Arbeloa.",
+              "Mbappe menegaskan tidak memiliki masalah dengan pelatih dan siap menerima filosofi taktik yang diterapkan."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Fitur Instants vs Stories Instagram",
+        "title": "Fitur Instants vs Stories Instagram",
+        "synthesis": [
+          "Instagram luncurkan Instants: foto sementara hilang 24 jam, beda dari Stories.",
+          "Instants tidak bisa diedit atau diambil dari galeri, tersedia via aplikasi mandiri.",
+          "Fitur ini fokus pada momen spontan tanpa khawatir konten tersimpan lama."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi penggunaan media sosial dan kompetisi fitur sementara.",
+        "external_research": [
+          {
+            "title": "Deep Research: Fitur Instants vs Stories Instagram",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang fitur Instants vs Stories Instagram. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Fitur Instants**: Instants adalah fitur baru di Instagram yang memungkinkan pengguna berbagi foto-foto sementara yang akan hilang setelah dilihat. Fitur ini dirancang untuk berbagi momen-momen kecil dalam kehidupan sehari-hari, tanpa perlu khawatir konten tersimpan lama.\n2. **Privasi dan Interaksi**: Foto yang dikirim melalui Instants akan hilang otomatis, mengurangi risiko penyebaran konten pribadi. Pengguna juga dapat berbagi momen secara spontan tanpa khawatir konten tersimpan lama, sehingga meningkatkan interaksi dan kebersamaan dengan followers.\n3. **Alternatif Aplikasi Baru**: Instants memberi pilihan bagi pengguna yang ingin fitur foto hilang tanpa harus membuka Instagram. Fitur ini juga dapat meningkatkan engagement rate dan kredibilitas akun di algoritma Instagram.\n4. **Persaingan Sehat dengan Snapchat**: Instants dapat merangsang inovasi dan peningkatan fitur di kedua platform, sehingga meningkatkan persaingan sehat antara Instagram dan Snapchat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Instagram Luncurkan Fitur Instants, Apa Bedanya dengan Stories?",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/mobile-apps/d-8489515/instagram-luncurkan-fitur-instants-apa-bedanya-dengan-stories",
+            "category": "Teknologi",
+            "published_at": "2026-05-15T01:35:57+00:00",
+            "summary": "Instagram meluncurkan fitur Instants yang memungkinkan pengguna membagikan foto spontan yang hanya dapat dilihat sekali dan menghilang setelah 24 jam. Berbeda dari Stories, Instants tidak bisa diedit atau diambil dari galeri, serta tersedia melalui aplikasi mandiri di beberapa negara.",
+            "key_points": [
+              "Konten Instants hanya bisa dilihat sekali dan menghilang setelah 24 jam.",
+              "Foto tidak bisa diedit atau diambil dari galeri, hanya diambil secara spontan saat berbagi.",
+              "Aplikasi mandiri Instants sedang diuji di beberapa negara untuk platform iOS dan Android."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Sindiran Slot Kritikus Mabuk",
+        "title": "Sindiran Slot Kritikus Mabuk",
+        "synthesis": [
+          "Slot menyindir kritikus sebagai 'orang mabuk' menyusul performa buruk Liverpool.",
+          "Liverpool gagal mempertahankan gelar Premier League meski belanja 400 juta pound.",
+          "Tekanan fans meningkat untuk mengganti Slot akibat hasil mengecewakan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Krisis manajemen dan performa tim besar berpotensi mengubah strategi klub serta dinamika industri sepak bola Inggris.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Slot Sindir Balik Kritikus: Mereka Mabuk!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8489505/slot-sindir-balik-kritikus-mereka-mabuk",
+            "category": "Olahraga",
+            "published_at": "2026-05-15T02:00:08+00:00",
+            "summary": "Arne Slot menyindir para kritikus yang menyerangnya di Liverpool dengan menyebut mereka seperti orang mabuk, sementara performa tim yang buruk memicu spekulasi masa depannya. Liverpool gagal mempertahankan gelar Premier League meski menghabiskan lebih dari 400 juta poundsterling untuk transfer pemain, sehingga fans meminta Slot dipecat.",
+            "key_points": [
+              "Slot menyamakan kritikusnya dengan orang mabuk dan menyebut kritik muncul karena tim tidak menjalani musim terbaiknya.",
+              "Liverpool dipastikan mengakhiri musim tanpa gelar meski menghabiskan lebih dari 400 juta poundsterling untuk bursa transfer.",
+              "Fans Liverpool membuat petisi online dan menyoraki Slot di Anfield akibat kekecewaan terhadap performa tim."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Mural Lamine Yamal Bendera Palestina",
+        "title": "Mural Lamine Yamal Bendera Palestina",
+        "synthesis": [
+          "Lamine Yamal tunjukkan solidaritas Palestina dengan bendera saat parade Barcelona.",
+          "Israel kecam aksi Yamal, tuduh dukung terorisme Hamas.",
+          "Mural di Gaza jadi simbol apresiasi warga Palestina."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Memperkuat dinamika diplomasi dan simbolisasi konflik Israel-Palestina.",
+        "external_research": [
+          {
+            "title": "Deep Research: Mural Lamine Yamal Bendera Palestina",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta relevan dan kredibel terkait topik \"Mural Lamine Yamal Bendera Palestina\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. Mural Lamine Yamal Bendera Palestina adalah contoh mural politik yang mengekspresikan kritik dan protes terhadap kondisi sosial dan politik di Palestina.\n2. Mural ini mungkin dibuat oleh seorang seniman atau aktivis yang ingin menyuarakan suara rakyat Palestina dan menunjukkan solidaritas dengan mereka.\n3. Mural Lamine Yamal Bendera Palestina mungkin telah menjadi sasaran penghapusan oleh pemerintah atau otoritas setempat karena dianggap sebagai vandalisme atau gangguan terhadap ketertiban umum.\n4. Contoh lain dari mural politik yang dihapus adalah Mural Black Lives Matter di Washington, yang dipaksa dihapus karena tekanan dari Partai Republik pada tahun 2020.\n\nNamun, saya tidak menemukan informasi yang spesifik tentang Mural Lamine Yamal Bendera Palestina, sehingga saya tidak dapat menyediakan informasi lebih lanjut tentang topik ini."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Mural Lamine Yamal Bawa Bendera Palestina di Gaza",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8489503/mural-lamine-yamal-bawa-bendera-palestina-di-gaza",
+            "category": "Internasional",
+            "published_at": "2026-05-15T01:30:31+00:00",
+            "summary": "Lamine Yamal memperlihatkan solidaritasnya kepada Palestina dengan membawa bendera negara tersebut saat parade juara Barcelona, yang kemudian diabadikan dalam mural di Gaza. Aksi tersebut memicu reaksi beragam, termasuk kecaman dari Israel yang menuding Yamal mendukung terorisme Hamas. Mural yang dihiasi jersey Barcelona dan bendera Palestina di Gaza menjadi simbol apresiasi dari warga Palestina.",
+            "key_points": [
+              "Lamine Yamal membawa bendera Palestina saat parade juara Barcelona, yang diabadikan dalam mural di Gaza.",
+              "Menteri Pertahanan Israel menuding Yamal mendukung terorisme Hamas, sementara pelatih Barcelona tidak melarang tindakan tersebut.",
+              "Mural di Gaza menggambarkan Yamal dengan jersey Barcelona dan bendera Palestina, sebagai pesan solidaritas dari warga Palestina."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Teknologi Sosial dan Risiko Kesehatan Atlet",
+        "analysis": "Peluncuran fitur Instants oleh Instagram (teknologi) mempercepat dinamika komunikasi atlet dengan publik, termasuk dalam konteks cedera. Di MotoGP, risiko cedera tinggi memaksa atlet memanfaatkan platform ini untuk membangun narasi kontrol terhadap karier mereka. Ephemeral content memungkinkan atlet menunjukkan 'comeback' secara real-time, mengurangi dampak negatif cedera pada citra merek. Sebaliknya, cedera yang berulang bisa memicu penurunan engagement di media sosial, yang berdampak pada nilai komersial atlet."
+      },
+      {
+        "title": "Politik Identitas dan Ekonomi Media",
+        "analysis": "Mural Lamine Yamal dengan bendera Palestina (isue sosial-politik) memicu respons dari audiens global, yang kemudian memengaruhi strategi konten platform seperti Instagram. Fitur Instants yang bersifat sementara (teknologi) menjadi alat baru bagi atlet untuk menyuarakan solidaritas, menggeser dominasi Stories sebagai format utama. Ini menciptakan dinamika baru dalam ekonomi media, di mana konten politik-emosional lebih cepat viral, memaksa platform menyesuaikan algoritma untuk mempertahankan monetisasi."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Eurovision braces for new protests over Israel’s participation",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-15T00:35:47+00:00",
+          "summary": "Eurovision mendekati babak grand final, tetapi panitia mempersiapkan diri menghadapi protes baru setelah teriakan 'hentikan genosida' terdengar saat penampilan kontestan Israel, Noah Bettan, di babak semifinal. Lima negara telah menarik diri dari kontes tahun ini setelah Israel diizinkan berpartisipasi.",
+          "key_points": [
+            "Protes dengan teriakan 'hentikan genosida' terjadi saat penampilan kontestan Israel di semifinal Eurovision.",
+            "Lima negara menarik diri dari kontes setelah Israel diizinkan berpartisipasi.",
+            "Panitia Eurovision memperkirakan akan ada demonstrasi lebih lanjut menjelang grand final."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-14T23:28:00+00:00",
+          "summary": "Demonstrasi yang dipimpin kelompok pertambangan dan serikat tani di Bolivia berujung pada bentrok dengan aparat keamanan, di tengah krisis ekonomi yang melanda negara tersebut. Protes diiringi ledakan kecil dari dinamit dan upaya memasuki istana presiden, sementara pemerintah baru Rodrigo Paz menghadapi tekanan serupa yang pernah dihadapi pendahulunya.",
+          "key_points": [
+            "Protes di La Paz melibatkan ledakan dinamit dan upaya memasuki istana presiden, dipicu oleh krisis ekonomi Bolivia.",
+            "Penyusutan cadangan gas alam dan kekurangan devisa asing menyebabkan inflasi tinggi, kelangkaan pasokan, dan kenaikan harga.",
+            "Presiden Rodrigo Paz menghadapi tekanan untuk mundur, sementara mantan Presiden Evo Morales dituduh menjadi dalang di balik ketegangan politik."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Japan finance minister says G7 likely to discuss bond volatility next week",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/japan-finance-minister-says-g7-likely-discuss-bond-volatility-next-week-6122841",
+          "category": "Ekonomi",
+          "published_at": "2026-05-15T01:31:56+00:00",
+          "summary": "Menteri Keuangan Jepang Satsuki Katayama menyatakan bahwa Kementerian Keuangan G7 kemungkinan akan membahas volatilitas pasar obligasi global minggu depan, mengingat kenaikan yield obligasi di Jepang, AS, dan Inggris yang saling memperkuat. Pertemuan Menteri Keuangan dan Gubernur Bank Sentral G7 dijadwalkan berlangsung di Paris pada Senin dan Selasa.",
+          "key_points": [
+            "Kenaikan yield obligasi di Jepang, AS, dan Inggris memicu volatilitas pasar global.",
+            "Pertemuan G7 akan membahas penilaian situasi volatilitas pasar obligasi.",
+            "Yield obligasi pemerintah Jepang 10-tahun mendekati level tertinggi 30 tahun akibat kekhawatiran inflasi dan kebijakan fiskal."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "'Love expanded': Actress Rebecca Lim welcomes second child, a baby girl",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/rebecca-lim-second-child-baby-girl-6120651",
+          "category": "Hiburan",
+          "published_at": "2026-05-15T02:07:00+00:00",
+          "summary": "Aktris Rebecca Lim melahirkan putri keduanya pada Mei 2026, namun bayi tersebut baru pulang setelah menjalani pemeriksaan medis di rumah sakit. Lim mengakui peralihan dari memiliki satu anak ke dua anak cukup menantang, tetapi ia merasa cinta yang ia rasakan bertambah sejak kedatangan putrinya.",
+          "key_points": [
+            "Rebecca Lim melahirkan bayi perempuan secara normal di Mount Elizabeth Novena Hospital dengan berat 3,6 kg.",
+            "Bayi perempuannya menjalani pemeriksaan medis tambahan di rumah sakit sebelum pulang, sehingga Lim menghabiskan waktu pertama setelah kelahiran dengan putranya.",
+            "Lim menekankan pentingnya memberi waktu bagi putranya yang berusia dua tahun untuk beradaptasi secara alami dengan kedatangan adiknya."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Nutri Level Mulai Diterapkan, Kenapa Ada Minuman 'Less Sugar' Masuk Kategori C-D?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8489366/nutri-level-mulai-diterapkan-kenapa-ada-minuman-less-sugar-masuk-kategori-c-d",
+          "category": "Kesehatan",
+          "published_at": "2026-05-15T00:02:03+00:00",
+          "summary": "Penerapan sistem Nutri Level pada minuman kekinian menunjukkan bahwa label 'less sugar' atau 'no sugar' tidak menjamin kategori nutrisi terbaik (A), karena penilaian juga mempertimbangkan kandungan gula alami, lemak jenuh, dan natrium. Beberapa contoh minuman seperti Grape with Green Tea dan Ovaltine Milk masuk kategori C atau D meski berlabel 'no sugar', sementara sistem ini bertujuan menjadi panduan awal bagi konsumen.",
+          "key_points": [
+            "Label 'no sugar' tidak menjamin minuman masuk kategori nutrisi terbaik karena penilaian Nutri Level mempertimbangkan gula alami, lemak jenuh, dan natrium.",
+            "Minuman seperti Grape with Green Tea dan Ovaltine Milk dari Xing Fu Tang, serta Triple Peach Americano dari Fore Coffee, masuk kategori C atau D meski berlabel 'no sugar'.",
+            "Nutri Level berfungsi sebagai panduan awal, tetapi keputusan tentang kesehatan minuman harus mempertimbangkan komposisi bahan, porsi, dan kebutuhan individu secara menyeluruh."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Fakta-fakta PCOS Ganti Nama ke PMOS, Jadi Langkah Signifikan di Dunia Medis",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8489310/fakta-fakta-pcos-ganti-nama-ke-pmos-jadi-langkah-signifikan-di-dunia-medis",
+          "category": "Kesehatan",
+          "published_at": "2026-05-14T23:05:06+00:00",
+          "summary": "Nama Polycystic Ovary Syndrome (PCOS) diubah menjadi Polyendocrine Metabolic Ovarian Syndrome (PMOS) untuk menghapus mitos dan stigma terkait kondisi ini. Perubahan nama tersebut mencerminkan pemahaman lebih luas bahwa PMOS bukan hanya gangguan ovarium, tetapi juga melibatkan sistem hormonal dan metabolisme. Proses penggantian nama ini memakan waktu 14 tahun melalui kolaborasi 56 organisasi global.",
+          "key_points": [
+            "Nama PCOS diubah menjadi PMOS untuk menghindari kesan adanya kista ovarium yang sering membingungkan pasien.",
+            "PMOS dianggap sebagai gangguan metabolik dan endokrin yang memengaruhi sistem hormonal, metabolisme, hingga kesehatan mental.",
+            "Perubahan nama ini hasil kolaborasi 56 organisasi global selama 14 tahun untuk memperbaiki pendekatan pengobatan dan menarik dana penelitian."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Scientists dig up Southeast Asia's largest dinosaur in Thailand",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/southeast-asia-largest-dinosaur-thailand-dig-up-nagatitan-chaiyaphumensis-6121511",
+          "category": "Umum",
+          "published_at": "2026-05-15T00:16:00+00:00",
+          "summary": "Para ilmuwan menggali fosil Nagatitan chaiyaphumensis, dinosaurus sauropoda terbesar di Asia Tenggara, di Thailand. Fosil ditemukan oleh warga setempat dan meliputi tulang punggung, rusuk, pinggul, serta kaki dengan panjang hingga 27 meter dan berat 25-28 ton. Penemuan ini memberikan wawasan tentang keragaman sauropoda di kawasan tersebut.",
+          "key_points": [
+            "Nagatitan chaiyaphumensis adalah sauropoda terbesar di Asia Tenggara dengan panjang 27 meter dan berat 25-28 ton, ditemukan di Thailand.",
+            "Fosil ditemukan oleh warga di provinsi Chaiyaphum dan meliputi tulang punggung, rusuk, pinggul, serta kaki dengan ukuran tulang lengan depan mencapai 1,78 meter.",
+            "Penemuan ini menunjukkan ekosistem kala Cretaceous dengan habitat hutan, padang savana, dan predator seperti Carcharodontosaurus, serta hubungan antara ukuran besar sauropoda dengan suhu global tinggi."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Giant new dinosaur identified from fossils in Thailand",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-05-14T17:28:56+00:00",
+          "summary": "Para ilmuwan mengidentifikasi spesies dinosaurus raksasa baru, Nagatitan chaiyaphumensis, dari fosil di Thailand. Dinosaurus ini merupakan yang terbesar di Asia Tenggara dengan berat 27 ton dan panjang 27 meter. Penemuan ini memberikan wawasan tentang perkembangan dinosaurus raksasa di masa perubahan iklim kuno.",
+          "key_points": [
+            "Nagatitan chaiyaphumensis adalah dinosaurus raksasa termahal di Asia Tenggara dengan berat 27 ton dan panjang 27 meter.",
+            "Nama spesies ini berasal dari mitos lokal ('naga'), mitos Yunani ('titan'), dan lokasi penemuan (Chaiyaphum).",
+            "Penemuan ini terkait dengan perubahan iklim kuno yang memengaruhi pertumbuhan ukuran dinosaurus herbivora."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Montreal strippers plan strike for Formula One weekend",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/montreal-strippers-plan-strike-formula-one-weekend-6122851",
+          "category": "Olahraga",
+          "published_at": "2026-05-15T01:37:36+00:00",
+          "summary": "Para pekerja strip di Montreal berencana melakukan aksi mogok pada akhir pekan Grand Prix Kanada 2025 untuk menuntut pengakuan sebagai karyawan dengan hak yang sama. Mereka menargetkan penolakan biaya 'bar fee', kondisi kerja yang aman, dan pemberantasan diskriminasi dalam perekrutan. Aksi ini dijadwalkan pada 23 Mei, malam sebelum balapan Formula Satu, saat klub-klub mencapai puncak pendapatan tahunan.",
+          "key_points": [
+            "Mogok dijadwalkan pada 23 Mei, malam sebelum Grand Prix Kanada, untuk memaksimalkan dampak terhadap pendapatan klub.",
+            "Tuntutan utama meliputi penghapusan biaya 'bar fee' dan perlakuan sebagai karyawan, bukan kontraktor independen.",
+            "Mereka menuntut kondisi kerja yang aman, bebas diskriminasi, serta hak yang setara dengan pekerja lain."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Latvian PM resigns after row over stray Ukrainian drones",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-05-14T10:53:56+00:00",
+          "summary": "Perdana Menteri Latvia Evika Silina mengundurkan diri setelah krisis politik terkait drone Ukraina yang masuk ke wilayah Latvia. Silina sebelumnya memecat Menteri Pertahanannya, Andris Spruds, menyusul insiden dua drone yang jatuh di timur Latvia, yang memicu protes dari partai koalisi dan runtuhnya pemerintahannya.",
+          "key_points": [
+            "Silina mengundurkan diri setelah memecat Menteri Pertahanan Spruds akibat insiden drone Ukraina yang masuk ke wilayah Latvia.",
+            "Insiden drone terjadi dua kali sejak awal 2026, dengan satu drone menabrak fasilitas penyimpanan minyak dan lainnya jatuh di darat.",
+            "Krisis politik memicu jatuhnya koalisi pemerintah Silina, yang didukung oleh partai Progressives yang menarik dukungan setelah pemecatan Spruds."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 2022
+    },
+    "timestamp": "2026-05-15T02:34:46.065956+00:00"
   }
 ]
