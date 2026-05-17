@@ -10807,5 +10807,351 @@
       "total_in_qdrant": 2148
     },
     "timestamp": "2026-05-16T02:16:57.906621+00:00"
+  },
+  {
+    "date": "2026-05-17",
+    "generated_at": "2026-05-17T02:31:21.322306+00:00",
+    "headline": "Pernyataan kemandirian de facto Taiwan memicu penundaan keputusan paket senjata AS sebesar $11 miliar.",
+    "global_headline": "Pernyataan kemandirian de facto Taiwan memicu penundaan keputusan paket senjata AS sebesar $11 miliar.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "Taiwan Tegaskan Kemandirian Pasca Peringatan Trump",
+        "title": "Taiwan Tegaskan Kemandirian Pasca Peringatan Trump",
+        "synthesis": [
+          "Taiwan menegaskan kemandirian de facto meski AS belum putuskan paket senjata $11 miliar.",
+          "Trump peringatkan risiko konflik jika Taiwan deklarasikan kemerdekaan secara resmi.",
+          "AS tetap berpegang pada kebijakan One China, tekan Taiwan jaga status quo hubungan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ketegangan AS-Tiongkok-Taiwan berpotensi memicu konflik regional dan disrupsi kebijakan luar negeri.",
+        "external_research": [
+          {
+            "title": "Deep Research: Taiwan Tegaskan Kemandirian Pasca Peringatan Trump",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel tentang Taiwan. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Taiwan sebagai negara mandiri**: Taiwan telah berjalan sebagai negara mandiri dengan rakyatnya yang memilih pemimpin, memiliki sistem hukum, dan mengatur negaranya sendiri.\n2. **Tidak akan kembali ke China**: Taiwan menegaskan bahwa gagasan kembali ke China sama sekali bukan opsi bagi 23 juta warganya, seperti yang disampaikan oleh Perdana Menteri Taiwan.\n3. **Tumbuh secara mandiri menjadi negara maju**: Taiwan telah berkembang secara mandiri menjadi negara maju, tidak bergantung pada Tiongkok.\n4. **Tiongkok tidak berhak merebut kembali Taiwan**: Tiongkok tidak berhak merebut kembali Taiwan, seperti yang telah diungkapkan dalam beberapa sumber."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Taiwan insists it is independent after Trump warning",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-16T17:01:53+00:00",
+            "summary": "Taiwan menegaskan dirinya sebagai negara demokratis yang merdeka dan berdaulat setelah Presiden AS Donald Trump memperingatkan agar tidak secara resmi menyatakan kemerdekaan dari Tiongkok. Trump menyatakan belum mengambil komitmen terkait status Taiwan dan akan segera memutuskan apakah akan menyetujui paket senjata senilai $11 miliar untuk Taiwan. Pemerintah AS tetap berpegang pada kebijakan One China, sementara Taiwan berkomitmen mempertahankan status quo hubungan dengan Tiongkok.",
+            "key_points": [
+              "Taiwan menegaskan kemerdekaannya sebagai negara demokratis yang berdaulat tanpa secara resmi menyatakan pemisahan diri dari Tiongkok.",
+              "Trump menyatakan belum mengambil posisi komitmen terhadap status Taiwan dan akan memutuskan penjualan senjata senilai $11 miliar setelah berunding dengan pemimpin Taiwan.",
+              "AS tetap mempertahankan kebijakan One China, sementara Tiongkok meningkatkan latihan militer di sekitar Taiwan untuk menekan gerakan kemerdekaan."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Pembunuhan Staf Kampanye Presiden Kolombia",
+        "title": "Pembunuhan Staf Kampanye Presiden Kolombia",
+        "synthesis": [
+          "Dua staf kampanye kandidat presiden kanan Colombia tewas ditembak di Meta.",
+          "Wilayah Meta dikenal sebagai kawasan konflik bersenjata dan peredaran narkoba.",
+          "Serangan mengancam stabilitas pemilu dan partisipasi demokratis di Kolombia."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik terhadap proses demokrasi dan keamanan pemilu nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pembunuhan Staf Kampanye Presiden Kolombia",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang pembunuhan staf kampanye presiden Kolombia:\n\n1. Pembunuhan terjadi kurang dari dua minggu sebelum pemilihan presiden Kolombia, di mana masalah ketidakamanan menjadi perhatian utama.\n2. Korban pembunuhan adalah Senator Miguel Uribe (39) yang menjadi korban penembakan saat berkampanye di Distrik Fontibon, Bogota, Sabtu (7/6).\n3. Pembunuhan ini dipicu oleh meningkatnya kehadiran kartel narkoba Kolombia dan Meksiko, yang menyusup ke geng kriminal lokal.\n4. Presiden Kolombia, Gustavo Petro, mengumumkan bahwa pembunuhan ini adalah \"perbedaan politik\" dan bukan \"politik\" yang berujung pada pembunuhan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Two presidential campaign staffers killed in Colombia as elections near",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-16T21:42:04+00:00",
+            "summary": "Dua staf kampanye kandidat presiden kanan Colombia, Abelardo de la Espriella, tewas ditembak di Meta, dua pekan sebelum pemilu. Ombudsman warga negara menyatakan serangan tersebut dapat mengganggu partisipasi demokratis, sementara daerah Meta dikenal sebagai kawasan konflik bersenjata dan peredaran narkoba.",
+            "key_points": [
+              "Dua staf kampanye tewas ditembak oleh penembak di atas motor di Meta, diumumkan oleh kandidat kanan Abelardo de la Espriella.",
+              "Ombudsman warga negara memperingatkan bahwa kekerasan dan ancaman dapat merusak hak politik serta partisipasi demokratis menjelang pemilu 31 Mei.",
+              "Wilayah Meta menjadi lokasi konflik bersenjata dan peredaran narkoba, sementara kandidat utama menghadapi ancaman kekerasan, termasuk penculikan dan pembunuhan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Promo Kulkas Polytron 436L di Transmart",
+        "title": "Promo Kulkas Polytron 436L di Transmart",
+        "synthesis": [
+          "Diskon besar kulkas Polytron 436L hingga Rp 2,4 juta di Transmart.",
+          "Pembelian via kartu kredit tertentu maksimalkan potongan harga.",
+          "Promo Full Day Sale 17 Mei 2026 dorong penjualan konsumen."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam strategi harga elektronik konsumen.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kulkas Polytron 436L Pangkas Harga di Transmart Full Day Sale",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8491492/kulkas-polytron-436l-pangkas-harga-di-transmart-full-day-sale",
+            "category": "Umum",
+            "published_at": "2026-05-17T01:00:59+00:00",
+            "summary": "Transmart menggelar promosi Full Day Sale pada 17 Mei 2026 dengan menawarkan diskon besar-besaran untuk kulkas Polytron 436L. Pembelian menggunakan kartu kredit tertentu memberikan potongan harga hingga Rp 2.419.800 dari harga normal Rp 9.299.000.",
+            "key_points": [
+              "Promosi Transmart Full Day Sale berlangsung pada 17 Mei 2026 dengan fokus pada diskon elektronik.",
+              "Kulkas Polytron 436L dijual dengan harga Rp 8.599.000 (diskon Rp 700.000 dari harga normal) atau Rp 6.879.200 dengan kartu kredit tertentu.",
+              "Diskon tambahan 50% + 20% berlaku untuk pembelian menggunakan kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri dengan syarat transaksi minimal Rp 300 ribu."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Man City Fokus Liga Inggris Pasca Juara Piala FA",
+        "title": "Man City Fokus Liga Inggris Pasca Juara Piala FA",
+        "synthesis": [
+          "Man City juara Piala FA 2026 tanpa perayaan resmi",
+          "Fokus beralih ke laga Liga Inggris melawan Bournemouth",
+          "Pep Guardiola prioritaskan perburuan gelar juara Liga Inggris"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi tim papan atas memengaruhi kompetisi Liga Inggris.",
+        "external_research": [
+          {
+            "title": "Deep Research: Man City Fokus Liga Inggris Pasca Juara Piala FA",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Man City Fokus Liga Inggris Pasca Juara Piala FA\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Manchester City telah meraih kemenangan di Piala FA** dan sekarang fokus pada Liga Inggris. Mereka berada di posisi teratas klasemen Liga Inggris.\n2. **Newcastle United dipastikan tidak tampil dengan kekuatan penuh** dalam pertandingan melawan Manchester City karena dua pemain mereka, Tino Livramento dan Emil Krafth, harus absen akibat cedera.\n3. **Pep Guardiola, pelatih Manchester City, menyuguhkan gaya sepak bola terbaik di dunia** dan telah membantu timnya menjadi salah satu tim terbaik di Premier League.\n4. **Manchester City berada di ambang meraih gelar juara Premier League** jika mereka menang dalam derby Manchester di akhir pekan ini, tetapi kalah akan membuat mereka harus berjuang lebih keras untuk meraih gelar tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Tak Ada Perayaan Juara Piala FA, Man City Fokus ke Liga Inggris",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8491685/tak-ada-perayaan-juara-piala-fa-man-city-fokus-ke-liga-inggris",
+            "category": "Olahraga",
+            "published_at": "2026-05-16T23:00:41+00:00",
+            "summary": "Manchester City menjuarai Piala FA 2026 setelah mengalahkan Chelsea 1-0 di final, tetapi manajer Pep Guardiola menegaskan tim tidak akan merayakan trofi tersebut karena fokus beralih ke laga Liga Inggris melawan Bournemouth dan perburuan gelar juara.",
+            "key_points": [
+              "Manchester City mengangkat trofi Piala FA 2026 setelah kemenangan 1-0 atas Chelsea di Wembley.",
+              "Tim tidak merayakan kemenangan Piala FA karena fokus pada laga Liga Inggris melawan Bournemouth dan perburuan gelar juara bersama Arsenal.",
+              "Manchester City membutuhkan kemenangan melawan Bournemouth dan hasil positif dari Arsenal untuk mempertahankan peluang juara Liga Inggris."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Komentar Hansi Flick Soal Kepergian Lewandowski",
+        "title": "Komentar Hansi Flick Soal Kepergian Lewandowski",
+        "synthesis": [
+          "Lewandowski tinggalkan Barcelona akhir musim 2025/26 setelah 4 musim.",
+          "Flick dukung kepergian sebagai langkah positif bagi klub dan pemain.",
+          "Kontribusi 119 gol & 24 assist dalam 190 penampilan dihargai."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi Barcelona dan dinamika pasar transfer elite Eropa.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Hansi Flick: Kepergian Lewandowski Bagus untuk Barcelona",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8491768/hansi-flick-kepergian-lewandowski-bagus-untuk-barcelona",
+            "category": "Olahraga",
+            "published_at": "2026-05-17T02:00:04+00:00",
+            "summary": "Robert Lewandowski akan meninggalkan Barcelona di akhir musim 2025/26 setelah empat musim membawa klub meraih lima gelar utama. Pelatih Hansi Flick menyambut baik kepergian tersebut sebagai langkah positif bagi pemain dan klub, sekaligus mengapresiasi kontribusi Lewandowski yang mencetak 119 gol dan 24 assist dalam 190 penampilan.",
+            "key_points": [
+              "Lewandowski resmi mengumumkan kepergiannya dari Barcelona setelah empat musim bersama klub.",
+              "Hansi Flick menilai kepergian Lewandowski bermanfaat untuk rekonstruksi tim dan mengakui prestasi pemain Polandia itu.",
+              "Lewandowski mencatatkan 119 gol, 24 assist, dan memenangi lima gelar utama selama bermain di Barcelona."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Hukum": [
+        {
+          "title": "Man drives car into pedestrians in Italy, injuring eight",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-16T20:36:17+00:00",
+          "summary": "Seorang pria berusia 31 tahun menabrak pejalan kaki dengan mobilnya di Modena, Italia, melukai delapan orang, empat di antaranya dalam kondisi serius. Setelah kejadian, pelaku keluar dengan pisau dan melukai seorang penonton yang mengejarnya sebelum ditangkap. Pelaku, yang memiliki riwayat gangguan mental, diidentifikasi sebagai warga Italia berkebangsaan Moroko tanpa catatan kriminal.",
+          "key_points": [
+            "Insiden terjadi di Via Emilia dekat katedral Modena, dengan mobil melaju kencang hingga menabrak pejalan kaki dan toko.",
+            "Pelaku, Salim El Koudri, memiliki riwayat gangguan skizoid dan sempat dirawat di pusat kesehatan mental pada 2022 sebelum menghilang.",
+            "Perdana Menteri Italia Giorgia Meloni menyebut insiden 'sangat serius', sementara Wakil Perdana Menteri Matteo Salvini menyebut pelaku sebagai 'kriminal generasi kedua'."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Iraq’s new PM Ali al-Zaidi formally takes over",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-17T00:14:03+00:00",
+          "summary": "Ali al-Zaidi secara resmi menjabat sebagai Perdana Menteri Irak, berkomitmen melakukan reformasi ekonomi dan keuangan. Namun, kabinetnya masih belum lengkap karena parlemen belum menyetujui menteri-menteri kunci seperti dalamur dan pertahanan.",
+          "key_points": [
+            "Ali al-Zaidi secara resmi menjabat sebagai Perdana Menteri Irak.",
+            "Ia berkomitmen melakukan reformasi ekonomi dan keuangan.",
+            "Kabinetnya belum lengkap karena parlemen belum menyetujui menteri dalamur dan pertahanan."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-16T23:24:54+00:00",
+          "summary": "Bolivia meluncurkan operasi penegakan hukum pagi hari untuk membuka jalan yang diblokir dalam aksi protes anti-pemerintah di luar La Paz, dengan melibatkan 3.500 pasukan dan menangkap 57 orang. Protes tersebut dipimpin oleh pekerja tambang, guru, kelompok adat, dan serikat pekerja, yang menuntut kebijakan pemerintah Presiden Rodrigo Paz yang dianggap memperburuk krisis ekonomi nasional.",
+          "key_points": [
+            "Operasi militer dan kepolisian bertujuan menghapus 22 jalan yang diblokir akibat protes, yang dianggap menghambat pasokan ke kota-kota seperti La Paz.",
+            "Krisis ekonomi Bolivia diperparah oleh penurunan cadangan devisa, impor bahan bakar, dan kenaikan harga makanan akibat penghapusan subsidi bahan bakar serta rencana privatisasi perusahaan milik negara.",
+            "Argentina memberikan bantuan kemanusiaan ke Bolivia, sementara Presiden Javier Milei menyebut protes sebagai anti-demokratis dan mendukung pemerintah Bolivia yang dipilih secara demokratis."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Jogja Run D-City 2026: Hadiah Puluhan Juta dan Hiburan Seru Menanti di UGM!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sportstyle/d-8490780/jogja-run-d-city-2026-hadiah-puluhan-juta-dan-hiburan-seru-menanti-di-ugm",
+          "category": "Olahraga",
+          "published_at": "2026-05-17T02:15:00+00:00",
+          "summary": "Jogja Run D-City 2026 akan diselenggarakan di Yogyakarta pada 24 Mei 2026, dengan start dan finis di kawasan UGM. Acara ini menawarkan dua kategori lari (5K dan 10K), hadiah puluhan juta rupiah, serta menjadi bagian dari Jogja Financial Festival yang menghadirkan berbagai kegiatan hiburan.",
+          "key_points": [
+            "Event Jogja Run D-City 2026 digelar dalam rangka Jogja Financial Festival dengan rute lari melewati landmark terkenal di Yogyakarta.",
+            "Peserta dapat memilih kategori 5K untuk lari rekreasi atau 10K untuk lari kompetitif, dengan total hadiah puluhan juta rupiah.",
+            "Acara ini disertai festival hiburan yang mencakup Business Talks, stand up comedy, dan penampilan musik dari artis seperti Ari Lasso dan Andre Taulany."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Salah: Liverpool Harus Kembali ke Sepakbola Heavy Metal",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8491750/salah-liverpool-harus-kembali-ke-sepakbola-heavy-metal",
+          "category": "Olahraga",
+          "published_at": "2026-05-17T01:00:00+00:00",
+          "summary": "Mohamed Salah menyoroti kekalahan Liverpool dari Aston Villa di Premier League dan mengkritik performa tim yang belum konsisten. Ia menekankan pentingnya kembali ke gaya bermain menyerang 'heavy metal' untuk memulihkan identitas klub dan memastikan kualifikasi Liga Champions.",
+          "key_points": [
+            "Mohamed Salah mengkritik Liverpool harus kembali ke sepakbola menyerang 'heavy metal' setelah kalah 2-4 dari Aston Villa.",
+            "Kekalahan ini menjadi yang ke-12 bagi Liverpool di Premier League musim ini, membuat mereka belum mengamankan tiket Liga Champions.",
+            "Bournemouth dan Brighton & Hove Albion berpotensi menyalip Liverpool di klasemen jika tim gagal menang di pertandingan terakhir."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-16T23:10:19+00:00",
+          "summary": "Hezbollah meningkatkan penggunaan drone FPV berbasis kabel optik untuk menyerang Israel, yang sulit diintersepsi oleh sistem pertahanan Israel. BBC Verify memverifikasi 35 video serangan antara 26 Maret hingga Mei 2024, menunjukkan serangan terhadap kendaraan lapis baja dan sistem pertahanan udara. IDF mengakui ancaman drone dan sedang mengembangkan sistem pertahanan baru, sementara konflik telah menyebabkan korban jiwa dan pengungsian massal.",
+          "key_points": [
+            "Hezbollah menggunakan drone FPV dengan kontrol kabel optik untuk menghindari deteksi dan menyerang sasaran Israel secara efektif.",
+            "IDF kesulitan mengembangkan sistem pertahanan efektif terhadap drone murah yang dibuat dari komponen komersial dan 3D-printed.",
+            "Serangan drone telah menyebabkan korban tewas dan cedera di pihak Israel, serta menggeser strategi pertahanan militer Israel."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "SAP Autonomous Enterprise: Kolaborasi Manusia dan Agen AI di Dunia Bisnis",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/business/d-8491761/sap-autonomous-enterprise-kolaborasi-manusia-dan-agen-ai-di-dunia-bisnis",
+          "category": "Teknologi",
+          "published_at": "2026-05-17T01:21:40+00:00",
+          "summary": "SAP memperkenalkan solusi Autonomous Enterprise di SAP Sapphire 2026 yang menggabungkan manusia dan AI untuk meningkatkan efisiensi serta akurasi proses bisnis. Solusi ini didukung oleh tiga pilar utama, yaitu SAP Business AI Platform, SAP Autonomous Suite, dan Joule Work. SAP juga mengalokasikan 100 juta Euro untuk mendukung mitra dan pelanggan dalam penerapan teknologi ini.",
+          "key_points": [
+            "Autonomous Enterprise SAP mengintegrasikan AI ke dalam proses bisnis melalui tiga pilar: platform AI terpadu, suite otonom untuk operasional inti, dan antarmuka pengguna baru.",
+            "SAP Autonomous Suite mencakup lebih dari 50 Joule Assistants yang mengotomatisasi tugas presisi seperti proses tutup buku keuangan dan prediksi kerusakan turbin angin.",
+            "Joule Work memungkinkan pengguna berinteraksi dengan sistem melalui deskripsi hasil akhir, menggantikan input manual dan migrasi data yang kompleks."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Tak Semua Orang Bisa Temukan Panda di Gambar Ini, Ada yang Lihat Ikan Sapu-sapu?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/asah-otak/d-8490606/tak-semua-orang-bisa-temukan-panda-di-gambar-ini-ada-yang-lihat-ikan-sapu-sapu",
+          "category": "Hiburan",
+          "published_at": "2026-05-16T13:02:52+00:00",
+          "summary": "Tantangan menemukan objek tersembunyi dalam gambar berwarna-warni mirip tes buta warna, di mana tidak semua orang bisa mengidentifikasi pola tersebut dengan mudah. Tes ini menggunakan gambar binatang seperti panda dan ikan sapu-sapu sebagai objek yang dicari, berbeda dari tes buta warna tradisional yang menggunakan angka. Kesulitan dalam menemukan objek tidak selalu berarti buta warna, karena bisa dipengaruhi oleh pencahayaan layar.",
+          "key_points": [
+            "Tantangan menemukan objek tersembunyi dalam gambar berwarna-warni mirip prinsip tes buta warna.",
+            "Tes menggunakan gambar binatang (panda, ikan sapu-sapu) sebagai objek yang dicari, berbeda dari tes buta warna tradisional.",
+            "Kesulitan mengidentifikasi objek tidak selalu menunjukkan buta warna, karena bisa dipengaruhi oleh pencahayaan layar."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Tunisians rally amid economic crisis and political arrests",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-05-17T01:18:49+00:00",
+          "summary": "Ratusan warga Tunisia menggelar aksi di ibu kota untuk mengecam memburuknya krisis ekonomi dan penangkapan terhadap para penentang pemerintah. Mereka menuding Presiden Kais Saied merusak sistem yang dibangun setelah revolusi 2011.",
+          "key_points": [
+            "Aksi protes dilakukan ratusan warga Tunisia terkait krisis ekonomi dan penindasan terhadap penentang pemerintah.",
+            "Presiden Kais Saied didakwa menghancurkan sistem pasca-revolusi 2011.",
+            "Protes terjadi di tengah ketegangan politik dan ekonomi yang meningkat."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Shoving, tear gas, forced closures: Chaos at Swatch stores as brand launches collaboration with AP",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/style-beauty/swatch-ap-collab-sale-chaos-6126281",
+          "category": "Umum",
+          "published_at": "2026-05-17T01:36:00+00:00",
+          "summary": "Peluncuran jam tangan kolaborasi Swatch dan Audemars Piguet (AP), Royal Pop, berujung kacau di beberapa kota Eropa dan New York, dengan antrian panjang, perkelahian, dan penggunaan gas air mata. Sejumlah toko Swatch terpaksa ditutup karena pertimbangan keamanan, sementara pembeli bersaing membeli jam tangan tersebut untuk dijual kembali dengan harga jauh lebih tinggi.",
+          "key_points": [
+            "Kolaborasi antara Swatch dan Audemars Piguet menghasilkan jam tangan Royal Pop yang memicu antrean besar di berbagai kota.",
+            "Insiden kekacauan, termasuk penggunaan gas air mata di Paris, perkelahian di Milan, dan dorong-mendorong di New York, terjadi saat peluncuran.",
+            "Jam tangan dijual dengan harga $400-$420, tetapi pembeli menjualnya kembali dengan harga hingga $4.000."
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 2236
+    },
+    "timestamp": "2026-05-17T02:31:21.322315+00:00"
   }
 ]
