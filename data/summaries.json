@@ -11153,5 +11153,351 @@
       "total_in_qdrant": 2236
     },
     "timestamp": "2026-05-17T02:31:21.322315+00:00"
+  },
+  {
+    "date": "2026-05-18",
+    "generated_at": "2026-05-18T02:42:18.614293+00:00",
+    "headline": "Wabah Ebola di wilayah konflik DR Kongo menghambat upaya penanganan kesehatan masyarakat.",
+    "global_headline": "Wabah Ebola di wilayah konflik DR Kongo menghambat upaya penanganan kesehatan masyarakat.",
+    "top_stories": [
+      {
+        "id": 14,
+        "topic": "Wabah Ebola di DR Kongo",
+        "title": "Wabah Ebola di DR Kongo",
+        "synthesis": [
+          "Wabah Ebola menyebar di wilayah konflik DR Congo, menghambat penanganan.",
+          "Spesies Bundibugyo kurang alat pencegahan, tingkat kematian 32%.",
+          "80 kematian dari 250 kasus terduga, risiko penyebaran lintas batas tinggi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik akibat konflik dan kurangnya akses kesehatan di zona rawan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Wabah Ebola di DR Kongo",
+            "content": "Berikut adalah hasil penelitian intelijen tentang wabah Ebola di DR Kongo:\n\n1. **Wabah Ebola pertama terjadi di Sudan pada tahun 1976**: Wabah Ebola pertama terjadi di Nzara, sebuah kota di Sudan dengan populasi 20.000 orang. Sebanyak 248 kasus teridentifikasi, dengan 53% korban meninggal.\n\n2. **Sumber infeksi wabah Ebola**: Investigasi menemukan bahwa sumber infeksi wabah Ebola adalah pabrik kapas di Nzara. Namun, sebagian besar korban terinfeksi di Maridi, yang memiliki aktivitas ekonomi yang lebih tinggi.\n\n3. **Dampak ekonomi wabah Ebola**: Wabah Ebola dapat menyebabkan penurunan pertumbuhan ekonomi, penurunan pendapatan, dan penurunan investasi asing. Selain itu, wabah Ebola juga dapat menyebabkan penurunan kepercayaan masyarakat terhadap pemerintah.\n\n4. **Dampak sosial wabah Ebola**: Wabah Ebola dapat menyebabkan penurunan kepercayaan masyarakat terhadap pemerintah, penurunan kepercayaan diri, dan penurunan kualitas hidup. Selain itu, wabah Ebola juga dapat menyebabkan penurunan akses ke layanan kesehatan dan penurunan kualitas pelayanan kesehatan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "How worrying is the Ebola outbreak in DR Congo?",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-05-17T18:06:31+00:00",
+            "summary": "Wabah Ebola di Kongo Demokratik (DR Congo) memicu kekhawatiran karena menyebar di wilayah konflik yang mempersulit penanganan, melibatkan spesies langka Bundibugyo yang kurang memiliki alat pencegahan, serta telah menewaskan 80 orang dari hampir 250 kasus terduga.",
+            "key_points": [
+              "Wabah terjadi di area konflik yang menghambat respons kesehatan masyarakat.",
+              "Spesies Bundibugyo, penyebab wabah, memiliki sedikit vaksin atau obat yang tersedia dan sulit dideteksi.",
+              "Kasus telah menyebar ke Uganda, meningkatkan risiko bagi negara tetangga seperti Rwanda dan Sudan Selatan."
+            ],
+            "cluster_id": 14
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Regulasi Penjualan Obat di Minimarket",
+        "title": "Regulasi Penjualan Obat di Minimarket",
+        "synthesis": [
+          "BPOM wajibkan tenaga kesehatan bersertifikat di minimarket.",
+          "Aturan memicu pro-kontra soal keamanan obat.",
+          "Sertifikasi pelatihan dianggap belum cukup jamin keamanan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kebijakan nasional krusial terkait keamanan obat dan kesehatan publik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Regulasi Penjualan Obat di Minimarket",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang regulasi penjualan obat di minimarket. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **BPOM menerbitkan regulasi baru**: Badan Pengawas Obat dan Makanan (BPOM) telah menerbitkan Peraturan BPOM Nomor 5 Tahun 2026 tentang pengawasan pengelolaan obat dan bahan obat di fasilitas pelayanan kefarmasian maupun fasilitas lain seperti minimarket, supermarket, dan hypermarket.\n2. **Penjualan obat di minimarket harus diawasi**: Penjualan obat di minimarket harus diawasi oleh tenaga terlatih, baik dari apoteker maupun tenaga vokasi farmasi, untuk memastikan kualitas dan identitas obat yang dijual.\n3. **Regulasi ini bertujuan memberikan kepastian hukum**: Regulasi ini bertujuan memberikan kepastian hukum sekaligus menjamin keamanan, khasiat, dan mutu obat yang beredar di masyarakat.\n4. **Kritik terhadap regulasi ini**: Regulasi ini telah memicu kritik karena dinilai membuka ruang pengelolaan obat oleh tenaga nonfarmasi, tetapi BPOM menjelaskan bahwa regulasi ini dibuat karena penjualan obat bebas di ritel modern sudah berlangsung, tetapi belum memiliki regulasi yang jelas."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Polling: Penjualan Obat di Minimarket, Apa Saja yang Perlu Diatur?",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/polling/d-8492942/polling-penjualan-obat-di-minimarket-apa-saja-yang-perlu-diatur",
+            "category": "Kesehatan",
+            "published_at": "2026-05-18T01:44:10+00:00",
+            "summary": "BPOM RI mengeluarkan peraturan tentang pengawasan penjualan obat di minimarket dan hypermarket, yang memicu pro-kontra. Aturan ini mewajibkan tenaga pendukung kesehatan bersertifikat untuk pengelolaan obat, namun dianggap belum cukup menjamin keamanan obat karena melibatkan sertifikasi pelatihan saja.",
+            "key_points": [
+              "Peraturan BPOM RI No. 5/2026 mengatur penjualan obat di sarana retail seperti minimarket.",
+              "Wajib adanya tenaga pendukung kesehatan dengan sertifikat pelatihan untuk pengelolaan obat di retail.",
+              "Kebijakan ini dianggap melonggarkan distribusi obat tanpa melibatkan tenaga kefarmasian, memicu kontroversi soal keamanan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Pensiunnya Legenda Nintendo Takashi Tezuka",
+        "title": "Pensiunnya Legenda Nintendo Takashi Tezuka",
+        "synthesis": [
+          "Takashi Tezuka pensiun 26 Juni 2026 setelah 40 tahun di Nintendo.",
+          "Kontribusi kunci dalam game ikonik Super Mario dan The Legend of Zelda.",
+          "Kepergian legenda hidup berpotensi mengubah arah kreatif Nintendo."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategis dalam pengembangan game ikonik Nintendo.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Legenda Hidup Nintendo Takashi Tezuka Akan Pensiun",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/games-news/d-8492918/legenda-hidup-nintendo-takashi-tezuka-akan-pensiun",
+            "category": "Teknologi",
+            "published_at": "2026-05-18T02:15:25+00:00",
+            "summary": "Takashi Tezuka, legenda hidup Nintendo, akan pensiun pada 26 Juni 2026 setelah 40 tahun berkarir di perusahaan. Ia dikenal sebagai perancang, sutradara, dan produser di game ikonik seperti Super Mario Bros. dan The Legend of Zelda. Kepergian Tezuka diumumkan melalui dokumen resmi perusahaan.",
+            "key_points": [
+              "Tezuka pensiun pada 26 Juni 2026 setelah 40 tahun bekerja di Nintendo.",
+              "Ia pernah menjabat sebagai asisten sutradara di Super Mario Bros. dan menyutradarai The Legend of Zelda pertama.",
+              "Karyanya mencakup game ikonik seperti Super Mario Bros., Super Mario World, dan Zelda 3D, serta proyek terbaru seperti Super Mario Wonder."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Foto Donald Trump dengan Alien",
+        "title": "Foto Donald Trump dengan Alien",
+        "synthesis": [
+          "Trump posting foto alien memicu spekulasi keaslian AI",
+          "Kaitan dengan teori konspirasi UFO memengaruhi persepsi publik",
+          "Strategi konten viral Trump mungkin memanfaatkan kebingungan publik"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran narasi media sosial dan potensi polarisasi publik terkait teknologi AI.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Heboh! Donald Trump Posting Foto Bareng Alien, AI atau Nyata?",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8492853/heboh-donald-trump-posting-foto-bareng-alien-ai-atau-nyata",
+            "category": "Teknologi",
+            "published_at": "2026-05-18T00:15:38+00:00",
+            "summary": "Presiden AS Donald Trump memposting foto dirinya bersama sosok alien di Truth Social, memicu spekulasi publik tentang keaslian gambar tersebut. Banyak netizen dan pengamat menduga foto tersebut hasil generasi AI berdasarkan ciri tekstur kulit alien dan pencahayaan yang tidak alami. Postingan ini juga dikaitkan dengan teori konspirasi UFO dan strategi konten viral Trump.",
+            "key_points": [
+              "Trump membagikan foto kontroversial dirinya bersama alien di media sosial, yang viral di berbagai platform.",
+              "Analisis visual menunjukkan indikasi foto hasil AI karena tekstur, pencahayaan, dan komposisi yang terlalu sempurna.",
+              "Postingan ini memicu diskusi tentang teori konspirasi UFO, strategi pemasaran Trump, serta transparansi pemerintah AS terkait fenomena luar angkasa."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Juara Super League Persib Bandung",
+        "title": "Juara Super League Persib Bandung",
+        "synthesis": [
+          "Persib Bandung memimpin klasemen Super League 2025/2026 dengan 78 poin setelah mengalahkan PSM Makassar 2-1.",
+          "Mereka hanya butuh hasil imbang melawan Persijap Jepara di laga terakhir untuk memastikan gelar juara tiga kali beruntun.",
+          "Kekalahan di pertandingan terakhir akan membuat Persib bergantung pada hasil pertandingan Borneo FC."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Kompetisi sepak bola nasional tanpa efek sistemik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Syarat Persib Bandung Juara Super League Akhir Pekan Ini",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8492870/syarat-persib-bandung-juara-super-league-akhir-pekan-ini",
+            "category": "Olahraga",
+            "published_at": "2026-05-18T01:30:00+00:00",
+            "summary": "Persib Bandung memimpin klasemen Super League 2025/2026 dengan 78 poin setelah menang 2-1 atas PSM Makassar. Mereka hanya butuh hasil imbang melawan Persijap Jepara di laga terakhir untuk memastikan gelar juara tiga kali beruntun. Kekalahan di pertandingan terakhir akan membuat Persib bergantung pada hasil pertandingan Borneo FC.",
+            "key_points": [
+              "Persib Bandung unggul 2-1 atas PSM Makassar dan memimpin klasemen dengan 78 poin.",
+              "Persib hanya perlu hasil imbang melawan Persijap Jepara untuk memastikan gelar juara.",
+              "Kekalahan Persib di laga terakhir akan membuat mereka tergantung pada kekalahan Borneo FC."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Kesehatan Global dan Regulasi Kesehatan Lokal",
+        "analysis": "Wabah Ebola di DR Kongo (geopolitik/kesehatan) memperkuat kebutuhan regulasi ketat seperti kebijakan BPOM di minimarket (ekonomi/kesehatan). Krisis kesehatan di wilayah konflik menunjukkan kelemahan sistem kesehatan global, sehingga negara-negara seperti Indonesia mengadopsi langkah preventif melalui regulasi obat. Ini mencerminkan strategi lintas sektor: krisis geopolitik memicu perubahan kebijakan domestik untuk memperkuat infrastruktur kesehatan, sekaligus mengurangi risiko penyebaran penyakit lintas batas."
+      },
+      {
+        "title": "Teknologi dan Respons Krisis Kesehatan",
+        "analysis": "Pensiunnya Takashi Tezuka (teknologi/ekonomi) berpotensi mengurangi inovasi teknologi interaktif yang bisa digunakan dalam edukasi kesehatan. Nintendo, sebagai perusahaan teknologi, selama ini mengembangkan simulasi pelatihan medis atau alat pendidikan kesehatan. Kekosongan kepemimpinan ini mungkin memperlambat pengembangan solusi teknologi untuk respons krisis seperti wabah Ebola, mengurangi efisiensi penanganan kesehatan global melalui inovasi."
+      }
+    ],
+    "other_news": {
+      "Kesehatan": [
+        {
+          "title": "From prevention to care: Why early action matters in the cancer journey",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/advertorial/prevention-care-why-early-action-matters-in-cancer-journey-6109001",
+          "category": "Kesehatan",
+          "published_at": "2026-05-18T01:58:16+00:00",
+          "summary": "Forum 'Lessons for Life: Cancer Care Conversations 2026' yang dihadiri 500 orang membahas pentingnya deteksi dini, persiapan finansial, dan sistem dukungan kuat dalam penanganan kanker. Acara ini menekankan kolaborasi multidisiplin, pencegahan berbasis gaya hidup, serta peran asuransi dan dukungan sosial untuk meningkatkan hasil pengobatan.",
+          "key_points": [
+            "Deteksi dini kanker melalui tes genetik dan pemeriksaan rutin dapat meningkatkan peluang penyembuhan.",
+            "Persiapan finansial dengan asuransi dan rencana dana darurat diperlukan untuk menghadapi biaya pengobatan kanker.",
+            "Dukungan emosional dari keluarga, komunitas, dan konseling membantu pasien menghadapi perjalanan pengobatan kanker."
+          ],
+          "cluster_id": 4
+        },
+        {
+          "title": "Ahli Gizi Ungkap Minuman Terbaik yang Bisa Bantu Perpanjang Umur",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8492747/ahli-gizi-ungkap-minuman-terbaik-yang-bisa-bantu-perpanjang-umur",
+          "category": "Kesehatan",
+          "published_at": "2026-05-17T22:15:03+00:00",
+          "summary": "Para ahli gizi merekomendasikan matcha sebagai minuman pagi yang lebih baik daripada kopi untuk mendukung umur panjang, karena kandungan antioksidannya yang tinggi, manfaat untuk kesehatan usus, serta kombinasi kafein dan L-theanine yang memberikan energi stabil.",
+          "key_points": [
+            "Matcha kaya antioksidan seperti EGCG yang menekan peradangan dan stres oksidatif yang berkontribusi pada penuaan sel.",
+            "Kandungan prebiotik dalam matcha mendukung kesehatan mikrobioma usus, penting untuk fungsi imun dan pencernaan.",
+            "Kombinasi kafein dan L-theanine dalam matcha memberikan energi yang tenang dan terfokus tanpa efek gelisah seperti kopi."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "How ISWAP and Boko Haram are reshaping the Lake Chad Basin",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/18/how-iswap-and-boko-haram-are-reshaping-the-lake-chad-basin?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-18T01:44:18+00:00",
+          "summary": "Kematian Abu-Bilal al-Minuki, komandan kedua ISWAP, menunjukkan kompleksitas ancaman keamanan di Lembah Chad, di mana ISWAP dan Boko Haram kembali memperkuat diri sambil memanfaatkan celah koordinasi antarnegara dan kondisi sosial-ekonomi yang rentan.",
+          "key_points": [
+            "ISWAP dan Boko Haram memanfaatkan fokus keamanan pada kelompok ISWAP untuk merekrut ulang mantan pejuang dan memperluas aktivitas kejahatan bersenjata.",
+            "Koordinasi militer antarnegara di kawasan terhambat oleh struktur komando yang berbeda, alokasi sumber daya tidak merata, dan perbatasan yang pori.",
+            "Faktor ekonomi seperti penguasaan jalur perpajakan dan penyelundupan di pulau Lembah Chad serta lemahnya tata kelola lokal memperkuat kelompok bersenjata."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Ngeri! Dua Jet Tempur Angkatan Laut AS Bertabrakan di Udara",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8492842/ngeri-dua-jet-tempur-angkatan-laut-as-bertabrakan-di-udara",
+          "category": "Internasional",
+          "published_at": "2026-05-17T23:45:05+00:00",
+          "summary": "Dua jet tempur EA-18G Growler milik Angkatan Laut AS bertabrakan di udara saat demonstrasi aerobatik Gunfighter Skies Air Show di Idaho, Amerika Serikat, Minggu (17/5/2026). Kedua awak berhasil menyelamatkan diri dengan kursi pelontar, dan seluruh acara ditangguhkan untuk investigasi penyebab kecelakaan.",
+          "key_points": [
+            "Tabrakan terjadi antara dua pesawat EA-18G Growler dari Electronic Attack Squadron 129 saat pertunjukan udara di Mountain Home Air Force Base.",
+            "Kedua awak selamat setelah menggunakan kursi pelontar, meski pesawat hancur dan puing-puing jatuh ke darat tanpa menimbulkan korban di darat.",
+            "Acara Gunfighter Skies Air Show dihentikan sementara, dan investigasi gabungan US Navy dan US Air Force dilakukan untuk mengungkap penyebab kecelakaan."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-17T23:28:25+00:00",
+          "summary": "Menteri Dalam Negeri Pakistan Mohsin Naqvi bertemu Presiden Iran Masoud Pezeshkian di Tehran untuk membahas keamanan regional dan hubungan bilateral. Diskusi juga mencakup ketegangan antara Iran dan Amerika Serikat setelah gagalnya negosiasi yang dijembatani Pakistan.",
+          "key_points": [
+            "Menteri Dalam Negeri Pakistan Mohsin Naqvi bertemu Presiden Iran Masoud Pezeshkian di Tehran.",
+            "Topik utama pembicaraan mencakup keamanan regional dan hubungan bilateral antara Pakistan dan Iran.",
+            "Pembahasan mencakup ketegangan Iran-AS setelah negosiasi yang dijembatani Pakistan mengalami kegagalan."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-17T22:54:49+00:00",
+          "summary": "Presiden AS Donald Trump menggelar acara doa selama sembilan jam di National Mall, Washington DC, sebagai bagian dari perayaan 250 tahun kemerdekaan AS dengan tema 'Rededicate 250'. Acara tersebut menampilkan berbagai tokoh politik, pemuka agama, dan penampil, namun menuai kritik atas dianggapnya sebagai upaya politik dan kurangnya representasi agama non-Kristen.",
+          "key_points": [
+            "Acara 'Rededicate 250' bertujuan merayakan ulang tahun ke-250 AS sekaligus mengajak masyarakat meredikasi negara sebagai 'Satu Negeri di Bawah Tuhan'.",
+            "Trump dan sekutunya menyampaikan pesan berbasis agama, termasuk kutipan Alkitab, sementara Senator Marco Rubio menekankan pengaruh 'ide Kristen' dalam sejarah AS.",
+            "Kritikus menilai acara ini melanggar pemisahan gereja dan negara, dengan hanya satu pembicara non-Kristen dan dugaan upaya politik, sementara survei menunjukkan perbedaan pendapat publik tentang isu ini."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Calvin Verdonk Bakal Jadi Pemain Indonesia Pertama Tampil di Liga Champions",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8492880/calvin-verdonk-bakal-jadi-pemain-indonesia-pertama-tampil-di-liga-champions",
+          "category": "Olahraga",
+          "published_at": "2026-05-18T02:00:00+00:00",
+          "summary": "Calvin Verdonk akan menjadi pemain Indonesia pertama yang berlaga di Liga Champions setelah Lille memastikan finis ketiga di Liga Prancis. Lille lolos langsung ke Liga Champions 2026/2027 meski kalah dari Auxerre, karena Lyon kalah dari Lens dan finis di peringkat keempat.",
+          "key_points": [
+            "Lille finis ketiga di Liga Prancis 2025/2026 setelah Lyon kalah dari Lens, memastikan tiket Liga Champions langsung.",
+            "Calvin Verdonk berpotensi menjadi pemain Indonesia pertama yang tampil di Liga Champions musim depan.",
+            "Pemain Indonesia lain di Eropa, seperti Mees Hilgers dan Maarten Paes, hanya berlaga di kompetisi kelas dua UEFA atau gagal lolos."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Perpisahan Casemiro di Old Trafford Bikin Fans MU Haru di Medsos",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8492868/perpisahan-casemiro-di-old-trafford-bikin-fans-mu-haru-di-medsos",
+          "category": "Olahraga",
+          "published_at": "2026-05-18T00:45:51+00:00",
+          "summary": "Casemiro mengakhiri kariernya di Manchester United dengan laga perpisahan di Old Trafford yang membuat fans emosional. Ia menyampaikan terima kasih kepada suporter dan menyatakan akan tetap mendukung klub meski tidak lagi bermain untuk MU. Ucapan perpisahan Casemiro viral di media sosial, di mana fans mengapresiasi dedikasinya selama membela tim.",
+          "key_points": [
+            "Casemiro menyampaikan salam perpisahan yang menyentuh hati fans Manchester United di Old Trafford.",
+            "Fans di media sosial mengapresiasi kontribusi Casemiro, termasuk membantu MU meraih Carabao Cup dan menjadi pemimpin di lini tengah.",
+            "Casemiro menyatakan akan selalu menjadi pendukung Manchester United seumur hidup, meski tidak lagi memperkuat klub."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Philippines to convene court for Sara Duterte's impeachment amid political turmoil",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/philippines-court-vp-impeachment-sara-duterte-6127441",
+          "category": "Hukum",
+          "published_at": "2026-05-18T02:10:00+00:00",
+          "summary": "Sidang impeachment Wakil Presiden Filipina Sara Duterte diadakan di Senat, yang akan menentukan masa depan politiknya dan memperuncingkan persaingan dengan Presiden Ferdinand Marcos Jr. Perubahan kepemimpinan Senat akibat kembalinya senator pro-Duterte Ronald dela Rosa memengaruhi dinamika persidangan.",
+          "key_points": [
+            "Sidang impeachment Sara Duterte berpotensi mengakhiri atau memperkuat ambisi presidensialnya pada 2028.",
+            "Persaingan politik antara keluarga Duterte dan Marcos Jr. memicu perubahan kepemimpinan Senat melalui kembalinya Ronald dela Rosa.",
+            "Sidang memerlukan dukungan dua pertiga dari 24 anggota Senat untuk memperoleh vonis penuntutan."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "New Zealand produce finds a growing place on Asia’s tables",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/advertorial/new-zealand-produce-finds-growing-place-asias-tables-6108606",
+          "category": "Ekonomi",
+          "published_at": "2026-05-18T02:30:35+00:00",
+          "summary": "Ekspor pangan Selandia Baru semakin diterima di Asia, melampaui produk tradisional seperti daging domba dan produk susu dengan menawarkan beragam bahan pangan segar dan produk olahan yang memenuhi standar keamanan dan kualitas ketat. Negara ini memanfaatkan keunggulan rantai pasok yang dapat dilacak dan kerja sama perdagangan untuk memenuhi permintaan konsumen Asia yang meningkat terhadap makanan sehat dan berkelanjutan.",
+          "key_points": [
+            "Selandia Baru mengekspor berbagai produk pangan seperti anggur, madu manuka, sereal, dan minuman non-alkohol yang diproduksi dengan standar keamanan dan keberlanjutan ketat.",
+            "Rantai pasok pangan Selandia Baru memiliki sistem pelacakan dari peternakan ke pelabuhan, termasuk verifikasi autentikasi madu manuka dan manajemen perikanan nasional.",
+            "Perjanjian perdagangan bebas dengan Singapura dan ASEAN serta kampanye 'Made With Care' memperkuat kepercayaan konsumen terhadap kualitas dan asal produk."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 2374
+    },
+    "timestamp": "2026-05-18T02:42:18.614301+00:00"
   }
 ]
