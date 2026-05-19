@@ -11499,5 +11499,339 @@
       "total_in_qdrant": 2374
     },
     "timestamp": "2026-05-18T02:42:18.614301+00:00"
+  },
+  {
+    "date": "2026-05-19",
+    "generated_at": "2026-05-19T02:41:01.183338+00:00",
+    "headline": "Serangan Israel di Lebanon yang menewaskan lebih dari 3.000 orang memicu eskalasi konflik dan kekhawatiran internasional.",
+    "global_headline": "Serangan Israel di Lebanon yang menewaskan lebih dari 3.000 orang memicu eskalasi konflik dan kekhawatiran internasional.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Trump membatalkan serangan Iran atas permintaan negara Teluk.",
+          "Menunggu hasil negosiasi yang dianggap dapat diterima AS.",
+          "Opini publik AS tidak puas dengan perang dan kinerja Trump."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi disrupsi sistemik dalam hubungan AS-Iran dan stabilitas regional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump says he called off new Iran attack at request of Gulf states",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Trump says he called off new Iran attack at request of Gulf states\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. Perang AS-Israel melawan Iran telah memasuki minggu ke-9 pada saat langkah kontroversial ini terjadi.\n2. Stok pertahanan sekutu telah memang.\n3. Presiden Amerika Serikat Donald Trump secara resmi memberitahu Kongres bahwa perang terhadap Iran telah berakhir pada April 2026.\n4. Tidak ada informasi yang jelas tentang permintaan dari negara-negara di Teluk (Gulf states) untuk membatalkan serangan ke Iran."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump says he called off new Iran attack at request of Gulf states",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-18T22:30:58+00:00",
+            "summary": "Presiden AS Donald Trump mengumumkan penundaan serangan militer terhadap Iran yang direncanakan pada Selasa lalu atas permintaan negara-negara Teluk, sambil menunggu hasil negosiasi yang dianggap 'sangat dapat diterima' oleh AS. Ia juga memperingatkan siap meluncurkan serangan besar-besaran jika tidak tercapai kesepakatan, sementara opini publik AS menunjukkan ketidakpuasan terhadap perang dan kinerja Trump.",
+            "key_points": [
+              "Trump menunda serangan Iran atas permintaan Qatar, Arab Saudi, dan Uni Emirat Arab karena negosiasi sedang berlangsung.",
+              "Iran meminta AS menghentikan perang di semua front, mengakhiri blokade pelabuhan, dan mengakui kedaulatannya atas Selat Hormuz.",
+              "Penduduk AS mayoritas (64%) menganggap perang dengan Iran adalah keputusan salah, sementara persetujuan terhadap Trump turun menjadi 37%."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 301
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Peluncuran AP x Swatch kembali memicu kerumunan dan penutupan toko.",
+          "Kritik fokus pada strategi pemasaran yang tidak belajar dari kasus MoonSwatch.",
+          "Reputasi merek terganggu akibat pengelolaan acara yang buruk."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Merusak citra merek dan memicu kontroversi publik terkait strategi pemasaran.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Did the MoonSwatch teach us nothing? 5 takeaways from AP x Swatch Royal Pop’s chaotic launch",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/style-beauty/swatch-ap-royal-pop-launch-chaos-6129346",
+            "category": "Hiburan",
+            "published_at": "2026-05-19T02:14:00+00:00",
+            "summary": "Peluncuran jam tangan kolaborasi Audemars Piguet x Swatch Royal Pop pada Mei 2026 kembali memicu kekacauan mirip kasus MoonSwatch 2022, dengan antrian panjang, keributan, hingga penutupan sementara toko di beberapa kota. Kritik ditujukan pada Swatch yang dianggap tidak belajar dari pengalaman sebelumnya dan membiarkan kerumunan tak terkendali sebagai bagian dari strategi pemasaran.",
+            "key_points": [
+              "Kekacauan peluncuran AP x Swatch Royal Pop terjadi karena kurangnya pengelolaan kerumunan, meski Swatch sudah pernah mengalami hal serupa pada peluncuran MoonSwatch 2022.",
+              "Kolaborasi ini dianggap lebih fokus pada menciptakan hype melalui keterbatasan stok dan eksklusivitas, daripada menghormati nilai-nilai keahlian dan keindahan jam tangan.",
+              "Kritik ditujukan pada Swatch yang membiarkan situasi tak terkendali berlangsung, sementara merek lain seperti H&M menerapkan sistem antrian terstruktur untuk acara serupa."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 251
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Death toll from Israeli strikes on Lebanon passes 3,000, officials say"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Death toll from Israeli strikes on Lebanon passes 3,000, officials say\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Konflik Israel-Hizbullah**: Konflik antara Israel dan Hizbullah di Lebanon telah berlangsung sejak 2006, dengan serangan Israel ke Libanon yang menyebabkan lebih dari 1.125 warga Lebanon tewas.\n2. **Dampak ekonomi**: Konflik ini juga memiliki dampak ekonomi yang signifikan, termasuk kenaikan harga minyak, inflasi, dan tekanan terhadap Anggaran Pendapatan dan Belanja Negara (APBN) Indonesia.\n3. **Dampak regional**: Konflik ini juga berpotensi mempercepat fragmentasi ekonomi global dan menimbulkan efek domino terhadap perekonomian dunia.\n4. **Jumlah korban**: Jumlah korban dari serangan Israel ke Libanon telah melebihi 3.000, menurut pernyataan pejabat resmi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-18T16:16:38+00:00",
+            "summary": "Lebanon melaporkan korban tewas akibat serangan Israel melebihi 3.000 orang sejak konflik dengan Hizbullah eskalasi pada Maret 2024, meskipun gencatan senjata 45 hari diperpanjang. Serangan terus terjadi di seluruh wilayah selatan Lebanon dan Bekaa Valley, dengan lebih dari 400 kematian terjadi sejak gencatan senjata berlaku pada 17 April. Konflik ini juga melibatkan serangkaian serangan balasan dari Hizbullah dan klaim Israel tentang kerugian militer sejak Maret.",
+            "key_points": [
+              "Jumlah korban tewas akibat serangan Israel di Lebanon mencapai 3.020, dengan lebih dari 400 kematian terjadi sejak gencatan senjata diperpanjang pada 17 April.",
+              "Gencatan senjata 45 hari yang diusulkan AS belum mampu menghentikan serangan kedua pihak, dengan pelanggaran terus terjadi di kedua sisi.",
+              "Israel masih menduduki wilayah sepanjang 10 km di perbatasan Lebanon, sementara Hizbullah melancarkan serangan balasan menggunakan drone dan operasi militer."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Malware SORVEPOTEL menyebar via WhatsApp, ganggu recovery akun.",
+          "Pengguna melaporkan serangan dari nomor Brasil, viral di media sosial.",
+          "Ahli siber Cantika beri saran keamanan untuk mitigasi risiko."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Ancaman keamanan siber yang memanfaatkan kepercayaan sosial, berpotensi meluas ke sistem lain.",
+        "external_research": [
+          {
+            "title": "Deep Research: Viral WhatsApp Diserbu Nomor Brasil, Banyak Akun Susah Recovery",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Viral WhatsApp Diserbu Nomor Brasil, Banyak Akun Susah Recovery\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Malware SORVEPOTEL**: Trend Research menemukan bahwa malware SORVEPOTEL yang menyebar melalui WhatsApp adalah salah satu penyebab akun susah recovery. Malware ini dikembangkan untuk menyebar dengan cepat dan menggunakan social trust dan otomatisasi untuk menyebar di antara pengguna Windows.\n2. **Aktif di Brasil**: Malware SORVEPOTEL paling aktif di Brasil, dan Trend Research menganggapnya sebagai ancaman serius bagi keamanan data.\n3. **Cara Membuka Akun WhatsApp yang Terblokir**: Jika akun WhatsApp Anda terblokir, ada beberapa cara untuk membukanya, seperti mengganti nomor handphone, mengganti perangkat, atau memeriksa apakah perangkat Anda menyimpan jejak aktivitas yang terdeteksi sebagai spam.\n4. **Ancaman Serangan Siber**: Serangan siber yang disponsori negara dan skema pengelabuan modern menggunakan email yang dihasilkan AI, teknologi deepfake, dan taktik rekayasa sosial untuk mengelabui orang yang paling berhati-hati sekalipun agar membocorkan informasi sensitif."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Viral WhatsApp Diserbu Nomor Brasil, Banyak Akun Susah Recovery",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/security/d-8494389/viral-whatsapp-diserbu-nomor-brasil-banyak-akun-susah-recovery",
+            "category": "Teknologi",
+            "published_at": "2026-05-19T00:15:02+00:00",
+            "summary": "Pengguna WhatsApp melaporkan akun mereka mengalami gangguan setelah menerima pesan dari nomor Brasil, sehingga sulit untuk merecovery akun. Banyak warganet berbagi pengalaman serupa di media sosial dan menerima saran keamanan dari ahli siber Cantika.",
+            "key_points": [
+              "Pesan dari nomor Brasil menyebabkan aktivitas tidak biasa di WhatsApp, mengakibatkan akun logout dan sulit direcovery.",
+              "Cantika, ahli keamanan siber, memberikan tips melalui pengaturan privasi dan keamanan untuk mencegah masalah tersebut.",
+              "Warganet di media sosial seperti Threads dan TikTok melaporkan pengalaman serupa serta membagikan keluhan tentang akun WhatsApp yang tiba-tiba hilang."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik Mempengaruhi Ekonomi dan Konsumen",
+        "analysis": "Keputusan Trump untuk membatalkan serangan Iran atas permintaan negara Teluk (geopolitik) mengurangi risiko eskalasi konflik, yang secara tidak langsung stabilkan harga minyak global. Stabilitas harga energi ini memperkuat daya beli konsumen, memungkinkan peluncuran AP x Swatch (ekonomi/konsumen) mendapat respons positif. Namun, jika konflik tetap terjadi, kenaikan harga minyak bisa menggerus keuntungan ritel dan mengurangi antusiasme konsumen terhadap produk premium."
+      },
+      {
+        "title": "Konflik Regional Memicu Ancaman Siber",
+        "analysis": "Serangan Israel di Lebanon (geopolitik) menciptakan lingkungan ketegangan yang memicu aktor negara atau non-negara untuk memanfaatkan kekacauan. Malware SORVEPOTEL (teknologi) yang menyebar via WhatsApp bisa menjadi alat untuk mengganggu pemulihan akun korban, termasuk pejabat atau organisasi kemanusiaan di wilayah konflik. Ini menunjukkan bagaimana konflik fisik memicu ancaman siber yang berdampak pada keamanan digital dan operasional sektor publik."
+      }
+    ],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "A packed race for governor: What to know about Oregon’s primary elections",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/18/a-packed-race-for-governor-what-to-know-about-oregons-primary-elections?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-18T23:23:16+00:00",
+          "summary": "Oregon menggelar pemilihan primair untuk memilih kandidat partai dalam pemilu November, dengan persaingan ketat di berbagai posisi, termasuk gubernur dan senator. Pemungutan suara juga mencakup referendum tentang pembatalan pajak bahan bakar yang menjadi isu ekonomi utama.",
+          "key_points": [
+            "Persaingan gubernur diikuti oleh sekitar 25 kandidat, termasuk 9 Demokrat yang menantang Tina Kotek, yang diunggulkan untuk memenangkan primair Demokrat.",
+            "Referendum tentang pembatalan kenaikan pajak bahan bakar menjadi fokus utama, terutama karena kenaikan harga bensin yang dipengaruhi konflik AS-Israel.",
+            "Senator Jeff Merkley dan anggota Kongres Cliff Bentz diharapkan memenangkan primair masing-masing, meski ada potensi kejutan di distrik konservatif."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "The unique festivals that bring Hong Kong to life",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/unique-festivals-bring-hong-kong-life-6120901",
+          "category": "Hiburan",
+          "published_at": "2026-05-19T01:45:24+00:00",
+          "summary": "Hong Kong memiliki berbagai festival unik yang menggambarkan budaya dan tradisi lokal, seperti Cheung Chau Bun Festival, Tai Hang Fire Dragon Dance, dan Tin Hau Festival. Festival-festival ini menampilkan ritual tradisional, parade, dan kegiatan komunitas yang telah diwariskan selama berabad-abad.",
+          "key_points": [
+            "Cheung Chau Bun Festival diadakan pada 24 Mei, menampilkan kompetisi perebutan biskuit dan parade kostum yang merayakan legenda penyembuhan wabah.",
+            "Tai Hang Fire Dragon Dance selama tiga malam di Mid-Autumn Festival menampilkan ular api sepanjang 67 meter sebagai warisan budaya nasional China.",
+            "Tin Hau Festival di bulan April/May merayakan ulang tahun Dewi Laut dengan parade, prosesi bunga kertas, dan upacara di lebih dari 60 kuil di Hong Kong."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Fakta-fakta Child Grooming, Diduga Dilakukan Kepsek di Tangsel pada Siswi Sekolah",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8494226/fakta-fakta-child-grooming-diduga-dilakukan-kepsek-di-tangsel-pada-siswi-sekolah",
+          "category": "Hukum",
+          "published_at": "2026-05-18T23:04:10+00:00",
+          "summary": "Kepala sekolah di Tangsel diduga melakukan child grooming terhadap siswinya dan telah dinonaktifkan oleh pihak sekolah. Child grooming adalah manipulasi psikologis untuk membangun hubungan emosional dengan anak-anak, khususnya yang tumbuh tanpa figur ayah, demi tujuan eksploitasi. Spesialis kedokteran jiwa menekankan pentingnya membangun hubungan emosional kuat dan mengawasi interaksi digital untuk mencegah korban.",
+          "key_points": [
+            "Kepala sekolah di Tangsel diduga melakukan child grooming dan telah dinonaktifkan.",
+            "Child grooming sering menargetkan anak-anak yang tumbuh tanpa figur ayah.",
+            "Pencegahan melibatkan pembangunan hubungan emosional kuat dan pengawasan interaksi digital anak."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Ramalan Teknologi Masa Depan Ini Ternyata Meleset Jauh",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8494403/ramalan-teknologi-masa-depan-ini-ternyata-meleset-jauh",
+          "category": "Teknologi",
+          "published_at": "2026-05-19T01:15:31+00:00",
+          "summary": "Artikel ini menjelaskan bahwa beberapa prediksi teknologi masa depan seperti hoverboard, integrasi otak dengan internet, dan hyperloop gagal terwujud karena keterbatasan teknologi, biaya tinggi, serta regulasi yang kompleks. Teknologi tersebut awalnya diprediksi akan menjadi bagian dari kehidupan sehari-hari, tetapi hingga kini masih sebatas konsep atau uji coba terbatas.",
+          "key_points": [
+            "Hoverboard sejati belum terwujud karena kebutuhan energi besar dan infrastruktur mahal, meski papan self-balancing sudah ada.",
+            "Integrasi otak dengan internet terkendala kompleksitas sinyal otak, risiko operasi implan, dan perdebatan etika.",
+            "Hyperloop gagal menjadi transportasi massal karena biaya pembangunan tinggi, masalah keselamatan, dan hambatan regulasi."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "iPhone 16 Pro Max Kirana Larasati Ikut Diving 150 Meter, Begini Nasibnya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8494388/iphone-16-pro-max-kirana-larasati-ikut-diving-150-meter-begini-nasibnya",
+          "category": "Teknologi",
+          "published_at": "2026-05-19T00:15:58+00:00",
+          "summary": "Artis dan penyelam profesional Kirana Larasati mengalami kejadian unik saat iPhone 16 Pro Max miliknya ikut terbawa menyelam hingga kedalaman 150 meter. Ponsel tersebut tetap menyala dan bisa digunakan meski mengalami gangguan pada kamera depan dan microphone setelah penyelaman ekstrem tersebut.",
+          "key_points": [
+            "iPhone 16 Pro Max Kirana Larasati bertahan di kedalaman 150 meter tanpa kerusakan fisik signifikan meski melampaui sertifikasi tahan air IP68 Apple (6 meter).",
+            "Setelah penyelaman, ponsel mengalami gangguan pada kamera depan dan microphone, meski layar dan bodi terlihat utuh.",
+            "Kirana Larasati sebelumnya memecahkan rekor MURI sebagai perempuan pertama yang menyelam lebih dari 120 meter di Indonesia."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Google, Blackstone plan AI cloud venture with $5 billion backing, WSJ reports",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/google-blackstone-plan-ai-cloud-venture-5-billion-backing-wsj-reports-6128716",
+          "category": "Teknologi",
+          "published_at": "2026-05-19T00:13:03+00:00",
+          "summary": "Google dan Blackstone berencana meluncurkan perusahaan cloud AI dengan dukungan $5 miliar dari Blackstone, yang akan memegang saham mayoritas. Google akan menyediakan perangkat keras, perangkat lunak, dan layanan untuk perusahaan tersebut, dengan kemungkinan pengumuman rencana ini segera diumumkan.",
+          "key_points": [
+            "Blackstone akan menyediakan $5 miliar dalam bentuk saham dan memegang mayoritas kepemilikan perusahaan.",
+            "Google akan menyediakan perangkat keras khusus berupa Tensor Processing Units (TPUs), serta perangkat lunak dan layanan.",
+            "Benjamin Treynor Sloss, eksekutif senior Google, akan menjabat sebagai CEO perusahaan baru."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Siap Berburu Medali Marathon di Cape Town, Daniel Mananta Tantang Diri Ikut HYROX",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8494500/siap-berburu-medali-marathon-di-cape-town-daniel-mananta-tantang-diri-ikut-hyrox",
+          "category": "Olahraga",
+          "published_at": "2026-05-19T02:04:45+00:00",
+          "summary": "Daniel Mananta akan berlaga di Cape Town Marathon sebelum mengikuti kompetisi HYROX di Indonesia pada 26 Juni 2026. Meski awalnya ingin tampil santai, sifat kompetitifnya membuatnya siap bersaing. Pengalamannya sebagai pelari maraton dianggap menjadi keuntungan dalam menghadapi tantangan HYROX.",
+          "key_points": [
+            "Daniel Mananta akan mengikuti Cape Town Marathon dan HYROX di Indonesia pada 26 Juni 2026.",
+            "Sifat kompetitifnya mendorongnya untuk bersaing meski awalnya berniat tampil santai di HYROX.",
+            "Pengalamannya sebagai maratoner memberikan keuntungan dalam menghadapi HYROX yang memadukan ketahanan kardio dan kekuatan fisik."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Arteta ke Fans Arsenal: Sampai Jumpa di Selhurst Park dan Budapest",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8494393/arteta-ke-fans-arsenal-sampai-jumpa-di-selhurst-park-dan-budapest",
+          "category": "Olahraga",
+          "published_at": "2026-05-19T01:00:22+00:00",
+          "summary": "Arsenal menutup laga kandang musim ini dengan kemenangan 1-0 atas Burnley, menjaga asa gelar Premier League. Manajer Mikel Arteta meminta dukungan fans di laga melawan Crystal Palace dan final Liga Champions melawan PSG. Arsenal berada di puncak klasemen dengan 82 poin, dikejar Manchester City di urutan kedua.",
+          "key_points": [
+            "Arsenal menang 1-0 atas Burnley dalam laga penutup kandang musim ini.",
+            "Arsenal berada di puncak klasemen Premier League dengan 82 poin, dikejar Manchester City (77 poin).",
+            "Arsenal akan menghadapi Crystal Palace dan Paris Saint-Germain di final Liga Champions."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "US suspends joint defence effort with Canada dating back to World War II",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-18T23:40:16+00:00",
+          "summary": "Amerika Serikat menghentikan keterlibatannya dalam forum pertahanan bersama dengan Kanada yang bersejarah sejak Perang Dunia II, menyebut Kanada gagal memenuhi kewajiban pertahanan. Keputusan ini diambil di tengah ketegangan hubungan bilateral sejak kembali menjabatnya Presiden Donald Trump pada 2025, meskipun Kanada telah berkomitmen meningkatkan anggaran pertahanan hingga 5% dari PDB.",
+          "key_points": [
+            "AS menghentikan partisipasi dalam Permanent Joint Board on Defense untuk meninjau ulang manfaat forum tersebut.",
+            "Kanada berkomitmen meningkatkan anggaran pertahanan hingga 5% dari PDB, dengan 3,5% dialokasikan untuk kemampuan militer inti.",
+            "Trump menuding Kanada menerapkan kebijakan perdagangan tidak adil dan menolak mengatasi peredaran narkoba serta migrasi ilegal di perbatasan."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Japan ready to act on FX volatility, mindful of US bond market impact",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/japan-ready-act-fx-volatility-mindful-us-bond-market-impact-6129466",
+          "category": "Ekonomi",
+          "published_at": "2026-05-19T01:22:10+00:00",
+          "summary": "Jepang siap bertindak melawan volatilitas valuta asing yang berlebihan, sambil memastikan intervensi pembelian yen dan penjualan dolar tidak meningkatkan yield obligasi AS. Menteri Keuangan Satsuki Katayama menyatakan hal ini setelah pertemuan G7, mengingatkan bahwa fluktuasi harga minyak mentah dan spekulasi pasar menjadi faktor volatilitas. Yen telah melemah mendekati level 160 per dolar, yang dianggap sebagai ambang batas intervensi.",
+          "key_points": [
+            "Jepang bersiap intervensi pasar valuta asing untuk mengatasi volatilitas berlebihan, dengan mempertimbangkan dampak pada yield obligasi AS.",
+            "Yen melemah hampir separuh dari penguatan awal Mei, mendekati level 160 per dolar yang menjadi batas intervensi Jepang.",
+            "Jepang mengelola cadangan devisa senilai $1,4 triliun untuk memastikan likuiditas cukup, menghindari kenaikan yield obligasi AS akibat penjualan aset."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Saint Laurent CEO admits brand must do more to retain luxury shoppers",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/obsessions/saint-laurent-ceo-aspirational-shoppers-kering-6128276",
+          "category": "Ekonomi",
+          "published_at": "2026-05-19T00:21:52+00:00",
+          "summary": "CEO Saint Laurent, Cedric Charbit, mengakui bahwa brand perlu lebih berupaya menarik kembali konsumen aspirasional di tengah perlambatan pasar mewah global. Saint Laurent berencana memperluas lini produk seperti pakaian pria dan fokus pada pasar Tiongkok untuk memulihkan pertumbuhan. Langkah ini diambil ketika Kering, perusahaan induk Saint Laurent, menghadapi tekanan akibat melemahnya permintaan untuk merek Gucci.",
+          "key_points": [
+            "Saint Laurent harus meningkatkan strategi untuk mempertahankan konsumen aspirasional yang sebelumnya terabaikan.",
+            "Saint Laurent akan mengembangkan kategori produk seperti pakaian pria dan memperkuat fokus pada pasar Tiongkok.",
+            "Kering menghadapi tantangan pertumbuhan akibat perlambatan pasar mewah global dan penurunan permintaan untuk merek Gucci."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 2533
+    },
+    "timestamp": "2026-05-19T02:41:01.183346+00:00"
   }
 ]
