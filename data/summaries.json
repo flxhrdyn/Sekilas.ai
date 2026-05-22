@@ -12520,5 +12520,358 @@
       "total_in_qdrant": 2801
     },
     "timestamp": "2026-05-21T02:42:56.243069+00:00"
+  },
+  {
+    "date": "2026-05-22",
+    "generated_at": "2026-05-22T02:44:32.137377+00:00",
+    "headline": "Ketidakpastian progres perundingan AS-Iran memicu kenaikan harga minyak global.",
+    "global_headline": "Ketidakpastian progres perundingan AS-Iran memicu kenaikan harga minyak global.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "Kenaikan Harga Minyak Perundingan AS-Iran",
+        "title": "Kenaikan Harga Minyak Perundingan AS-Iran",
+        "synthesis": [
+          "Harga minyak naik akibat ketidakpastian progres perundingan AS-Iran.",
+          "Ketegangan Selat Hormuz dan rencana OPEC+ naikkan produksi Juli jadi faktor utama.",
+          "Investor khawatir fluktuasi harga minyak berlanjut di kisaran US$90-US$110."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ketidakpastian geopolitik dan gangguan pasokan mengancam stabilitas pasar energi global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kenaikan Harga Minyak Perundingan AS-Iran",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Kenaikan Harga Minyak Perundingan AS-Iran\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Harga Minyak Melandai**: Harga minyak mentah berjangka Brent turun 15 sen ke level US$ 101,76 per barel, sedangkan West Texas Intermediate (WTI) merosot 14 sen ke posisi US$ 92,82 per barel.\n2. **Perundingan AS-Iran Buntu**: Perundingan damai Amerika Serikat-Iran tidak jelas, dan perunding kedua negara batal bertemu lagi di Pakistan.\n3. **Iran dan AS Tetap Memberlakukan Pembatasan**: Iran dan AS masih memberlakukan pembatasan ketat terhadap lalu lintas kapal di Selat Hormuz, yang menyumbang sekitar 20% pasokan minyak dan gas alam cair (LNG) dunia setiap harinya.\n4. **Dampak Kenaikan Harga Minyak**: Kenaikan harga minyak dapat memiliki dampak negatif terhadap PDB, inflasi, dan angka pengangguran, serta dapat mempengaruhi return saham sektor pertambangan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil prices gain as investors doubt breakthrough in US-Iran peace talks",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/oil-prices-war-us-iran-energy-strait-hormuz-6134276",
+            "category": "Ekonomi",
+            "published_at": "2026-05-22T01:47:00+00:00",
+            "summary": "Harga minyak naik pada Jumat (22 Mei) karena investor meragukan kemajuan dalam pembicaraan damai AS-Iran, meski pasar tetap menghadapi kerugian mingguan. Analis memprediksi harga akan fluktuasi dalam kisaran US$90-US$110 untuk WTI pekan depan. Gangguan pasokan melalui Selat Hormuz dan rencana OPEC+ untuk menaikkan produksi Juli menjadi faktor utama.",
+            "key_points": [
+              "Harga minyak naik karena ketidakpastian atas progres pembicaraan damai AS-Iran terkait stok uranium Iran dan kontrol Selat Hormuz.",
+              "Brent crude naik US$2,38 (2,3%) ke US$104,96 per barel, sementara WTI naik US$1,73 (1,8%) ke US$98,08.",
+              "Gangguan pasokan melalui Selat Hormuz mengurangi 14 juta barel per hari dari pasokan global, dan OPEC+ mungkin menyetujui peningkatan produksi Juli meski pengiriman masih terhambat."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Celah Keamanan YellowKey di Windows 11",
+        "title": "Celah Keamanan YellowKey di Windows 11",
+        "synthesis": [
+          "Celah YellowKey memungkinkan bypass BitLocker Windows 11 tanpa kata sandi atau PIN.",
+          "Dugaan backdoor eksklusif di Windows 11 karena komponen khusus sistem resmi.",
+          "Eksploitasi GreenPlasma ditemukan, memperluas risiko keamanan sistem."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi akses ilegal ke data terenkripsi di sistem operasi utama.",
+        "external_research": [
+          {
+            "title": "Deep Research: Celah Keamanan YellowKey di Windows 11",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang Celah Keamanan YellowKey di Windows 11:\n\n1. **Celah Keamanan YellowKey**: Celah keamanan ini memungkinkan penyerang untuk membypass BitLocker pada Windows 11 tanpa memerlukan recovery key atau PIN. Penyerang dapat menggunakan perangkat USB yang telah diatur dengan struktur folder FsTx di bawah System Volume Information.\n2. **Langkah-langkah Serangan**: Penyerang harus melakukan beberapa langkah untuk membypass BitLocker, yaitu:\n * Mengatur perangkat USB dengan struktur folder FsTx.\n * Menghubungkan perangkat USB ke sistem target yang dilindungi BitLocker.\n * Mencoba restart sistem dengan menekan Shift+Restart dan Ctrl.\n3. **Mitigasi**: Microsoft belum mengeluarkan patch resmi untuk mengatasi celah keamanan ini. Namun, organisasi dapat mengurangi risiko dengan memeriksa konfigurasi dan meningkatkan keamanan sistem.\n4. **Penggunaan PowerShell**: Pelaku ancaman juga menggunakan PowerShell untuk menonaktifkan perlindungan real-time untuk Microsoft Defender pada perangkat Windows 11 dan Windows 10, serta membuka port TCP 3389 untuk memungkinkan koneksi RDP."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Windows 11 Anda Bisa Dibobol Gegara Celah YellowKey",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/security/d-8499414/windows-11-anda-bisa-dibobol-gegara-celah-yellowkey",
+            "category": "Teknologi",
+            "published_at": "2026-05-22T01:16:14+00:00",
+            "summary": "Peneliti keamanan Nightmare-Eclipse mengungkap celah keamanan YellowKey yang memungkinkan pembobolan enkripsi BitLocker Windows 11 tanpa kata sandi. Celah ini diduga disengaja Microsoft sebagai backdoor, karena hanya memengaruhi Windows 11 dan komponennya eksklusif di sistem resmi. Peneliti lain telah memverifikasi kerentanan tersebut, sementara eksploitasi kedua bernama GreenPlasma juga diungkap.",
+            "key_points": [
+              "YellowKey memungkinkan akses penuh ke data enkripsi BitLocker Windows 11 tanpa memerlukan kata sandi.",
+              "Nightmare-Eclipse menduga celah YellowKey merupakan backdoor yang disengaja Microsoft, berdasarkan keunikan komponen di sistem resmi.",
+              "GreenPlasma, eksploitasi kedua dari peneliti, berpotensi menaikkan hak akses sistem tetapi belum diungkap kode lengkapnya."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Penangkapan Pasangan Anak Ditinggal di Jalan",
+        "title": "Penangkapan Pasangan Anak Ditinggal di Jalan",
+        "synthesis": [
+          "Orang tua dan mertua ditangkap atas pengabaian dua anak Prancis di bawah lima tahun di Portugal.",
+          "Anak-anak ditemukan sendirian di jalan raya di selatan Portugal.",
+          "Penyelidikan gabungan Portugal-Prancis tanpa kesimpulan awal."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kasus pengabaian anak memicu kolaborasi penyelidikan lintas negara.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Pair arrested after boys abandoned by road in Portugal",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-05-21T18:32:30+00:00",
+            "summary": "Dua anak laki-laki Prancis di bawah usia lima tahun ditemukan sendirian di samping jalan di Portugal Selatan, dan orang tua kandung serta mertua mereka ditangkap setelah mobil mereka terlihat di kota Fatima. Polisi dari Portugal dan Prancis sedang menyelidiki kasus ini tanpa kesimpulan awal.",
+            "key_points": [
+              "Dua anak Prancis ditemukan sendirian dengan ransel berisi makanan dan air tetapi tanpa dokumen identitas.",
+              "Pasangan yang ditangkap diidentifikasi sebagai ibu kandung dan mertua anak-anak tersebut, dengan dugaan terlibat kekerasan dalam rumah tangga serta pengabaian.",
+              "Polisi Prancis telah mengeluarkan permintaan bantuan Eropa setelah ayah anak-anak melaporkan mereka hilang dari rumah mereka di Colmar pada 11 Mei."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Serangan Flotila Gaza",
+        "title": "Serangan Flotila Gaza",
+        "synthesis": [
+          "Aksi kekerasan pasukan Israel terhadap aktivis asing di flotila Gaza terungkap.",
+          "Hamas tetap kendalikan Gaza meski ditetapkan sebagai organisasi teroris.",
+          "Korban Palestina melebihi 40.000 jiwa sejak konflik meletus."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Meningkatkan ketegangan regional dan memperburuk krisis kemanusiaan di Palestina.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan Flotila Gaza",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Serangan Flotila Gaza. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Konflik Gaza-Israel**: Gaza dikontrol oleh Hamas, kelompok Islam yang berkomitmen untuk menghancurkan Israel. Hamas ditetapkan sebagai kelompok teroris oleh Inggris dan banyak negara lainnya.\n2. **Korban Jiwa**: Lebih dari 40.000 warga Palestina telah terbunuh dan lebih dari 90.000 orang terluka sejak konflik kembali terjadi di Gaza.\n3. **Blokade Gaza**: Israel telah mempertahankan blokade parsial untuk mengisolasi Hamas dan mencoba menghentikan serangan, khususnya penembakan roket tanpa pandang bulu ke kota-kota Israel.\n4. **Pengaduan Internasional**: Afrika Selatan telah mengajukan pengaduan terhadap Israel di Mahkamah Internasional (ICJ), menuduh bahwa Israel telah melakukan genosida di Gaza."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Caitriona Graham recounts violent treatment after Gaza flotilla raid",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/caitriona-graham-recounts-violent-treatment-after-gaza-flotilla-raid?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-22T02:21:38+00:00",
+            "summary": "Aktivis Irlandia Caitriona Graham menceritakan pengalaman kekerasan yang dialaminya saat ditangkap oleh pasukan Israel dalam penyerbuan kapal bantuan menuju Gaza, seperti yang diungkapkannya kepada Al Jazeera setelah diekspor ke Istanbul.",
+            "key_points": [
+              "Caitriona Graham adalah aktivis Irlandia yang menjadi korban kekerasan fisik oleh pasukan Israel saat kapal bantuannya menuju Gaza.",
+              "Insiden tersebut direkam dalam video yang menunjukkan ia ditarik rambutnya dan dipaksa berlutut.",
+              "Graham memberikan pernyataan kepada Al Jazeera setelah diekspor ke Istanbul pasca-penangkapan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Laga Terakhir Casemiro di MU",
+        "title": "Laga Terakhir Casemiro di MU",
+        "synthesis": [
+          "Casemiro memainkan laga terakhir di MU sebelum hengkang.",
+          "MU dan Casemiro sepakat akhiri kerja sama secara mutual.",
+          "Diperkirakan bergabung dengan Inter Miami di MLS."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Transisi pemain kunci ke MLS mengubah dinamika pasar transfer dan strategi klub.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Casemiro Sudah Mainkan Laga Terakhirnya di MU, Absen Lawan Brighton",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8499352/casemiro-sudah-mainkan-laga-terakhirnya-di-mu-absen-lawan-brighton",
+            "category": "Olahraga",
+            "published_at": "2026-05-22T02:00:37+00:00",
+            "summary": "Casemiro memainkan laga terakhirnya bersama Manchester United saat menang 3-2 atas Nottingham Forest, sebelum absen di pertandingan melawan Brighton. MU dan Casemiro telah sepakat mengakhiri kerja sama setelah kontrak berakhir di musim panas, dengan manajer interim Michael Carrick menyatakan keputusan ini diambil secara mutual. Mantan gelandang Real Madrid itu diperkirakan akan bergabung dengan Inter Miami di MLS.",
+            "key_points": [
+              "Casemiro tampil terakhir kali untuk MU dalam kemenangan atas Nottingham Forest dan absen melawan Brighton.",
+              "MU dan Casemiro sepakat mengakhiri kerja sama setelah kontrak berakhir di musim panas.",
+              "Michael Carrick menyatakan keputusan pensiun Casemiro diambil secara mutual dan tepat waktu."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Ekonomi: Ketegangan Timur Tengah Memengaruhi Harga Minyak Global",
+        "analysis": "Kenaikan harga minyak akibat ketidakpastian perundingan AS-Iran (geopolitik) secara langsung memengaruhi stabilitas ekonomi global. Ketegangan ini berpotensi memicu inflasi energi yang membebani negara konsumen, sementara konflik di Gaza (geopolitik) memperburuk ketidakpastian regional. Kedua isu ini saling memperkuat ketidakstabilan pasar, mengingat Timur Tengah tetap menjadi pusat kunci produksi minyak. Dampaknya akan terasa di sektor transportasi, manufaktur, dan kebijakan moneter negara-negara bergantung pada impor energi."
+      },
+      {
+        "title": "Teknologi dan Keamanan: Celah YellowKey Memicu Krisis Kepercayaan Global",
+        "analysis": "Celah keamanan YellowKey di Windows 11 (teknologi) tidak hanya mengancam privasi pengguna, tetapi juga memicu risiko ekonomi besar-besaran jika disalahgunakan oleh aktor negara atau kriminal. Kepercayaan terhadap sistem operasi Windows sebagai fondasi infrastruktur digital global akan tergerus, mengakibatkan pergeseran investasi ke teknologi alternatif. Hal ini bisa memicu perang dingin siber antarnegara, terutama jika negara-negara seperti China atau Rusia memanfaatkan kelemahan ini untuk memperluas pengaruh teknologinya."
+      }
+    ],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/22/us-senate-pushes-back-against-trumps-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-22T00:26:31+00:00",
+          "summary": "Senator AS menunda pemungutan suara terkait dana imigrasi sebelum liburan panjang, sementara mengkritik rencana Trump mengalokasikan dana 'anti-weaponisation' dan pembangunan ballroom Gedung Putih. Partai Republik juga menunda pemungutan suara atas resolusi kekuasaan perang terkait konflik AS-Israel.",
+          "key_points": [
+            "Senator Republik menolak dana 'anti-weaponisation' $1,776 miliar hasil penyelesaian gugatan Trump terhadap IRS yang dianggap konflik kepentingan.",
+            "Permintaan Trump untuk $1 miliar dana pembangunan ballroom Gedung Putih dihapus dari RUU imigrasi karena mengganggu proses legislasi.",
+            "Pemungutan suara atas RUU imigrasi dan resolusi kekuasaan perang ditunda hingga setelah liburan Memorial Day, dengan tuduhan politik oleh Partai Demokrat."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Arsenal Juara, Arteta Sudah 'Berterima Kasih' ke Iraola",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8499351/arsenal-juara-arteta-sudah-berterima-kasih-ke-iraola",
+          "category": "Olahraga",
+          "published_at": "2026-05-22T01:30:26+00:00",
+          "summary": "Arsenal memastikan gelar Premier League musim 2025/2026 setelah Manchester City ditahan Bournemouth 1-1. Manajer Arsenal, Mikel Arteta, menghubungi manajer Bournemouth, Andoni Iraola, untuk berterima kasih atas kontribusi kemenangan The Cherries yang memuluskan jalan Arsenal juara. Arteta dan Iraola memiliki hubungan pribadi sebagai mantan pemain dari Basque yang pernah bermain bersama di klub lokal.",
+          "key_points": [
+            "Arsenal mengunci gelar Premier League karena Manchester City gagal mengalahkan Bournemouth di laga terakhir.",
+            "Mikel Arteta secara langsung berterima kasih kepada Andoni Iraola melalui telepon atas kemenangan Bournemouth yang memperkuat posisi Arsenal.",
+            "Arteta dan Iraola memiliki sejarah bersama sebagai mantan pemain Basque yang pernah bermain di klub Antiguoko pada 1991-1997."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Vinicius Absen Lawan Bilbao, Siap-siap Duluan ke Piala Dunia",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8499350/vinicius-absen-lawan-bilbao-siap-siap-duluan-ke-piala-dunia",
+          "category": "Olahraga",
+          "published_at": "2026-05-22T00:30:21+00:00",
+          "summary": "Penyerang Real Madrid, Vinicius Junior, absen dalam laga penutup LaLiga melawan Athletic Bilbao untuk fokus mempersiapkan diri mengikuti Piala Dunia 2026 bersama Brasil. Real Madrid telah memastikan finis kedua dengan 83 poin, sehingga laga tersebut tidak memengaruhi posisi klasemen. Vinicius merupakan satu-satunya pemain Madrid yang dipanggil ke Timnas Brasil, sementara dua rekan setimnya dicoret karena cedera.",
+          "key_points": [
+            "Vinicius Junior tidak tampil di laga terakhir LaLiga untuk fokus mempersiapkan Piala Dunia 2026.",
+            "Real Madrid finis kedua dengan 83 poin, sehingga laga melawan Bilbao tidak berpengaruh pada klasemen.",
+            "Vinicius adalah satu-satunya pemain Madrid yang dipanggil ke Timnas Brasil, sementara Eder Militao dan Rodrygo absen karena cedera."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Goldman Sachs to pay US$500 million to settle shareholder lawsuit over 1MDB scandal",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/goldman-sachs-pay-500-million-settle-shareholder-lawsuit-1mdb-scandal-6134251",
+          "category": "Hukum",
+          "published_at": "2026-05-22T01:47:17+00:00",
+          "summary": "Goldman Sachs setuju membayar dana tebusan sebesar US$500 juta untuk menyelesaikan gugatan kelas dari pemegang saham yang menuduh bank tersebut melakukan penipuan terkait skandal 1MDB. Gugatan ini terkait peran Goldman dalam penjualan obligasi senilai US$6,5 miliar untuk dana pensiun Malaysia tersebut.",
+          "key_points": [
+            "Goldman Sachs membayar US$500 juta sebagai penyelesaian gugatan kelas atas tuduhan penipuan terkait skandal 1MDB.",
+            "Bank tersebut sebelumnya telah membayar denda US$2,9 miliar pada 2020 untuk menyelesaikan penyelidikan atas kasus yang sama.",
+            "Pemegang saham menuduh Goldman memalsukan perannya dalam skandal korupsi sambil mengklaim manajemen risiko yang kuat."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Mediacorp awarded Broadcaster of the Year at the New York Festivals",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/mediacorp-broadcaster-year-new-york-festivals-tv-film-awards-2026-6134231",
+          "category": "Hiburan",
+          "published_at": "2026-05-22T01:30:00+00:00",
+          "summary": "Mediacorp dinobatkan sebagai Broadcaster of the Year di New York Festivals 2026, mengikuti penghargaan serupa di World Media Festivals. Penghargaan ini merangkum 22 kemenangan di berbagai kategori, termasuk program dokumenter dan promosi kreatif.",
+          "key_points": [
+            "Mediacorp memenangkan penghargaan Broadcaster of the Year di New York Festivals 2026, sebagai penghargaan kedua tahun ini setelah World Media Festivals.",
+            "Mediacorp meraih total 22 penghargaan (13 emas, 3 perak, 6 perunggu) di NYF TV & Film Awards dan NYF Radio Awards.",
+            "CEO Mediacorp menekankan komitmen perusahaan dalam menyajikan jurnalisme terpercaya dan konten inovatif yang terhubung dengan audiens global."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "'Fired and festive': Late Show host Stephen Colbert bows out",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/stephen-colbert-late-show-leaving-6134221",
+          "category": "Hiburan",
+          "published_at": "2026-05-22T00:26:34+00:00",
+          "summary": "Stephen Colbert mengakhiri The Late Show setelah 8 tahun memandu acara tersebut, yang dibatalkan oleh CBS di tengah kontroversi terkait kritiknya terhadap perjanjian dengan Donald Trump. Kolaborasi dengan rekan-rekan sesama pembawa acara malam hari dan pesta perpisahan bertema 'Fired and festive!' menjadi bagian dari penutupan acara tersebut.",
+          "key_points": [
+            "CBS membatalkan The Late Show With Stephen Colbert setelah Colbert mengkritik perjanjian $16 juta dengan Donald Trump, yang dianggap sebagai 'uang sogok besar' oleh Colbert.",
+            "CBS mengklaim pembatalan acara tersebut murni berdasarkan pertimbangan finansial, meski terjadi saat Paramount, induk perusahaan CBS, mengajukan merger senilai $8,4 miliar dengan Skydance Media.",
+            "Rekan pembawa acara malam hari lainnya mengudara ulang episode lama sebagai penghormatan terhadap penutupan Colbert, yang diakhiri dengan pesta perpisahan bertema 'Fired and festive!'."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Simba's parent company terminates deal to acquire M1",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/simba-tuas-m1-keppel-deal-imda-6134211",
+          "category": "Ekonomi",
+          "published_at": "2026-05-22T00:04:00+00:00",
+          "summary": "Tuas, perusahaan induk Simba, mengakhiri kesepakatan akuisisi M1 karena syarat tertentu dalam perjanjian tidak terpenuhi atau dikecualikan sebelum tanggal batas. Simba terus bekerja sama dengan otoritas pengawas Singapura terkait investigasi dugaan pelanggaran UU Telekomunikasi. Keppel, induk perusahaan M1, menyatakan pengakhiran kesepakatan ini tidak berdampak finansial signifikan secara segera.",
+          "key_points": [
+            "Tuas mengakhiri kesepakatan akuisisi M1 karena syarat perjanjian tidak terpenuhi sebelum tanggal batas 21 Mei 2025.",
+            "Simba diinvestigasi oleh Infocomm Media Development Authority (IMDA) terkait dugaan penggunaan gelombang frekuensi radio yang tidak dialokasikan.",
+            "Keppel menyatakan pengakhiran kesepakatan tidak berdampak finansial signifikan secara segera, sementara Singtel mengevaluasi peluang konsolidasi pasar telekomunikasi Singapura."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-22T00:21:24+00:00",
+          "summary": "Ratusan aktivis pro-Palestina yang ditahan Israel setelah flotilanya disergap di perairan internasional telah dideportasi. Tindakan ini memicu reaksi internasional terkait video yang menunjukkan Menteri Keamanan Nasional Israel, Itamar Ben Gvir, mengejek para aktivis yang tangan mereka diikat. Beberapa negara, termasuk Inggris, Polandia, dan Italia, menyatakan kekecewaan dan meminta penjelasan atas perlakuan tersebut.",
+          "key_points": [
+            "Aktivis dari Global Sumud Flotilla dideportasi setelah flotilanya yang membawa bantuan simbolis ke Gaza disergap Israel di perairan internasional.",
+            "Video Menteri Ben Gvir mengejek aktivis yang ditahan memicu kecaman internasional, termasuk dari Inggris, Polandia, Italia, dan negara lain.",
+            "Israel menegaskan bahwa tindakan tersebut tidak melanggar blokade Gaza dan menolak intervensi luar negeri, sementara kelompok hak asasi melaporkan cedera serius pada para aktivis."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Tak Perlu Mahal, Ini 6 Tips Mudah Menjaga Ginjal Agar Tetap Berfungsi Optimal",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8498945/tak-perlu-mahal-ini-6-tips-mudah-menjaga-ginjal-agar-tetap-berfungsi-optimal",
+          "category": "Kesehatan",
+          "published_at": "2026-05-22T01:05:10+00:00",
+          "summary": "Artikel ini menjelaskan pentingnya menjaga kesehatan ginjal melalui olahraga teratur, pengelolaan kadar gula darah, dan pola makan seimbang rendah sodium. Dokter menekankan bahwa kebiasaan hidup tidak aktif, diabetes, serta konsumsi makanan olahan berisiko merusak fungsi ginjal. Selain itu, konsumsi air yang cukup dan pengaturan tekanan darah juga disebut sebagai langkah pencegahan.",
+          "key_points": [
+            "Olahraga teratur menurunkan risiko penyakit ginjal kronis dan meningkatkan kesehatan jantung.",
+            "Pengelolaan kadar gula darah penting untuk mencegah kerusakan ginjal, terutama bagi penderita diabetes.",
+            "Pola makan rendah sodium, daging olahan, dan konsumsi bahan segar membantu menjaga fungsi ginjal."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Mendadak Suka Sarden Kalengan lantaran Bukan UPF? Dokter Tetap Sarankan Real Food Sih",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8499170/mendadak-suka-sarden-kalengan-lantaran-bukan-upf-dokter-tetap-sarankan-real-food-sih",
+          "category": "Kesehatan",
+          "published_at": "2026-05-22T00:07:11+00:00",
+          "summary": "Sarden kalengan dianggap bukan Ultra Processed Food (UPF), tetapi dokter kesehatan dr Aru Ariadno menyarankan real food sebagai pilihan terbaik untuk kesehatan. Ia mengingatkan bahwa makanan olahan sering mengandung bahan tambahan yang risikonya sulit dikontrol, meski ada regulasi. Meskipun demikian, dr Aru mengakui kesulitan masyarakat dalam memprioritaskan real food akibat kesibukan sehari-hari.",
+          "key_points": [
+            "Sarden kalengan bukan UPF, tetapi real food tetap dianggap lebih sehat karena kejelasan bahan dan proses pembuatan.",
+            "Makanan olahan berisiko mengandung bahan tambahan yang tidak terkontrol, berpotensi memengaruhi kesehatan meski ada regulasi.",
+            "Kenaikan penyakit metabolik pada usia muda seperti diabetes dan hipertensi disebut terkait dengan konsumsi makanan olahan."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 2908
+    },
+    "timestamp": "2026-05-22T02:44:32.137386+00:00"
   }
 ]
