@@ -7,8 +7,10 @@ import {
   TrendingUp, 
   BrainCircuit, 
   FileText,
-  Sparkles
+  Sparkles,
+  Globe
 } from "lucide-react";
+import { motion } from "motion/react";
 
 interface DigestViewProps {
   data: DigestData | null;
@@ -22,13 +24,6 @@ const getImpactColor = (impact?: string) => {
     case 'low': return 'text-blue-500 border-blue-500/30 bg-blue-500/10';
     default: return 'text-blue-500 border-blue-500/30 bg-blue-500/10';
   }
-};
-
-// Helper to derive impact if not provided
-const deriveImpact = (story: StoryGroup) => {
-  if (story.articles.length >= 8) return 'HIGH';
-  if (story.articles.length >= 3) return 'MEDIUM';
-  return 'LOW';
 };
 
 // Source Branding Component
@@ -47,7 +42,7 @@ const SourceBadge = ({ source }: { source: string }) => {
   else if (s.includes('BBC') || s.includes('CNN') || s.includes('AL JAZEERA')) { isIntl = true; }
 
   return (
-    <div className="flex items-center gap-1.5">
+    <div className="flex items-center gap-1.5 select-none">
       <span className={`px-1.5 py-0.5 rounded text-[9px] font-black tracking-tighter ${bg} ${text}`}>
         {s}
       </span>
@@ -69,10 +64,14 @@ export const DigestView = ({ data }: DigestViewProps) => {
   }
 
   return (
-    <div className="max-w-6xl mx-auto px-6 py-12 space-y-16 animate-in fade-in slide-in-from-bottom-6 duration-1000">
+    <div className="max-w-6xl mx-auto px-6 py-12 space-y-16 animate-in fade-in slide-in-from-bottom-6 duration-1000 font-sans">
       
-      {/* 1. Global Headline Box (Restored) */}
-      <section className="relative group overflow-visible">
+      {/* 1. Global Headline Box */}
+      <motion.section 
+        initial={{ opacity: 0, y: 15 }}
+        animate={{ opacity: 1, y: 0 }}
+        className="relative group overflow-visible"
+      >
         <div className="absolute inset-0 bg-brand-accent/5 blur-[120px] -z-10 rounded-full opacity-30 group-hover:opacity-50 transition-opacity duration-1000" />
         <div className="bg-brand-sidebar/40 backdrop-blur-2xl border border-white/[0.05] rounded-[2.5rem] p-10 md:p-14 text-center relative shadow-2xl overflow-visible">
           {/* Subtle Radial Gradient Overlay */}
@@ -88,7 +87,7 @@ export const DigestView = ({ data }: DigestViewProps) => {
             {data.headline}
           </h1>
         </div>
-      </section>
+      </motion.section>
 
       {/* Strategic Correlations Area */}
       {data.correlations && data.correlations.length > 0 && (
@@ -100,7 +99,14 @@ export const DigestView = ({ data }: DigestViewProps) => {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {data.correlations?.map((cor, idx: number) => (
-              <div key={idx} className="bg-[#1a2333]/40 border border-white/5 rounded-2xl p-6 relative overflow-hidden group hover:border-brand-accent/30 transition-all duration-500 shadow-xl">
+              <motion.div 
+                key={idx} 
+                initial={{ opacity: 0, y: 15 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                whileHover={{ y: -2 }}
+                className="bg-[#1a2333]/40 border border-white/5 rounded-2xl p-6 relative overflow-hidden group hover:border-brand-accent/30 transition-all duration-500 shadow-xl"
+              >
                 <div className="absolute -right-4 -bottom-4 opacity-[0.03] group-hover:opacity-[0.08] transition-opacity">
                   <Sparkles className="w-24 h-24 text-brand-accent" />
                 </div>
@@ -116,7 +122,7 @@ export const DigestView = ({ data }: DigestViewProps) => {
                     {cor.analysis}
                   </p>
                 </div>
-              </div>
+              </motion.div>
             ))}
           </div>
         </section>
@@ -126,53 +132,57 @@ export const DigestView = ({ data }: DigestViewProps) => {
       <section className="space-y-12">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3 text-white/90">
-            <TrendingUp className="w-5 h-5 text-brand-accent scale-125" />
+            <TrendingUp className="w-5 h-5 text-brand-accent scale-125 animate-pulse" />
             <h2 className="text-xl font-black uppercase tracking-[0.3em] italic">Top Curated Intelligence</h2>
           </div>
-          <div className="px-3 py-1 bg-brand-accent/5 border border-brand-accent/20 rounded-full text-[9px] font-bold text-brand-accent uppercase tracking-widest">
+          <div className="px-3 py-1 bg-brand-accent/5 border border-brand-accent/20 rounded-full text-[9px] font-bold text-brand-accent uppercase tracking-widest select-none">
             Elite Top 5
           </div>
         </div>
 
         <div className="space-y-12">
-          {/* HERO STORY (Rank #1) - RESTORED & ROBUST */}
+          {/* HERO STORY (Rank #1) */}
           {data.top_stories.length > 0 && (
-            <div className="group relative">
-              <div className="bg-brand-sidebar/60 backdrop-blur-3xl border border-brand-accent/20 rounded-[3rem] overflow-hidden shadow-2xl">
+            <motion.div 
+              initial={{ opacity: 0, y: 15 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="group relative"
+            >
+              <div className="bg-brand-sidebar/60 backdrop-blur-3xl border border-brand-accent/20 rounded-[3rem] overflow-hidden shadow-2xl transition-all duration-300 group-hover:border-brand-accent/35">
                 <div className="p-8 md:p-12 space-y-8">
-                  {/* CLEAN HEADER (NO OVERLAP) */}
                   <div className="flex flex-wrap items-center justify-between gap-4">
                     <div className="flex items-center gap-3">
-                      <div className="px-4 py-1.5 bg-brand-accent text-white rounded-lg text-[10px] font-black uppercase tracking-widest shadow-[0_4px_15px_rgba(59,130,246,0.3)]">
+                      <div className="px-4 py-1.5 bg-brand-accent text-white rounded-lg text-[10px] font-black uppercase tracking-widest shadow-[0_4px_15px_rgba(59,130,246,0.3)] select-none">
                         TOP PRIORITY
                       </div>
-                      <div className="px-3 py-1.5 bg-white/[0.03] border border-white/[0.05] rounded-lg text-[9px] font-bold text-white/60 uppercase tracking-widest">
+                      <div className="px-3 py-1.5 bg-white/[0.03] border border-white/[0.05] rounded-lg text-[9px] font-bold text-white/60 uppercase tracking-widest select-none">
                         {data.top_stories[0].total_reports || data.top_stories[0].articles.length} Sourced Reports
                       </div>
-                      <div title={data.top_stories[0].impact_reason} className={`px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest border border-white/5 cursor-help ${getImpactColor(data.top_stories[0].impact_level)}`}>
+                      <div title={data.top_stories[0].impact_reason} className={`px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest border border-white/5 cursor-help select-none ${getImpactColor(data.top_stories[0].impact_level)}`}>
                         {data.top_stories[0].impact_level} IMPACT
                       </div>
                     </div>
-                    <div className="flex items-center gap-2 px-3 py-1.5 bg-white/[0.02] border border-white/[0.05] rounded-lg">
+                    <div className="flex items-center gap-2 px-3 py-1.5 bg-white/[0.02] border border-white/[0.05] rounded-lg select-none">
                       <BrainCircuit className="w-4 h-4 text-brand-accent/70" />
                       <span className="text-[8px] font-bold text-white/20 uppercase tracking-tighter">AI Synthesized</span>
                     </div>
                   </div>
 
                   <div className="space-y-6">
-                    <h3 className="text-3xl md:text-4xl font-black text-white leading-[1.1] tracking-tight">
+                    <h3 className="text-3xl md:text-4xl font-black text-white leading-[1.1] tracking-tight group-hover:text-brand-blue transition-colors">
                       {data.top_stories[0].title}
                     </h3>
                     
                     <div className="bg-white/[0.02] border border-white/[0.03] rounded-[2rem] p-8 md:p-10 shadow-inner">
-                       <div className="flex items-center gap-2.5 text-brand-accent font-black text-[10px] uppercase tracking-[0.3em] mb-6 opacity-80">
+                       <div className="flex items-center gap-2.5 text-brand-accent font-black text-[10px] uppercase tracking-[0.3em] mb-6 opacity-80 select-none">
                          <Sparkles className="w-4 h-4" />
                          Analyst Synthesis
                        </div>
                       <ol className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-6">
                         {data.top_stories[0].synthesis.map((point: string, idx: number) => (
                           <li key={idx} className="flex gap-5 text-base md:text-lg text-white/90 leading-relaxed font-semibold group/point">
-                            <span className="flex-shrink-0 w-8 h-8 rounded-lg bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-xs font-black text-brand-accent group-hover/point:bg-brand-accent group-hover/point:text-white transition-all duration-300">
+                            <span className="flex-shrink-0 w-8 h-8 rounded-lg bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center text-xs font-black text-brand-accent group-hover/point:bg-brand-accent group-hover/point:text-white transition-all duration-300 select-none">
                               {idx + 1}
                             </span>
                             <span className="pt-0.5">{point}</span>
@@ -181,10 +191,10 @@ export const DigestView = ({ data }: DigestViewProps) => {
                       </ol>
                     </div>
 
-                    {/* SOURCE VALIDATION (Hyperlinked) */}
+                    {/* SOURCE VALIDATION */}
                     <div className="pt-4 space-y-4">
                       <div className="flex items-center gap-3">
-                         <span className="text-[9px] font-black text-white/20 uppercase tracking-[0.4em] whitespace-nowrap">Source Validation</span>
+                         <span className="text-[9px] font-black text-white/20 uppercase tracking-[0.4em] whitespace-nowrap select-none">Source Validation</span>
                          <div className="h-px w-full bg-gradient-to-r from-white/10 to-transparent" />
                       </div>
                       <div className="flex flex-wrap gap-4">
@@ -208,7 +218,7 @@ export const DigestView = ({ data }: DigestViewProps) => {
                   </div>
                 </div>
               </div>
-            </div>
+            </motion.div>
           )}
 
           {/* SECONDARY STORIES GRID (Rank #2-5) */}
@@ -219,14 +229,21 @@ export const DigestView = ({ data }: DigestViewProps) => {
                 const reportsCount = story.total_reports || story.articles.length;
 
                 return (
-                  <div key={story.id} className="group relative">
-                    <div className="bg-brand-card/30 backdrop-blur-xl border border-white/[0.05] rounded-[2rem] overflow-hidden hover:border-brand-accent/30 transition-all duration-500 shadow-xl h-full flex flex-col">
+                  <motion.div 
+                    key={story.id} 
+                    initial={{ opacity: 0, y: 15 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    whileHover={{ y: -4 }}
+                    className="group relative"
+                  >
+                    <div className="bg-brand-card/30 backdrop-blur-xl border border-white/[0.05] rounded-[2rem] overflow-hidden hover:border-brand-accent/30 hover:shadow-[0_0_20px_rgba(59,130,246,0.05)] transition-all duration-500 shadow-xl h-full flex flex-col">
                       <div className="p-8 space-y-6 flex-1">
                         <div className="flex justify-between items-center">
-                          <div title={story.impact_reason} className={`px-2.5 py-0.5 rounded-full text-[9px] font-black uppercase tracking-widest border ${getImpactColor(impact)}`}>
+                          <div title={story.impact_reason} className={`px-2.5 py-0.5 rounded-full text-[9px] font-black uppercase tracking-widest border select-none ${getImpactColor(impact)}`}>
                             {impact}
                           </div>
-                          <span className="text-[9px] font-bold text-white/20 uppercase tracking-widest">
+                          <span className="text-[9px] font-bold text-white/20 uppercase tracking-widest select-none">
                             {reportsCount} Sources
                           </span>
                         </div>
@@ -244,22 +261,22 @@ export const DigestView = ({ data }: DigestViewProps) => {
                           ))}
                         </div>
                       </div>
-                        <div className="px-6 py-4 bg-white/[0.02] border-t border-white/[0.03] flex flex-wrap gap-x-6 gap-y-3">
-                           {story.articles.slice(0, 2).map((article: any, idx: number) => (
-                             <a 
-                               key={idx} 
-                               href={article.url} 
-                               target="_blank" 
-                               rel="noopener noreferrer"
-                               className="flex items-center gap-2 group/src"
-                             >
-                               <SourceBadge source={article.source} />
-                               <ArrowUpRight className="w-3 h-3 text-white/10 group-hover/src:text-brand-accent transition-colors" />
-                             </a>
-                           ))}
-                        </div>
+                      <div className="px-6 py-4 bg-white/[0.02] border-t border-white/[0.03] flex flex-wrap gap-x-6 gap-y-3">
+                         {story.articles.slice(0, 2).map((article: any, idx: number) => (
+                           <a 
+                             key={idx} 
+                             href={article.url} 
+                             target="_blank" 
+                             rel="noopener noreferrer"
+                             className="flex items-center gap-2 group/src"
+                           >
+                             <SourceBadge source={article.source} />
+                             <ArrowUpRight className="w-3 h-3 text-white/10 group-hover/src:text-brand-accent transition-colors" />
+                           </a>
+                         ))}
+                      </div>
                     </div>
-                  </div>
+                  </motion.div>
                 );
               })}
             </div>
@@ -270,7 +287,7 @@ export const DigestView = ({ data }: DigestViewProps) => {
       {/* 3. Supplemental Updates */}
       <section className="space-y-8">
         <div className="flex items-center gap-3 text-white/90">
-          <FileText className="w-5 h-5 text-brand-accent" />
+          <FileText className="w-5 h-5 text-brand-accent animate-pulse" />
           <h2 className="text-lg font-bold uppercase tracking-widest italic flex items-center gap-3">
             Supplemental Updates
           </h2>
@@ -280,37 +297,38 @@ export const DigestView = ({ data }: DigestViewProps) => {
           {Object.entries(data.other_news).map(([category, articles]) => (
             <div key={category} className="space-y-6">
               <div className="flex items-center justify-between border-b border-brand-border/30 pb-3">
-                <h3 className="text-xs font-black text-brand-accent uppercase tracking-[0.2em]">
+                <h3 className="text-xs font-black text-brand-accent uppercase tracking-[0.2em] select-none">
                   {category}
                 </h3>
-                <span className="text-[10px] font-bold text-white/20 uppercase">
+                <span className="text-[10px] font-bold text-white/20 uppercase select-none">
                   {articles.length} Updates
                 </span>
               </div>
               
               <div className="space-y-6">
                 {articles.slice(0, 2).map((article, idx) => (
-                  <a 
+                  <motion.a 
                     key={idx} 
                     href={article.url} 
                     target="_blank" 
                     rel="noopener noreferrer"
+                    whileHover={{ x: 4 }}
                     className="block group/item"
                   >
                     <div className="space-y-2">
                       <h4 className="text-sm font-bold text-brand-text-main group-hover/item:text-brand-accent transition-colors leading-snug">
                         {article.title}
                       </h4>
-                      <div className="flex items-center gap-3 text-[10px] text-white/30 font-bold uppercase">
+                      <div className="flex items-center gap-3 text-[10px] text-white/30 font-bold uppercase select-none">
                         <span>{article.source}</span>
                         <span className="w-1 h-1 rounded-full bg-white/10" />
-                        <div className="flex items-center gap-1.5">
+                        <div className="flex items-center gap-1.5 font-mono">
                           <Clock className="w-3 h-3" />
                           {new Date(article.published_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                         </div>
                       </div>
                     </div>
-                  </a>
+                  </motion.a>
                 ))}
               </div>
             </div>
@@ -319,12 +337,11 @@ export const DigestView = ({ data }: DigestViewProps) => {
       </section>
 
       {/* Footer */}
-      <footer className="pt-24 pb-12 text-center opacity-20 hover:opacity-100 transition-opacity duration-500">
-        <p className="text-[10px] font-black uppercase tracking-[0.4em]">
+      <footer className="pt-24 pb-12 text-center opacity-20 hover:opacity-100 transition-opacity duration-500 select-none">
+        <p className="text-[10px] font-black uppercase tracking-[0.4em] text-white/50">
           Sekilas.ai Intelligence Engine • {data.date}
         </p>
       </footer>
     </div>
   );
 };
-

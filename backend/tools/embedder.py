@@ -1,6 +1,11 @@
 from __future__ import annotations
 
 import time
+import os
+# Fix huggingface_hub WinError 1314 (symlink privilege issue on Windows)
+os.environ["HF_HUB_DISABLE_SYMLINKS"] = "1"
+os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
+
 from typing import Sequence
 import logging
 

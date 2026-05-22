@@ -34,21 +34,27 @@ Kembalikan JSON valid dengan format:
 """.strip()
 
 HEADLINE_PROMPT = """
-Kamu adalah Analis Intelijen Senior yang bertugas memberikan rangkuman strategis harian.
+Kamu adalah Pemimpin Redaksi Senior yang bertugas menyusun "Global Headline" (Satu kalimat isu utama hari ini).
 
-Berdasarkan data berita berikut, buatlah SATU kalimat "Global Headline" yang padat, informatif, dan langsung merujuk pada peristiwa atau subjek nyata yang paling signifikan. 
+Tugas Anda adalah membaca daftar topik berita hari ini yang sudah diurutkan berdasarkan tingkat dampaknya (dari yang paling berdampak hingga yang penting lainnya), lalu buatlah SATU kalimat headline utama yang padat, informatif, dan secara akurat menggambarkan ISU UTAMA hari ini agar pembaca langsung mengetahui apa fokus terbesar hari ini.
 
-Kalimat tersebut HARUS:
-1. Menghindari abstraksi berlebihan atau kumpulan buzzword generik.
-2. Menyebutkan aktor, lokasi, atau sektor spesifik jika memungkinkan.
-3. Menggunakan struktur sebab-akibat yang jelas: [Peristiwa Nyata/Tren Utama] memicu [Dampak Spesifik].
-4. Profesional namun tetap mudah dipahami.
+INSTRUKSI UTAMA:
+1. ISU UTAMA TIDAK HARUS GEOPOLITIK. Fokuslah pada berita yang PALING BERDAMPAK NYATA saat ini (bisa berupa Ekonomi Makro/Nasional, Kesehatan Masyarakat, Kebijakan Publik, Disrupsi Teknologi, Hukum, atau Internasional).
+2. Prioritaskan topik yang berlabel [UTAMA / PALING BERDAMPAK] sebagai jangkar utama headline.
+3. Hubungkan isu utama tersebut dengan berita atau topik berdampak lainnya HANYA JIKA terdapat kaitan logis yang nyata (seperti hubungan sebab-akibat, efek domino, atau pengaruh lintas sektor). Jika tidak ada kaitan logis, JANGAN dipaksakan; fokuslah menyusun satu kalimat yang tajam, spesifik, dan mendalam khusus untuk isu utama tersebut.
+4. Kalimat HARUS menghindari bahasa abstrak, klise, atau buzzword generik. Sebutkan subjek, aktor, lokasi, atau sektor riil secara spesifik agar pembaca langsung tahu masalah riilnya.
 5. HANYA mengembalikan teks murni. JANGAN gunakan format markdown (seperti **teks**), JANGAN gunakan label seperti "Global Headline:", dan JANGAN gunakan tanda kutip di awal dan akhir kalimat.
 
-Contoh Output yang BENAR: Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.
-Contoh Output yang SALAH: **Global Headline:** "Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global."
+Contoh Output yang BENAR (Ekonomi/Domestik & Hubungannya dengan Isu Lain):
+Presiden menyoroti manipulasi harga bahan pokok oleh spekulan di tengah melemahnya nilai tukar rupiah, memicu langkah tegas penertiban pasar domestik guna menekan laju inflasi.
 
-Data:
+Contoh Output yang BENAR (Kesehatan/Regulasi - Tanpa Kaitan Isu Lain):
+Temuan BPOM mengenai 22 merek kopi herbal berbahaya pemicu stroke mendesak pengetatan regulasi peredaran suplemen kesehatan nasional.
+
+Contoh Output yang BENAR (Geopolitik/Internasional & Hubungannya dengan Isu Lain):
+Aksi protes warga Greenland menolak pembukaan konsulat baru AS di Nuuk menghambat rencana ekspansi diplomatik Washington di Artik demi mengamankan jalur logistik baru.
+
+Data Berita Terurut:
 {digest_context}
 
 Global Headline (Gunakan Bahasa Indonesia):
@@ -174,12 +180,35 @@ class NewsSummarizerAgent:
         
         # PRIORITAS: Gunakan sintesis cerita yang sudah jadi agar headline lebih padat intelijen
         if story_syntheses and trending_map:
+            # Hitung volume artikel per klaster untuk menentukan skor pemeringkatan
+            cluster_counts = {}
+            for art in articles:
+                cid = getattr(art, "cluster_id", -1)
+                if cid != -1:
+                    cluster_counts[cid] = cluster_counts.get(cid, 0) + 1
+            
+            # Hitung skor pemeringkatan awal agar kita tahu mana yang paling berdampak
+            impact_weight = {"HIGH": 100, "MEDIUM": 50, "LOW": 10}
+            scored_stories = []
             for cid, data in story_syntheses.items():
-                topic_name = trending_map.get(cid, "Topik Utama")
-                # Handle both old list format and new dict format for robustness
+                topic_name = trending_map.get(cid, "Topik")
+                impact_level = data.get("impact_level", "LOW").upper()
+                report_count = cluster_counts.get(cid, len(data.get("synthesis", [])))
+                
+                score = impact_weight.get(impact_level, 0) + min(report_count, 50)
+                scored_stories.append((score, cid, topic_name, data))
+                
+            # Urutkan berdasarkan skor tertinggi (dari yang paling berdampak)
+            scored_stories.sort(key=lambda x: x[0], reverse=True)
+            
+            for i, (score, cid, topic_name, data) in enumerate(scored_stories):
                 points = data if isinstance(data, list) else data.get("synthesis", [])
-                combined_points = " ".join(points[:1]) # Ambil poin pertama saja agar tidak terlalu panjang
-                context_lines.append(f"Topik [{topic_name}]: {combined_points}")
+                combined_points = " ".join(points[:2]) # Ambil 2 poin teratas agar konteks lebih kaya
+                impact = data.get("impact_level", "LOW").upper()
+                
+                # Berikan tanda khusus pada yang paling berdampak
+                prefix = "[UTAMA / PALING BERDAMPAK]" if i == 0 else f"[PENTING / DAMPAK {impact}]"
+                context_lines.append(f"{prefix} Topik '{topic_name}': {combined_points}")
         else:
             # Fallback ke ringkasan individu jika belum ada sintesis klaster
             for article in articles[:8]: # Kurangi jumlah artikel untuk meminimalisir safety trigger
@@ -288,7 +317,7 @@ class NewsSummarizerAgent:
 
     def generate_trending_topics(self, clusters: list[list[RawHeadline]], top_k: int = 5) -> list[str]:
         """
-        Names the top K clusters using the LLM in a single BATCH call.
+        Names the top K clusters using the LLM in a single BATCH call with robust error handling and retries.
         """
         # Name any cluster that has articles, prioritizing trends (>1)
         potential_trending = [c for c in clusters if len(c) > 0][:top_k]
@@ -305,45 +334,65 @@ class NewsSummarizerAgent:
         
         prompt = BATCH_NAMING_PROMPT.format(clusters_data="\n".join(clusters_info))
         
-        try:
-            response = self.client.chat.completions.create(
-                model=self.model_name,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.1,
-                response_format={"type": "json_object"}
-            )
-            SystemMonitor.increment_llm_usage()
-            
-            raw_text = response.choices[0].message.content
-            data = extract_json(raw_text)
-            
-            # Handle cases where it might return the list directly or inside 'topics'
-            results = data.get("topics", []) if isinstance(data, dict) else data
-            
-            names = ["" for _ in range(len(potential_trending))]
-            for res in results:
-                if not isinstance(res, dict): continue
-                idx = res.get("id")
-                name = res.get("name", "").strip().strip('"').strip("'")
-                if idx is not None and 0 <= idx < len(names):
-                    names[idx] = name
-            
-            # Fill empty names with fallbacks
-            final_names = []
-            for i, name in enumerate(names):
-                is_generic = name.lower() in ["internasional", "nasional", "politik", "ekonomi", "berita", "update", "topik terkait", "topik"]
-                if name and not is_generic:
-                    final_names.append(name)
-                else:
-                    first_title = potential_trending[i][0].title
-                    fallback = first_title[:42] + "..." if len(first_title) > 45 else first_title
-                    final_names.append(fallback)
-            
-            return final_names
-            
-        except Exception as e:
-            print(f"  [!] Gagal menamai topik secara batch: {e}. Menggunakan nama kategori sebagai fallback.")
-            return [c[0].category_hint or "Isu Terkini" for c in potential_trending]
+        # We try up to 2 attempts with exponential backoff on rate limits
+        for attempt in range(2):
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model_name,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=0.1,
+                    response_format={"type": "json_object"}
+                )
+                SystemMonitor.increment_llm_usage()
+                
+                raw_text = response.choices[0].message.content
+                data = extract_json(raw_text)
+                
+                # Handle cases where it might return the list directly or inside 'topics'
+                results = data.get("topics", []) if isinstance(data, dict) else data
+                
+                names = ["" for _ in range(len(potential_trending))]
+                for res in results:
+                    if not isinstance(res, dict): continue
+                    idx = res.get("id")
+                    name = res.get("name", "").strip().strip('"').strip("'")
+                    if idx is not None and 0 <= idx < len(names):
+                        names[idx] = name
+                
+                # Fill empty or generic names with fallbacks
+                final_names = []
+                for i, name in enumerate(names):
+                    is_generic = name.lower() in [
+                        "internasional", "nasional", "politik", "ekonomi", "kesehatan", 
+                        "teknologi", "olahraga", "hiburan", "lingkungan", "hukum", "umum", 
+                        "berita", "update", "topik terkait", "topik", "isu terkini", "lifestyle",
+                        "sains", "budaya", "edukasi"
+                    ]
+                    if name and not is_generic:
+                        final_names.append(name)
+                    else:
+                        first_title = potential_trending[i][0].title
+                        fallback = first_title[:42] + "..." if len(first_title) > 45 else first_title
+                        final_names.append(fallback)
+                
+                return final_names
+                
+            except Exception as e:
+                print(f"  [!] Gagal menamai topik secara batch (percobaan {attempt+1}): {e}")
+                if "rate_limit_exceeded" in str(e).lower():
+                    print("  [>] Rate limit tercapai. Menunggu 25 detik...")
+                    time.sleep(25.0)
+                elif attempt == 0:
+                    time.sleep(10.0)
+        
+        # --- ULTIMATE FALLBACK: Use first article title from each cluster ---
+        print("  [!] Semua percobaan batch naming gagal. Menggunakan judul berita pertama sebagai fallback.")
+        final_fallbacks = []
+        for cluster in potential_trending:
+            first_title = cluster[0].title
+            fallback = first_title[:42] + "..." if len(first_title) > 45 else first_title
+            final_fallbacks.append(fallback)
+        return final_fallbacks
 
     def synthesize_story(self, articles: list[FilteredArticle], insights: dict[str, ArticleInsight], external_context: list[dict] = None) -> dict:
         """
@@ -545,6 +594,53 @@ class NewsSummarizerAgent:
         return max(counts.items(), key=lambda kv: kv[1])[0]
 
 
+def _is_topic_relevant_to_headline(topic_name: str, headline: str) -> bool:
+    if not topic_name or not headline:
+        return False
+        
+    topic_clean = topic_name.lower()
+    headline_clean = headline.lower()
+    
+    # 1. Direct substring match (always True)
+    if topic_clean in headline_clean:
+        return True
+        
+    # 2. Key word overlap check
+    # Split into words and remove punctuation
+    words = [w.strip(".,;:!?()\"'") for w in topic_clean.split()]
+    # Stop words in Indonesian / English to filter out noise
+    stop_words = {
+        "di", "oleh", "dan", "ke", "dari", "yang", "untuk", "dalam", "dengan", "pada", 
+        "adalah", "sebagai", "atau", "ini", "itu", "the", "and", "for", "with", "from", "under"
+    }
+    
+    keywords = [w for w in words if w and w not in stop_words and len(w) > 2]
+    
+    if not keywords:
+        return False
+        
+    # Count matches. If a keyword matches or is partially matched (stemmed) in the headline
+    match_count = 0
+    for kw in keywords:
+        # Check if the keyword itself is in the headline, or if a stem of it matches
+        if kw in headline_clean:
+            match_count += 1
+        else:
+            # Check partial overlap (e.g. "greenland" matches "greenlanders")
+            # If the keyword starts with or contains part of a headline word
+            for hw in headline_clean.split():
+                clean_hw = hw.strip(".,;:!?()\"'")
+                if len(clean_hw) > 2 and (clean_hw in kw or kw in clean_hw):
+                    match_count += 1
+                    break
+                    
+    # If at least 2 keywords match and match ratio is >= 30%
+    if len(keywords) >= 2:
+        return match_count >= 2 and (match_count / len(keywords) >= 0.3)
+    else:
+        return match_count >= 1
+
+
 def build_daily_digest_record(
     articles: Sequence[FilteredArticle],
     insights: dict[str, ArticleInsight],
@@ -634,7 +730,7 @@ def build_daily_digest_record(
                 # STRATEGIC BOOST: Jika topik ini disebutkan atau sangat relevan dengan Global Headline, 
                 # berikan bonus besar agar dia naik ke urutan #1 (Cell Gede)
                 strategic_bonus = 0
-                if headline and topic_name.lower() in headline.lower():
+                if headline and _is_topic_relevant_to_headline(topic_name, headline):
                     strategic_bonus = 200 # Pastikan dia jadi nomor 1
                 
                 rank_score = base_score + strategic_bonus

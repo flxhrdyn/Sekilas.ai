@@ -36,7 +36,8 @@ export interface DigestData {
   correlations?: Correlation[];
 }
 
-export type Tab = 'digest' | 'search' | 'qa';
+export type Tab = 'digest' | 'search' | 'qa' | 'pipeline' | 'vector';
+export type View = 'landing' | 'dashboard';
 
 export interface AgentPulse {
   id: string;
