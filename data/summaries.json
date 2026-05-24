@@ -13222,5 +13222,358 @@
       "total_in_qdrant": 3332
     },
     "timestamp": "2026-05-23T02:20:47.947795+00:00"
+  },
+  {
+    "date": "2026-05-24",
+    "generated_at": "2026-05-24T02:39:41.430905+00:00",
+    "headline": "Serangan rudal di Selat Hormuz memicu kematian kapten dan awak kapal serta ketegangan regional.",
+    "global_headline": "Serangan rudal di Selat Hormuz memicu kematian kapten dan awak kapal serta ketegangan regional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Partai Tikus Generasi Z India",
+        "title": "Partai Tikus Generasi Z India",
+        "synthesis": [
+          "Gerakan satir 'Cockroach Janta Party' viral di India akibat kritik terhadap pengangguran dan biaya hidup.",
+          "Gerakan ini mencerminkan frustrasi publik terhadap kebijakan pemerintah Modi.",
+          "Mendapat 22 juta pengikut di Instagram dalam 6 hari, menunjukkan ketidakpuasan sosial luas."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Gerakan ini mengungkap ketegangan sosial dan kritik sistemik terhadap pemerintah.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "India’s Gen Z ‘Cockroach Party’ is going viral",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/indias-gen-z-cockroach-party-is-going-viral?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-23T20:36:40+00:00",
+            "summary": "Sebuah gerakan politik satir bernama 'Cockroach Janta Party' viral di India setelah Ketua Hakim Surya Kant membandingkan pemuda yang menganggur dengan 'kecoa'. Gerakan ini mencerminkan frustrasi terhadap tingginya pengangguran, inflasi, dan biaya hidup di bawah pemerintahan Narendra Modi, serta mendapat lebih dari 22 juta pengikut di Instagram dalam enam hari.",
+            "key_points": [
+              "Gerakan 'Cockroach Janta Party' muncul sebagai respons satir terhadap pernyataan Ketua Hakim Surya Kant yang membandingkan pemuda menganggur dengan kecoa.",
+              "Gerakan ini mencerminkan ketidakpuasan terhadap isu pengangguran, inflasi, dan kenaikan biaya hidup di bawah pemerintahan Narendra Modi.",
+              "Gerakan tersebut mendapat popularitas cepat dengan lebih dari 22 juta pengikut di Instagram dalam enam hari."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Serangan Rudal Selat Hormuz dan Korban Hilang",
+        "title": "Serangan Rudal Selat Hormuz dan Korban Hilang",
+        "synthesis": [
+          "Serangan rudal di Selat Hormuz tewaskan kapten dan awak kapal.",
+          "Lebih dari 20.000 awak kapal terjebak akibat konflik.",
+          "Penutupan Selat Hormuz ganggu perdagangan energi global."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik mengganggu lalu lintas maritim global dan meningkatkan risiko keamanan pelaut.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan Rudal Selat Hormuz dan Korban Hilang",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Serangan Rudal Selat Hormuz dan Korban Hilang. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penutupan Selat Hormuz**: Iran telah mengumumkan penutupan Selat Hormuz sebagai respons terhadap serangan militer AS dan Israel, yang berdampak besar terhadap perdagangan minyak dan gas global.\n2. **Dampak pada Ekonomi Global**: Gangguan pada pasokan energi dan pasar global mempertegas dampak konflik pada ekonomi dunia, termasuk peningkatan harga energi global dan potensi gejolak ekonomi.\n3. **Korban Hilang**: Belum ada informasi yang akurat tentang korban hilang dalam serangan rudal balistik Iran, tetapi diperkirakan bahwa beberapa kapal dan fasilitas militer AS dan Israel telah menjadi target serangan.\n4. **Reaksi Internasional**: Konflik ini telah mendorong reaksi luas dari negara-negara di dunia, termasuk seruan dari Perserikatan Bangsa-Bangsa dan negara besar untuk menghentikan permusuhan dan mencari solusi diplomatik."
+          }
+        ],
+        "articles": [
+          {
+            "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-23T23:24:03+00:00",
+            "summary": "Sunil Puniya selamat dari serangan rudal di Selat Hormuz yang menewaskan temannya, Dalip Rathore, sementara lebih dari 20.000 awak kapal terjebak akibat konflik di kawasan tersebut. Serangan rudal yang menghantam kapal minyak Skylight menyebabkan kekacauan dan kematian dua orang, termasuk kapten kapal. Konflik ini juga mengganggu lalu lintas maritim global dan meningkatkan risiko bagi para pelaut.",
+            "key_points": [
+              "Serangan rudal di Selat Hormuz menewaskan Dalip Rathore dan kapten kapal, sementara Sunil Puniya selamat setelah melompat ke laut untuk menyelamatkan diri.",
+              "Lebih dari 20.000 awak kapal terjebak di Teluk karena blokade Selat Hormuz, dengan banyak yang menghadapi masalah seperti upah tidak dibayar dan kekurangan pasokan dasar.",
+              "Organisasi maritim mencatat 38 kapal komersial terkena dampak konflik sejak awal perang, dengan 6.223 pelaut di seluruh dunia dilaporkan ditinggalkan oleh pemilik kapal."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Produk Herba Ilegal BPOM Merusak Ginjal",
+        "title": "Produk Herba Ilegal BPOM Merusak Ginjal",
+        "synthesis": [
+          "BPOM tangkap 22 produk herba ilegal mengandung bahan kimia berbahaya.",
+          "Produk ilegal berisiko merusak ginjal dan memicu kanker pada pengguna.",
+          "Produk terdiri dari 13 jenis stamina pria, 6 obat pegal linu, dan 3 lainnya."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ancaman kesehatan publik akibat produk ilegal berbahaya yang beredar luas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Produk Herba Ilegal BPOM Merusak Ginjal",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. Badan Pengawas Obat dan Makanan (BPOM) telah menemukan 19 produk herbal atau obat bahan alam (OBA) ilegal yang terbukti mengandung bahan kimia obat (BKO) melalui penelitian dan pengawasan.\n2. Selain itu, BPOM juga telah menemukan 32 produk obat bahan alam ilegal sepanjang Oktober 2025, serta 18 produk bahan alam dan suplemen kesehatan ilegal yang mengandung BKO pada periode Juli 2025.\n3. BPOM telah melakukan pemblokiran (takedown) terhadap tautan penjualan produk ilegal yang ditemukan di platform online untuk mencegah ancaman kesehatan.\n4. Peredaran produk bahan alam ilegal, terutama Obat Tradisional (OT) yang mengandung Bahan Kimia Obat (BKO), terus meningkat di Indonesia, sehingga perlu dilakukan tindakan tegas oleh BPOM dan pihak terkait lainnya."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Infografis: Daftar 22 Produk Herba Ilegal Tangkapan BPOM, Merusak Ginjal-Picu Kanker",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/infografis/d-8502020/infografis-daftar-22-produk-herba-ilegal-tangkapan-bpom-merusak-ginjal-picu-kanker",
+            "category": "Kesehatan",
+            "published_at": "2026-05-24T00:05:25+00:00",
+            "summary": "BPOM menangkap 22 produk herba ilegal yang mengandung bahan kimia obat berbahaya, berisiko merusak ginjal dan memicu kanker. Produk tersebut terdiri atas 13 jenis untuk stamina pria, 6 untuk mengatasi pegal linu, serta 1 produk penggemuk badan dan 2 pereda gatal dengan bahan obat tidak sesuai ketentuan.",
+            "key_points": [
+              "13 produk stamina pria mengandung BKO seperti sildenafil, tadalafil, dan metil testosteron.",
+              "6 produk untuk pegal linu menggunakan bahan obat yang tidak memenuhi standar.",
+              "1 produk penggemuk badan dan 2 pereda gatal mengandung bahan kimia berbahaya seperti siproheptadin dan klorfeniramin maleat."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Film Fjord Menang Penghargaan Utama Cannes",
+        "title": "Film Fjord Menang Penghargaan Utama Cannes",
+        "synthesis": [
+          "Film 'Fjord' karya Cristian Mungiu memenangkan Palme d'Or Cannes 2026, kemenangan kedua setelah 2007.",
+          "Menggambarkan konflik budaya antara keluarga Rumania dan nilai pendidikan di Norwegia.",
+          "Mungiu tekankan pentingnya toleransi dan empati melalui karya ini."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mengangkat isu budaya dan nilai pendidikan lintas batas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Film Fjord Menang Penghargaan Utama Cannes",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Film Fjord Menang Penghargaan Utama Cannes\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Film Fjord tidak disebutkan dalam hasil pencarian mentah**. Namun, saya menemukan beberapa informasi tentang tren baru dalam perfilman di era digital, seperti produksi film berbasis teknologi digital, penggunaan kamera 4K dan 8K, CGI, dan motion capture.\n2. **Pengaruh kritik di media sosial**. Menurut sebuah artikel, kritik di media sosial dapat memengaruhi bagaimana film berkembang di pasar, lebih dari sekedar respons spontan audiens.\n3. **Perbedaan pendapat antara kritikus dan audiens**. Seseorang mengungkapkan bahwa sering terjadi perbedaan pendapat antara kritikus dan audiens dalam menilai film, dengan beberapa orang mengatakan bahwa film tersebut \"enjoy\" sementara yang lain mengatakan bahwa film tersebut \"aman\".\n4. **Sinema sebagai pengalaman**. Seorang pengguna Instagram mengungkapkan bahwa sinema bukan hanya tentang penilaian, melainkan tentang pengalaman. Film mana yang menurut Anda paling tidak sesuai antara penilaian dan pengalaman?"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Fjord by Romanian director Cristian Mungiu wins Cannes’ top prize",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/entertainment/palme-dor-winner-cristian-mungiu-fjord-cannes-film-festival-6138566",
+            "category": "Hiburan",
+            "published_at": "2026-05-24T01:18:00+00:00",
+            "summary": "Film 'Fjord' karya sutradara Rumania Cristian Mungiu memenangkan Palme d'Or di Festival Film Cannes 2026, menjadi kemenangan keduanya setelah 2007. Film ini menggambarkan konflik budaya antara keluarga Rumania yang pindah ke desa Norwegia dan perbedaan nilai dalam pendidikan anak. Mungiu menyatakan filmnya sebagai ajakan untuk toleransi dan empati.",
+            "key_points": [
+              "Cristian Mungiu memenangkan Palme d'Or kedua untuk film 'Fjord', setelah sebelumnya menang pada 2007.",
+              "Film 'Fjord' menggambarkan konflik budaya dan perbedaan nilai dalam pendidikan anak antara keluarga Rumania dan Norwegia.",
+              "Mungiu menyatakan filmnya bertujuan mendorong toleransi, inklusi, dan empati terhadap perbedaan pandangan."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Kembalinya Onana ke MU dengan Trofi",
+        "title": "Kembalinya Onana ke MU dengan Trofi",
+        "synthesis": [
+          "Onana kembali ke MU setelah bawa Trabzonspor juara Piala Turki 2025/26.",
+          "Tampil 33 kali, kebobolan 40 gol, 6 clean sheet selama dipinjamkan.",
+          "Kembalinya tanpa opsi pembelian permanen mengganggu rencana MU."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pengembalian Onana tanpa opsi permanen memengaruhi strategi MU dalam lini pertahanan.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Onana Balik ke MU dengan Trofi",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8502001/onana-balik-ke-mu-dengan-trofi",
+            "category": "Olahraga",
+            "published_at": "2026-05-24T01:30:46+00:00",
+            "summary": "Andre Onana kembali ke Manchester United setelah membawa Trabzonspor meraih gelar Piala Turki pada musim 2025/2026. Ia tampil 33 kali dengan 40 kebobolan dan enam kali clean sheet selama dipinjamkan, sebelum kembali ke Old Trafford tanpa opsi pembelian permanen.",
+            "key_points": [
+              "Onana membantu Trabzonspor menjuarai Piala Turki 2025/2026 dengan kemenangan 2-1 atas Konyaspor.",
+              "Masa peminjaman Onana di Trabzonspor berakhir tanpa opsi permanen, dengan klub Turki menanggung sebagian besar gaji pemain.",
+              "Onana akan bersaing dengan Senne Lammens untuk posisi kiper inti MU musim 2026/2027 setelah mengumpulkan jam terbang tinggi."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Ekonomi India dan Kesehatan Publik",
+        "analysis": "Partai Tikus Generasi Z India yang mengkritik pengangguran dan biaya hidup tinggi secara tidak langsung terkait dengan penangkapan produk herba ilegal BPOM. Kondisi ekonomi yang memburuk mendorong masyarakat mencari alternatif pengobatan yang murah, termasuk produk ilegal yang berisiko merusak ginjal. Ini mencerminkan ketergantungan sosial-ekonomi pada sektor kesehatan yang tidak terjangkau, sementara pemerintah gagal menangani akar masalah seperti pengangguran dan inflasi."
+      },
+      {
+        "title": "Geopolitik Hormuz dan Stabilitas Ekonomi Global",
+        "analysis": "Serangan rudal di Selat Hormuz yang menewaskan kapten dan awak kapal berpotensi mengganggu aliran minyak global, yang akan memicu kenaikan harga energi. Kenaikan ini akan memperburuk tekanan biaya hidup di India, memperkuat kritik satir Partai Tikus Generasi Z. Selain itu, ketidakstabilan geopolitik ini juga memengaruhi rantai pasok global, yang bisa mengurangi investasi di sektor kreatif seperti film 'Fjord', yang bergantung pada distribusi internasional."
+      }
+    ],
+    "other_news": {
+      "Olahraga": [
+        {
+          "title": "Selisih Gol Menyelamatkan Tottenham?",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8502200/selisih-gol-menyelamatkan-tottenham",
+          "category": "Olahraga",
+          "published_at": "2026-05-24T02:25:06+00:00",
+          "summary": "Nasib Tottenham Hotspur di Premier League akan ditentukan dalam laga terakhir melawan West Ham United. Mereka berada di posisi 17 dengan keunggulan dua poin dari zona degradasi, sementara West Ham di posisi 18. Alan Shearer memprediksi hasil imbang bisa menyelamatkan Tottenham berdasarkan selisih gol yang lebih baik.",
+          "key_points": [
+            "Tottenham Hotspur berada di posisi 17 klasemen Premier League dengan keunggulan dua poin dari zona degradasi.",
+            "West Ham United di posisi 18 dan wajib menang untuk menghindari degradasi, sementara Tottenham bisa selamat dengan hasil imbang.",
+            "Alan Shearer memprediksi hasil imbang antara Tottenham dan Everton akan menyelamatkan Spurs berdasarkan selisih gol (-10 vs -22)."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Ice hockey-Norway stun Sweden after 15 years to boost playoff hopes at World Championship",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/ice-hockey-norway-stun-sweden-after-15-years-boost-playoff-hopes-world-championship-6138556",
+          "category": "Olahraga",
+          "published_at": "2026-05-24T00:35:52+00:00",
+          "summary": "Norwegia mengalahkan Swedia 3-2 dalam pertandingan Kejuaraan Dunia Hoki Es IIHF, membukukan kemenangan pertama mereka atas Swedia dalam 15 tahun terakhir. Kemenangan ini didapat berkat dua gol saat kekurangan pemain dan kiper Henrik Haukeland yang menghalau 32 tembakan, membawa Norwegia semakin dekat dengan babak playoff.",
+          "key_points": [
+            "Norwegia mengakhiri rekor 15 tahun tanpa kemenangan melawan Swedia di kejuaraan dunia.",
+            "Dua gol Norwegia dicetak saat tim kekurangan pemain, termasuk gol kemenangan oleh Eirik Salsten.",
+            "Kemenangan ini meningkatkan peluang Norwegia untuk lolos ke babak playoff Kejuaraan Dunia Hoki Es."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "5 Makanan-Minuman Ini Bisa Picu Pertumbuhan Sel Kanker, Batasi Sekarang!",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8502028/5-makanan-minuman-ini-bisa-picu-pertumbuhan-sel-kanker-batasi-sekarang",
+          "category": "Kesehatan",
+          "published_at": "2026-05-24T02:03:17+00:00",
+          "summary": "Artikel ini menjelaskan bahwa pola makan dan gaya hidup berkontribusi besar terhadap risiko kanker, dengan penekanan pada makanan olahan, metode memasak suhu tinggi, serta konsumsi alkohol yang menghasilkan karsinogen atau meningkatkan risiko obesitas dan diabetes tipe 2.",
+          "key_points": [
+            "95% risiko kanker disebabkan oleh faktor lingkungan, gaya hidup, dan kebiasaan, termasuk pola makan.",
+            "Daging olahan dan metode memasak suhu tinggi menghasilkan zat karsinogen seperti N-nitroso, PAH, dan akrilamida yang berpotensi memicu kanker.",
+            "Konsumsi alkohol serta makanan manis dan karbohidrat olahan meningkatkan risiko kanker melalui kerusakan DNA, stres oksidatif, dan obesitas."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-23T19:55:16+00:00",
+          "summary": "Tiga relawan Palang Merah tewas akibat diduga terinfeksi Ebola saat menangani jenazah di Kongo Demokratik, menjelma sebagai korban pertama wabah yang telah menyebabkan lebih dari 170 kematian dugaan dan 750 kasus. WHO menaikkan risiko kesehatan masyarakat dari 'tinggi' ke 'sangat tinggi', sementara wabah jenis Bundibugyo yang langka dan tidak memiliki vaksin terbukti menyebar ke Uganda dan mengancam 10 negara lain di Afrika.",
+          "key_points": [
+            "Tiga relawan Palang Merah tewas karena diduga terinfeksi Ebola saat bekerja di Mongwalu, epicenter wabah yang melibatkan strain Bundibugyo tanpa vaksin terbukti.",
+            "Wabah Ebola di Kongo Demokratik telah menyebabkan lebih dari 170 kematian dugaan dan 750 kasus, dengan risiko kesehatan global tetap rendah menurut WHO.",
+            "WHO menaikkan risiko wabah dari 'tinggi' ke 'sangat tinggi', sementara Uganda melaporkan tiga kasus baru dan 10 negara lain di Afrika dianggap berisiko."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Kim Lim says her nine-year-old son is ‘too kind’, worries he may be easily taken advantage of",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/kim-lim-son-kyden-too-kind-taken-advantage-6138591",
+          "category": "Umum",
+          "published_at": "2026-05-24T02:15:38+00:00",
+          "summary": "Kim Lim, seorang pengusaha dan pewaris perusahaan, berbagi tentang pendidikan karakter yang diterapkan untuk putranya Kyden, sembari mengungkap kekhawatirannya bahwa sifat baik anaknya mungkin membuatnya mudah dimanfaatkan. Dia menekankan pentingnya sikap hormat dan karakter kuat dibandingkan prestasi akademik, serta menjelaskan dinamika hubungan dengan mantan suami yang bekerja sama dalam membesarkan Kyden.",
+          "key_points": [
+            "Kim Lim mengutamakan pembentukan karakter dan sikap hormat pada Kyden, meskipun tidak membebani anaknya dengan target akademik tinggi.",
+            "Dia khawatir Kyden yang terlalu baik dan sabar mungkin rentan menjadi korban bullying atau dimanfaatkan orang lain.",
+            "Kim Lim dan mantan suaminya, Kho Bin Kai, menjalani hubungan baik serta bekerja sama dalam mengasuh Kyden setelah perceraian mereka pada 2020."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-23T21:14:39+00:00",
+          "summary": "Pemakaman diadakan untuk paramedis yang tewas akibat dua serangan udara Israel di selatan Lebanon pada Jumat. Militer Israel telah berulang kali menyerang fasilitas kesehatan dan tim medis, menuduh Hezbollah menggunakan mereka untuk menyembunyikan senjata dan pejuang.",
+          "key_points": [
+            "Pemakaman diadakan untuk paramedis yang tewas dalam serangan udara Israel di selatan Lebanon.",
+            "Militer Israel menyerang fasilitas kesehatan dan tim medis di Lebanon.",
+            "Israel menuduh Hezbollah menggunakan fasilitas medis untuk menyembunyikan senjata dan pejuang."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-23T21:09:42+00:00",
+          "summary": "Presiden AS Donald Trump menyatakan bahwa kesepakatan gencatan senjata antara AS-Israel dan Iran telah 'sebagian besar dinegosiasikan', dengan fokus pada pembukaan kembali Selat Hormuz. Pihak AS dan Iran bersama negara-negara lain terus mendiskusikan detail akhir kesepakatan tersebut. Sementara itu, Pakistan dan Turki menyambut baik progres pembicaraan, sementara Iran tetap waspada terhadap negosiasi dengan AS.",
+          "key_points": [
+            "Trump mengumumkan kesepakatan gencatan senjata dengan Iran hampir selesai, tetapi masih menunggu finalisasi oleh pihak terkait.",
+            "Negosiasi melibatkan negara-negara seperti Qatar, Saudi Arabia, dan Pakistan, yang berperan sebagai fasilitator.",
+            "Isu utama dalam kesepakatan meliputi program nuklir Iran, pengelolaan Selat Hormuz, dan keberadaan militer AS di kawasan."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Transmart Full Day Sale Kembali Hadir, Kulkas Polytron Diskon Sampai Jutaan Rupiah",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8502124/transmart-full-day-sale-kembali-hadir-kulkas-polytron-diskon-sampai-jutaan-rupiah",
+          "category": "Ekonomi",
+          "published_at": "2026-05-24T01:00:12+00:00",
+          "summary": "Transmart menggelar Full Day Sale pada Minggu, 24 Mei 2026, dengan penawaran diskon besar-besaran, termasuk kulkas Polytron side by side 436L yang dijual dengan harga diskon hingga Rp 2,4 juta bagi pengguna kartu kredit tertentu. Diskon tambahan 50% + 20% berlaku untuk transaksi menggunakan kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri, dengan ketentuan minimal transaksi Rp 300 ribu dan tidak berlaku untuk pembelian partai besar.",
+          "key_points": [
+            "Transmart Full Day Sale berlangsung pada 24 Mei 2026 dari buka toko hingga pukul 22.00 WIB.",
+            "Kulkas Polytron side by side 436L ditawarkan dengan diskon hingga Rp 2.419.800 untuk pengguna kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri.",
+            "Diskon tambahan 50% + 20% berlaku untuk transaksi menggunakan kartu kredit tersebut, dengan syarat minimal transaksi Rp 300 ribu dan tidak berlaku untuk pembelian partai besar."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "MacBook Neo Diserbu Anak Muda, Muklay Sebut Paling Funky",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8502140/macbook-neo-diserbu-anak-muda-muklay-sebut-paling-funky",
+          "category": "Teknologi",
+          "published_at": "2026-05-24T00:49:57+00:00",
+          "summary": "MacBook Neo resmi diluncurkan di Indonesia dengan desain berwarna-warni yang menarik perhatian anak muda dan kreator konten. Seniman Muklay menyebutnya sebagai MacBook paling unik, sementara Digimap mencatat antusiasme tinggi dari pasar dengan pre-order yang laris.",
+          "key_points": [
+            "MacBook Neo hadir dengan empat pilihan warna cerah (Citrus, Blush, Indigo, Silver) yang membedakannya dari lini MacBook sebelumnya.",
+            "Laptop ini ditujukan untuk pasar muda, termasuk pelajar dan first-time MacBook users, dengan harga mulai Rp 10.749.000.",
+            "Antusiasme tinggi terlihat dari pre-order yang langsung laris, termasuk varian Citrus yang sudah sold out di beberapa negara."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-23T14:24:48+00:00",
+          "summary": "Seorang ibu Prancis dan pasangannya ditahan setelah didakwa atas dugaan mengabaikan dua anaknya yang ditemukan menangis di tepi jalan di Portugal. Anak-anak tersebut kini dirawat oleh keluarga asuh di Lisbon dan dijadwalkan kembali ke Prancis, sementara pasangan tersebut diadili atas tuduhan bahaya terhadap anak dan pengabaian.",
+          "key_points": [
+            "Pasangan Prancis, Marine R dan Marc B, ditahan setelah dituduh mengabaikan dua anaknya yang ditemukan di jalan di Portugal.",
+            "Anak-anak berusia 4 dan 5 tahun kini berada di bawah pengasuhan keluarga asuh di Lisbon dan akan kembali ke Prancis.",
+            "Ayah dari anak-anak melaporkan mereka hilang pada 11 Mei, memicu pencarian dan penerbitan surat perintah penangkapan Eropa."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3429
+    },
+    "timestamp": "2026-05-24T02:39:41.430914+00:00"
   }
 ]
