@@ -14619,5 +14619,360 @@
       "total_in_qdrant": 3752
     },
     "timestamp": "2026-05-27T02:47:11.427143+00:00"
+  },
+  {
+    "date": "2026-05-28",
+    "generated_at": "2026-05-28T02:33:57.309108+00:00",
+    "headline": "Konflik di Kongo memperlambat respons penanganan wabah Ebola, WHO peringatkan risiko eskalasi krisis kesehatan global.",
+    "global_headline": "Konflik di Kongo memperlambat respons penanganan wabah Ebola, WHO peringatkan risiko eskalasi krisis kesehatan global.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Konsumsi berlebihan jeroan picu asam urat dan gangguan ginjal.",
+          "Risiko artritis gout dan batu asam urat meningkat.",
+          "Pentingnya keseimbangan konsumsi untuk mencegah beban organ."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Isu kesehatan publik terkait pola makan tradisional yang berpotensi memengaruhi kebijakan edukasi gizi.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Awas! Berlebihan Makan Jeroan Bisa Picu Masalah Sendi dan Fungsi Ginjal",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8507524/awas-berlebihan-makan-jeroan-bisa-picu-masalah-sendi-dan-fungsi-ginjal",
+            "category": "Kesehatan",
+            "published_at": "2026-05-27T12:10:20+00:00",
+            "summary": "Konsumsi berlebihan jeroan hewan, seperti hati, paru, dan usus, yang sering dihidangkan saat Idul Adha, dapat meningkatkan risiko gangguan kesehatan terkait asam urat dan fungsi ginjal. Jeroan mengandung purin tinggi yang jika berlebihan dapat menyebabkan artritis gout dan batu asam urat. dr Aru Ariadno menekankan pentingnya keseimbangan konsumsi untuk menghindari beban berlebih pada organ tubuh.",
+            "key_points": [
+              "Jeroan mengandung purin tinggi yang berpotensi meningkatkan asam urat dalam darah.",
+              "Penumpukan asam urat dapat menyebabkan gangguan sendi (artritis gout) dan batu asam urat di ginjal.",
+              "Meski jeroan kaya nutrisi seperti zat besi dan vitamin B12, konsumsi berlebihan memberi beban pada fungsi hati dan ginjal."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 251
+      },
+      {
+        "id": 2,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Tips penyimpanan daging kurban efektif hingga berbulan-bulan.",
+          "Infografis disajikan untuk memandu penanganan daging secara tepat.",
+          "Fokus pada keawetan daging melalui metode konservasi sederhana."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Berita memberikan panduan praktis tanpa efek sistemik atau kebijakan.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Infografis: Tips Simpan Daging Kurban Biar Awet Hingga Berbulan-bulan",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/infografis/d-8507753/infografis-tips-simpan-daging-kurban-biar-awet-hingga-berbulan-bulan",
+            "category": "Umum",
+            "published_at": "2026-05-28T00:02:31+00:00",
+            "summary": "Artikel ini memberikan tips penyimpanan daging kurban agar tetap awet hingga berbulan-bulan melalui penanganan yang tepat, seperti yang disajikan dalam infografis.",
+            "key_points": [
+              "Penanganan khusus diperlukan saat menyimpan daging kurban untuk memperpanjang masa simpan.",
+              "Penyimpanan yang benar dapat menjaga daging tetap awet hingga berbulan-bulan.",
+              "Tips penyimpanan disajikan dalam bentuk infografis sebagai panduan praktis."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Konflik hambat respons Ebola di Kongo, WHO peringatkan risiko krisis kesehatan.",
+          "Pembatasan perjalanan Uganda dan jalan buruk parah pengiriman bantuan.",
+          "Strain Bundibugyo tanpa vaksin atau obat, risiko penyebaran lintas batas."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik kesehatan dan konflik aktif mengancam stabilitas regional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Wabah Ebola terjadi di Republik Demokratik Kongo**: Wabah Ebola yang terjadi di Afrika Barat dari bulan Maret 2014 hingga Januari 2016 merupakan wabah terbesar sejak tahun 1976, yang terutama berdampak ke negara-negara seperti Guinea, Liberia, dan Sierra Leone.\n2. **Konflik bersenjata meningkatkan risiko wabah penyakit menular**: Konflik bersenjata dapat menyebabkan wabah penyakit menular karena kapasitas negara dalam mengawasi serta melaporkan keterjangkitan penyakit menular menjadi terganggu.\n3. **Wabah Ebola di Uganda**: Wabah Ebola yang disebabkan oleh virus Sudan terjadi di Uganda dari bulan September 2022 hingga Januari 2023, dan dari Januari hingga April 2025. Terhitung hingga 28 September 2022, telah dilaporkan sebanyak 49 kasus PVE (31 kasus konfirmasi dan 18 kasus probable) dengan 24 kematian.\n4. **Risiko wabah penyakit menular lintas batas**: Situasi konflik dapat memperbesar risiko wabah penyakit menular lintas batas, sekaligus menambah beban sistem kesehatan negara penerima pengungsi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-05-27T18:50:50+00:00",
+            "summary": "Organisasi Kesehatan Dunia (WHO) memperingatkan bahwa konflik di Republik Demokratik Kongo menghambat respons terhadap wabah Ebola, sementara Uganda dan negara lain menerapkan pembatasan perjalanan. Upaya penanganan dihambat oleh kondisi jalan buruk, pemindahan massal, dan pemotongan bantuan internasional. Strain Ebola yang terjadi, Bundibugyo, tidak memiliki vaksin atau obat tersedia.",
+            "key_points": [
+              "Konflik di Ituri, Kongo, menghambat upaya penanganan wabah Ebola dan menghancurkan sistem kesehatan.",
+              "Uganda, Kanada, dan AS menerapkan pembatasan perjalanan terkait risiko penyebaran wabah.",
+              "Hanya 17 dari 220 kematian yang dikonfirmasi secara laboratorium, dengan tantangan utama pada akses uji coba dan pasokan medis."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Asisten Matthew Perry dihukum 41 bulan penjara terkait kematian aktor akibat overdosis ketamin.",
+          "Pengakuan kesalahan Iwamasa atas perannya dalam penggunaan ketamin yang tidak bertanggung jawab.",
+          "Laporan BPOM: peningkatan tajam penggunaan ketamin dari 3.000 vial (2022) ke 152.000 vial (2024)."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kenaikan penggunaan ketamin dan konsekuensi hukum yang meningkat.",
+        "external_research": [
+          {
+            "title": "Deep Research: Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Matthew Perry's assistant jailed for 41 months over actor's ketamine death\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penyalahgunaan Ketamin Meningkat**: Jumlah penyalahgunaan ketamin meningkat tajam, dari 3.000 vial pada 2022 menjadi 44.000 vial pada 2023 dan 152.000 vial pada 2024, menurut laporan BPOM.\n2. **Ketamin Dimasukkan ke dalam Golongan Psikotropika**: Seorang ahli mengusulkan ketamin dimasukkan ke dalam golongan psikotropika karena efek adiktif dan penyalahgunaannya yang besar.\n3. **Ketamin Sering Disalahgunakan sebagai Obat Rekreasi**: Ketamin sering disalahgunakan sebagai obat rekreasi karena efek disosiasi dan halusinogeniknya.\n4. **Ketamin Banyak Digunakan dalam Terapi Depresi**: Ketamin juga digunakan dalam terapi depresi, seperti yang dialami oleh artis Marshanda, yang menjalani terapi ketamin di Amerika Serikat untuk mengatasi masalah depresi.\n\nNamun, perlu diingat bahwa informasi ini tidak terkait langsung dengan kasus Matthew Perry's assistant yang dijatuhi hukuman 41 bulan karena kematian aktor tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-05-27T20:09:33+00:00",
+            "summary": "Kenneth Iwamasa, asisten pribadi Matthew Perry, dihukum 41 bulan penjara atas perannya dalam kematian aktor tersebut akibat overdosis ketamin. Ia mengakui perbuatan ilegalnya dan dijatuhi denda $10.000, serta dua tahun pemantauan setelah bebas. Pengadilan menekankan kesadaran Iwamasa terhadap perjuangan Perry melawan kecanduan dan tindakan tidak bertanggung jawabnya.",
+            "key_points": [
+              "Iwamasa dihukum 41 bulan penjara setelah mengakui keterlibatan dalam distribusi ketamin yang menyebabkan kematian Matthew Perry.",
+              "Ia menyuntikkan Perry dengan ketamin tanpa kualifikasi medis dan bekerja sama dengan dua dokter untuk menyediakan obat tersebut.",
+              "Lima terdakwa lain, termasuk 'Ketamine Queen' Jasveen Sangha, juga menerima hukuman setelah mengakui peran mereka dalam kasus ini."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Meta luncurkan versi berbayar Instagram/WhatsApp dengan harga Rp 53k-Rp 71k/bulan.",
+          "Paket berbayar akses fitur eksklusif dan AI untuk pengguna premium.",
+          "Uji coba 'Meta One' dengan opsi Plus/Premium untuk fitur tambahan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Perubahan model bisnis Meta yang berpotensi menggeser dinamika persaingan layanan komunikasi digital.",
+        "external_research": [
+          {
+            "title": "Deep Research: Meta Resmi Luncurkan Instagram dan WhatsApp Berbayar, Mulai Rp 53 Ribu per Bulan",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Meta Resmi Luncurkan Instagram dan WhatsApp Berbayar, Mulai Rp 53 Ribu per Bulan\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penggunaan Media Sosial dalam Pemasaran**: Media sosial telah menjadi alat penting dalam pemasaran real-time, memungkinkan interaktivitas dan kolaborasi antara individu dan merek. Google Ads (sebelumnya Google AdWords) didirikan pada tahun 2000, memperkenalkan model bayar per klik (PPC) yang memungkinkan bisnis menawar kata kunci dan membayar hanya ketika iklan mereka diklik.\n2. **Penggunaan Konten yang Menarik**: Menurut penelitian, social media marketing tidak hanya tentang iklan berbayar, tetapi juga mencakup pembuatan konten yang menarik dan interaksi langsung dengan audiens. Contoh yang baik adalah AR Flowerist, yang menciptakan konten yang tidak hanya menarik secara visual, tetapi juga informatif dan meningkatkan loyalitas konsumen terhadap merek.\n3. **Penggunaan Analisis Data**: Dengan adopsi massal ponsel pintar, pemasaran seluler menjadi sangat penting, menawarkan peluang untuk iklan yang lebih bertarget dan interaksi konsumen. Hal ini disertai dengan kemampuan untuk menganalisis data dalam jumlah besar untuk membuat kampanye iklan yang dipersonalisasi.\n4. **Kebijakan Pemerintah terhadap Bisnis**: Kebijakan pemerintah juga dapat berdampak pada bisnis, termasuk regulasi pajak, ketenagakerjaan, dan lain-lain. Pemerintah perlu melakukan kebijakan yang tepat untuk memaksimalkan dampak positif ekonomi digital terhadap pertumbuhan ekonomi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Meta Resmi Luncurkan Instagram dan WhatsApp Berbayar, Mulai Rp 53 Ribu per Bulan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/mobile-apps/d-8507867/meta-resmi-luncurkan-instagram-dan-whatsapp-berbayar-mulai-rp-53-ribu-per-bulan",
+            "category": "Teknologi",
+            "published_at": "2026-05-28T01:45:53+00:00",
+            "summary": "Meta secara resmi meluncurkan versi berbayar dari Instagram, Facebook, dan WhatsApp dengan harga mulai dari Rp 53 ribu hingga Rp 71 ribu per bulan, menawarkan akses ke fitur eksklusif yang tidak tersedia untuk pengguna gratis. Selain itu, Meta juga menguji paket langganan 'Meta One' dengan opsi Plus dan Premium untuk akses fitur tambahan, termasuk AI.",
+            "key_points": [
+              "Instagram Plus dan Facebook Plus dihargai USD 3,99 (Rp 71 ribu), sementara WhatsApp Plus seharga USD 2,99 (Rp 53 ribu) per bulan.",
+              "Fitur eksklusif berbeda per aplikasi, seperti durasi Story Instagram yang diperpanjang dan personalisasi tema di WhatsApp.",
+              "Meta One, paket langganan baru, akan diuji coba di Singapura, Guatemala, dan Bolivia dengan opsi Plus (USD 7,99) dan Premium (USD 19,99) per bulan."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Konflik di Kongo dan Pembatasan Akses Informasi Teknologi Memperparah Krisis Kesehatan",
+        "analysis": "Konflik yang menghambat respons Ebola di Kongo (dampak tinggi) secara strategis terkait dengan kebijakan Meta yang memperkenalkan layanan berbayar di Afrika. Pembatasan akses gratis ke platform seperti WhatsApp dan Instagram dapat mengurangi kemampuan organisasi kesehatan global untuk berkoordinasi dengan komunitas lokal, menyebarkan edukasi medis, atau memantau penyebaran penyakit. Di sisi lain, konflik bersenjata memicu fragmentasi infrastruktur komunikasi, sehingga ketergantungan pada teknologi berbayar yang tidak merata memperburuk kesenjangan akses informasi kritis. Kombinasi ini menciptakan 'double bind' di mana krisis kesehatan dan geopolitik saling memperkuat kerentanan."
+      },
+      {
+        "title": "Model Bisnis Teknologi dan Krisis Kesehatan Publik: Dari Ketamin hingga Asam Urat",
+        "analysis": "Meta's monetisasi platform (teknologi) secara tidak langsung berpotensi memperburuk masalah kesehatan seperti overdosis ketamin dan asam urat. Di satu sisi, pembatasan akses gratis ke layanan komunikasi dapat mengurangi efektivitas kampanye edukasi kesehatan tentang risiko obat-obatan. Di sisi lain, algoritma platform yang berfokus pada monetisasi konten hiburan (seperti video makanan) mungkin mempromosikan konsumsi jeroan secara berlebihan tanpa penjelasan nutrisi, memperparah masalah asam urat. Ketergantungan pada teknologi untuk edukasi kesehatan tanpa regulasi etis menciptakan risiko kesehatan sosial yang sistemik."
+      }
+    ],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "NBA-League to use AI for objective calls, Silver says",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/nba-league-use-ai-objective-calls-silver-says-6146071",
+          "category": "Teknologi",
+          "published_at": "2026-05-28T01:36:05+00:00",
+          "summary": "Komisaris NBA Adam Silver mengumumkan rencana penggunaan AI untuk mengotomatisasi keputusan obyektif seperti pelanggaran batas lapangan, mengacu pada teknologi Hawk-Eye di tenis, guna mempercepat permainan dan mengurangi sengketa. Sistem ini akan memungkinkan wasit fokus pada interpretasi kontak fisik, meski jadwal implementasinya belum dijelaskan secara pasti.",
+          "key_points": [
+            "AI akan mengotomatisasi keputusan obyektif seperti pelanggaran batas lapangan untuk mempercepat permainan.",
+            "Teknologi ini dibandingkan dengan sistem Hawk-Eye di tenis yang menentukan posisi bola secara instan.",
+            "Wasit tetap diperlukan untuk menilai kontak fisik yang memerlukan penilaian subjektif."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Strategi Baru Telkomsel, dari Operator Telco Jadi Perusahaan Digital Berbasis AI",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/telecommunication/d-8507728/strategi-baru-telkomsel-dari-operator-telco-jadi-perusahaan-digital-berbasis-ai",
+          "category": "Teknologi",
+          "published_at": "2026-05-27T15:40:08+00:00",
+          "summary": "Telkomsel mengumumkan strategi transformasi menjadi perusahaan digital berbasis AI, dengan fokus pada penggunaan teknologi untuk layanan yang lebih personal dan efisien. Perusahaan memperluas jaringan Hyper 5G dan mempercepat pemerataan akses digital di wilayah 3T, sekaligus mengintegrasikan layanan digital melalui MyTelkomsel Super App.",
+          "key_points": [
+            "Telkomsel beralih menjadi perusahaan digital berbasis AI dengan mengembangkan teknologi seperti Autonomous Network dan Virtual Assistant Veronika.",
+            "Ekspansi jaringan Hyper 5G mencapai lebih dari 6.380 BTS di 107 kota dan kabupaten, termasuk jaringan 5G contiguous di 36 wilayah.",
+            "Perusahaan fokus pada pemerataan akses digital di wilayah 3T dan memperluas penggunaan energi terbarukan melalui BTS Green."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Israel issues evacuation order for swathes of southern Lebanon",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-27T20:26:03+00:00",
+          "summary": "Israel memberi perintah evakuasi untuk wilayah selatan Lebanon, menyatakan daerah tersebut sebagai zona perang sebelum serangan baru terhadap Hezbollah. Perintah ini mencakup sekitar 14% wilayah Lebanon dan diikuti oleh serangkaian serangan udara yang meningkatkan kekhawatiran eskalasi konflik. Pihak Lebanon menuding Israel melanggar gencatan senjata sementara Israel menuduh Hezbollah melanggarnya.",
+          "key_points": [
+            "Israel mengeluarkan perintah evakuasi terbesar sejak gencatan senjata 17 April, mencakup 14% wilayah Lebanon.",
+            "IDF menyatakan akan bertindak 'dengan kekuatan ekstrem' terhadap Hezbollah yang didakwa melanggar gencatan senjata.",
+            "Serangan Israel menyebabkan krisis kemanusiaan dengan ribuan warga Lebanon mengungsi dan korban tewas tercatat."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Neville Dapat Jersey Arsenal dari Arteta, Berani Pakai?",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8507834/neville-dapat-jersey-arsenal-dari-arteta-berani-pakai",
+          "category": "Olahraga",
+          "published_at": "2026-05-28T02:00:11+00:00",
+          "summary": "Gary Neville, legenda Manchester United, menerima jersey Arsenal dengan nomor punggung 2 dari Mikel Arteta dan Josh Kroenke saat menjadi tuan rumah podcast di tempat latihan Arsenal. Jersey tersebut dilengkapi tanda tangan dan pesan 'suporter terbaik kami', sementara Arteta menyarankan Neville untuk memakainya jika Arsenal menang, meski Neville hanya menyatakan akan membingkai jersey tersebut.",
+          "key_points": [
+            "Gary Neville diberikan jersey Arsenal oleh Arteta dan Kroenke selama acara podcast di tempat latihan klub.",
+            "Jersey tersebut memiliki nama Neville, nomor punggung 2, tanda tangan, dan pesan 'suporter terbaik kami'.",
+            "Arteta menyatakan saran agar Neville memakai jersey jika Arsenal menang, tetapi Neville menyatakan akan membingkai hadiah tersebut."
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Koeman Ungkap Alasan Bawa Weghorst ke Piala Dunia 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8507833/koeman-ungkap-alasan-bawa-weghorst-ke-piala-dunia-2026",
+          "category": "Olahraga",
+          "published_at": "2026-05-28T01:30:14+00:00",
+          "summary": "Ronald Koeman memilih memasukkan Wout Weghorst ke dalam skuad Belanda untuk Piala Dunia 2026 meski performa pemain ini musim ini dinilai kurang optimal. Keputusan ini menuai pertanyaan karena Weghorst hanya mencetak delapan gol di Eredivisie, sementara Zian Flemming, yang lebih produktif di Premier League, dianggap lebih layak oleh sebagian pihak. Koeman menjelaskan bahwa Weghorst dinilai lebih andal sebagai pengganti karena kemampuannya dalam duel dan situasi bola mati.",
+          "key_points": [
+            "Wout Weghorst dipilih Koeman meski hanya mencetak delapan gol di Eredivisie musim ini.",
+            "Zian Flemming, dengan 11 gol di Premier League, dianggap lebih layak oleh sebagian pihak karena level kompetisi yang lebih tinggi.",
+            "Koeman menilai Weghorst lebih unggul dalam duel dan situasi bola mati, menjadikannya pilihan strategis sebagai pemain pengganti."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Uganda closes border with DRC in an effort to contain Ebola outbreak",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/uganda-closes-border-with-drc-in-an-effort-to-contain-ebola-outbreak?traffic_source=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-28T00:15:51+00:00",
+          "summary": "Uganda menutup perbatasan dengan Republik Kongo Demokratik selama empat minggu untuk mengendalikan wabah Ebola. Otoritas mengonfirmasi setidaknya tujuh kasus, termasuk satu kematian, sementara ratusan orang sedang dipantau.",
+          "key_points": [
+            "Uganda menutup perbatasan dengan DRC selama empat minggu untuk mencegah penyebaran Ebola.",
+            "Setidaknya tujuh kasus Ebola terkonfirmasi, termasuk satu kematian.",
+            "Ratusan orang sedang dipantau terkait wabah tersebut."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Oil prices bounce higher after new US strikes on Iran",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/oil-prices-us-iran-strikes-6146076",
+          "category": "Ekonomi",
+          "published_at": "2026-05-28T01:35:00+00:00",
+          "summary": "Harga minyak naik setelah serangan militer AS terhadap Iran, sementara investor khawatir tentang ketidakpastian perjanjian gencatan senjata dan dampak konflik terhadap stabilitas ekonomi global. Saham Asia cenderung hati-hati, sementara fokus beralih ke data inflasi AS dan kemungkinan kenaikan suku bunga.",
+          "key_points": [
+            "Harga minyak Brent dan WTI meningkat masing-masing 2% dan 1.75% setelah serangan AS di Iran.",
+            "Ketidakpastian mengenai nasib Selat Hormuz dan perjanjian gencatan senjata memengaruhi optimisme investor.",
+            "Potensi kenaikan suku bunga AS dan data inflasi PCE menjadi fokus pasar ke depan."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Five people found alive after week trapped in flooded Laos cave",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-05-27T11:52:46+00:00",
+          "summary": "Lima warga desa ditemukan selamat setelah terjebak selama seminggu di gua yang tergenang di Laos akibat hujan deras dan longsor. Mereka masuk gua untuk mencari deposit emas dan satwa liar, namun tidak bisa keluar karena mulut gua tertutup. Dua warga lainnya masih hilang.",
+          "key_points": [
+            "Lima warga desa ditemukan selamat setelah terjebak di gua yang tergenang selama seminggu.",
+            "Mereka masuk gua untuk mencari emas dan satwa liar, tetapi terjebak karena mulut gua tertutup akibat hujan deras dan longsor.",
+            "Gua tersebut memiliki struktur sempit, tergenang air, dan merupakan bekas tambang emas yang tidak terawat."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-27T23:24:57+00:00",
+          "summary": "Presiden Bolivia, Rodrigo Paz, memperingatkan bahwa 'waktu semakin singkat' di tengah krisis protes yang berlangsung selama berminggu-minggu terkait krisis ekonomi dan politik. Ia telah memperoleh kekuatan untuk menyatakan keadaan darurat, tetapi para pengunjuk rasa tetap tidak terpengaruh.",
+          "key_points": [
+            "Presiden Bolivia memperingatkan bahwa waktu semakin singkat di tengah krisis protes.",
+            "Protes berlangsung selama berminggu-minggu terkait krisis ekonomi dan politik.",
+            "Presiden memperoleh kekuatan untuk menyatakan keadaan darurat, tetapi pengunjuk rasa tetap tidak terpengaruh."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "10 Foto Momen Langka yang Mungkin Tak Akan Terjadi Dua Kali",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8507843/10-foto-momen-langka-yang-mungkin-tak-akan-terjadi-dua-kali",
+          "category": "Hiburan",
+          "published_at": "2026-05-28T01:05:26+00:00",
+          "summary": "Artikel ini mengumpulkan 10 momen langka yang diabadikan warganet, seperti awan Kevin-Helmholtz, badai langka di California, dan konser Linkin Park tanpa Chester Bennington, yang semuanya dianggap tidak akan terulang.",
+          "key_points": [
+            "Foto awan Kevin-Helmholtz yang viral pada 2017 menjadi sorotan karena keunikan formasi awan tersebut.",
+            "Badai langka di California Selatan pada 2023-2024 mengubah gurun menjadi pemandangan epik yang diabadikan warganet.",
+            "Konser Linkin Park di St. Petersburg pada 2009 dianggap spesial karena kepergian Chester Bennington membuat pengalaman tersebut tidak bisa diulang."
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3842
+    },
+    "timestamp": "2026-05-28T02:33:57.309116+00:00"
   }
 ]
