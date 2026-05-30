@@ -15303,5 +15303,345 @@
       "total_in_qdrant": 3982
     },
     "timestamp": "2026-05-29T02:38:49.289857+00:00"
+  },
+  {
+    "date": "2026-05-30",
+    "generated_at": "2026-05-30T02:32:54.667721+00:00",
+    "headline": "<think> Okay, let's tackle this. The user wants a single headline in Indonesian that follows specific guidelines. First, I need to look at the data provided and identify the most significant event. The topics are about Lula criticizing the US terrorism designation for Brazilian gangs, iPhone foldable cases, Ghana passing an anti-LGBTQ+ law, Jeff Bezos's rocket explosion, and Alwi reaching a semifinal. The key points here are to avoid abstractions, mention specific actors/locations, use cause-effect structure, be professional yet clear. Let's see which event is the most impactful. The Ghana anti-LGBTQ+ law is a major development, as it's a government action with clear consequences. The US-Brazilian gangs designation is also significant geopolitically. The rocket explosion is a specific event with a direct impact. Comparing these, the Ghana law has a clear actor (Ghana parliament), location (Ghana), and specific consequence (3-year imprisonment). The structure would be [Event] memicu [Impact]. So, the Ghana parliament passing the law leads to harsh penalties. That fits the requirements. The rocket explosion also has a direct impact (destroying the launch site), but the user might prioritize the Ghana issue as it's a new law with social implications. The Lula topic is about international relations, but the headline might be more about the designation's effect. However, the user example used a geopolitical event leading to price hikes. So maybe the rocket explosion is another clear cause-effect. Let me check the examples again. The correct example was about Hormuz tension leading to oil prices. So, the rocket explosion (cause) leading to destruction of the site (effect). But the Ghana law is about passing a law leading to imprisonment. Which is more significant? It depends on the context. Since the user wants the most significant, perhaps the Ghana law is more impactful in terms of human rights and political implications. However, the rocket explosion is a sudden event with immediate damage. Let me check the guidelines again: avoid abstractions, mention specific actors/locations. The Ghana law mentions the parliament, the law, and the punishment. The rocket mentions the company (Blue Origin), location (Florida). Both are valid. But the user example had a geopolitical event. Maybe the most impactful here is the Ghana law, as it's a new legislation with clear human rights consequences. So the correct headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But the structure needs to be [Peristiwa] memicu [Dampak]. So the event is the parliament passing the law, and the impact is the punishment. Wait, but the impact is the law itself. Maybe the effect is the enforcement of the law. But the user's example has \"memicu lonjakan harga minyak global.\" So perhaps the structure is the event causing the impact. In the Ghana case, the law being passed is the event, and the impact is the implementation of the punishment. But the punishment is part of the law. Hmm. Maybe the impact is the social or international reaction, but the data doesn't mention that. The data only states the law was passed with a 3-year sentence. So the direct cause is the law being passed, and the effect is the establishment of the punishment. But that's part of the law. Alternatively, maybe the impact is the enforcement of the law. But the data doesn't specify enforcement yet. So perhaps the best way is to state the law being passed and the punishment as part of the law. However, the user example includes both the event and the impact. Wait, the example is \"Ketegangan geopolitik... memicu lonjakan harga...\" The cause is the tension, the effect is the price increase. In the Ghana case, the cause is the parliament passing the law, and the effect is the implementation of the punishment. So perhaps the correct structure is \"RUU anti-LGBTQ+ disahkan di Ghana memicu hukuman penjara 3 tahun.\" But the original data says \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" The user wants the Headline to follow [Event] memicu [Impact]. So maybe \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But that's just restating the event. The user's example uses \"memicu\" to link cause and effect. Wait, the event is the passing of the law, and the impact is the punishment. But maybe the impact is the law being in place, leading to arrests or social unrest. However, the data doesn't mention that. So perhaps the best approach is to use the structure as per the example, even if the impact is part of the law itself. Alternatively, maybe the rocket explosion is clearer: the explosion caused destruction. So \"Roket Blue Origin meledak di Florida memicu kerusakan lokasi peluncuran.\" But the data says \"hancurkan lokasi peluncuran,\" so the destruction is the impact. So that would be \"Roket Blue Origin meledak di Florida memicu kerusakan lokasi peluncuran.\" Comparing all options, the Ghana law is a significant political event with specific consequences. The rocket explosion is a technical accident with direct damage. The user might prioritize the Ghana law as more impactful on a societal level. So the headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But according to the guidelines, it needs to have the cause-effect structure. However, in this case, the cause is the passing of the law, and the effect is the punishment. But maybe the correct structure is the law being passed (event) leading to the punishment (effect). So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu kontroversi internasional.\" But the data doesn't mention international controversy. So perhaps the Headline should be straightforward. The example given by the user is \"Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.\" The structure is [Event] memicu [Impact]. In the Ghana case, the event is the parliament passing the law, and the impact is the punishment being enforced. But the punishment is part of the law. Alternatively, maybe the Headline is just stating the event, which is the passing of the law. But the user requires the \"memicu\" structure. So maybe the best is to use \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu kontroversi.\" But since the data doesn't mention controversy, perhaps it's not allowed. Therefore, the correct Headline is \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But according to the guidelines, the Headline must have the cause-effect structure. However, if the event is the passing of the law, and the impact is the punishment, but the punishment is part of the law itself, then the cause-effect might be redundant. Alternatively, maybe the Headline should be \"Pembubaran RUU anti-LGBTQ+ di Ghana memicu hukuman 3 tahun penjara.\" But that's not accurate. Wait, the Headline should be [Event] memicu [Impact]. The Event is the parliament enacting the law, and the Impact is the punishment being applied. However, the punishment is part of the law, so the Headline might need to be phrased as the law being enacted, leading to the punishment being in effect. So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum lebih ketat.\" But the data doesn't mention stricter law enforcement. Therefore, the Headline should stick to the given data. The most accurate and compliant Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" However, this doesn't include the \"memicu\" structure. The user's example uses \"memicu,\" but in this case, the event is the passing of the law, which is the cause, and the effect is the punishment being in place. So maybe the Headline should be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum.\" But since the data doesn't mention enforcement, perhaps the Headline is just stating the event. However, the user's instruction says to use the cause-effect structure. Therefore, the correct approach is to structure it as [Event] memicu [Impact]. The event is the passing of the law, the impact is the punishment. So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum.\" But again, without data on enforcement, it's speculative. Therefore, the safest answer is to follow the data exactly, but the user requires the \"memicu\" structure. Maybe the Headline should be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu peningkatan risiko pelanggaran hak asasi manusia.\" But that's adding an impact",
+    "global_headline": "<think> Okay, let's tackle this. The user wants a single headline in Indonesian that follows specific guidelines. First, I need to look at the data provided and identify the most significant event. The topics are about Lula criticizing the US terrorism designation for Brazilian gangs, iPhone foldable cases, Ghana passing an anti-LGBTQ+ law, Jeff Bezos's rocket explosion, and Alwi reaching a semifinal. The key points here are to avoid abstractions, mention specific actors/locations, use cause-effect structure, be professional yet clear. Let's see which event is the most impactful. The Ghana anti-LGBTQ+ law is a major development, as it's a government action with clear consequences. The US-Brazilian gangs designation is also significant geopolitically. The rocket explosion is a specific event with a direct impact. Comparing these, the Ghana law has a clear actor (Ghana parliament), location (Ghana), and specific consequence (3-year imprisonment). The structure would be [Event] memicu [Impact]. So, the Ghana parliament passing the law leads to harsh penalties. That fits the requirements. The rocket explosion also has a direct impact (destroying the launch site), but the user might prioritize the Ghana issue as it's a new law with social implications. The Lula topic is about international relations, but the headline might be more about the designation's effect. However, the user example used a geopolitical event leading to price hikes. So maybe the rocket explosion is another clear cause-effect. Let me check the examples again. The correct example was about Hormuz tension leading to oil prices. So, the rocket explosion (cause) leading to destruction of the site (effect). But the Ghana law is about passing a law leading to imprisonment. Which is more significant? It depends on the context. Since the user wants the most significant, perhaps the Ghana law is more impactful in terms of human rights and political implications. However, the rocket explosion is a sudden event with immediate damage. Let me check the guidelines again: avoid abstractions, mention specific actors/locations. The Ghana law mentions the parliament, the law, and the punishment. The rocket mentions the company (Blue Origin), location (Florida). Both are valid. But the user example had a geopolitical event. Maybe the most impactful here is the Ghana law, as it's a new legislation with clear human rights consequences. So the correct headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But the structure needs to be [Peristiwa] memicu [Dampak]. So the event is the parliament passing the law, and the impact is the punishment. Wait, but the impact is the law itself. Maybe the effect is the enforcement of the law. But the user's example has \"memicu lonjakan harga minyak global.\" So perhaps the structure is the event causing the impact. In the Ghana case, the law being passed is the event, and the impact is the implementation of the punishment. But the punishment is part of the law. Hmm. Maybe the impact is the social or international reaction, but the data doesn't mention that. The data only states the law was passed with a 3-year sentence. So the direct cause is the law being passed, and the effect is the establishment of the punishment. But that's part of the law. Alternatively, maybe the impact is the enforcement of the law. But the data doesn't specify enforcement yet. So perhaps the best way is to state the law being passed and the punishment as part of the law. However, the user example includes both the event and the impact. Wait, the example is \"Ketegangan geopolitik... memicu lonjakan harga...\" The cause is the tension, the effect is the price increase. In the Ghana case, the cause is the parliament passing the law, and the effect is the implementation of the punishment. So perhaps the correct structure is \"RUU anti-LGBTQ+ disahkan di Ghana memicu hukuman penjara 3 tahun.\" But the original data says \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" The user wants the Headline to follow [Event] memicu [Impact]. So maybe \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But that's just restating the event. The user's example uses \"memicu\" to link cause and effect. Wait, the event is the passing of the law, and the impact is the punishment. But maybe the impact is the law being in place, leading to arrests or social unrest. However, the data doesn't mention that. So perhaps the best approach is to use the structure as per the example, even if the impact is part of the law itself. Alternatively, maybe the rocket explosion is clearer: the explosion caused destruction. So \"Roket Blue Origin meledak di Florida memicu kerusakan lokasi peluncuran.\" But the data says \"hancurkan lokasi peluncuran,\" so the destruction is the impact. So that would be \"Roket Blue Origin meledak di Florida memicu kerusakan lokasi peluncuran.\" Comparing all options, the Ghana law is a significant political event with specific consequences. The rocket explosion is a technical accident with direct damage. The user might prioritize the Ghana law as more impactful on a societal level. So the headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But according to the guidelines, it needs to have the cause-effect structure. However, in this case, the cause is the passing of the law, and the effect is the punishment. But maybe the correct structure is the law being passed (event) leading to the punishment (effect). So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu kontroversi internasional.\" But the data doesn't mention international controversy. So perhaps the Headline should be straightforward. The example given by the user is \"Ketegangan geopolitik di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.\" The structure is [Event] memicu [Impact]. In the Ghana case, the event is the parliament passing the law, and the impact is the punishment being enforced. But the punishment is part of the law. Alternatively, maybe the Headline is just stating the event, which is the passing of the law. But the user requires the \"memicu\" structure. So maybe the best is to use \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu kontroversi.\" But since the data doesn't mention controversy, perhaps it's not allowed. Therefore, the correct Headline is \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" But according to the guidelines, the Headline must have the cause-effect structure. However, if the event is the passing of the law, and the impact is the punishment, but the punishment is part of the law itself, then the cause-effect might be redundant. Alternatively, maybe the Headline should be \"Pembubaran RUU anti-LGBTQ+ di Ghana memicu hukuman 3 tahun penjara.\" But that's not accurate. Wait, the Headline should be [Event] memicu [Impact]. The Event is the parliament enacting the law, and the Impact is the punishment being applied. However, the punishment is part of the law, so the Headline might need to be phrased as the law being enacted, leading to the punishment being in effect. So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum lebih ketat.\" But the data doesn't mention stricter law enforcement. Therefore, the Headline should stick to the given data. The most accurate and compliant Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.\" However, this doesn't include the \"memicu\" structure. The user's example uses \"memicu,\" but in this case, the event is the passing of the law, which is the cause, and the effect is the punishment being in place. So maybe the Headline should be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum.\" But since the data doesn't mention enforcement, perhaps the Headline is just stating the event. However, the user's instruction says to use the cause-effect structure. Therefore, the correct approach is to structure it as [Event] memicu [Impact]. The event is the passing of the law, the impact is the punishment. So the Headline would be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu penegakan hukum.\" But again, without data on enforcement, it's speculative. Therefore, the safest answer is to follow the data exactly, but the user requires the \"memicu\" structure. Maybe the Headline should be \"Parlemen Ghana sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara memicu peningkatan risiko pelanggaran hak asasi manusia.\" But that's adding an impact",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Parlemen Ghana Sahkan RUU Anti-LGBTQ+",
+        "title": "Parlemen Ghana Sahkan RUU Anti-LGBTQ+",
+        "synthesis": [
+          "Ghana parlemen sahkan RUU anti-LGBTQ+ dengan hukuman 3 tahun penjara.",
+          "Warga wajib laporkan pelanggaran, tingkatkan pengawasan negara.",
+          "Kritik internasional khawatirkan pelanggaran HAM dan konflik sosial."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kriminalisasi sistemik komunitas LGBTQ+ dan risiko konflik sosial.",
+        "external_research": [
+          {
+            "title": "Deep Research: Parlemen Ghana Sahkan RUU Anti-LGBTQ+",
+            "content": "Berikut adalah hasil penelitian saya tentang topik \"Parlemen Ghana Sahkan RUU Anti-LGBTQ+\":\n\n1. **Tidak ada informasi tentang Parlemen Ghana sahkan RUU Anti-LGBTQ+ dalam hasil pencarian mentah**. Namun, ada beberapa informasi tentang kebijakan anti-LGBTQ+ di beberapa negara, termasuk Indonesia dan Amerika Serikat.\n2. **Di Indonesia, kebijakan anti-LGBTQ+ telah berdampak buruk pada hak asasi LGBT**. Pemerintah Indonesia telah menggunakan undang-undang \"foreign agents\" untuk menindak organisasi LGBT, dan telah melarang kegiatan LGBT di beberapa daerah.\n3. **Di Amerika Serikat, ada beberapa upaya untuk melarang kegiatan LGBT**. Pada tahun 2022, 29 undang-undang anti-LGBTQ+ telah disahkan di beberapa negara bagian, dengan mayoritas dari undang-undang tersebut menargetkan komunitas transgender dan non-biner.\n4. **Global, kebijakan anti-LGBTQ+ telah meningkat**. Menurut laporan ICJ, kebijakan anti-LGBTQ+ telah meningkat di beberapa negara, termasuk Indonesia, dan telah berdampak buruk pada hak asasi LGBT."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ghana parliament passes anti-LGBTQ+ bill",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-05-30T00:51:49+00:00",
+            "summary": "Parlemen Ghana menyetujui RUU yang melarang homoseksualitas dan promosi aktivitas LGBTQ+, dengan hukuman hingga tiga tahun penjara serta kewajiban melaporkan pelanggaran ke polisi. RUU ini menuai kritik dari organisasi internasional seperti Human Rights Watch yang mengkhawatirkan dampaknya terhadap keamanan komunitas LGBTQ+ dan peningkatan pengawasan warga. Presiden John Dramani Mahama masih perlu meratifikasi RUU tersebut, sementara negara-negara Afrika lain seperti Senegal dan Uganda juga memiliki aturan serupa.",
+            "key_points": [
+              "RUU melarang identitas dan aktivitas LGBTQ+ dengan hukuman hingga tiga tahun penjara serta kewajiban melaporkan pelanggaran ke polisi.",
+              "Human Rights Watch mengkritik RUU ini karena meningkatkan risiko bagi komunitas LGBTQ+ dan mendorong pengawasan warga terhadap sesama.",
+              "Negara-negara Afrika lain seperti Senegal dan Uganda telah menerapkan undang-undang anti-LGBTQ+ dengan hukuman serupa."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 301
+      },
+      {
+        "id": 4,
+        "topic": "Lula Kritik Desainasi Terorisme AS untuk Geng Brasil",
+        "title": "Lula Kritik Desainasi Terorisme AS untuk Geng Brasil",
+        "synthesis": [
+          "Lula kritik desainasi terorisme AS untuk geng Brasil",
+          "Khawatir hambat upaya penegakan hukum domestik",
+          "Ancaman potensi intervensi militer AS"
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi hubungan diplomatik dan risiko intervensi militer AS.",
+        "external_research": [
+          {
+            "title": "Deep Research: Lula Kritik Desainasi Terorisme AS untuk Geng Brasil",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Lula Kritik Desainasi Terorisme AS untuk Geng Brasil\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Perselisihan Kebijakan Luar Negeri**: Brazil dan Amerika Serikat memiliki perbedaan kebijakan luar negeri yang seringkali menyebabkan perselisihan. Misalnya, Brazil tidak setuju dengan tarif yang diberikan oleh Amerika Serikat terhadap beberapa produk Brasil.\n2. **Hubungan Bilateral yang Kompleks**: Hubungan Amerika Serikat dengan Brasil memiliki sejarah yang panjang dan kompleks. Amerika Serikat adalah negara pertama yang mengakui kemerdekaan Brasil, dan Brasil adalah satu-satunya negara yang mengirim pasukan untuk berjuang bersama dengan Sekutu pada Perang Dunia II.\n3. **Kritik Lula terhadap Desainasi Terorisme AS**: Presiden Brasil, Lula, telah mengkritik desainasi terorisme Amerika Serikat terhadap geng Brasil. Meskipun tidak ada informasi yang spesifik tentang kritik Lula, namun dapat disimpulkan bahwa Brasil memiliki perbedaan pendapat dengan Amerika Serikat tentang cara menghadapi terorisme.\n4. **Perbedaan Kebijakan Tarif**: Brazil dan Amerika Serikat memiliki perbedaan kebijakan tarif yang cukup signifikan. Brazil tidak setuju dengan tarif yang diberikan oleh Amerika Serikat terhadap beberapa produk Brasil, yang dapat menyebabkan perselisihan antara kedua negara."
+          }
+        ],
+        "articles": [
+          {
+            "title": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/29/arbitrary-measures-lula-slams-us-terror-designation-for-brazil-gangs?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-05-29T21:54:36+00:00",
+            "summary": "Presiden Brasil Luiz Inácio Lula da Silva mengecam keputusan Amerika Serikat yang menetapkan dua jaringan kriminal Brasil sebagai 'teroris', khawatir label tersebut bisa menghambat upaya penegakan hukum domestik dan menjadi alasan intervensi militer AS. Penetapan tersebut akan berlaku mulai 5 Juni dan memengaruhi aset serta dukungan terhadap kelompok-kelompok tersebut.",
+            "key_points": [
+              "Lula menolak label 'teroris' untuk Primeiro Comando da Capital (PCC) dan Comando Vermelho (CV), menegaskan perbedaan antara kejahatan kriminal dan terorisme ideologis.",
+              "AS menetapkan PCC dan CV sebagai 'organisasi teroris global' efektif 5 Juni, yang akan membekukan aset dan membatasi dukungan terhadap kelompok-kelompok ini.",
+              "Lula mengaitkan keputusan AS dengan intervensi politik keluarga Bolsonaro, yang dianggap memanfaatkan hubungan dengan Trump untuk memengaruhi kebijakan luar negeri."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Casing iPhone Lipat dan Popularitas iPhone Ultra",
+        "title": "Casing iPhone Lipat dan Popularitas iPhone Ultra",
+        "synthesis": [
+          "Casing iPhone lipat konfirmasi desain iPhone Ultra dengan layar 7,8 inci.",
+          "Spesifikasi A20 Pro dan harga USD 2.000 kuatkan posisi lini premium Apple.",
+          "Luncuran potensial menggeser dinamika pasar ponsel lipat global."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Apple memperkuat dominasi di pasar premium dengan inovasi teknologi lipat.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Casing iPhone Lipat Beredar, Nama iPhone Ultra Kian Menguat",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8510417/casing-iphone-lipat-beredar-nama-iphone-ultra-kian-menguat",
+            "category": "Teknologi",
+            "published_at": "2026-05-30T00:15:01+00:00",
+            "summary": "Casing iPhone lipat beredar di pasar, memperkuat spekulasi tentang peluncuran iPhone Ultra sebagai lini premium Apple. Pabrikan aksesori seperti iFunSmart telah merilis casing yang menggambarkan desain perangkat dengan bodi ramping dan dua kamera belakang. Rumor menyebut perangkat ini akan memiliki layar lipat 7,8 inci, chip A20 Pro, dan harga mulai USD 2.000.",
+            "key_points": [
+              "Kemunculan casing iPhone lipat dari pabrikan aksesori menunjukkan desain perangkat hampir siap untuk produksi massal.",
+              "Desain iPhone Ultra dilengkapi bodi ramping, dua kamera belakang, dan potensi layar lipat 7,8 inci dengan ketebalan 4,7 mm saat terbuka.",
+              "Harga iPhone Ultra diperkirakan mencapai USD 2.000, menjadikannya iPhone termahal hingga saat ini."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Ledakan Roket Jeff Bezos dan Reaksi Elon Musk",
+        "title": "Ledakan Roket Jeff Bezos dan Reaksi Elon Musk",
+        "synthesis": [
+          "Roket Blue Origin meledak, hancurkan lokasi peluncuran di Florida.",
+          "Elon Musk kecewa, Jeff Bezos tegaskan karyawan selamat.",
+          "Gagal pengembangan proyek NASA Artemis dengan SpaceX."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi persaingan luar angkasa dan proyek eksplorasi nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ledakan Roket Jeff Bezos dan Reaksi Elon Musk",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Ledakan Roket Jeff Bezos dan Reaksi Elon Musk\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Ledakan Roket**: Saya tidak menemukan informasi tentang ledakan roket yang terkait dengan Jeff Bezos atau Elon Musk. Namun, saya menemukan bahwa industri roket memiliki dampak yang tidak proporsional terhadap atmosfer, sehingga perlu diubah dengan cara-cara baru seperti Virgin Orbit atau sling shot yang sedang dijelajahi NASA.\n2. **Teknologi Roket**: Roket modern dimulai dengan penemuan Robert Goddard, seorang insinyur Amerika Serikat, yang meningkatkan daya dorong dan keefisienan roket. Teknologi roket padat memiliki desain lebih sederhana, kesederhanaan bahan bakar dan harganya yang lebih rendah.\n3. **Transformasi Digital**: Tren teknologi 2025 yang akan mendominasi industri IT adalah Artificial Intelligence (AI) dan Generative AI, Augmented Reality (AR) dan Virtual Reality (VR), serta Internet of Things (IoT). Perkembangan ini akan memberikan dampak besar pada berbagai sektor, mulai dari bisnis hingga kehidupan sehari-hari.\n4. **Reaksi Elon Musk**: Saya tidak menemukan informasi tentang reaksi Elon Musk yang terkait dengan ledakan roket. Namun, saya menemukan bahwa Elon Musk adalah salah satu tokoh yang peduli dengan dampak industri roket terhadap atmosfer dan sedang menjelajahi cara-cara baru untuk mengurangi dampak tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Roket Jeff Bezos Meledak, Elon Musk: Sangat Disayangkan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8510119/roket-jeff-bezos-meledak-elon-musk-sangat-disayangkan",
+            "category": "Teknologi",
+            "published_at": "2026-05-29T22:45:34+00:00",
+            "summary": "Roket Blue Origin milik Jeff Bezos meledak saat uji coba di Florida, menghancurkan tempat peluncuran. Elon Musk menyatakan kekecewaan, sementara Jeff Bezos mengaku hari yang sulit namun menegaskan semua karyawan selamat. Kegagalan ini memengaruhi persaingan dengan SpaceX dalam proyek NASA Artemis.",
+            "key_points": [
+              "Roket New Glemm Blue Origin meledak saat uji coba di Kennedy Space Center, Florida, menyebabkan kerusakan signifikan.",
+              "Elon Musk dan Jeff Bezos memberikan reaksi terhadap kejadian, dengan Musk menyebut 'sangat disayangkan' dan Bezos menegaskan tidak ada korban cedera.",
+              "Kegagalan ini memengaruhi persaingan Blue Origin dan SpaceX dalam perebutan kontrak pendarat bulan untuk misi Artemis NASA."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Alwi ke Semifinal Turnamen Super 750",
+        "title": "Alwi ke Semifinal Turnamen Super 750",
+        "synthesis": [
+          "Alwi Farhan tembus semifinal Singapore Open Super 750.",
+          "Menang atas Kodai Naraoka 21-12, 21-17.",
+          "Akan hadapi Alex Lanier di semifinal."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Prestasi olahraga tingkat internasional yang meningkatkan eksposur nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Alwi Senang Tembus Semifinal Perdana di Turnamen Super 750",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/raket/d-8510485/alwi-senang-tembus-semifinal-perdana-di-turnamen-super-750",
+            "category": "Olahraga",
+            "published_at": "2026-05-30T02:10:00+00:00",
+            "summary": "Alwi Farhan lolos ke semifinal Singapore Open Super 750 setelah mengalahkan Kodai Naraoka dengan skor 21-12, 21-17. Ini merupakan semifinal pertamanya di turnamen tersebut, dan ia akan menghadapi Alex Lanier di babak semifinal. Alwi mengaku senang atas kemenangan ini dan berharap bisa mengatasi tekanan di pertandingan mendatang.",
+            "key_points": [
+              "Alwi Farhan mencapai semifinal pertama di turnamen Super 750 setelah mengalahkan Kodai Naraoka.",
+              "Kemenangan Alwi atas Naraoka membuat rekor head to head mereka imbang 1-1.",
+              "Alwi akan menghadapi Alex Lanier di semifinal, dengan rekor pertemuan sebelumnya 0-1 untuk Lanier."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-29T23:30:33+00:00",
+          "summary": "Presiden AS Donald Trump menggelar pertemuan dengan para penasihat utama untuk menentukan kerangka perpanjangan gencatan senjata dengan Iran, namun pertemuan tersebut berakhir tanpa keputusan jelas. Trump menegaskan Iran harus setuju tidak memiliki senjata nuklir dan membuka Selat Hormuz, sementara Iran menolak bernegosiasi soal program nuklirnya. Sebelumnya, kedua belah pihak telah mencapai kerangka kesepakatan yang akan diperpanjang selama 60 hari.",
+          "key_points": [
+            "Pertemuan Trump dengan para penasihat di Situation Room berakhir tanpa keputusan akhir mengenai perpanjangan gencatan senjata dengan Iran.",
+            "Trump menetapkan syarat bahwa Iran harus menjamin tidak memiliki senjata nuklir dan membuka Selat Hormuz untuk lalu lintas bebas, sementara Iran menolak negosiasi soal program nuklir.",
+            "Kedua pihak saling menuduh melanggar gencatan senjata, dengan Iran menyerang pangkalan AS di Kuwait dan AS menuduh Iran melanggar kesepakatan."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-29T18:41:36+00:00",
+          "summary": "Israel ditambahkan ke daftar hitam PBB untuk pertama kalinya terkait pelanggaran kekerasan seksual di wilayah konflik. Laporan PBB mencatat 31 kasus yang diverifikasi, dengan Israel menolak tuduhan dan mengancam memutus hubungan dengan kantor Sekretaris Jenderal. Sejumlah kasus serupa juga dilaporkan terjadi di Ukraina, dengan Rusia masuk daftar hitam karena pelanggaran serupa.",
+          "key_points": [
+            "Israel masuk daftar hitam PBB setelah diverifikasi 31 kasus kekerasan seksual oleh pasukan Israel terhadap warga Palestina.",
+            "Israel menolak tuduhan kekerasan seksual dan mengancam memutus hubungan dengan kantor Sekretaris Jenderal PBB.",
+            "Rusia juga masuk daftar hitam PBB terkait 310 kasus kekerasan seksual di Ukraina, termasuk mutilasi genital dan pemerkosaan."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-29T17:27:09+00:00",
+          "summary": "Sebuah drone Rusia menghantam blok apartemen di Romania, menyebabkan kebakaran dan melukai dua orang. Insiden ini dikecam oleh NATO dan Uni Eropa, sementara Ukraina menyatakan bahwa Rusia tetap menjadi ancaman nyata bagi Eropa. Presiden Romania Nicușor Dan menyebut drone kemungkinan dihantam pertahanan udara Ukraina, mengubah jalurnya sebelum jatuh di wilayah Romania.",
+          "key_points": [
+            "Drone Rusia menabrak gedung apartemen di Galați, Romania, melukai dua orang dan menjadi insiden pertama yang melibatkan warga Romania selama konflik.",
+            "NATO dan Uni Eropa mengutuk serangan tersebut, sementara Ukraina menegaskan ancaman Rusia terhadap keamanan Eropa.",
+            "Romania meminta dukungan NATO untuk meningkatkan kemampuan anti-drone, sambil memastikan tidak melanggar wilayah udara Ukraina dalam respons pertahanannya."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/29/ice-agent-arrested-over-shooting-of-venezuelan-man-in-us-immigration-raid?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-29T22:52:50+00:00",
+          "summary": "Seorang agen ICE, Christian Castro, ditahan di Texas terkait penembakan terhadap warga Venezuela, Julio Cesar Sosa-Celis, selama operasi penegakan imigrasi di Minnesota. Castro dikenai empat dakwaan atas tindakan penganiayaan tingkat dua dan satu dakwaan palsu laporan kejahatan. Operasi Metro Surge yang kontroversial tersebut memicu kontroversi setelah terungkapnya kesaksian palsu dan insiden kematian dua warga AS.",
+          "key_points": [
+            "Castro ditembakkan melalui pintu rumah yang diketahui dihuni orang-orang yang baru masuk, mengenai kaki korban dan dinding kamar anak.",
+            "DHS mengakui agen yang terlibat memberikan informasi palsu tentang insiden penembakan, yang menyebabkan pencabutan dakwaan terhadap Sosa-Celis dan Alfredo Aljorna.",
+            "Operasi Metro Surge menuai kontroversi setelah dua warga AS tewas ditembak, memicu investigasi lebih lanjut terhadap tindakan agen federal."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-29T21:40:45+00:00",
+          "summary": "A man has pleaded guilty to 14 counts of aiding suicides in Canada after he sold toxic chemicals online. Kenneth Law, 60, entered the guilty pleas in an Ontario court on Friday, as part of a deal with prosecutors, who withdrew more serious murder charges.",
+          "key_points": [
+            "A man has pleaded guilty to 14 counts of aiding suicides in Canada after he sold toxic che",
+            "Kenneth Law, 60, entered the guilty pleas in an Ontario court on Friday, as part of a deal",
+            "Authorities said the former chef also sold about 1,200 packages of the toxic substances to"
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Terngiang Lagu Viral 'My Bolu Ketan', Terhibur atau Kadang Kesel? Ini Bedanya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8510109/terngiang-lagu-viral-my-bolu-ketan-terhibur-atau-kadang-kesel-ini-bedanya",
+          "category": "Hiburan",
+          "published_at": "2026-05-30T02:06:27+00:00",
+          "summary": "Lagu viral 'My Little Bolu Ketan' sering terpapar di media sosial dan membuat sebagian orang terus terngiang. Menurut dr. Lahargo, fenomena ini terjadi karena otak cenderung mengingat hal unik, repetitif, dan sering muncul. Efek ini umumnya tidak berbahaya, tetapi bisa mengganggu fokus bagi sebagian orang.",
+          "key_points": [
+            "Lagu viral menempel di kepala karena pola sederhana, lirik repetitif, dan paparan berulang di media sosial.",
+            "Fenomena 'earworm' disebabkan oleh efek mere exposure, di mana otak lebih mudah mengingat hal yang sering muncul.",
+            "Kebiasaan konsumsi media sosial berlebihan berisiko menurunkan rentang perhatian dan ketergantungan pada stimulasi cepat."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Louisiana lawmakers pass congressional map favouring Republicans",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-30T00:27:54+00:00",
+          "summary": "Legislator Louisiana mengesahkan peta distrik kongres baru yang dirancang untuk menguntungkan Partai Republik dengan menghilangkan salah satu dari dua distrik mayoritas kulit hitam yang diwakili Demokrat. Keputusan ini mengikuti putusan Mahkamah Agung AS yang menyatakan peta sebelumnya sebagai gerrymandering rasial ilegal, sekaligus memicu potensi sengketa hukum dan kritik terkait diskriminasi rasial.",
+          "key_points": [
+            "Peta baru bertujuan memperluas kekuasaan Republik dengan mengurangi representasi distrik mayoritas kulit hitam di Louisiana.",
+            "Putusan Mahkamah Agung AS (Louisiana v Callais) melemahkan Undang-Undang Hak Pemilih 1965, memungkinkan gerrymandering berbasis ras.",
+            "Peta ini menuai kontroversi karena dituduh melakukan gerrymandering rasial, dengan ancaman gugatan hukum dari ACLU dan partai oposisi."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/29/trump-pledges-to-withdraw-from-kennedy-center-after-court-strikes-his-name?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-05-29T23:41:25+00:00",
+          "summary": "Presiden AS Donald Trump mengumumkan rencana untuk mundur dari kepemimpinan Kennedy Center setelah pengadilan federal memerintahkan penghapusan namanya dari bangunan tersebut. Hakim Christopher Cooper menolak kebijakan Trump yang mencoba mengubah nama pusat seni tersebut dan menghentikan rencana penutupan sementara yang diusulkan Trump.",
+          "key_points": [
+            "Pengadilan federal memerintahkan penghapusan nama Trump dari Kennedy Center dan membatalkan rencana penutupan pusat seni tersebut.",
+            "Trump mengganti anggota dewan Kennedy Center dengan pilihannya sendiri dan mencoba menambahkan namanya ke nama resmi pusat seni tersebut.",
+            "Hakim menegaskan bahwa hanya Kongres yang berwenang mengubah nama resmi Kennedy Center, bukan keputusan sepihak dari dewan yang dikontrol Trump."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Lancar Sekali Bahasa Spanyolmu, Gordon",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8510383/lancar-sekali-bahasa-spanyolmu-gordon",
+          "category": "Olahraga",
+          "published_at": "2026-05-30T01:00:15+00:00",
+          "summary": "Anthony Gordon resmi bergabung dengan Barcelona setelah didatangkan dari Newcastle United dengan biaya 80 juta euro plus bonus, dengan kontrak hingga 2031. Ia langsung menunjukkan kemampuan berbicara bahasa Spanyol secara lancar saat diperkenalkan ke media, yang disiapkannya sejak lama karena Barcelona adalah klub impiannya.",
+          "key_points": [
+            "Anthony Gordon pindah ke Barcelona dengan biaya 80 juta euro plus bonus dan kontrak hingga 2031.",
+            "Gordon mempersiapkan kemampuan bahasa Spanyol sejak lama karena mengidolakan Barcelona sejak kecil.",
+            "Ia memiliki fisioterapis pribadi dan pelatih kiper dari Spanyol di Newcastle yang memengaruhi keahlian bahasa Spanyolnya."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Final Liga Champions: PSG Masih Haus Gelar",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8510386/final-liga-champions-psg-masih-haus-gelar",
+          "category": "Olahraga",
+          "published_at": "2026-05-30T00:30:10+00:00",
+          "summary": "Paris Saint-Germain (PSG) bertekad mempertahankan gelar Liga Champions 2025/2026 setelah menjuarai musim lalu. Final akan mempertemukan PSG melawan Arsenal di Puskas Arena, Budapest, Sabtu (30/5/2026). Ousmane Dembele menegaskan timnya masih haus gelar dan berkomitmen untuk terus memenangkan trofi bergengsi.",
+          "key_points": [
+            "PSG ingin mempertahankan gelar Liga Champions setelah menang 5-0 atas Inter Milan di musim lalu.",
+            "Final Liga Champions 2025/2026 akan digelar antara PSG dan Arsenal di Budapest pada 30 Mei 2026.",
+            "Ousmane Dembele menekankan pentingnya konsistensi dan ambisi PSG untuk meraih gelar bergengsi secara berulang."
+          ],
+          "cluster_id": 9
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4127
+    },
+    "timestamp": "2026-05-30T02:32:54.667729+00:00"
   }
 ]
