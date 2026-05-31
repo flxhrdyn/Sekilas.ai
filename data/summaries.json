@@ -15643,5 +15643,351 @@
       "total_in_qdrant": 4127
     },
     "timestamp": "2026-05-30T02:32:54.667729+00:00"
+  },
+  {
+    "date": "2026-05-31",
+    "generated_at": "2026-05-31T02:48:49.036348+00:00",
+    "headline": "Jepang membantah tuduhan 'militanisme baru' di Shangri-La Dialogue memicu kekhawatiran akan eskalasi ketegangan di Asia Timur.",
+    "global_headline": "Jepang membantah tuduhan 'militanisme baru' di Shangri-La Dialogue memicu kekhawatiran akan eskalasi ketegangan di Asia Timur.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Trump minta syarat lebih ketat dalam kesepakatan perang Iran.",
+          "Fokus pada pengawasan nuklir Iran diperkuat.",
+          "Kesepakatan akhir ditunda akibat perubahan syarat."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi memperpanjang konflik regional dan mengganggu stabilitas Timur Tengah.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump asked for tougher terms in proposed Iran war deal: US media",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta relevan dan kredibel terkait topik \"Trump asked for tougher terms in proposed Iran war deal: US media\". Namun, perlu diingat bahwa informasi tentang Trump tidak ditemukan dalam hasil pencarian mentah. Berikut adalah 3-4 poin fakta yang padat terkait topik:\n\n1. **Dampak Perang Iran terhadap Ekonomi Global**: Perang di Timur Tengah dapat memantul sebagai kenaikan harga pangan di Asia, inflasi di Eropa, dan volatilitas pasar saham di Amerika.\n2. **Pengaruh Perang terhadap Harga Energi**: Risiko di sekitar Selat Hormuz dapat meningkatkan biaya pengiriman dan waktu pengiriman kapal, sehingga mempengaruhi harga energi global.\n3. **Dampak Kenaikan Harga Minyak**: Kenaikan harga minyak dapat menjalar ke berbagai sektor ekonomi, termasuk inflasi, harga pangan, dan volatilitas pasar saham.\n4. **Posisi Iran dalam Peta Energi Dunia**: Iran memiliki cadangan minyak dan gas besar, serta posisi strategis dalam jalur distribusi energi global, sehingga perang di Timur Tengah dapat memiliki dampak sistemik terhadap ekonomi global."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump asked for tougher terms in proposed Iran war deal: US media",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/world/trump-tougher-terms-us-iran-war-deal-ceasefire-6152011",
+            "category": "Internasional",
+            "published_at": "2026-05-31T02:36:14+00:00",
+            "summary": "Presiden AS Donald Trump telah meminta perubahan lebih ketat pada proposal akhir perang di Timur Tengah, yang dapat memperpanjang negosiasi antara pihak-pihak terkait. Perubahan tersebut mencakup penguatan poin-poin penting, seperti pengawasan terhadap bahan nuklir Iran, sementara keputusan akhir tentang kesepakatan masih tertunda.",
+            "key_points": [
+              "Trump meminta perubahan lebih ketat pada proposal akhir perang, termasuk pengawasan bahan nuklir Iran.",
+              "Perubahan tersebut berpotensi memperpanjang negosiasi hingga beberapa hari sebelum keputusan dicapai.",
+              "Prioritas Trump meliputi komitmen Iran untuk tidak mengembangkan senjata nuklir dan pembukaan kembali Selat Hormuz yang diblokade."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Trump dinyatakan sehat tetapi dokter menyoroti risiko kesehatan serius.",
+          "Peningkatan berat badan dan gangguan vena mengancam kemampuan fisik presiden.",
+          "Konsumsi aspirin berlebihan berpotensi memicu perdarahan selama jabatan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kondisi kesehatan presiden langsung memengaruhi stabilitas kepemimpinan nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Presiden AS Donald Trump Jalani Pemeriksaan Medis, Ini Hasilnya Sampai Disuruh Diet",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8511225/presiden-as-donald-trump-jalani-pemeriksaan-medis-ini-hasilnya-sampai-disuruh-diet",
+            "category": "Kesehatan",
+            "published_at": "2026-05-31T01:04:50+00:00",
+            "summary": "Presiden AS Donald Trump menjalani pemeriksaan medis di Walter Reed National Military Medical Center dan dinyatakan sehat serta layak memimpin negara. Namun, dokter menyoroti peningkatan berat badan, pembengkakan kaki akibat gangguan vena, serta konsumsi aspirin berlebih yang berisiko memicu perdarahan.",
+            "key_points": [
+              "Trump mengalami peningkatan berat badan dari 101,6 kg (April 2025) menjadi 107,9 kg, sehingga dianjurkan untuk menurunkan berat badan melalui diet dan aktivitas fisik.",
+              "Pembengkakan kaki Trump disebabkan insufisiensi vena kronis, meski kondisinya menunjukkan perbaikan dibandingkan tahun sebelumnya.",
+              "Trump mengonsumsi aspirin dosis tinggi (325 mg/hari) untuk mencegah pembekuan darah, tetapi dosis ini berisiko menyebabkan memar dan perdarahan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Jepang bantah tuduhan 'militanisme baru' di Shangri-La Dialogue.",
+          "Menteri Pertahanan Jepang tekankan tidak memiliki senjata nuklir atau bom strategis.",
+          "Jepang tekankan kepatuhan hukum internasional sejak Perang Dunia II."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Isu keamanan regional dan kebijakan pertahanan Jepang.",
+        "external_research": [
+          {
+            "title": "Deep Research: Japan pushes back against accusations of 'new militarism'",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Jepang menolak tuduhan 'militarisme baru'\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pasal 9 Konstitusi Jepang**: Pasal 9 Konstitusi Jepang, yang ditetapkan pada tahun 1947, menyatakan bahwa Jepang tidak akan pernah lagi mempertahankan \"angkatan darat, laut, atau udara atau potensi perang lainnya\". Pasal ini merupakan hasil dari pendudukan Amerika Serikat setelah Perang Dunia II.\n2. **Perubahan Kebijakan Pertahanan Jepang**: Pemerintah Jepang telah mengalami perubahan kebijakan pertahanan sejak tahun 2010-an. Mereka telah meninggalkan sistem pertahanan yang sekedar membela diri dan menjadi siap membela diri dengan balas menyerang. Kebijakan ini dianggap perlu untuk menjaga keamanan Jepang dari serangan luar.\n3. **Keterlibatan Jepang dalam Pemeliharaan Perdamaian Internasional**: Jepang telah memainkan peran aktif dalam berbagai aktivitas pemeliharaan perdamaian internasional, termasuk dalam menjaga stabilitas keamanan di kawasan Asia Pasifik.\n4. **Kesadaran Masyarakat Jepang**: Masyarakat Jepang masih memiliki kesadaran kuat untuk mengambil jarak dari warisan Tentara Kekaisaran Jepang, yang dianggap bertanggung jawab atas Perang Dunia II. Namun, generasi baru menunjukkan ketertarikan terhadap simbol-simbol lama, yang dapat mempengaruhi kebijakan pertahanan Jepang di masa depan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Japan pushes back against accusations of 'new militarism'",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/east-asia/japan-pushes-back-accusations-new-militarism-shinjiro-koizumi-shangri-la-dialogue-6151996",
+            "category": "Internasional",
+            "published_at": "2026-05-31T02:10:05+00:00",
+            "summary": "Menteri Pertahanan Jepang Koizumi Shinjirō membantah tuduhan 'militanisme baru' dalam pidato di Shangri-La Dialogue, menyoroti bahwa Jepang tidak memiliki senjata nuklir atau bom strategis, sementara menyoroti kepatuhan Jepang terhadap hukum internasional sejak Perang Dunia II.",
+            "key_points": [
+              "Koizumi membantah tuduhan 'militanisme baru' Jepang dengan membandingkan arsenal militer Jepang dan negara lain yang memiliki senjata nuklir serta bom strategis.",
+              "Dia menekankan komitmen Jepang terhadap hukum internasional dan pemeliharaan orde internasional yang bebas serta terbuka sejak akhir Perang Dunia II.",
+              "Kementerian Luar Negeri Tiongkok sebelumnya memperingatkan negara-negara Asia-Pasifik untuk waspada terhadap tindakan 'militanisme baru' Jepang."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Arne Slot dipecat Liverpool setelah dua musim, jarang terjadi meski menang Liga Inggris di musim pertama.",
+          "Fabrizio Romano sebut Andoni Iraola kandidat terkuat pengganti Slot.",
+          "Spekulasi Xabi Alonso ke Chelsea jika Slot dipecat lebih awal."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Perubahan strategi Liverpool dan dinamika pasar transfer Premier League.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Meme Arne Slot Dipecat Liverpool Tapi Xabi Alonso Sudah ke Chelsea",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/fotoinet/d-8511561/meme-arne-slot-dipecat-liverpool-tapi-xabi-alonso-sudah-ke-chelsea",
+            "category": "Olahraga",
+            "published_at": "2026-05-31T02:10:33+00:00",
+            "summary": "Liverpool mengumumkan pemberhentian Arne Slot setelah dua musim melatih tim, menjadikannya pelatih langka yang dipecat meski pernah memenangkan Liga Inggris di musim pertamanya. Fabrizio Romano menyebut Andoni Iraola sebagai kandidat terkuat pengganti Slot, sementara fans berandai-andai Xabi Alonso bisa menjadi opsi jika Slot dipecat lebih awal.",
+            "key_points": [
+              "Arne Slot dipecat Liverpool setelah dua musim, meski pernah memenangkan Liga Inggris di musim pertamanya.",
+              "Andoni Iraola disebut sebagai kandidat terkuat pengganti Slot oleh Fabrizio Romano.",
+              "Fans Liverpool berharap Xabi Alonso bisa menjadi pelatih jika Slot dipecat lebih awal, meski Alonso kini sudah gabung Chelsea."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Diskon 1,6 juta untuk AC 1 PK Polytron di Transmart 31 Mei 2025.",
+          "Pengguna kartu kredit Mega/Mandiri dapat harga Rp 3.487.200.",
+          "Potensi dorong persaingan harga di sektor elektronik konsumen."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi penjualan elektronik konsumen melalui diskon besar.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "AC 1 PK Polytron Diskon Gede-gedean di Transmart Full Day Sale",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8511556/ac-1-pk-polytron-diskon-gede-gedean-di-transmart-full-day-sale",
+            "category": "Umum",
+            "published_at": "2026-05-31T02:00:27+00:00",
+            "summary": "Transmart mengadakan Full Day Sale pada 31 Mei 2025 dengan diskon besar-besaran untuk AC split Polytron 1 PK. Pelanggan yang menggunakan kartu kredit Bank Mega, Bank Mega Syariah, atau Bank Mandiri bisa mendapatkan harga Rp 3.487.200 dari harga normal Rp 5.149.000, menghemat Rp 1,6 juta.",
+            "key_points": [
+              "Transmart Full Day Sale berlangsung pada 31 Mei 2025 dengan promosi AC split Polytron 1 PK.",
+              "Diskon mencapai 50% + 20% untuk pembelian dengan kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri.",
+              "Harga promosi AC Polytron 1 PK adalah Rp 3.487.200 dengan syarat transaksi minimal Rp 300 ribu dan tidak berlaku untuk pembelian partai besar."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Kesehatan: Stabilitas Trump Mempengaruhi Kebijakan Iran",
+        "analysis": "Kesehatan Trump, meski dinyatakan sehat, menjadi faktor risiko bagi kebijakan luar negeri AS. Jika Trump mengalami masalah kesehatan serius, stabilitas politik AS bisa terganggu, memengaruhi negosiasi perang Iran yang diminta lebih ketat. Hal ini berpotensi mengubah dinamika geopolitik, termasuk respons Jepang terhadap tuduhan 'militanisme baru' di Asia Timur, karena kebijakan AS terhadap Iran memengaruhi aliansi strategis di kawasan."
+      },
+      {
+        "title": "Teknologi dan Ekonomi: Diskon AC Polytron Sebagai Indikator Konsumsi di Tengah Ketidakpastian Geopolitik",
+        "analysis": "Diskon besar-besaran AC Polytron di 2025 mencerminkan strategi bisnis untuk meningkatkan penjualan di tengah ketidakpastian global. Tuduhan 'militanisme baru' Jepang dan ketegangan AS-Iran (dipicu kebijakan Trump) bisa memicu ketakutan pasar, mengurangi daya beli konsumen. Diskon ini menjadi alat untuk menarik konsumen, sekaligus menunjukkan hubungan antara kebijakan geopolitik dan keputusan ekonomi korporat."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-30T21:36:42+00:00",
+          "summary": "Analisis geopolitik Joe Macaron menyatakan bahwa Tentara Lebanon terlalu terbebani dalam menghadapi invasi terbaru Israel. Pasukan Israel telah memperluas pendudukan wilayah Lebanon hingga di utara Sungai Litani dan berpotensi mengurung kota Nabatieh.",
+          "key_points": [
+            "Tentara Lebanon dianggap 'overly stretched' dalam menghadapi serangan Israel.",
+            "Israel memperluas pendudukan wilayah hingga di utara Sungai Litani.",
+            "Pasukan Israel berada di posisi yang berpotensi mengurung kota Nabatieh."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-30T17:34:30+00:00",
+          "summary": "Sebuah serangan drone Rusia menghantam apartemen di Galati, Romania, menyebabkan kerusakan parah dan dua orang terluka. Warga setempat mengungkapkan ketakutan akan ancaman perang Ukraina yang semakin dekat, sementara pemerintah Romania mengidentifikasi drone tersebut sebagai Geran-2 buatan Rusia dan mempertimbangkan tindakan diplomatik.",
+          "key_points": [
+            "Serangan drone Rusia di Galati, Romania, menembus atap apartemen dan menimbulkan kekhawatiran akan ancaman perang yang semakin nyata bagi warga.",
+            "Pemerintah Romania mengonfirmasi drone yang menyerang adalah Geran-2/Rusia, berdasarkan perbandingan dengan drone serupa yang ditemukan sebelumnya.",
+            "NATO dan sekutu Eropa mengecam tindakan Rusia sebagai 'ceroboh', tetapi tidak memicu pasal pertahanan kolektif (Article 5) untuk menghindari eskalasi konflik."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Studi: Emisi Serangan Kilang Minyak Iran Setara Letusan Gunung Berapi",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8511553/studi-emisi-serangan-kilang-minyak-iran-setara-letusan-gunung-berapi",
+          "category": "Lingkungan",
+          "published_at": "2026-05-31T01:20:46+00:00",
+          "summary": "Sebuah studi menemukan bahwa serangan udara Israel terhadap kilang minyak Iran pada 7 Maret 2026 menghasilkan emisi sulfur dioksida (SO2) setara dengan letusan gunung berapi, dengan dampak yang menyebar hingga 2.000 kilometer ke Asia Timur. Emisi tersebut menyebabkan hujan hitam dan efek kesehatan seperti iritasi mata serta kesulitan bernapas di Teheran.",
+          "key_points": [
+            "Serangan Israel terhadap kilang minyak Iran menghasilkan 29.800 metrik ton SO2 dalam satu hari, setara dengan letusan Gunung Eyjafjallajökull 2010.",
+            "Awan gas SO2 menyebar 2.000 kilometer ke Asia Timur dan menyebabkan hujan hitam yang berpotensi korosif.",
+            "Emisi SO2 terkait dengan efek kesehatan seperti sakit kepala, iritasi kulit, dan risiko pencemaran lingkungan melalui hujan asam."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Hundreds arrested in France after wild Champions League celebrations",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+          "category": "Olahraga",
+          "published_at": "2026-05-31T02:04:18+00:00",
+          "summary": "Lebih dari 400 orang ditangkap di Prancis setelah kemenangan Paris Saint-Germain (PSG) di final Liga Champions melawan Arsenal, menyusul bentrokan antara suporter dan polisi yang mengganggu layanan transportasi dan menyebabkan kerusakan. Kekacauan ini merupakan tahun kedua berturut-turut setelah kemenangan PSG yang memicu kekerasan.",
+          "key_points": [
+            "Lebih dari 400 orang ditangkap, termasuk 280 di Paris, setelah bentrokan antara suporter dan polisi.",
+            "Kerusakan tercatat pada enam kendaraan, dua bisnis, dan satu tempat perlindungan bus selama kekacauan.",
+            "Ini adalah tahun kedua berturut-turut kemenangan PSG memicu kekerasan, setelah kemenangan 2025 yang berujung pada kematian dua orang."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Arteta: Sulit Rasanya Menerima Kekalahan Ini",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/uefa/d-8511520/arteta-sulit-rasanya-menerima-kekalahan-ini",
+          "category": "Olahraga",
+          "published_at": "2026-05-31T02:00:05+00:00",
+          "summary": "Arsenal kalah dari PSG di final Liga Champions 2026 setelah kalah adu penalti. Mikel Arteta menyatakan kekalahan ini sulit diterima karena tim tampil konsisten sepanjang pertandingan. PSG unggul lewat gol penalti Ousmane Dembele di babak kedua, sementara Arsenal gagal memanfaatkan peluang di babak tambahan dan tos-tosan.",
+          "key_points": [
+            "Arsenal kalah dari PSG di final Liga Champions 2026 setelah kalah adu penalti.",
+            "PSG mencetak gol penalti Ousmane Dembele di babak kedua yang mengubah keadaan.",
+            "Kekalahan ini menjadi yang kedua bagi Arsenal di final Liga Champions, setelah yang pertama pada 2006."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/5/30/psg-beat-arsenal-to-win-back-to-back-champions-league-titles-after-shootout?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-05-30T21:11:57+00:00",
+          "summary": "Paris Saint-Germain (PSG) mengalahkan Arsenal 4-3 dalam babak penalti setelah pertandingan imbang 1-1 di final Liga Champions 2024, memastikan gelar berturut-turut pertama sejak Real Madrid 2016-2018. Pertandingan di Budapest berlangsung ketat dengan kemenangan PSG di babak adu penalti yang menegangkan.",
+          "key_points": [
+            "PSG menjadi klub pertama sejak Real Madrid yang mempertahankan gelar Liga Champions.",
+            "Luis Enrique memimpin PSG menang dalam enam dari enam pertandingan penalti yang mereka lalui.",
+            "Kai Havertz mencetak gol di dua final Liga Champions berbeda dengan dua klub berbeda, menjadi pemain keempat yang mencapai rekor ini."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Kebiasaan Ini Bisa Bikin Anak Tumbuh Pendek, Jangan Dianggap Sepele",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8511505/kebiasaan-ini-bisa-bikin-anak-tumbuh-pendek-jangan-dianggap-sepele",
+          "category": "Kesehatan",
+          "published_at": "2026-05-31T00:07:11+00:00",
+          "summary": "Kebiasaan buruk seperti begadang dapat mengganggu pertumbuhan anak, terutama karena menghambat aktivitas hormon pertumbuhan. dr. Mulki Angela menekankan pentingnya tidur 8 jam sehari sebelum pukul 21.00 untuk anak usia sekolah, serta keseimbangan gizi dan stimulasi yang tepat untuk mendukung tumbuh kembang optimal.",
+          "key_points": [
+            "Begadang atau kurang tidur mengganggu hormon pertumbuhan dan berisiko membuat anak tumbuh pendek.",
+            "Anak usia sekolah disarankan tidur minimal 8 jam sehari, selesai sebelum pukul 21.00.",
+            "Nutrisi seimbang dan stimulasi sesuai usia diperlukan untuk mendukung perkembangan anak secara optimal."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-05-30T21:10:06+00:00",
+          "summary": "Organisasi kemanusiaan MSF menyatakan penyebaran cepat virus Ebola di Kongo Demokratik (DR Congo) menciptakan situasi 'sangat mengkhawatirkan', dengan lebih dari 1.000 kasus dugaan dan 246 kematian. WHO mengakui respons penanganan belum sejalan dengan penyebaran, sementara konflik dan hambatan logistik memperparah situasi. Pemerintah Uganda dan Brasil juga melaporkan kasus terkait.",
+          "key_points": [
+            "Penyebaran Ebola di DR Congo sangat cepat, dengan lebih dari 1.000 kasus dugaan dan 246 kematian dalam dua minggu setelah dinyatakan sebagai wabah.",
+            "Respons penanganan dihambat oleh konflik bersenjata, penutupan perbatasan, dan keterlambatan pengujian sampel, sehingga memperparah penyebaran virus.",
+            "WHO menekankan pentingnya keterlibatan komunitas lokal dalam memerangi wabah, sambil memperingatkan risiko penularan melalui praktik pemakaman tradisional."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Kulkas Side by Side 436L Banting Harga di Transmart Full Day Sale",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8511218/kulkas-side-by-side-436l-banting-harga-di-transmart-full-day-sale",
+          "category": "Umum",
+          "published_at": "2026-05-31T01:00:44+00:00",
+          "summary": "Transmart menggelar Full Day Sale pada 31 Mei 2026 dengan promo kulkas Polytron side by side 436L yang dijual dengan harga diskon hingga Rp 6.879.200 bagi pengguna kartu kredit tertentu.",
+          "key_points": [
+            "Kulkas Polytron side by side 436L dijual dengan harga normal Rp 10.149.000 dan diskon menjadi Rp 8.599.000 di promo Full Day Sale.",
+            "Pengguna kartu kredit Bank Mega, Bank Mega Syariah, dan Bank Mandiri bisa mendapatkan harga spesial Rp 6.879.200 untuk kulkas tersebut.",
+            "Promo berlaku dari pembukaan toko hingga pukul 22.00 WIB dengan syarat minimal transaksi Rp 300 ribu dan tidak berlaku untuk pembelian partai besar."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Pengakuan Ringgo Agus Rahman Tak Bisa Tidur Terpisah dari Anak, Alasannya Bikin Haru",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8511517/pengakuan-ringgo-agus-rahman-tak-bisa-tidur-terpisah-dari-anak-alasannya-bikin-haru",
+          "category": "Hiburan",
+          "published_at": "2026-05-31T02:07:09+00:00",
+          "summary": "Aktor Ringgo Agus Rahman mengakui masih tidur bersama kedua anaknya, Bjorka (10) dan Mars (5), meski usia mereka sudah cukup besar untuk tidur sendiri. Ia pernah mencoba melepaskan Bjorka tidur sendiri, tetapi akhirnya memutuskan tetap tidur bersama karena merasa momen tersebut penting untuk kedekatan. Ringgo menekankan bahwa tidur bersama adalah waktu untuk berdoa, berbicara, dan saling menyatakan cinta, yang ia anggap sebagai 'tempat aman' bagi anak-anak.",
+          "key_points": [
+            "Ringgo Agus Rahman memilih tidur bersama anak-anaknya meski usia mereka sudah cukup besar untuk tidur sendiri.",
+            "Bjorka pernah mencoba tidur sendiri, tetapi Ringgo mengajaknya kembali tidur bersama karena merasa momen tersebut berharga.",
+            "Ia menekankan pentingnya tidur bersama sebagai waktu untuk berdoa, berbicara, dan membangun kedekatan emosional dengan anak-anak."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4218
+    },
+    "timestamp": "2026-05-31T02:48:49.036357+00:00"
   }
 ]
