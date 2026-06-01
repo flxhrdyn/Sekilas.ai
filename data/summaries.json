@@ -15989,5 +15989,335 @@
       "total_in_qdrant": 4218
     },
     "timestamp": "2026-05-31T02:48:49.036357+00:00"
+  },
+  {
+    "date": "2026-06-01",
+    "generated_at": "2026-06-01T02:57:50.565736+00:00",
+    "headline": "Perusahaan asing untung dari bauxite Guinea memicu kehilangan lahan pertanian warga lokal.",
+    "global_headline": "Perusahaan asing untung dari bauxite Guinea memicu kehilangan lahan pertanian warga lokal.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Pemilu Kolombia lanjut ke putaran kedua antara de la Espriella (43%) dan Cepeda (40%).",
+          "De la Espriella fokus kebijakan keamanan keras, Cepeda pertahankan 'Total Peace'.",
+          "Polarisasi politik meningkat akibat perbedaan ideologi kandidat."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi pergeseran kebijakan nasional dan konflik politik akibat polarisasi.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Cepeda, de la Espriella advance in Colombia’s presidential election",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/5/31/cepeda-de-la-espriella-advance-in-colombias-presidential-election?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-05-31T23:02:53+00:00",
+            "summary": "Pemilihan presiden Kolombia akan berlanjut ke putaran kedua antara kandidat kanan ekstrem Abelardo de la Espriella (43%) dan senator kiri Ivan Cepeda (40%), setelah keduanya gagal mencapai ambang 50% pada putaran pertama. De la Espriella, yang fokus pada kebijakan keamanan keras, diharapkan mendapat dukungan konsolidasi sayap kanan, sementara Cepeda mempertahankan kebijakan 'Total Peace' yang diusung Presiden Gustavo Petro.",
+            "key_points": [
+              "Abelardo de la Espriella (43%) dan Ivan Cepeda (40%) maju ke putaran kedua pemilihan presiden Kolombia setelah tidak ada kandidat yang mencapai 50% suara pada putaran pertama.",
+              "De la Espriella, seorang tokoh luar partai, menawarkan kebijakan keamanan keras dengan rencana pembangunan 10 megaprisan, sementara Cepeda mendukung kebijakan perdamaian negosiasi 'Total Peace' yang diusung Petro.",
+              "Pemungutan suara diwarnai jumlah besar surat suara kosong atau batal (652.172) dan dinamika politik regional yang menunjukkan tren konsolidasi kekuatan kanan di Amerika Latin."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Perusahaan asing untung dari bauxite Guinea, warga kehilangan lahan pertanian.",
+          "Kompensasi tidak cukup gantikan kerugian jangka panjang warga desa.",
+          "Eksploitasi tambang patahkan keseimbangan ekosistem dan penghidupan lokal."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik terhadap keberlanjutan komunitas dan ketimpangan distribusi kekayaan sumber daya.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/features/2026/6/1/before-the-land-sustained-us-who-benefits-from-guineas-bauxite-wealth?traffic_source=rss",
+            "category": "Ekonomi",
+            "published_at": "2026-06-01T01:08:05+00:00",
+            "summary": "Guinea's bauxite kaya menguntungkan perusahaan asing, tetapi warga desa seperti Bembou Silaty kehilangan lahan pertanian dan sumber penghidupan akibat eksploitasi tambang. Meski ada proyek infrastruktur dan pekerjaan teknis, kompensasi yang diberikan kepada warga tidak cukup untuk menggantikan kerugian jangka panjang.",
+            "key_points": [
+              "Kebijakan tambang bauksit di Guinea menyebabkan kerusakan lingkungan dan penurunan produktivitas pertanian, mengancam kesejahteraan masyarakat lokal.",
+              "Kompensasi lahan yang diberikan perusahaan tambang tidak memadai, membuat warga kehilangan sumber daya dan uang dalam waktu singkat.",
+              "Sebagian besar bauksit Guinea diekspor ke China, sementara perusahaan asing dari Rusia, AS, dan Uni Emirat Arab memperkuat kehadiran mereka di negara ini."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Kuba mendistribusikan susu donasi dari Meksiko dan Uruguay.",
+          "Prioritas untuk anak-anak, ibu hamil, dan fasilitas pediatrik.",
+          "Menunjukkan ketergantungan pada bantuan luar negeri untuk kebutuhan dasar."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mengatasi kelangkaan sistemik di kubu kritis.",
+        "external_research": [
+          {
+            "title": "Deep Research: Cepeda, de la Espriella advance in Colombia’s presidential election",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta relevan dan kredibel terkait topik \"Cepeda, de la Espriella advance in Colombia’s presidential election\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Faktor-faktor yang mempengaruhi pemilihan presiden**: Faktor-faktor seperti pendapatan, pendidikan, pekerjaan, dan lingkungan tempat tinggal mempengaruhi preferensi politik seseorang. Debat publik dan pidato kandidat juga dapat mempengaruhi pendapat masyarakat tentang kualitas kepemimpinan mereka.\n2. **Sistem pemilihan presiden**: Pemilihan presiden di Colombia menggunakan sistem mayoritas mutlak dua putaran, dengan tujuan memastikan agar kandidat yang berhasil mendapatkan dukungan memadai di seluruh negara.\n3. **Peran media sosial**: Media sosial dapat mempengaruhi persepsi publik terhadap calon presiden dan partai politik, serta menjadi alat penting dalam kampanye politik. Media sosial juga dapat menjadi sumber informasi utama bagi masyarakat dalam mencari informasi terkait pemilu.\n4. **Kembalinya partisipasi politik generasi muda**: Media sosial dapat menjadi alat strategis dalam meningkatkan partisipasi politik generasi muda dalam pemilu, dengan memperluas jangkauan pesan politik dan meningkatkan interaksi antara kandidat dan pemilih."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Donated milk reaches Cuba amid deepening shortages",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/donated-milk-reaches-cuba-amid-deepening-shortages?traffic_source=rss",
+            "category": "Umum",
+            "published_at": "2026-06-01T00:05:31+00:00",
+            "summary": "Kuba mulai mendistribusikan susu bubuk yang didonasikan dari Meksiko dan Uruguay untuk mengatasi kelangkaan yang semakin dalam, dengan prioritas pada anak-anak, ibu hamil, dan fasilitas pediatrik.",
+            "key_points": [
+              "Susu bubuk didonasikan oleh Meksiko dan Uruguay ke Kuba.",
+              "Kelangkaan dan krisis ekonomi Kuba memburuk.",
+              "Prioritas distribusi diberikan pada anak-anak, ibu hamil, dan fasilitas pediatrik."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Bek utama Cho Yu-min absen Piala Dunia 2022 akibat cedera kaki.",
+          "Korsel kehilangan pengalaman bertahan di grup berat (Meksiko, Afrika Selatan, Ceko).",
+          "Potensi risiko strategi pertahanan melemah di babak grup."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan pada komposisi tim nasional di turnamen krusial.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "South Korea defender Cho ruled out of World Cup",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/south-korea-defender-cho-ruled-out-world-cup-6153256",
+            "category": "Olahraga",
+            "published_at": "2026-06-01T02:31:38+00:00",
+            "summary": "Bek Korea Selatan Cho Yu-min absen di Piala Dunia 2022 setelah mengalami cedera kaki saat laga uji coba melawan Trinidad dan Tobago. Korea Selatan akan menghadapi Meksiko, Afrika Selatan, dan Republik Ceko di babak grup.",
+            "key_points": [
+              "Cho Yu-min cedera kaki saat pertandingan uji coba 5-0 melawan Trinidad dan Tobago, membuatnya absen di Piala Dunia.",
+              "KFA menyatakan Cho membutuhkan waktu pemulihan selama delapan minggu dan tidak akan bisa bermain di Piala Dunia.",
+              "Korea Selatan akan bertanding melawan Meksiko, Afrika Selatan, dan Republik Ceko di babak grup, dengan laga pembuka melawan Ceko pada 11 Juni."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Luis Suarez absen dari skuad Uruguay Piala Dunia 2026 meski sempat berpotensi comeback.",
+          "Pelatih Bielsa hanya memilih tiga penyerang, mengubah strategi ofensif tim.",
+          "Uruguay tergabung di Grup H bersama Spanyol, Tanjung Verde, dan Arab Saudi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi tim dan komposisi grup memengaruhi peluang Uruguay di Piala Dunia.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Timnas Uruguay Rilis Skuad Piala Dunia 2026, Tidak Ada Luis Suarez",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8512730/timnas-uruguay-rilis-skuad-piala-dunia-2026-tidak-ada-luis-suarez",
+            "category": "Olahraga",
+            "published_at": "2026-06-01T01:30:00+00:00",
+            "summary": "Timnas Uruguay mengumumkan skuad Piala Dunia 2026 tanpa kehadiran Luis Suarez, meskipun pemain veteran tersebut sempat membuka kemungkinan comeback. Pelatih Marcelo Bielsa hanya memilih tiga penyerang, sementara Uruguay tergabung di Grup H bersama Spanyol, Tanjung Verde, dan Arab Saudi.",
+            "key_points": [
+              "Luis Suarez tidak masuk dalam skuad Piala Dunia 2026 meski pernah mencetak 69 gol untuk timnas Uruguay.",
+              "Marcelo Bielsa memilih tiga penyerang: Darwin Nunez, Rodrigo Aguirre, dan Federico Vinas.",
+              "Uruguay akan berlaga di Grup H Piala Dunia 2026 bersama Spanyol, Tanjung Verde, dan Arab Saudi."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-06-01T01:53:03+00:00",
+          "summary": "Pemilihan presiden Kolombia akan berlanjut ke putaran kedua pada 21 Juni antara kandidat kiri Iván Cepeda dan kanan Abelardo de la Espriella setelah tidak ada kandidat yang meraih lebih dari 50% suara. Kedua kandidat menawarkan pendekatan berbeda untuk menangani konflik bersenjata internal Kolombia, sementara kampanye diwarnai kekerasan, termasuk serangan drone dan pembunuhan kandidat.",
+          "key_points": [
+            "Putaran kedua pemilihan presiden Kolombia akan diadakan antara Cepeda (kiri) dan De La Espriella (kanan) setelah keduanya masing-masing meraih 41% dan 43,7% suara di putaran pertama.",
+            "Cepeda, pendukung kebijakan perdamaian melalui dialog, dan De La Espriella, yang menekankan pendekatan militer serta kerja sama dengan AS, menawarkan visi berbeda untuk mengatasi konflik bersenjata yang melonjak.",
+            "Hasil pemilihan akan memengaruhi hubungan Kolombia dengan AS dan negara tetangga, terutama karena De La Espriella dianggap mengadopsi kebijakan serupa dengan Presiden El Salvador Nayib Bukele."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Colombia’s outsider candidate defied the polls",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_qt_guest-jorge-restrepo_colombia-elections-310526?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-06-01T01:06:42+00:00",
+          "summary": "Pemilihan presiden Kolombia akan berlanjut ke putaran kedua pada 21 Juni, dengan kandidat peraih suara terbanyak dari kelompok sayap kanan, Abelardo de la Espriella, menghadapi senator dari kelompok kiri, Ivan Cepeda. Kenaikan popularitas de la Espriella dijelaskan oleh Profesor Jorge Restrepo sebagai bentuk 'hukuman' terhadap kelas politik tradisional Kolombia.",
+          "key_points": [
+            "Pemilihan presiden Kolombia akan dilanjutkan ke putaran kedua pada 21 Juni.",
+            "Abelardo de la Espriella, kandidat sayap kanan, melampaui ekspektasi polling dan menjadi pesaing utama.",
+            "Kenaikan suara de la Espriella dianggap sebagai bentuk ketidakpuasan terhadap kelas politik tradisional Kolombia."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Trump seeking edits to US-Iran deal, US media report",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-05-31T22:54:20+00:00",
+          "summary": "Presiden AS Donald Trump meminta perubahan pada kesepakatan AS-Iran untuk mengakhiri konflik, terutama terkait Selat Hormuz dan uranium terenrich, sementara Iran menegaskan tidak akan setuju tanpa jaminan hak-hak mereka. Negosiasi masih berlangsung dengan perubahan terus muncul, termasuk rencana 60 hari cessasi kekerasan dan potensi pembebasan sanksi.",
+          "key_points": [
+            "Trump meminta revisi kesepakatan terkait Selat Hormuz dan penghapusan uranium terenrich.",
+            "Iran menolak setuju tanpa jaminan hak-hak mereka dan pembebasan aset yang dibekukan.",
+            "Rencana kesepakatan mencakup cessasi kekerasan 60 hari dan pembukaan kembali negosiasi program nuklir Iran."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Ingin Panjang Umur dan Awet Sehat? Ini Saran Dokter",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8512707/ingin-panjang-umur-dan-awet-sehat-ini-saran-dokter",
+          "category": "Kesehatan",
+          "published_at": "2026-06-01T02:03:54+00:00",
+          "summary": "Dokter menyarankan olahraga rutin untuk menjaga berat badan stabil dan melepaskan hormon bahagia yang membantu mengurangi stres, serta mengimbanginya dengan asupan nutrisi yang mencukupi, terutama protein, untuk mendukung kesehatan dan umur panjang.",
+          "key_points": [
+            "Olahraga rutin membantu stabilisasi berat badan dan melepaskan hormon serotonin serta dopamin yang berfungsi sebagai stress reliever.",
+            "Asupan nutrisi, khususnya protein, diperlukan untuk membangun dan memelihara sel-sel tubuh guna mendukung kesehatan jangka panjang.",
+            "Stres yang tinggi di masyarakat Indonesia dapat dikelola melalui olahraga sebagai cara alami untuk melepaskan tekanan."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Pernah Sakit Perut setelah Minum Susu UHT? Mungkin Ini Pemicunya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8512729/pernah-sakit-perut-setelah-minum-susu-uht-mungkin-ini-pemicunya",
+          "category": "Kesehatan",
+          "published_at": "2026-06-01T01:04:26+00:00",
+          "summary": "Banyak orang mengalami sakit perut setelah minum susu UHT, tetapi penyebabnya tidak selalu terkait dengan proses produksi atau kontaminasi bakteri dari pabrik. Guru Besar IPB University, Prof Dr Epi Taufik, menjelaskan bahwa kemungkinan penyebabnya termasuk kerusakan susu akibat penyimpanan setelah dibuka, intoleransi laktosa, atau adanya toksin dari bakteri yang berkembang di dalam susu.",
+          "key_points": [
+            "Sakit perut setelah minum susu UHT bisa disebabkan oleh kerusakan susu akibat penyimpanan setelah kemasan dibuka, bukan proses UHT itu sendiri.",
+            "Penyebab lain mungkin termasuk intoleransi laktosa, di mana tubuh tidak mampu mencerna laktosa secara optimal karena kekurangan enzim laktase.",
+            "Kondisi ini juga bisa terjadi akibat infeksi bakteri atau keracunan makanan (food poisoning) jika susu sudah mengandung bakteri atau toksin yang cukup tinggi."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Infografis: Sisi Ilmiah Runner's Trot, Fenomena Mendadak Mules Saat Lari",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/infografis/d-8511762/infografis-sisi-ilmiah-runners-trot-fenomena-mendadak-mules-saat-lari",
+          "category": "Kesehatan",
+          "published_at": "2026-05-31T13:05:51+00:00",
+          "summary": "Artikel ini menjelaskan fenomena Runner's Trot, yaitu rasa mules mendadak saat lari, yang disebabkan oleh beberapa mekanisme fisiologis. Informasi lebih lengkap tersedia dalam infografis dan artikel FOKUS AKHIR PEKAN.",
+          "key_points": [
+            "Runner's Trot adalah fenomena rasa mules mendadak yang terjadi saat lari.",
+            "Penyebab fenomena ini melibatkan beberapa mekanisme fisiologis.",
+            "Penjelasan lebih detail tersedia dalam infografis dan artikel FOKUS AKHIR PEKAN."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Biang Kerok' Ribuan Dapur MBG Disetop, Mark Up Harga hingga Picu Keracunan",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8512547/biang-kerok-ribuan-dapur-mbg-disetop-mark-up-harga-hingga-picu-keracunan",
+          "category": "Hukum",
+          "published_at": "2026-05-31T23:05:16+00:00",
+          "summary": "Badan Gizi Nasional (BGN) telah menangguhkan operasional ribuan dapur Program Makan Bergizi Gratis (MBG) sejak Januari 2025 karena pelanggaran seperti markup harga bahan baku, kasus keracunan pangan, dan ketidaksesuaian tata kelola anggaran. Dari 8.182 dapur yang ditangguhkan, 5.659 telah kembali beroperasi setelah memperbaiki kekurangan, sementara 2.213 lainnya masih dalam proses evaluasi.",
+          "key_points": [
+            "Penangguhan dapur MBG disebabkan oleh markup harga bahan baku dan laporan keracunan pangan pada penerima manfaat.",
+            "Pelanggaran tata kelola anggaran, seperti menu yang tidak sesuai alokasi Rp 8.000–Rp 10.000 per porsi, juga memicu sanksi suspend.",
+            "Dapur MBG yang tidak memenuhi standar infrastruktur, seperti sertifikat higiene dan instalasi pengolahan limbah, dikenai penghentian sementara."
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/5/31/nicaragua-confirms-death-in-custody-of-indigenous-leader-brooklyn-rivera?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-05-31T21:38:15+00:00",
+          "summary": "Brooklyn Rivera, seorang pemimpin adat dan aktivis, meninggal dunia pada usia 73 tahun setelah dua tahun ditahan di bawah pemerintahan Nicaragua, dengan pemerintah menyebutkan kematian akibat infeksi bakteri pasca-COVID-19. Kematian ini memicu kecaman dari kelompok hak asasi manusia yang menuding kondisi penahanan yang tidak memenuhi standar medis independen, sementara pemerintah AS menuntut pembebasan tak bersyarat terhadapnya.",
+          "key_points": [
+            "Pemerintah Nicaragua menyatakan kematian Rivera disebabkan infeksi bakteri setelah pulih dari COVID-19, tetapi kritikus menuding kematian ini akibat penahanan yang tidak transparan.",
+            "Reed Brody dari Kelompah Ahli HAM PBB menyalahkan pemerintah Nicaragua atas kondisi penahanan Rivera yang melanggar hak asasi, termasuk penyangkalan pengawasan medis independen.",
+            "Amerika Serikat menuntut pembebasan Rivera dan menyalahkan pemerintah Nicaragua atas perlakuan tidak manusiawi terhadapnya, sambil menyerukan pembebasan tahanan politik lainnya."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Ochoa set for sixth World Cup as Mexico name squad",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/ochoa-set-sixth-world-cup-mexico-name-squad-6153271",
+          "category": "Olahraga",
+          "published_at": "2026-06-01T02:36:53+00:00",
+          "summary": "Penjaga gawang Guillermo Ochoa berpotensi menjadi pemain pertama Meksiko yang tampil di enam Piala Dunia setelah dinamai dalam skuad yang dipimpin Javier Aguirre. Tim Meksiko menggabungkan pengalaman dan bakat muda, termasuk pemain termuda Gilberto Mora (17 tahun) serta pemain naturalisasi Alvaro Fidalgo dan Julian Quinones.",
+          "key_points": [
+            "Guillermo Ochoa berpotensi menjadi pemain Meksiko pertama yang tampil di enam Piala Dunia.",
+            "Gilberto Mora (17 tahun) akan menjadi pemain termuda Meksiko di Piala Dunia.",
+            "Tim Meksiko menampilkan dua pemain naturalisasi, Alvaro Fidalgo (Spanyol) dan Julian Quinones (Kolombia)."
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Florentino Perez: Valverde, Tchouameni Akan Bertahan di Real Madrid",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8512699/florentino-perez-valverde-tchouameni-akan-bertahan-di-real-madrid",
+          "category": "Olahraga",
+          "published_at": "2026-06-01T00:30:12+00:00",
+          "summary": "Presiden Real Madrid Florentino Perez memastikan Federico Valverde dan Aurelien Tchouameni akan bertahan di klub meski terlibat perkelahian di latihan yang menyebabkan cedera dan denda besar. Perez menegaskan situasi ruang ganti Madrid tetap kondusif, sambil mengkritik pihak yang membocorkan informasi konflik internal.",
+          "key_points": [
+            "Valverde dan Tchouameni terlibat perkelahian di latihan, menyebabkan cedera dan denda masing-masing 500 ribu euro.",
+            "Florentino Perez memastikan kedua pemain akan tetap bertahan di Real Madrid meski dihukum.",
+            "Perez membantah isu perpecahan di ruang ganti Madrid, menyalahkan pihak yang membocorkan informasi konflik."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4335
+    },
+    "timestamp": "2026-06-01T02:57:50.565744+00:00"
   }
 ]
