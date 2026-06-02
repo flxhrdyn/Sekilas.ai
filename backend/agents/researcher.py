@@ -22,7 +22,7 @@ Kembalikan jawaban dalam Bahasa Indonesia yang profesional dan padat (tanpa basa
 """.strip()
 
 class NewsResearcherAgent:
-    def __init__(self, tavily_api_key: str, groq_api_key: str, model: str = "llama-3-8b-8192") -> None:
+    def __init__(self, tavily_api_key: str, groq_api_key: str, model: str = "llama-3.1-8b-instant") -> None:
         self.tavily_client = TavilyClient(api_key=tavily_api_key)
         self.groq_client = Groq(api_key=groq_api_key)
         self.model = model

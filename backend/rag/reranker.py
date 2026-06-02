@@ -32,9 +32,9 @@ class NewsReranker:
         if not results or len(results) <= 1:
             return results
 
-        # Persiapkan data untuk LLM (Top 15 saja untuk efisiensi)
+        # Persiapkan data untuk LLM (Top 25 saja untuk efisiensi dan akurasi)
         candidates = []
-        for i, r in enumerate(results[:15]):
+        for i, r in enumerate(results[:25]):
             candidates.append(f"[{i}] Judul: {r.title} | Cuplikan: {r.text_chunk[:200]}...")
         
         docs_text = "\n".join(candidates)

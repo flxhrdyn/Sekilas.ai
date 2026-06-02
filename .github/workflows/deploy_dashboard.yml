@@ -20,8 +20,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Validate dashboard modules
-        run: python -m compileall dashboard rag
+      - name: Validate MAS Backend Logic
+        run: python -m compileall backend/rag backend/api backend/services
 
-      - name: Build Docker image
+      - name: Build Docker image (Full Stack MAS)
         run: docker build -t sekilas-ai-dashboard .
