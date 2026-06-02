@@ -16319,5 +16319,321 @@
       "total_in_qdrant": 4335
     },
     "timestamp": "2026-06-01T02:57:50.565744+00:00"
+  },
+  {
+    "date": "2026-06-02",
+    "generated_at": "2026-06-02T02:54:33.028850+00:00",
+    "headline": "Serangan Rusia di Ukraina pada malam hari memicu kematian lima orang dan luka-luka puluhan warga sipil.",
+    "global_headline": "Serangan Rusia di Ukraina pada malam hari memicu kematian lima orang dan luka-luka puluhan warga sipil.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Serangan Rusia Malam Hari Tewaskan Lima Orang",
+        "title": "Serangan Rusia Malam Hari Tewaskan Lima Orang",
+        "synthesis": [
+          "Serangan Rusia tewaskan 5 orang, luka puluhan di Ukraina.",
+          "Ukraina peringatkan risiko serangan besar dan peringatan udara.",
+          "Serangan balasan Rusia terkait drone Ukraina di Luhansk (21 tewas)."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik aktif dengan korban jiwa dan ancaman eskalasi militer.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan Rusia Malam Hari Tewaskan Lima Orang",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait serangan Rusia pada Ukraina. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Invasi Rusia ke Ukraina dimulai pada 24 Februari 2022**: Invasi ini diluncurkan oleh Presiden Rusia Vladimir Putin dengan dalih demiliterisasi dan denazifikasi, tetapi sebenarnya merupakan upaya untuk menguasai Ukraina.\n2. **Konflik ini telah menyebabkan krisis pengungsi terbesar di Eropa sejak Perang Dunia II**: Lebih dari 7 juta orang telah mengungsi dari Ukraina, dan konflik ini telah mempengaruhi stabilitas geopolitik dan geoekonomi di regional dan global.\n3. **Dampak konflik ini juga dirasakan di Asia Tenggara**: Harga bahan energi dan komoditas lainnya telah meningkat, dan beberapa negara di Asia Tenggara telah mengalami inflasi dan gangguan stabilitas ekonomi.\n4. **Indonesia telah mengambil kebijakan untuk memperluas kerja sama impor gandum dengan negara alternatif lain**: Kebijakan ini bertujuan untuk mengatasi keterlambatan pasokan gandum dan memastikan ketersediaan gandum secara nasional aman."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Massive overnight Russian strikes hit Ukraine killing at least five",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-02T02:36:18+00:00",
+            "summary": "Serangan besar-besaran Rusia di Ukraina pada malam hari menewaskan setidaknya lima orang dan melukai puluhan lainnya. Serangan ini terjadi sebagai respons atas serangan drone Ukraina di wilayah Luhansk yang menewaskan 21 orang. Pemerintah Ukraina memperingatkan kemungkinan serangan besar dan mengimbau warga untuk waspada terhadap peringatan serangan udara.",
+            "key_points": [
+              "Serangan Rusia menewaskan lima orang dan melukai puluhan di Dnipro dan Kyiv.",
+              "Rusia mengancam serangan sistematis sebagai balasan atas serangan drone Ukraina di Luhansk.",
+              "Presiden Zelenskyy memperingatkan kemungkinan serangan besar dan meminta warga mengikuti peringatan serangan udara."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Gugatan Hukum ChatGPT Bantu Penembak Massal",
+        "title": "Gugatan Hukum ChatGPT Bantu Penembak Massal",
+        "synthesis": [
+          "Florida gugat OpenAI terkait ChatGPT bantu penembakan massal",
+          "AI dituduh bahayakan anak-anak dan picu bunuh diri",
+          "OpenAI klaim terapkan kebijakan perlindungan terdepan"
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Gugatan hukum dari negara bagian pertama AS berpotensi mengubah regulasi AI secara sistemik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gugatan Hukum ChatGPT Bantu Penembak Massal",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Gugatan Hukum ChatGPT**: Otoritas Florida menggugat OpenAI dan Sam Altman atas keamanan ChatGPT terkait kasus penembakan massal di Florida State University dan University of South Florida.\n2. **Keterlibatan ChatGPT**: Tersangka dalam kasus penembakan massal di Florida State University sempat mengajukan pertanyaan kepada ChatGPT mengenai cara membuang tubuh manusia.\n3. **Dampak Psikologis**: Penggunaan AI, termasuk ChatGPT, dapat menyebabkan kecemasan dan depresi pada manusia, terutama jika terlalu bergantung pada sistem non-manusia untuk mengambil keputusan dan menyelesaikan tugas.\n4. **Kebijakan Akademik**: Institusi pendidikan perlu mengembangkan kebijakan akademik yang adaptif dan edukatif untuk mengarahkan penggunaan AI secara produktif dan bertanggung jawab di kalangan mahasiswa."
+          }
+        ],
+        "articles": [
+          {
+            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-06-01T18:58:26+00:00",
+            "summary": "Florida menjadi negara bagian pertama di AS yang menggugat OpenAI terkait desain dan keamanan ChatGPT, dengan tuduhan bahwa AI tersebut membahayakan anak-anak, membantu pelaku penembakan massal, dan memicu bunuh diri. Gugatan tersebut juga menuntut Sam Altman secara pribadi atas kondukt yang dianggap ceroboh, sementara OpenAI menegaskan telah menerapkan kebijakan perlindungan terdepan.",
+            "key_points": [
+              "Florida menggugat OpenAI dan CEO-nya, Sam Altman, atas tuduhan ChatGPT membahayakan anak-anak, membantu pelaku penembakan massal, serta memicu bunuh diri.",
+              "Gugatan mencantumkan kasus penembakan di Florida State dan University of South Florida, di mana tersangka diduga menggunakan ChatGPT untuk mencari informasi pembuangan mayat.",
+              "OpenAI mengklaim telah menerapkan kebijakan perlindungan terdepan, sementara gugatan ini menjadi bagian dari tren hukum yang menuntut tanggung jawab perusahaan teknologi atas desain produk yang dianggap berbahaya."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Tantangan Tebak Gambar",
+        "title": "Tantangan Tebak Gambar",
+        "synthesis": [
+          "Permainan tebak gambar melatih ketelitian dan konsentrasi melalui tantangan visual.",
+          "Tujuh level dengan petunjuk visual-teks memerlukan analisis detail untuk menemukan jawaban.",
+          "Jawaban disediakan di akhir untuk evaluasi akurasi dan pembelajaran."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Aktivitas edukatif rutin tanpa efek sistemik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "7 Tantangan Tebak Gambar, Hanya yang Teliti Bisa Jawab Semua",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8512850/7-tantangan-tebak-gambar-hanya-yang-teliti-bisa-jawab-semua",
+            "category": "Hiburan",
+            "published_at": "2026-06-01T13:05:28+00:00",
+            "summary": "Artikel ini membahas permainan tebak gambar sebagai aktivitas asah otak yang melatih ketelitian dan konsentrasi. Terdapat tujuh tantangan dengan petunjuk visual dan teks yang memerlukan fokus untuk ditebak, dilengkapi dengan jawaban di akhir.",
+            "key_points": [
+              "Permainan tebak gambar dirancang untuk melatih ketelitian dan konsentrasi pengguna.",
+              "Terdapat tujuh tantangan dengan petunjuk visual dan teks yang memerlukan analisis detail.",
+              "Jawaban dari setiap tantangan disajikan di akhir artikel untuk verifikasi."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "AI Regulasi dan Konflik Geopolitik",
+        "analysis": "Gugatan hukum terhadap OpenAI terkait ChatGPT mencerminkan risiko teknologi AI dalam memperburuk kekerasan sosial, yang secara tidak langsung berpotensi memengaruhi stabilitas geopolitik. Jika regulasi AI diperketat sebagai respons, hal ini bisa membatasi pengembangan teknologi yang mungkin digunakan dalam konflik militer (seperti analisis intelijen atau otomatisasi senjata), sehingga mengurangi potensi eskalasi konflik. Di sisi lain, serangan Rusia di Ukraina menunjukkan kebutuhan akan sistem pertahanan yang lebih canggih, yang bergantung pada inovasi teknologi. Namun, pembatasan regulasi AI bisa memperlambat pengembangan tersebut, menciptakan paradoks antara keamanan nasional dan kontrol teknologi. Sementara itu, tantangan tebak gambar sebagai aplikasi 'ringan' menyoroti dualisme AI: teknologi yang sama yang bisa digunakan untuk hiburan atau kekerasan, memperkuat argumen bahwa regulasi harus seimbang antara inovasi dan tanggung jawab."
+      },
+      {
+        "title": "Dampak Sosial dan Teknologi pada Persepsi Publik",
+        "analysis": "Serangan Rusia yang menewaskan warga sipil dan gugatan hukum terhadap AI menciptakan narasi global tentang ancaman teknologi terhadap keamanan manusia. Kedua isu ini memperkuat kecemasan publik terhadap penggunaan teknologi di luar kontrol manusia, yang bisa memengaruhi adopsi AI di sektor non-militer (seperti kesehatan atau pendidikan). Tantangan tebak gambar, sebagai contoh aplikasi positif AI, berperan sebagai 'penyeimbang' narasi negatif, menunjukkan bahwa teknologi juga bisa digunakan untuk tujuan edukatif dan rekreasi. Dinamika ini mencerminkan pergeseran sosial: masyarakat semakin meminta transparansi teknologi, sementara pemerintah dan korporasi harus menyeimbangkan inovasi dengan etika."
+      }
+    ],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Celebration, shock and scepticism follow Colombia’s presidential election",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/2/celebration-shock-and-scepticism-follow-colombias-presidential-election?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-06-02T01:00:56+00:00",
+          "summary": "Pemilihan presiden Kolombia menghasilkan kemenangan Abelardo de la Espriella, kandidat sayap kanan, yang mengalahkan Ivan Cepeda dari Partai Perjanjian Sejarah dalam putaran pertama. Hasil ini mengejutkan karena tidak sesuai dengan prediksi polling, sementara Cepeda dan pendukungnya menyatakan skeptisisme terhadap perhitungan awal.",
+          "key_points": [
+            "Abelardo de la Espriella unggul dengan 43,74% suara, mengalahkan Ivan Cepeda (40,90%) meski hasil ini bertolak belakang dengan survei pendahuluan.",
+            "De la Espriella, yang mengusung kebijakan 'hukum dan ketertiban' serta nilai keluarga tradisional, menarik dukungan dari kelas menengah dan daerah pedalaman yang khawatir akan keamanan.",
+            "Kemenangan de la Espriella mencerminkan sentimen anti-pemerintah yang meningkat, dengan kandidat yang sebelumnya tidak pernah mencalonkan diri berhasil menggeser dukungan dari konservatif tradisional."
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Violent protests erupt in Chile over government cuts of social programmes",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-06-01T23:22:52+00:00",
+          "summary": "Protes keras terjadi di Valparaiso, Chile, saat Presiden Jose Antonio Kast menyampaikan pidato pertamanya sebagai Kepala Negara. Aksi unjuk rasa yang dipimpin serikat buruh dan kelompok pelajar berujung bentrokan dengan polisi, dengan alasan kebijakan pemerintah yang dianggap merusak sistem kesehatan, pendidikan, dan hak sosial.",
+          "key_points": [
+            "Protes terjadi di Valparaiso saat Presiden Kast menyampaikan pidato pertama sebagai Kepala Negara.",
+            "Serikat buruh dan kelompok pelajar menjadi pelaku utama aksi unjuk rasa.",
+            "Demonstran menuding pemerintah merusak sistem kesehatan, pendidikan, dan hak sosial."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Piala AFF U-19 2026: Nova Mau Rotasi Pemain di Indonesia Vs Timor Leste",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8513834/piala-aff-u-19-2026-nova-mau-rotasi-pemain-di-indonesia-vs-timor-leste",
+          "category": "Olahraga",
+          "published_at": "2026-06-02T00:30:13+00:00",
+          "summary": "Timnas Indonesia U-19 memulai Piala AFF U-19 2026 dengan kemenangan 3-0 atas Myanmar. Pelatih Nova Arianto berencana merotasi pemain saat melawan Timor Leste untuk mengevaluasi performa pemain menuju Kualifikasi Piala Asia U-20 2027. Vietnam juga menang 3-0 atas Timor Leste, tetapi Indonesia sementara duduk di posisi kedua karena minus poin disiplin.",
+          "key_points": [
+            "Indonesia menang 3-0 atas Myanmar dengan dua gol dari Dimas Wicaksono dan satu dari Arkhan Kaka.",
+            "Nova Arianto akan merotasi pemain saat melawan Timor Leste untuk memilih kontingan Kualifikasi Piala Asia U-20 2027.",
+            "Vietnam menang 3-0 atas Timor Leste, tetapi Indonesia tetap di posisi kedua karena poin disiplin."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Ilmuwan Temukan Organ Kecil di Dada yang Jadi Penentu Umur Panjang",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8513576/ilmuwan-temukan-organ-kecil-di-dada-yang-jadi-penentu-umur-panjang",
+          "category": "Kesehatan",
+          "published_at": "2026-06-02T01:03:43+00:00",
+          "summary": "Penelitian terbaru dari Mass General Brigham mengungkap bahwa kelenjar timus, yang sebelumnya dianggap hanya berfungsi optimal pada masa kanak-kanak, ternyata berperan penting dalam kesehatan orang dewasa, risiko penyakit berat, dan penentu umur panjang. Studi menggunakan AI untuk menganalisis skor kesehatan timus dari ribuan peserta, menunjukkan korelasi antara kesehatan timus dengan respons imun dan efektivitas pengobatan kanker.",
+          "key_points": [
+            "Kelenjar timus berperan krusial dalam kesehatan orang dewasa, termasuk penentu umur panjang dan risiko penyakit berat.",
+            "Analisis AI menemukan bahwa pasien kanker dengan kelenjar timus sehat memiliki respons pengobatan imunoterapi yang lebih baik.",
+            "Penurunan kesehatan kelenjar timus mengurangi keberagaman sel T, sehingga melemahkan sistem imun dalam melawan infeksi dan kanker."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Three Ebola vaccines in development amid growing outbreak fears",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-06-01T14:30:39+00:00",
+          "summary": "Tiga vaksin baru sedang dikembangkan untuk mengatasi spesies Ebola Bundibugyo yang telah menewaskan hampir 250 orang. Wabah ini berpotensi menjadi yang terburuk sejak 2014-2016 jika tidak segera diatasi, dengan lebih dari 1.000 kasus dugaan di Kongo dan sembilan kasus di Uganda.",
+          "key_points": [
+            "Tiga vaksin berbeda sedang dikembangkan oleh IAVI, Moderna, dan University of Oxford untuk melawan spesies Ebola Bundibugyo yang tidak memiliki vaksin yang disetujui.",
+            "Wabah saat ini di wilayah konflik dengan fasilitas kesehatan terbatas memicu kekhawatiran akan penyebaran besar seperti wabah 2014-2016 yang menewaskan 11.000 orang.",
+            "Setiap vaksin menggunakan teknologi berbeda (virus hidup, mRNA, dan kode genetik) untuk melatih sistem imun mengenali protein Bundibugyo."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Blue Origin launch pad repairs could take 'serious time', NASA chief tells CNBC",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/blue-origin-launch-pad-repairs-could-take-serious-time-nasa-chief-tells-cnbc-6155456",
+          "category": "Teknologi",
+          "published_at": "2026-06-02T02:09:02+00:00",
+          "summary": "Roket New Glenn milik Blue Origin meledak saat uji coba di Cape Canaveral, Florida, pada 29 Mei 2026, menyebabkan kerusakan parah pada pelabuhan peluncuran. Perbaikan diperkirakan memakan waktu 'beberapa bulan' hingga mungkin memakan waktu hingga 2028, menurut Administrator NASA Jared Isaacman. Roket tersebut diharapkan memainkan peran penting dalam misi Artemis NASA dan proyek satelit Amazon.",
+          "key_points": [
+            "Roket New Glenn meledak saat uji coba statis, menghancurkan pelabuhan peluncuran di Cape Canaveral.",
+            "Perbaikan pelabuhan diperkirakan memakan waktu minimal enam bulan hingga mungkin hingga 2028, mengganggu operasi Blue Origin.",
+            "Roket ini dirancang untuk mendukung pengiriman lander bulan dan kargo dalam misi Artemis NASA serta proyek satelit Amazon."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Tak Perlu Satelit, Merpati Punya Sistem GPS Alami",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8513785/tak-perlu-satelit-merpati-punya-sistem-gps-alami",
+          "category": "Teknologi",
+          "published_at": "2026-06-01T23:20:31+00:00",
+          "summary": "Penelitian menunjukkan bahwa burung merpati memiliki sistem navigasi alami berupa sel darah putih di hati yang mengandung zat besi, berfungsi sebagai kompas internal. Eksperimen membuktikan bahwa merpati dengan makrofag utuh mampu kembali ke rumah lebih efisien dibanding yang makrofagnya dihancurkan. Temuan ini menawarkan penjelasan baru tentang mekanisme navigasi hewan berdasarkan medan magnet Bumi.",
+          "key_points": [
+            "Sel darah putih di hati merpati mengakumulasi zat besi untuk bertindak sebagai kompas internal.",
+            "Eksperimen menunjukkan merpati tanpa makrofag kehilangan arah saat cuaca mendung, berbeda dengan yang makrofagnya utuh.",
+            "Penelitian ini mengungkap peran makrofag dalam navigasi berdasarkan medan magnet, yang sebelumnya belum terbukti secara pasti."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "F4 reunion project F Forever to perform in Singapore this August",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/f-forever-f4-reunion-singapore-concert-2026-6155386",
+          "category": "Hiburan",
+          "published_at": "2026-06-02T01:45:00+00:00",
+          "summary": "F Forever, proyek reuni F4 dan Ashin dari Mayday, akan tampil di Singapore Indoor Stadium pada 15-16 Agustus 2024 sebagai bagian dari tur dunia City Of Stars. Anggota F4 Jerry Yan, Vanness Wu, dan Vic Chou serta Ashin akan mengisi konser ini, sementara anggota F4 Ken Chu tidak ikut karena konflik dengan penyelenggara. Tur ini juga mencakup penampilan di Bangkok dan Kuala Lumpur.",
+          "key_points": [
+            "F Forever akan menggelar konser dua hari di Singapura pada Agustus 2024.",
+            "Proyek reuni ini melibatkan tiga dari lima anggota asli F4 dan vokalis Mayday Ashin, tetapi tidak termasuk Ken Chu.",
+            "Tur City Of Stars akan berlangsung di Singapura, Bangkok, dan Kuala Lumpur dengan tanggal penampilan yang telah diumumkan."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Tropical storm Jangmi injures 9 in Japan, thousands without power",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/east-asia/tropical-storm-jangmi-injures-9-in-japan-thousands-without-power-6155476",
+          "category": "Lingkungan",
+          "published_at": "2026-06-02T02:16:00+00:00",
+          "summary": "Badai tropis Jangmi menyebabkan 9 orang cedera di Jepang, memutus pasokan listrik ke ribuan rumah tangga, dan mengganggu penerbangan di wilayah Okinawa hingga Jepang bagian utara. Pemerintah memperingatkan kemungkinan gangguan transportasi umum di Tokyo dan kota-kota sekitarnya saat badai mendekat.",
+          "key_points": [
+            "Badai Jangmi melukai 9 orang di Okinawa dan mengganggu penerbangan dengan 600 penerbangan dibatalkan.",
+            "Lebih dari 30.000 rumah tangga di Kagoshima dan 17.000 di Okinawa kehilangan listrik.",
+            "Pemerintah Jepang memperingatkan risiko banjir, tanah longsor, dan gangguan transportasi di Tokyo akibat badai."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Bagaimana Susu Kental Manis Dibuat? Profesor IPB Jelaskan Prosesnya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8513790/bagaimana-susu-kental-manis-dibuat-profesor-ipb-jelaskan-prosesnya",
+          "category": "Umum",
+          "published_at": "2026-06-01T23:05:47+00:00",
+          "summary": "Profesor IPB menjelaskan bahwa susu kental manis (SKM) adalah produk olahan susu yang dihasilkan dari pengentalan susu segar melalui penguapan dan penambahan gula. SKM termasuk dalam kategori produk olahan susu sesuai regulasi BPOM yang mensyaratkan kadar lemak dan protein minimal. Keberagaman komposisi produk serupa, seperti penggunaan lemak nabati, menyebabkan miskonsepsi di masyarakat.",
+          "key_points": [
+            "SKM diolah dari susu segar yang dikentalkan dengan penguapan dan penambahan gula sebagai pengawet.",
+            "Regulasi BPOM mensyaratkan kadar lemak minimal 8% dan protein minimal 6,5% untuk klasifikasi SKM.",
+            "Produk sejenis dengan lemak nabati, seperti creamer kental manis, berbeda komposisi dan kategori dengan SKM."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Instagram Hingga TikTok Mau Bayar Uang Damai Rp 418 Miliar, Ada Apa Nih?",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8513958/instagram-hingga-tiktok-mau-bayar-uang-damai-rp-418-miliar-ada-apa-nih",
+          "category": "Hukum",
+          "published_at": "2026-06-02T02:31:30+00:00",
+          "summary": "Instagram, TikTok, dan perusahaan media sosial lainnya setuju membayar uang damai total USD 27 juta (Rp 418 miliar) untuk menyelesaikan gugatan dari distrik sekolah di Kentucky terkait dampak negatif platform terhadap kesehatan mental remaja. Kesepakatan ini menghindari persidangan yang dijadwalkan pada Juni 2026, tetapi gugatan serupa dari lebih dari 1.300 distrik sekolah lainnya tetap berjalan.",
+          "key_points": [
+            "Total uang damai mencapai USD 27 juta, dengan Meta (Facebook/Instagram) membayar paling banyak (USD 9 juta), diikuti oleh Snap dan TikTok (USD 8 juta masing-masing), serta YouTube (USD 2 juta).",
+            "Gugatan tersebut menyasar klaim bahwa platform media sosial bersifat adiktif dan berkontribusi pada krisis kesehatan mental remaja.",
+            "Lebih dari 1.300 distrik sekolah lainnya mengajukan gugatan serupa, dengan potensi biaya penyelesaian hingga USD 400 miliar menurut Bloomberg Intelligence."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "China expands curbs on foreign deals, tech transfer after Meta-Manus block",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/east-asia/china-wider-crackdown-foreign-investment-deals-new-rules-6155426",
+          "category": "Hukum",
+          "published_at": "2026-06-02T01:55:01+00:00",
+          "summary": "China menerbitkan aturan baru efektif 1 Juli yang memperketat kontrol terhadap transaksi luar negeri yang melibatkan investor, teknologi, dan keamanan nasional, termasuk pembatalan transaksi yang telah selesai. Aturan tersebut mengikuti kasus pembatalan akuisisi Meta terhadap startup AI Manus dan memberi otoritas kepada pemerintah untuk meninjau kembali investasi asing yang dianggap mengancam keamanan nasional.",
+          "key_points": [
+            "Aturan baru memberikan dasar hukum formal bagi China untuk memaksa pembatalan transaksi luar negeri yang melibatkan teknologi atau aset sensitif.",
+            "Dilarangnya transfer tenaga kerja lintas batas di sektor kritis tanpa persetujuan, termasuk praktik 'Singapore-washing' yang dilakukan Manus.",
+            "Pemerintah China dapat memberlakukan sanksi balasan terhadap perusahaan asing yang berasal dari negara yang membatasi investasi Tiongkok."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3973
+    },
+    "timestamp": "2026-06-02T02:54:33.028859+00:00"
   }
 ]
