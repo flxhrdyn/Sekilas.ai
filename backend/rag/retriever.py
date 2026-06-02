@@ -40,19 +40,33 @@ class NewsRetriever:
         top_k: int = 5,
         category_filter: str | None = None,
         reranker: Any | None = None,
+        days_limit: int | None = None,
     ) -> list[SearchResult]:
         dense_vec, sparse_vec = self.embedder.embed_query(query)
 
-        query_filter: Filter | None = None
+        must_conditions: list[Any] = []
         if category_filter and category_filter.lower() != "semua":
-            query_filter = Filter(
-                must=[
-                    FieldCondition(
-                        key="category",
-                        match=MatchValue(value=category_filter),
-                    )
-                ]
+            must_conditions.append(
+                FieldCondition(
+                    key="category",
+                    match=MatchValue(value=category_filter),
+                )
             )
+
+        if days_limit is not None:
+            from datetime import datetime, timedelta, timezone
+            from qdrant_client.models import Range
+            threshold_ts = (datetime.now(timezone.utc) - timedelta(days=days_limit)).timestamp()
+            must_conditions.append(
+                FieldCondition(
+                    key="published_at_ts",
+                    range=Range(gte=threshold_ts),
+                )
+            )
+
+        query_filter: Filter | None = None
+        if must_conditions:
+            query_filter = Filter(must=must_conditions)
 
         # Jika ada reranker, kita ambil lebih banyak kandidat (misal 15) untuk diurutkan ulang
         fetch_limit = max(top_k, 15) if reranker else top_k

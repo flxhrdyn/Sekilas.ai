@@ -1,15 +1,32 @@
 from __future__ import annotations
 
+import time
 import uuid
-from typing import Any
-from typing import Mapping
-from typing import Sequence
+from typing import Any, Callable, Mapping, Sequence, TypeVar
 
 from qdrant_client import QdrantClient
+from qdrant_client.http.exceptions import ResponseHandlingException
 from qdrant_client.models import Distance, PointStruct, VectorParams, Filter, FieldCondition, Range, SparseVectorParams, SparseIndexParams, Modifier
 from datetime import datetime, timedelta, timezone
+import httpx
 
 from backend.models.schemas import FilteredArticle, RawArticle
+
+T = TypeVar("T")
+
+
+def _qdrant_retry(fn: Callable[[], T], retries: int = 3, base_delay: float = 2.0) -> T:
+    """Retry a Qdrant operation with exponential backoff on transient network errors."""
+    last_exc: Exception | None = None
+    for attempt in range(retries):
+        try:
+            return fn()
+        except (ResponseHandlingException, httpx.ConnectError, httpx.TimeoutException, OSError) as exc:
+            last_exc = exc
+            delay = base_delay * (2 ** attempt)
+            print(f"  [RETRY] Qdrant koneksi gagal (percobaan {attempt + 1}/{retries}): {exc}. Menunggu {delay:.0f}s...")
+            time.sleep(delay)
+    raise RuntimeError(f"Qdrant tidak dapat dijangkau setelah {retries} percobaan.") from last_exc
 
 
 ArticleLike = RawArticle | FilteredArticle
@@ -27,8 +44,9 @@ class QdrantVectorStore:
             print(f"[OK] Collection '{self.collection_name}' berhasil dihapus.")
 
     def ensure_collection(self, vector_size: int = 384) -> None:
-        if self.client.collection_exists(self.collection_name):
-            info = self.client.get_collection(self.collection_name)
+        exists = _qdrant_retry(lambda: self.client.collection_exists(self.collection_name))
+        if exists:
+            info = _qdrant_retry(lambda: self.client.get_collection(self.collection_name))
             existing_size = self._extract_vector_size(info)
             if existing_size is not None and existing_size != vector_size:
                 raise RuntimeError(
@@ -37,8 +55,8 @@ class QdrantVectorStore:
                     "Gunakan nama collection baru atau samakan model embedding."
                 )
             return
-            
-        self.client.create_collection(
+
+        _qdrant_retry(lambda: self.client.create_collection(
             collection_name=self.collection_name,
             vectors_config={"dense": VectorParams(size=vector_size, distance=Distance.COSINE)},
             sparse_vectors_config={
@@ -47,14 +65,14 @@ class QdrantVectorStore:
                     modifier=Modifier.IDF
                 )
             }
-        )
+        ))
         # Tambahkan index untuk kolom filtering TTL
         from qdrant_client.models import PayloadSchemaType
-        self.client.create_payload_index(
+        _qdrant_retry(lambda: self.client.create_payload_index(
             collection_name=self.collection_name,
             field_name="published_at_ts",
             field_schema=PayloadSchemaType.FLOAT,
-        )
+        ))
 
     def upsert_chunks(
         self,
@@ -99,11 +117,11 @@ class QdrantVectorStore:
                     )
                 )
 
-            self.client.upsert(
+            _qdrant_retry(lambda pts=points: self.client.upsert(
                 collection_name=self.collection_name,
-                points=points,
+                points=pts,
                 wait=True,
-            )
+            ))
             print(f"  [OK] Berhasil mengunggah batch {i//batch_size + 1}")
 
     def cleanup_old_articles(self, days: int) -> int:
@@ -114,8 +132,8 @@ class QdrantVectorStore:
         print(f"[PROCESS] Membersihkan artikel lebih tua dari {threshold_date.isoformat()} ({days} hari)...")
         
         count_before = self.count()
-        
-        self.client.delete(
+
+        _qdrant_retry(lambda: self.client.delete(
             collection_name=self.collection_name,
             points_selector=Filter(
                 must=[
@@ -125,20 +143,20 @@ class QdrantVectorStore:
                     )
                 ]
             )
-        )
-        
+        ))
+
         count_after = self.count()
         deleted_count = count_before - count_after
-        
+
         if deleted_count > 0:
             print(f"[OK] Berhasil membersihkan {deleted_count} chunk lama dari Qdrant.")
         else:
             print(f"[INFO] Tidak ada chunk lama yang perlu dibersihkan.")
-            
+
         return deleted_count
 
     def count(self) -> int:
-        return self.client.count(collection_name=self.collection_name, exact=True).count
+        return _qdrant_retry(lambda: self.client.count(collection_name=self.collection_name, exact=True).count)
 
     @staticmethod
     def _extract_vector_size(collection_info: Any) -> int | None:

@@ -68,14 +68,29 @@ class NewsQAChain:
         question: str,
         top_k: int | None = None,
         category_filter: str | None = None,
+        days_limit: int | None = None,
     ) -> AnswerResult:
         import time
         limit = top_k if top_k is not None else self.default_top_k
+        
+        # Deteksi otomatis kueri temporal untuk mengutamakan berita baru (Recency Boosting / Filtering)
+        temporal_keywords = [
+            "hari ini", "terbaru", "terkini", "today", "latest", "recent", 
+            "sekarang", "now", "berita baru", "breaking", "breaking news"
+        ]
+        q_lower = question.lower()
+        
+        # Jika hari ini/terbaru ditanyakan dan days_limit tidak diset manual, default ke 7 hari terakhir
+        if days_limit is None and any(kw in q_lower for kw in temporal_keywords):
+            days_limit = 7
+            print(f"[RAG] Deteksi kueri temporal. Membatasi pencarian ke {days_limit} hari terakhir untuk relevansi waktu.")
+
         results = self.retriever.search(
             query=question,
             top_k=limit,
             category_filter=category_filter,
             reranker=self.reranker,
+            days_limit=days_limit,
         )
 
         if not results:

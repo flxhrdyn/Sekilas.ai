@@ -326,7 +326,14 @@ def build_graph(
                     "key_points": key_points,
                 }
                 all_chunks.append(chunk_dict)
-                texts_to_embed.append(chunk_text)
+                
+                # Gabungkan teks asli Inggris dengan ringkasan/poin kunci Indonesia untuk hybrid multilingual search (0% extra API call)
+                text_to_embed = chunk_text
+                if summary:
+                    text_to_embed += f"\n\nRingkasan: {summary}"
+                if key_points:
+                    text_to_embed += f"\nKata Kunci: {', '.join(key_points)}"
+                texts_to_embed.append(text_to_embed)
                 
         print(f"[INFO] Terbentuk {len(all_chunks)} chunks dari {len(filtered_articles)} artikel.")
         
