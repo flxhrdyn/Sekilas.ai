@@ -17332,5 +17332,358 @@
       "total_in_qdrant": 4231
     },
     "timestamp": "2026-06-05T02:46:48.061527+00:00"
+  },
+  {
+    "date": "2026-06-06",
+    "generated_at": "2026-06-06T02:35:01.004828+00:00",
+    "headline": "Kebocoran udara di segmen Rusia ISS memicu evakuasi sementara ke kapsul SpaceX.",
+    "global_headline": "Kebocoran udara di segmen Rusia ISS memicu evakuasi sementara ke kapsul SpaceX.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Nelayan Gaza memanfaatkan rangka pintu dan bahan daur ulang untuk perahu akibat kekurangan bahan baku.",
+          "Sektor perikanan Gaza terpuruk akibat serangan udara Israel yang merusak infrastruktur.",
+          "Inovasi daur ulang menjadi solusi sementara untuk memulihkan aktivitas nelayan di wilayah konflik."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik aktif dan kerusakan infrastruktur menyebabkan disrupsi sistemik pada sektor perikanan Gaza.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gaza fishermen stay afloat with dinghies made from doorframes",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta relevan dan kredibel terkait topik \"Gaza fishermen stay afloat with dinghies made from doorframes\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pembuatan perahu dari bahan-bahan sederhana**: Sama seperti nelayan di Gaza, masyarakat Bugis di Indonesia juga membuat perahu dari bahan-bahan sederhana, seperti kayu dan bambu, untuk keperluan pelayaran dan tangkap laut.\n2. **Pengaruh ekonomi dan sosial**: Pembuatan perahu tongkang memiliki dampak positif terhadap kehidupan ekonomi dan sosial masyarakat, seperti meningkatnya pendapatan dan kesejahteraan.\n3. **Keselamatan nelayan**: Pembuatan lambung perahu yang ideal dapat meningkatkan keselamatan nelayan dalam proses tangkap laut, sehingga mengurangi risiko kecelakaan laut.\n4. **Inovasi dan adaptasi**: Nelayan di Gaza dan Indonesia telah menunjukkan kemampuan inovatif dan adaptasi dalam membuat perahu dari bahan-bahan sederhana, seperti doorframes, untuk tetap bertahan dalam keadaan sulit."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
+            "category": "Ekonomi",
+            "published_at": "2026-06-06T01:13:29+00:00",
+            "summary": "Nelayan di Gaza menggunakan perahu kecil yang dibuat dari bahan daur ulang seperti serat kaca, kayu, dan rangka pintu dari reruntuhan akibat serangan udara Israel untuk memulihkan sektor perikanan yang terpuruk akibat kekurangan bahan baku.",
+            "key_points": [
+              "Nelayan Gaza membuat perahu dari bahan daur ulang termasuk rangka pintu dan serat kaca.",
+              "Bahan baku perahu berasal dari reruntuhan yang dihancurkan oleh serangan udara Israel.",
+              "Upaya ini bertujuan memulihkan industri perikanan yang terdampak krisis material di wilayah tersebut."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Kebocoran udara di segmen Rusia ISS memicu evakuasi sementara ke kapsul SpaceX.",
+          "NASA menghentikan perbaikan kebocoran oleh astronot Rusia karena risiko metode.",
+          "Astronot kembali ke ISS setelah perbaikan dihentikan, memastikan operasi normal."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kebocoran kritis di ISS mengancam keselamatan kru dan operasi kolaborasi internasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Astronauts return to ISS after sheltering during air leak repair attempt",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Astronauts return to ISS after sheltering during air leak repair attempt\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tidak ada informasi langsung terkait topik**: Hasil pencarian mentah tidak menemukan informasi langsung terkait dengan topik \"Astronauts return to ISS after sheltering during air leak repair attempt\".\n2. **Informasi terkait keamanan siber**: Saya menemukan beberapa informasi terkait keamanan siber, seperti insiden-insiden siber yang terjadi di Indonesia dan dampaknya, serta peraturan-peraturan hukum terkait kebijakan keamanan siber.\n3. **Informasi terkait keantariksaan**: Saya juga menemukan beberapa informasi terkait keantariksaan, seperti kebijakan penyelenggaraan keantariksaan, peraturan-peraturan hukum terkait keantariksaan, dan lembaga-lembaga yang terkait dengan keantariksaan di Indonesia.\n4. **Tidak ada informasi terkait ISS**: Hasil pencarian mentah tidak menemukan informasi langsung terkait dengan ISS (International Space Station).\n\nNamun, saya menemukan beberapa informasi terkait dengan keamanan dan keantariksaan yang mungkin relevan dengan topik yang diteliti."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-06-05T21:35:55+00:00",
+            "summary": "Astronauts di Stasiun Luar Angkasa Internasional (ISS) diarahkan untuk berlindung di kapsul SpaceX Dragon 'Freedom' akibat kebocoran udara yang memburuk di bagian Rusia stasiun tersebut. Dua astronot Rusia mencoba memperbaiki kebocoran tersebut, tetapi NASA memerintahkan mereka untuk menghentikan perbaikan setelah menilai metode yang digunakan berisiko. Setelah perbaikan dihentikan, para astronot kembali ke ISS.",
+            "key_points": [
+              "Astronauts di ISS diarahkan berlindung di kapsul Dragon sebagai tindakan pencegahan akibat kebocoran udara yang memburuk di bagian Rusia stasiun.",
+              "Dua astronot Rusia mencoba memperbaiki kebocoran di transfer tunnel PrK yang menuju ke modul Zvezda, tetapi perbaikan dihentikan atas instruksi NASA.",
+              "NASA memerintahkan para astronot kembali ke ISS setelah Roscosmos menghentikan perbaikan, meski Rusia menyatakan tidak ada ancaman serius terhadap keselamatan kru atau sistem ISS."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Diabetes usia muda di Indonesia meningkat akibat gaya hidup modern.",
+          "Konsumsi gula tinggi dan kurang aktivitas fisik jadi pemicu utama.",
+          "Kemenkes peringatkan risiko 28-40 juta kasus pada 2045 tanpa intervensi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Krisis kesehatan sistemik dengan dampak ekonomi dan beban sistem kesehatan nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kasus Diabetes Usia Muda Makin 'Ngegas', Kemenkes Ungkap Pemicunya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8519906/kasus-diabetes-usia-muda-makin-ngegas-kemenkes-ungkap-pemicunya",
+            "category": "Kesehatan",
+            "published_at": "2026-06-06T01:05:32+00:00",
+            "summary": "Kasus diabetes pada usia muda, termasuk anak-anak, di Indonesia meningkat pesat, dengan penyebab utama perubahan gaya hidup modern seperti kurang aktivitas fisik dan konsumsi gula tinggi. Kemenkes RI memperingatkan bahwa tanpa intervensi, jumlah penderita diabetes diperkirakan mencapai 28-40 juta pada 2045.",
+            "key_points": [
+              "Kasus diabetes pada anak-anak meningkat 70 kali lipat dalam satu dekade, sementara prevalensi diabetes di Indonesia mencapai 11,3 persen.",
+              "Penyebab utama lonjakan diabetes termasuk gaya hidup sedentari, kemudahan teknologi yang mengurangi aktivitas fisik, dan konsumsi makanan/minuman tinggi gula.",
+              "Kemenkes RI memproyeksikan jumlah penderita diabetes di Indonesia akan mencapai 28-40 juta pada 2045 jika tidak ada perubahan gaya hidup dan deteksi dini."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "MUI konfirmasi nata de coco halal jika produksi sesuai syariat",
+          "Kehalalan bergantung pada sumber gula, enzim, dan kebersihan proses",
+          "Isu kontaminasi bahan kimia memengaruhi kepercayaan konsumen"
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Mengatur standar halal nasional yang memengaruhi industri makanan dan kepercayaan konsumen.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Gaduh Nata de Coco Disebut Bisa Tak Halal, Ini Kata MUI",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8519907/gaduh-nata-de-coco-disebut-bisa-tak-halal-ini-kata-mui",
+            "category": "Umum",
+            "published_at": "2026-06-06T00:10:09+00:00",
+            "summary": "Nata de coco, yang dihasilkan dari fermentasi air kelapa menggunakan bakteri Acetobacter xylinum, dianggap aman dikonsumsi jika proses produksi dan pencucian dilakukan dengan benar. MUI menyatakan kehalalannya bergantung pada sumber gula dan bahan penolong seperti enzim atau karbon aktif, serta kebersihan proses pencucian untuk menghilangkan sisa bahan kimia.",
+            "key_points": [
+              "Nata de coco dihasilkan melalui fermentasi air kelapa dengan bakteri Acetobacter xylinum, yang dapat menggunakan urea atau amonium sulfat sebagai sumber nitrogen.",
+              "Kehalalan nata de coco dipengaruhi oleh sumber gula dan enzim/karbon aktif yang digunakan, serta kebersihan proses pencucian untuk menghilangkan bahan kimia.",
+              "MUI menekankan bahwa produk akhir nata de coco harus bebas bau atau rasa asam, yang menunjukkan proses pencucian belum sempurna."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Google rencana lepas 32 juta nyamuk Wolbachia di CA/FL ditolak warga dan lingkungan",
+          "EPA belum setujui proyek, risiko teknis-ekologis jadi perdebatan utama",
+          "Wolbachia efektif turunkan DBD di Yogyakarta/Bantul, tetapi risiko ekosistem tetap ada"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi pengendalian nyamuk dengan risiko ekologis dan regulasi nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Rencana Google Lepas 32 Juta Nyamuk Wolbachia Ditentang Warga",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Program Wolbachia**: World Mosquito Program (WMP) telah melepaskan Wolbachia nyamuk di 14 negara sejak tahun 2011, termasuk Indonesia, dengan tujuan mengembangkan metode Wolbachia untuk mengurangi penularan demam berdarah dengue (DBD).\n2. **Hasil Uji Coba**: Pada uji coba di Kota Yogyakarta dan Kabupaten Bantul pada tahun 2022, lokasi yang telah diinokulasi Wolbachia mencapai penurunan kasus demam berdarah hingga 77 persen, dengan pengurangan proporsi dirawat di rumah sakit sebesar 86 persen.\n3. **Metode Penggantian**: Penerapan teknologi Wolbachia di Indonesia menggunakan metode \"penggantian,\" di mana nyamuk jantan dan betina ber-Wolbachia dilepaskan ke populasi alami, menciptakan efek perlindungan yang berkelanjutan.\n4. **Peraturan Menteri Kesehatan**: Peraturan Menteri Kesehatan RI Nomor 1341 tentang Penyelenggaraan Pilot Project Implementasi Wolbachia sebagai Inovasi Penanggulangan Demam Berdarah menandakan langkah maju dalam perang melawan penyakit yang disebarkan oleh nyamuk."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Rencana Google Lepas 32 Juta Nyamuk Wolbachia Ditentang Warga",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8519824/rencana-google-lepas-32-juta-nyamuk-wolbachia-ditentang-warga",
+            "category": "Teknologi",
+            "published_at": "2026-06-05T22:45:42+00:00",
+            "summary": "Google berencana melepaskan 32 juta nyamuk jantan yang terinfeksi bakteri Wolbachia di Florida dan California untuk mengurangi populasi nyamuk pembawa penyakit, namun rencana ini mendapat penolakan dari warga dan lembaga lingkungan. Proses persetujuan dari EPA masih berlangsung, dengan risiko teknis dan ekologis yang menjadi perdebatan utama.",
+            "key_points": [
+              "Rencana pelepasan nyamuk Wolbachia merupakan bagian dari program Debug Project Google untuk mengurangi populasi nyamuk Aedes aegypti pembawa penyakit.",
+              "Warga dan komunitas lingkungan menolak proyek ini karena khawatir dampak ekologis serta peran perusahaan dalam mengubah ekosistem.",
+              "Teknologi pemisahan nyamuk jantan dan betina masih belum efektif, dengan risiko kontaminasi betina hingga 0,3%, yang mengurangi efektivitas program."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Sumber Daya Gaza dan Inovasi Teknologi Lingkungan",
+        "analysis": "Nelayan Gaza yang memanfaatkan bahan daur ulang untuk perahu mencerminkan adaptasi terhadap keterbatasan sumber daya akibat konflik geopolitik. Ini menunjukkan keterkaitan antara krisis ekonomi (akses terbatas ke bahan baku) dan inovasi teknologi (penggunaan material non-tradisional). Dampaknya meluas ke sektor lingkungan karena peningkatan daur ulang, yang bisa mengurangi limbah tetapi juga memicu risiko polusi jika tidak diatur. Selain itu, ketergantungan pada teknologi sederhana ini memperkuat ketahanan komunitas lokal di tengah krisis, tetapi juga membatasi skalabilitas ekonomi maritim."
+      },
+      {
+        "title": "Teknologi Ruang Angkasa dan Tegangan Geopolitik Rusia-Barat",
+        "analysis": "Kebocoran udara di segmen Rusia ISS memicu evakuasi ke kapsul SpaceX, mengungkap ketegangan geopolitik antara Rusia dan negara-negara Barat. Insiden ini menunjukkan bagaimana teknologi kritis (ISS) menjadi simbol kerja sama internasional yang rentan terhadap konflik politik. Dampaknya meluas ke sektor ekonomi karena potensi pengalihan investasi ke proyek luar angkasa nasional, serta ke sektor teknologi karena perlunya pengembangan sistem keamanan modular untuk mengurangi ketergantungan pada mitra yang tidak stabil."
+      }
+    ],
+    "other_news": {
+      "Olahraga": [
+        {
+          "title": "Messi recovering well from injury, could feature in Argentina warm-ups, says Scaloni",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/messi-recovering-well-injury-could-feature-in-argentina-warm-ups-says-scaloni-6165846",
+          "category": "Olahraga",
+          "published_at": "2026-06-05T23:48:41+00:00",
+          "summary": "Lionel Messi sedang pulih dengan baik dari cedera otot dan mungkin tampil dalam pertandingan persiapan Argentina menjelang Piala Dunia 2026, menurut pelatih Lionel Scaloni. Argentina akan menghadapi Honduras dan Islandia dalam dua laga uji coba terakhir sebelum turnamen dimulai.",
+          "key_points": [
+            "Messi pulih dari cedera otot yang dialaminya saat bermain untuk Inter Miami 10 hari lalu.",
+            "Argentina akan menggelar dua pertandingan persiapan melawan Honduras dan Islandia menjelang Piala Dunia.",
+            "Scaloni mengonfirmasi Messi sudah berlatih bersama tim dan berpotensi tampil dalam salah satu laga uji coba."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Taylor Swift returns to country music with original Toy Story 5 song",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/taylor-swift-returns-country-music-original-toy-story-5-song-6164876",
+          "category": "Hiburan",
+          "published_at": "2026-06-06T02:00:19+00:00",
+          "summary": "Taylor Swift merilis lagu asli untuk film Toy Story 5, 'I Knew It, I Knew You', yang dianggap sebagai kembalinya ke genre musik country. Lagu ini diproduksi bersama Jack Antonoff dan dihubungkan dengan karakter Jessie dalam film tersebut. Rilis lagu ini memicu spekulasi mengenai kemungkinan nominasi Oscar.",
+          "key_points": [
+            "Lagu 'I Knew It, I Knew You' mengandung elemen musik country seperti alat musik akustik dan harmonika, meski Swift tidak menyanyikannya dengan gaya country khasnya.",
+            "Lagu ini merupakan kolaborasi pertama Swift dengan Jack Antonoff sejak album The Tortured Poets Department dan pertama kalinya mereka bekerja sama setelah era musik country Swift.",
+            "Kemungkinan nominasi Oscar untuk lagu ini tergantung pada penempatannya di film dan kelayakan rilis teatrikal Toy Story 5 pada 2025."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
+          "category": "Hiburan",
+          "published_at": "2026-06-05T09:40:06+00:00",
+          "summary": "Aktor AS James Handy, dikenal dalam film Jumanji dan Top Gun: Maverick, ditemukan tewas dengan luka tusuk di taman depan rumahnya di Los Angeles. Putra pacar Handy, Michael Gledhill, ditangkap atas dugaan pembunuhan setelah menyerahkan diri kepada polisi. Kepolisian menyatakan insiden ini bersifat terisolasi tanpa ancaman bagi publik.",
+          "key_points": [
+            "James Handy, aktor berusia 81 tahun, tewas tertusuk di rumahnya di Tarzana, California.",
+            "Michael Gledhill, putra pacar Handy, ditangkap atas dugaan pembunuhan dan menyerahkan diri dengan mengatakan 'saya yang kalian cari'.",
+            "Polisi menyatakan kasus ini terisolasi, tidak ada ancaman publik, dan Gledhill ditahan dengan jaminan $2 juta."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-05T16:00:47+00:00",
+          "summary": "Setidaknya 49 orang tewas karena kehausan di gurun Sahara, Niger, setelah truk yang mereka tumpangi mogok. Dua orang selamat dan melaporkan kejadian tersebut, sementara tim penyelamat menemukan truk lain dengan 60 orang yang juga terdampar.",
+          "key_points": [
+            "49 warga Niger tewas akibat kehabisan air setelah truk mereka mogok di gurun Sahara, 80 km barat Assamaka.",
+            "Insiden ini terjadi di jalur migrasi utama menuju Libya atau Aljazair, yang sering dihadapi oleh migran dari Afrika Barat.",
+            "Tim penyelamat menemukan truk lain dengan 60 orang yang terdampar selama tiga hari akibat kerusakan aki."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-06-06T02:01:27+00:00",
+          "summary": "Ghana mencatat 14 penangkapan terkait berita palsu dan ujaran ofensif dalam 16 bulan terakhir, dua kali lipat jumlah selama delapan tahun pemerintahan sebelumnya. Kontroversi ini memicu debat apakah otoritas hanya menerapkan hukum lama di era digital atau mulai membatasi kebebasan berbicara. Pemerintah membantah tudingan pembungkaman, sementara oposisi mengklaim penyalahgunaan kekuasaan negara.",
+          "key_points": [
+            "Jumlah penangkapan terkait ujaran di Ghana hampir dua kali lipat dibandingkan periode pemerintahan sebelumnya.",
+            "Debat politik muncul antara pemerintah yang mempertahankan penerapan hukum lama dan oposisi yang menuding pembungkaman kritik.",
+            "Lembaga hukum dan media meminta klarifikasi batas kebebasan berekspresi serta reformasi hukum untuk menghindari penyalahgunaan."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-06-05T18:16:15+00:00",
+          "summary": "Presiden Rusia Vladimir Putin menolak pertemuan dengan Presiden Ukraina Volodymyr Zelensky setelah surat terbuka Zelensky yang meminta negosiasi langsung dan gencatan senjata. Putin menyebut surat tersebut 'kasar' dan menegaskan bahwa pembicaraan perdamaian harus terlebih dahulu diadakan sebelum gencatan senjata. Zelensky menanggapi bahwa Rusia 'memilih perang lagi', sementara Putin menegaskan perang akan berakhir ketika tujuan Rusia tercapai.",
+          "key_points": [
+            "Putin menolak pertemuan dengan Zelensky, menyebut surat terbuka Ukraina sebagai 'kasar' dan menegaskan perlunya pembicaraan perdamaian sebelum gencatan senjata.",
+            "Zelensky mengkritik kebijakan Rusia yang memilih perang, sementara Putin menegaskan perang akan berakhir setelah tujuan Rusia, termasuk penarikan Ukraina dari wilayah tertentu dan pembatalan upaya bergabung ke NATO, terpenuhi.",
+            "Surat Zelensky memicu reaksi dari berbagai pihak, termasuk komentar dari Presiden AS Donald Trump yang menyambut baik kemungkinan pertemuan, meski Rusia menolaknya."
+          ],
+          "cluster_id": 15
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Mahasiswa Mataram Bikin AI Penghafal Al-Qur'an, Menang Kompetisi Apple",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8520161/mahasiswa-mataram-bikin-ai-penghafal-al-quran-menang-kompetisi-apple",
+          "category": "Teknologi",
+          "published_at": "2026-06-06T02:05:56+00:00",
+          "summary": "Ali An Nuur, mahasiswa Universitas Mataram, meraih juara Swift Student Challenge 2026 dari Apple dengan aplikasi Nuramma, sebuah AI pembelajaran Al-Qur'an yang dirancang untuk anak-anak. Aplikasi ini menghadirkan fitur pengenalan suara berbasis AI untuk memberikan umpan balik real-time saat membaca Al-Qur'an, serta dirancang untuk digunakan secara offline demi menjaga privasi dan aksesibilitas.",
+          "key_points": [
+            "Nuramma adalah aplikasi AI yang membantu anak-anak menghafal Al-Qur'an melalui fitur speech recognition real-time.",
+            "Aplikasi dirancang untuk berjalan secara on-device tanpa koneksi internet, menjaga privasi dan aksesibilitas di daerah dengan koneksi terbatas.",
+            "Nuramma mencakup fitur inklusif seperti Quran Sign Language dan konsep gamifikasi untuk meningkatkan pengalaman belajar."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Samsung Galaxy Z Flip 8 Akan Hadir dalam Versi Exynos dan Snapdragon",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8520026/samsung-galaxy-z-flip-8-akan-hadir-dalam-versi-exynos-dan-snapdragon",
+          "category": "Teknologi",
+          "published_at": "2026-06-05T23:30:33+00:00",
+          "summary": "Samsung Galaxy Z Flip 8 diprediksi hadir dalam dua varian chipset, yaitu Exynos 2600 dan Snapdragon, dengan pembagian wilayah berdasarkan strategi harga. Ponsel ini diperkirakan memiliki layar OLED lipat 6,9 inci, kamera 50 MP, dan menjalankan One UI 9 berbasis Android 17.",
+          "key_points": [
+            "Galaxy Z Flip 8 tersedia dalam dua varian chipset (Exynos 2600 dan Snapdragon) yang dibagikan berdasarkan wilayah.",
+            "Varian Exynos akan hadir di Indonesia, India, Eropa, dan Korea Selatan, sementara varian Snapdragon diperkirakan untuk Amerika Serikat, Kanada, China, dan Jepang.",
+            "Strategi dual-chip ini didorong oleh perbedaan harga chipset, dengan Exynos 2600 mengalami kenaikan biaya dan Snapdragon ditawarkan lebih murah oleh Qualcomm."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Berapa Lama Burung Bisa Terbang Tanpa Mendarat? Jawabannya di Luar Nurul",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8519786/berapa-lama-burung-bisa-terbang-tanpa-mendarat-jawabannya-di-luar-nurul",
+          "category": "Umum",
+          "published_at": "2026-06-05T15:00:27+00:00",
+          "summary": "Penelitian dari Universitas Lund, Swedia (2016) mengkonfirmasi bahwa burung layang-layang biasa dapat terbang hingga 10 bulan tanpa mendarat, dengan hanya 2 bulan di darat untuk berkembang biak. Studi ini menggunakan alat pencatat data untuk melacak aktivitas terbang 13 burung layang-layang selama migrasi.",
+          "key_points": [
+            "Burung layang-layang terdeteksi menghabiskan 99,5% waktunya terbang, mendarat hanya untuk berkembang biak.",
+            "Peneliti menggunakan alat pencatat data dengan akselerometer dan sensor cahaya untuk melacak pola terbang burung.",
+            "Efisiensi terbang burung layang-layang didukung oleh bentuk tubuh ramping, sayap panjang, dan pergantian bulu yang memengaruhi kemampuan terbang."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Banyak 'Jebakan Batman', Begini Cara Pahami Kandungan Gula di Label Nutrisi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8519965/banyak-jebakan-batman-begini-cara-pahami-kandungan-gula-di-label-nutrisi",
+          "category": "Kesehatan",
+          "published_at": "2026-06-05T23:02:29+00:00",
+          "summary": "Artikel ini membahas pentingnya memahami kandungan gula tersembunyi dalam makanan dan minuman kemasan untuk menghindari konsumsi berlebih yang berisiko bagi kesehatan. Health communicator dr Laurencia Ardi menekankan perlunya membaca label nutrisi secara cermat, termasuk memperhatikan jenis gula seperti sukrosa dan laktosa, serta mempertimbangkan pemanis non-kalori.",
+          "key_points": [
+            "Gula tersembunyi dalam produk makanan/minuman berkontribusi pada peningkatan risiko penyakit metabolik dan obesitas.",
+            "Masyarakat disarankan memperhatikan kandungan gula per sajian dan membandingkannya dengan batas harian sekitar 50 gram.",
+            "Pembedaan antara sukrosa (gula tambahan) dan laktosa (gula alami) penting, serta perlu memeriksa daftar komposisi untuk mengetahui jenis pemanis yang digunakan."
+          ],
+          "cluster_id": 9
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4140
+    },
+    "timestamp": "2026-06-06T02:35:01.004837+00:00"
   }
 ]
