@@ -18728,5 +18728,356 @@
       "total_in_qdrant": 4116
     },
     "timestamp": "2026-06-09T02:33:27.765374+00:00"
+  },
+  {
+    "date": "2026-06-10",
+    "generated_at": "2026-06-10T02:46:16.452474+00:00",
+    "headline": "Serangan AS ke Iran sebagai balasan penembakan helikopter Apache di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.",
+    "global_headline": "Serangan AS ke Iran sebagai balasan penembakan helikopter Apache di Selat Hormuz memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Serangan Militer AS ke Iran",
+        "title": "Serangan Militer AS ke Iran",
+        "synthesis": [
+          "AS meluncurkan serangan 'pertahanan diri' ke Iran terkait jatuhnya Apache.",
+          "CENTCOM menyalahkan Iran atas insiden helikopter milik AS.",
+          "Khamenei peringatkan perang regional jika AS lanjutkan serangan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi eskalasi konflik militer dan perang regional di Timur Tengah.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan Militer AS ke Iran",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait serangan militer AS ke Iran. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pemimpin Tertinggi Iran, Ayatollah Ali Khamenei, memperingatkan bahwa setiap serangan militer AS terhadap Iran akan memicu perang berskala regional di Timur Tengah**. Pernyataan ini dianggap sebagai ancaman paling keras yang pernah disampaikan Khamenei sejauh ini.\n2. **Serangan militer AS ke Iran dipicu oleh kekhawatiran mengenai program nuklir Iran serta aktivitas militernya yang dianggap berpotensi mengancam stabilitas kawasan Timur Tengah**. Tindakan militer tersebut kemudian memicu reaksi keras dari pemerintah Iran dan meningkatkan ketegangan geopolitik di kawasan.\n3. **Serangan militer AS ke Iran memiliki dampak signifikan terhadap ekonomi global, terutama pasar minyak**. Pasar minyak bereaksi cepat terhadap risiko, bahkan tanpa gangguan fisik terhadap pasokan.\n4. **Negara-negara besar memiliki kepentingan untuk mencegah konflik meluas karena dampaknya terhadap pertumbuhan dan inflasi global bisa signifikan**. Organisasi internasional dan forum multilateral kemungkinan akan memainkan peran dalam meredam ketegangan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US military launches ‘self-defence strikes’ targeting Iran",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/us-military-launches-self-defence-strikes-targeting-iran?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-09T23:55:41+00:00",
+            "summary": "Militer AS meluncurkan serangan 'pertahanan diri' terhadap Iran, dengan Komando Pusat AS (CENTCOM) menyalahkan Teheran atas jatuhnya helikopter Apache milik Angkatan Darat AS. Laporan terbaru disampaikan oleh Al Jazeera dari Gedung Putih.",
+            "key_points": [
+              "AS meluncurkan serangan pertahanan diri terhadap Iran.",
+              "Helikopter Apache AS ditembak jatuh oleh Iran, menjadi alasan serangan.",
+              "CENTCOM bertanggung jawab atas serangan, dengan laporan dari Al Jazeera."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Kerusuhan Belfast Pasca Serangan Tikaman",
+        "title": "Kerusuhan Belfast Pasca Serangan Tikaman",
+        "synthesis": [
+          "Belfast ricuh pasca serangan tikaman, kendaraan dibakar dan bentrok dengan polisi.",
+          "Pelaku serangan adalah pengungsi Sudan yang didakwa usaha pembunuhan.",
+          "Pemerintah dan partai mengecam anarki, risiko eskalasi konflik sektarian."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik dan risiko konflik aktif di Irlandia Utara.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kerusuhan Belfast Pasca Serangan Tikaman",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait kerusuhan Belfast pasca serangan tikaman. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kerusuhan meletus di Belfast, Irlandia Utara**, setelah serangan tikaman terhadap seorang individu, menyebabkan insiden pembakaran fasilitas publik seperti bus, pertokoan, dan mobil polisi.\n2. **Pemerintah dan pemimpin lintas partai di Irlandia Utara mengutuk keras aksi anarki** ini, dengan Wakil Menteri Pertama, Emma Little-Pengelly, memahami kemarahan warga namun mendesak agar protes dilakukan tanpa kekerasan.\n3. **Layanan Pemadam Kebakaran Irlandia Utara melaporkan telah merespons 62 insiden pembakaran** sepanjang malam, yang sebagian besar berpusat di wilayah Greater Belfast.\n4. **Pemerintah dan organisasi hak asasi manusia mengutuk langkah-langkah represif** yang diambil oleh pemerintah, termasuk instruksi Kapolri untuk menembak di tempat dengan peluru karet terhadap massa yang menyerang markas polisi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss",
+            "category": "Umum",
+            "published_at": "2026-06-10T02:13:23+00:00",
+            "summary": "Belfast mengalami kekacauan setelah aksi protes terkait pembunuhan berubah menjadi kerusuhan. Kekacauan terjadi setelah seorang pengungsi Sudan dikenai dakwaan usaha pembunuhan, yang memicu bentrokan dengan polisi dan pembakaran kendaraan.",
+            "key_points": [
+              "Kekacauan di Belfast terjadi akibat protes yang berubah menjadi kerusuhan setelah serangkaian pembunuhan.",
+              "Seorang pengungsi Sudan didakwa atas tuduhan usaha pembunuhan, memicu eskalasi ketegangan.",
+              "Polisi anti-kerusuhan diterjunkan dan kendaraan dibakar selama aksi protes."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Konflik Siri AI Apple dan UE",
+        "title": "Konflik Siri AI Apple dan UE",
+        "synthesis": [
+          "Apple menunda peluncuran Siri AI di Eropa karena aturan DMA.",
+          "UE menegaskan aturan DMA wajib untuk persaingan pasar digital.",
+          "Konflik fokus pada akses pihak ketiga vs privasi pengguna."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik regulasi digital dan persaingan pasar teknologi.",
+        "external_research": [
+          {
+            "title": "Deep Research: Konflik Siri AI Apple dan UE",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait konflik Siri AI Apple dan UE. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Dampak konflik Iran terhadap ekonomi global**: Konflik Iran telah memicu gangguan rantai pasok dan lonjakan biaya produksi, yang mempengaruhi sektor manufaktur global, terutama di Eropa. Negara-negara Asia masih mampu mempertahankan ekspansi berkat upaya penumpukan persediaan (stockpiling).\n2. **Pertumbuhan ekonomi global melambat**: Harga energi tinggi yang bertahan lama menekan konsumsi dan investasi, sehingga pertumbuhan PDB global dapat melambat. Negara-negara pengimpor energi bersih terutama di Asia dan Eropa akan berisiko mengalami tekanan paling besar.\n3. **Perubahan aliansi geopolitik**: Perang di Timur Tengah tidak hanya melibatkan negara-negara di kawasan itu saja, tetapi juga mempengaruhi aliansi geopolitik global. Negara-negara dapat semakin berhati-hati dalam membangun ketergantungan pasokan pada kawasan tertentu.\n4. **Dampak terhadap industri pertahanan**: Perang sering kali menguntungkan industri tertentu, seperti sektor pertahanan dan teknologi militer. Permintaan terhadap senjata, kendaraan tempur, dan teknologi keamanan meningkat, mendorong pertumbuhan di sektor ini."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Drama Siri AI di Eropa: Apple Salahkan DMA, UE Membalas",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8525512/drama-siri-ai-di-eropa-apple-salahkan-dma-ue-membalas",
+            "category": "Teknologi",
+            "published_at": "2026-06-10T00:48:16+00:00",
+            "summary": "Apple menunda peluncuran Siri AI di Uni Eropa karena aturan Digital Markets Act (DMA) yang mewajibkan akses untuk asisten virtual pihak ketiga, sementara Komisi Eropa menegaskan bahwa penundaan tersebut adalah keputusan Apple sendiri. Apple mengkhawatirkan risiko privasi dan keamanan pengguna, tetapi UE menilai aturan DMA diperlukan untuk mendorong persaingan pasar digital.",
+            "key_points": [
+              "Apple menyalahkan aturan DMA sebagai penyebab penundaan peluncuran Siri AI di Uni Eropa.",
+              "Komisi Eropa menegaskan bahwa penundaan Siri AI adalah pilihan Apple, bukan akibat larangan dari regulasi.",
+              "Penundaan ini menyebabkan pengguna iPhone dan iPad di Eropa tidak bisa mengakses fitur inti Siri AI saat peluncuran iOS 27 dan iPadOS 27."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Serangan AS ke Iran Balasan Jatuhnya Helikopter",
+        "title": "Serangan AS ke Iran Balasan Jatuhnya Helikopter",
+        "synthesis": [
+          "AS serang Iran sebagai balasan penembakan helikopter Apache di Selat Hormuz.",
+          "Dua awak diselamatkan via drone laut pertama kali, Iran menolak tanggung jawab.",
+          "Ancaman balasan Iran meningkatkan risiko eskalasi konflik regional."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Eskalasi konflik AS-Iran dan ketegangan regional memburuk.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "US strikes Iran in response to downing of helicopter, military says",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-10T00:33:25+00:00",
+            "summary": "Amerika Serikat meluncurkan serangan ke Iran sebagai respons atas penembakan helikopter Apache miliknya di Selat Hormuz. Dua awak helikopter berhasil diselamatkan menggunakan drone laut pertama kalinya, sementara Iran menolak bertanggung jawab dan mengancam akan membalas serangan AS.",
+            "key_points": [
+              "AS menyerang Iran sebagai respons terhadap penembakan helikopter Apache yang diakui dilakukan oleh drone Iran, meski belum jelas apakah serangan tersebut sengaja.",
+              "Dua awak helikopter AS diselamatkan oleh drone laut milik AS, yang merupakan penggunaan pertama kali dalam operasi penyelamatan.",
+              "Iran mengancam akan membalas serangan AS dan menuding kehadiran militer asing di wilayahnya meningkatkan risiko konflik, sementara Trump menekankan pentingnya kesepakatan damai dengan Iran."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Transformasi Stadion H Agus Salim",
+        "title": "Transformasi Stadion H Agus Salim",
+        "synthesis": [
+          "Stadion H Agus Salim di Padang akan dibongkar dan direnovasi menjadi arena modern.",
+          "Proyek bernilai ratusan miliar rupiah bertujuan meningkatkan fasilitas olahraga dan ruang publik.",
+          "Penataan ulang area stadion akan berdampak pada pengembangan olahraga regional."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Investasi besar dan peningkatan infrastruktur olahraga berdampak signifikan pada pengembangan regional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Dibongkar Total, Stadion H Agus Salim Bersiap Menjelma Jadi Arena Modern",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/foto-sepakbola/d-8524875/dibongkar-total-stadion-h-agus-salim-bersiap-menjelma-jadi-arena-modern",
+            "category": "Olahraga",
+            "published_at": "2026-06-10T02:00:10+00:00",
+            "summary": "Stadion H Agus Salim di Padang akan dibongkar total dan direkonstruksi menjadi arena olahraga modern. Proyek bernilai ratusan miliar rupiah ini bertujuan meningkatkan kualitas fasilitas olahraga serta menciptakan ruang publik yang lebih tertata. Wajah lama stadion akan berganti seiring penataan ulang area dan lingkungan sekitarnya.",
+            "key_points": [
+              "Stadion H Agus Salim akan dibongkar dan direkonstruksi menjadi fasilitas olahraga modern.",
+              "Proyek bernilai ratusan miliar rupiah mencakup penataan ulang area stadion dan lingkungan sekitarnya.",
+              "Rekonstruksi diharapkan meningkatkan kualitas fasilitas olahraga serta kenyamanan bagi atlet dan masyarakat."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Ekonomi: Serangan AS ke Iran Memengaruhi Harga Minyak Global",
+        "analysis": "Serangan AS ke Iran di Selat Hormuz, yang merupakan jalur kritis pengiriman minyak, memicu ketegangan geopolitik yang berpotensi mengganggu pasokan energi global. Kenaikan harga minyak akibat ancaman terhadap stabilitas Selat Hormuz akan membebani biaya produksi di Eropa, memperkuat tekanan pada regulasi teknologi seperti Digital Markets Act (DMA) UE. Regulasi ini bertujuan mengurangi ketergantungan pada perusahaan teknologi asing (seperti Apple) dengan mempromosikan inovasi lokal, sekaligus mengalihkan fokus pemerintah Eropa dari krisis energi ke isu pasar digital."
+      },
+      {
+        "title": "Teknologi dan Regulasi: Konflik Siri Apple dengan UE Memicu Perubahan Strategi Global",
+        "analysis": "Penundaan peluncuran Siri AI di Eropa akibat aturan DMA UE menunjukkan bagaimana regulasi teknologi lokal dapat mengubah strategi perusahaan multinasional. Ini menciptakan celah bagi kompetitor Eropa untuk mengembangkan solusi AI mandiri, yang berpotensi mengurangi ketergantungan pada teknologi AS. Dalam konteks ketegangan AS-Iran, Eropa mungkin memperkuat inisiatif teknologi hijau dan energi terbarukan untuk mengurangi risiko gangguan pasokan minyak, menghubungkan isu teknologi dengan keamanan energi global."
+      }
+    ],
+    "other_news": {
+      "Kesehatan": [
+        {
+          "title": "Menkes Heran Orang Kaya Peserta BPJS Minta Layanan Lebih Baik dari Orang Miskin",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8525597/menkes-heran-orang-kaya-peserta-bpjs-minta-layanan-lebih-baik-dari-orang-miskin",
+          "category": "Kesehatan",
+          "published_at": "2026-06-10T02:02:58+00:00",
+          "summary": "Menteri Kesehatan Budi Gunadi Sadikin menegaskan bahwa prinsip dasar BPJS Kesehatan adalah pelayanan yang sama untuk semua peserta, tanpa memandang kemampuan ekonomi. Ia menolak anggapan bahwa peserta yang membayar iuran lebih tinggi berhak atas layanan lebih baik, serta menyarankan masyarakat yang ingin fasilitas tambahan menggunakan asuransi swasta.",
+          "key_points": [
+            "BPJS Kesehatan berlandaskan prinsip asuransi sosial gotong royong, bukan komersial, sehingga layanan tidak dibedakan berdasarkan kemampuan ekonomi peserta.",
+            "Masyarakat yang menginginkan fasilitas tambahan dapat menggabungkan BPJS dengan asuransi kesehatan swasta.",
+            "Menkes menegaskan tujuan utama BPJS adalah melindungi seluruh masyarakat secara adil, mirip prinsip sistem perpajakan yang tidak memberi keistimewaan berdasarkan besaran pembayaran."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Official Formula 1 exhibition to make Asian debut in Singapore with iconic cars and racing simulators",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/formula-1-f1-exhibition-singapore-cars-6172856",
+          "category": "Olahraga",
+          "published_at": "2026-06-10T02:37:00+00:00",
+          "summary": "Pameran resmi Formula 1 akan melakukan debut Asia di Singapura dari 23 Juli hingga 18 Oktober 2026, menampilkan mobil juara, simulator balap, dan tampilan interaktif di Gardens by the Bay.",
+          "key_points": [
+            "Pameran ini merupakan perhentian ke-11 setelah diadakan di kota-kota seperti London, Madrid, Melbourne, dan Amsterdam.",
+            "Mobil ikonik yang dipajang termasuk Red Bull RB7 (juara dunia 2011) dan BAR Honda 005 (2003), serta bagian mobil Romain Grosjean dari kecelakaan di Bahrain 2020.",
+            "Pengunjung dapat mengakses simulator balap tambahan (S$20) dan mengikuti galeri yang menjelaskan sejarah, teknologi, serta rivalitas legendaris dalam Formula 1."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Skuad Argentina Minus Satu Pemain, Scaloni Jadi Panggil Siapa?",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8525479/skuad-argentina-minus-satu-pemain-scaloni-jadi-panggil-siapa",
+          "category": "Olahraga",
+          "published_at": "2026-06-10T01:00:14+00:00",
+          "summary": "Argentina harus kehilangan Leonardo Balerdi dari skuad Piala Dunia karena cedera betis, sehingga pelatih Lionel Scaloni menunggu hasil laga uji coba terakhir melawan Islandia sebelum mengumumkan penggantinya. Scaloni berpotensi memanggil bek tengah dari daftar 55 pemain yang tersisa, meski opsi lain tetap dipertimbangkan tergantung perkembangan cedera pemain lain.",
+          "key_points": [
+            "Leonardo Balerdi dicoret dari skuad Argentina akibat cedera betis.",
+            "Scaloni menunda pengumuman pengganti Balerdi hingga laga uji coba melawan Islandia.",
+            "Pelatih Argentina hanya bisa memilih pemain dari daftar sementara 55 orang yang sudah ditetapkan."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "World's largest chipmaker does not rule out price rises as costs increase",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-06-09T22:00:24+00:00",
+          "summary": "Perusahaan manufaktur chip terbesar dunia, TSMC, mengakui kenaikan biaya operasional akibat inflasi dan tidak menutup kemungkinan kenaikan harga. Ekspansi TSMC di berbagai negara disebut didorong oleh permintaan pelanggan, bukan tekanan geopolitik, sementara perusahaan yakin tren AI tidak akan meledak sebagai gelembung.",
+          "key_points": [
+            "TSMC mengakui inflasi meningkatkan biaya produksi dan tidak menutup kemungkinan kenaikan harga produk.",
+            "Ekspansi TSMC di AS, Jerman, Jepang, dan Taiwan didasarkan pada permintaan pelanggan, bukan tekanan dari pemerintah mana pun.",
+            "Perusahaan yakin tren AI tetap kuat dan investasi dari perusahaan besar seperti hyper-scalers akan berkelanjutan."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Afghan authorities open fire on protesters over women’s dress code",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_afghan-authorities-open-fire-on-protesters-090626?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-09T23:51:17+00:00",
+          "summary": "Otoritas Afghanistan menembaki para pengunjuk rasa di barat negara tersebut yang menentang penangkapan lebih dari belasan wanita atas pelanggaran aturan pakaian. Saksi mata melaporkan bahwa polisi melepaskan tembakan, menyebabkan setidaknya tiga orang terluka.",
+          "key_points": [
+            "Otoritas Afghanistan menggunakan kekerasan terhadap pengunjuk rasa atas isu aturan pakaian wanita.",
+            "Protes terjadi sebagai reaksi terhadap penangkapan lebih dari belasan wanita karena pelanggaran aturan pakaian.",
+            "Setidaknya tiga orang terluka akibat tembakan yang dilepaskan polisi."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-09T21:13:17+00:00",
+          "summary": "Empat pria muda yang dipaksa masuk militer Myanmar melarikan diri dan bergabung dengan kelompok pemberontak, sementara pemerintah junta memperkuat posisi militer melalui wajib militer yang memicu pergeseran kekuatan dalam perang saudara. Pemberontak kini berada di posisi pertahanan di banyak wilayah setelah dua tahun kehilangan momentum.",
+          "key_points": [
+            "Militer Myanmar menggunakan kebijakan wajib militer untuk memperoleh pasukan massal, mengurangi tekanan dari kelompok pemberontak.",
+            "Pemberontak menghadapi keterbatasan sumber daya dan kesulitan merekrut relawan dibandingkan kemampuan militer dalam memobilisasi wajib militer.",
+            "Desersi dari militer ke kelompok pemberontak terjadi, tetapi pemberontak tetap kesulitan mengimbangi keunggulan jumlah pasukan junta."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-09T17:47:41+00:00",
+          "summary": "Israel melancarkan serangan udara di kota Tyre, Lebanon, meskipun Iran memperingatkan untuk menghentikan serangan tersebut. Serangan tersebut menewaskan delapan orang dan memicu perintah evakuasi bagi warga, termasuk di kawasan Katolik di Tyre. Konflik ini memperumit upaya Presiden AS Donald Trump dalam merancang kesepakatan perdamaian antara Israel, Iran, dan Lebanon.",
+          "key_points": [
+            "Israel melakukan serangan udara di Tyre, menyebabkan kematian delapan orang dan perintah evakuasi warga, termasuk di kawasan Katolik.",
+            "Iran memperingatkan Israel untuk menghentikan serangan di Lebanon, namun Israel bersikeras melanjutkan kampanye militer terhadap Hezbollah.",
+            "Lebanon mengalami krisis kemanusiaan dengan setidaknya 3.666 korban tewas dan hampir satu juta penduduk mengungsi akibat konflik yang berlanjut meski ada gencatan senjata."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Girls' Generation's Sooyoung, actor Jung Kyung-ho break up after 14 years of dating",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/sooyoung-jung-kyung-ho-break-up-after-14-years-6172761",
+          "category": "Hiburan",
+          "published_at": "2026-06-10T02:00:00+00:00",
+          "summary": "Anggota Girls' Generation Sooyoung dan aktor Jung Kyung-ho mengakhiri hubungan 14 tahun mereka karena jadwal kerja yang padat. Kedua agensi mengonfirmasi perpisahan tersebut dan menyatakan keduanya akan tetap menjadi rekan baik. Penggemar menyayangkan kabar ini karena hubungan mereka dianggap langgeng di industri hiburan Korea.",
+          "key_points": [
+            "Hubungan Sooyoung dan Jung Kyung-ho berakhir setelah 14 tahun karena jadwal kerja yang semakin padat.",
+            "Kedua agensi mengonfirmasi perpisahan dan menyatakan keduanya akan tetap menjalin hubungan baik sebagai rekan.",
+            "Keduanya saat ini memiliki proyek akting yang memakan waktu, yang menjadi salah satu faktor perpisahan."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Selingkuhan Bill Gates Curhat ke Epstein karena Melinda Tak Mau Akur",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8525496/selingkuhan-bill-gates-curhat-ke-epstein-karena-melinda-tak-mau-akur",
+          "category": "Hiburan",
+          "published_at": "2026-06-10T00:15:53+00:00",
+          "summary": "Dr. Melanie Walker, mantan karyawan Gates Foundation dan selingkuhan Bill Gates, pernah mengeluhkan ketegangan hubungan dengan Melinda Gates ke Jeffrey Epstein. Melinda diketahui tidak setuju dengan hubungan Walker dan Epstein, yang menjadi salah satu faktor pemicu perceraian dengan Bill Gates pada 2021. Melinda menyatakan Epstein sebagai 'kejahatan yang berwujud manusia' dan telah move on dari masa lalunya.",
+          "key_points": [
+            "Walker mengeluhkan sikap Melinda yang 'melawannya' di yayasan dan hubungan dengan Epstein.",
+            "Melinda mengkritik hubungan Bill Gates dengan Epstein sebagai faktor utama perceraian mereka.",
+            "Melinda menyatakan empati terhadap korban Epstein dan mengaku telah move on dari masa lalunya."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-06-09T14:27:37+00:00",
+          "summary": "Pembunuhan Lyhanna, seorang gadis berusia 11 tahun di Prancis, memicu kemarahan publik dan tekanan terhadap pemerintah, terutama terhadap Menteri Kehakiman Gérald Darmanin, setelah tersangka yang diduga melakukan pelecehan seksual sebelumnya tidak ditindaklanjuti oleh pihak berwajib.",
+          "key_points": [
+            "Tersangka, Jérome Barella, telah dilaporkan sebagai pelaku pelecehan seksual pada Agustus 2023 tetapi tidak pernah ditanya penyelidik selama sembilan bulan sebelum pembunuhan Lyhanna.",
+            "Lebih dari 60.000 orang turun ke jalan memprotes kasus ini, dengan banyak yang menuntut pengunduran diri Darmanin atas kegagalan sistem hukum.",
+            "Pemerintah berjanji merevisi 70.000 laporan pelecehan seksual terhadap anak yang belum ditindaklanjuti dan memperketat hukum perlindungan anak."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4126
+    },
+    "timestamp": "2026-06-10T02:46:16.452482+00:00"
   }
 ]
