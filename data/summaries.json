@@ -19079,5 +19079,354 @@
       "total_in_qdrant": 4126
     },
     "timestamp": "2026-06-10T02:46:16.452482+00:00"
+  },
+  {
+    "date": "2026-06-11",
+    "generated_at": "2026-06-11T02:56:16.357096+00:00",
+    "headline": "Iran menutup Selat Hormuz sebagai respons serangan AS, memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.",
+    "global_headline": "Iran menutup Selat Hormuz sebagai respons serangan AS, memicu lonjakan harga minyak global dan ketidakpastian rantai pasok energi.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Iran Tutup Selat Hormuz Pasca Serangan AS",
+        "title": "Iran Tutup Selat Hormuz Pasca Serangan AS",
+        "synthesis": [
+          "Iran tutup Selat Hormuz sebagai respons serangan AS, ancam kapal yang lewati jalur strategis.",
+          "Penutupan mengancam 20-25% konsumsi minyak global, risiko lonjakan harga minyak internasional.",
+          "Tindakan memicu ketegangan geopolitik, mengurangi peluang diplomasi antara Iran dan AS."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Penutupan Selat Hormuz mengganggu aliran energi global dan meningkatkan risiko konflik bersenjata.",
+        "external_research": [
+          {
+            "title": "Deep Research: Iran Tutup Selat Hormuz Pasca Serangan AS",
+            "content": "Berikut adalah 3-4 poin fakta yang paling relevan dan kredibel tentang dampak penutupan Selat Hormuz:\n\n1. **Penutupan Selat Hormuz dapat memicu lonjakan harga minyak global**. Sekitar 20-25% konsumsi minyak bumi global dan 20% perdagangan gas alam cair (LNG) dunia melewati jalur ini setiap hari, setara dengan 20-21 juta barel minyak per hari.\n2. **Dampak penutupan Selat Hormuz dapat berdampak pada stabilitas ekonomi internasional**. Gangguan di Selat Hormuz dapat memicu lonjakan harga minyak global dan mengguncang stabilitas ekonomi internasional.\n3. **Indonesia juga dapat terkena dampak penutupan Selat Hormuz**. Penutupan Selat Hormuz dapat memicu gangguan distribusi energi global yang berimbas pada berbagai sektor, termasuk di dalam negeri.\n4. **Penutupan Selat Hormuz bukan sekadar tindakan militer, melainkan instrumentasi sumber daya strategis sebagai leverage geopolitik**. Penutupan Selat Hormuz dapat menjadi titik balik dalam dinamika geopolitik energi global."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Iran announces closure of Strait of Hormuz following US strikes",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-announces-closure-of-strait-of-hormuz-following-us-strikes?traffic_source=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-11T01:18:55+00:00",
+            "summary": "Iran mengumumkan penutupan Selat Hormuz sebagai respons terhadap serangan AS, dengan ancaman akan menargetkan kapal yang mencoba melewati jalur air strategis tersebut. Pihak Teheran juga menyatakan bahwa tindakan AS telah memperjauh peluang diplomasi.",
+            "key_points": [
+              "Iran menutup Selat Hormuz setelah serangan AS.",
+              "Kapal yang mencoba melewati Selat Hormuz akan ditargetkan oleh Iran.",
+              "Tindakan AS dinilai menghambat prospek diplomasi."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Trump Sebut 'Suka Inflasi' Saat Harga AS Melonjak",
+        "title": "Trump Sebut 'Suka Inflasi' Saat Harga AS Melonjak",
+        "synthesis": [
+          "Trump mendukung inflasi 4,2% AS Mei 2024 meski harga energi naik akibat konflik AS-Iran.",
+          "Kenaikan harga energi, tiket pesawat, dan layanan medis jadi faktor utama inflasi.",
+          "Inflasi jadi tantangan politik bagi Trump menjelang pemilu menengah."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Konflik AS-Iran aktif mendorong kenaikan harga energi dan mengancam stabilitas politik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump Sebut 'Suka Inflasi' Saat Harga AS Melonjak",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Trump Sebut 'Suka Inflasi' Saat Harga AS Melonjak\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tingkat Inflasi di AS**: Pada Mei 2026, tingkat inflasi tahunan di AS mencapai 4,2%, menandai level tertinggi sejak April 2023.\n2. **Kenaikan Harga Energi**: Biaya energi di AS melonjak 23,5% pada Mei 2026, akibat guncangan energi yang dipicu oleh konflik dengan Iran. Harga bensin juga melonjak 40,5% dan minyak bakar meningkat 58,9%.\n3. **Inflasi Kembali Meningkat**: Inflasi kembali meningkat untuk tempat tinggal (3,4% vs 3,3%) dan makanan (3,1% vs 2,3%) pada Mei 2026.\n4. **Tingkat Inflasi Inti**: Tingkat inflasi inti di AS masih relatif stabil, dengan kenaikan 0,5% pada Mei 2026, sedikit lebih rendah dari 0,6% pada April."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+            "category": "Ekonomi",
+            "published_at": "2026-06-11T00:02:45+00:00",
+            "summary": "Presiden AS Donald Trump menyatakan dukungan terhadap inflasi yang mencapai 4,2% pada Mei 2024, meskipun harga energi naik akibat konflik AS-Iran. Ia memprediksi harga akan turun setelah konflik selesai, tetapi inflasi tetap menjadi tantangan politik menjelang pemilu menengah. BPS mencatat kenaikan harga terutama pada energi, tiket pesawat, dan layanan medis.",
+            "key_points": [
+              "Trump menyatakan 'mencintai inflasi' meski harga energi naik akibat konflik AS-Iran, dengan inflasi mencapai 4,2% pada Mei 2024.",
+              "Kenaikan inflasi didorong oleh biaya energi yang melonjak dan penutupan Selat Hormuz oleh Iran, yang mengganggu pasokan minyak global.",
+              "Inflasi di bawah puncak 9,1% pada masa Biden, tetapi tetap menjadi isu politik bagi Trump dan mungkin memengaruhi keputusan The Fed tentang kenaikan suku bunga."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Defisit Triliunan BPJS Ancam Pembayaran",
+        "title": "Defisit Triliunan BPJS Ancam Pembayaran",
+        "synthesis": [
+          "Defisit Rp2 triliun per bulan BPJS Kesehatan ancam gagal bayar Juli 2027.",
+          "Klaim Rp16-16,5 triliun melebihi iuran Rp14 triliun, tekan keuangan.",
+          "Pemerintah diminta intervensi Rp20 triliun via PP Alma untuk stabilisasi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik layanan kesehatan nasional dan kebijakan intervensi pemerintah krusial.",
+        "external_research": [
+          {
+            "title": "Deep Research: Defisit Triliunan BPJS Ancam Pembayaran",
+            "content": "Berikut adalah hasil penelitian intelijen yang telah saya lakukan:\n\n**Fakta Utama:**\n\n1. BPJS Kesehatan mengalami defisit sebesar Rp15,5 triliun pada tahun 2019 dan defisit ini terus meningkat dalam lima tahun terakhir.\n2. Jumlah peserta BPJS Kesehatan terus meningkat, dari 222,46 juta jiwa pada tahun 2020 menjadi 281,6 juta jiwa pada Agustus 2025.\n3. Defisit keuangan BPJS Kesehatan dapat memberikan dampak besar pada perkembangan pelayanan medik di Indonesia, termasuk turunnya kualitas layanan kesehatan dan semakin turunnya kualitas kesehatan di Indonesia.\n4. BPJS Kesehatan perlu melakukan upaya untuk meningkatkan pendapatan melalui premi dan meningkatkan partisipasi peserta untuk memastikan keberlanjutan program JKN.\n\n**Sumber:**\n\n* Pusat Data Kontan\n* Dask Kebijakankesehatanindonesia\n* Jurnal Universitas Islam Negeri Sumatera Utara\n* Jurnal Jentera\n* Jurnal Universitas Primajaya"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Fakta-fakta BPJS Tekor Triliunan per Bulan, Terancam Gagal Bayar Tahun Depan",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8526917/fakta-fakta-bpjs-tekor-triliunan-per-bulan-terancam-gagal-bayar-tahun-depan",
+            "category": "Kesehatan",
+            "published_at": "2026-06-10T23:07:23+00:00",
+            "summary": "BPJS Kesehatan menghadapi defisit Rp2 triliun per bulan akibat klaim yang mencapai Rp16-16,5 triliun, sementara iuran hanya Rp14 triliun. Defisit ini berpotensi menyebabkan gagal bayar pada Juli 2027 jika tidak ada intervensi pemerintah. Pemerintah diharapkan memberikan dukungan pendanaan Rp20 triliun dari Kementerian Kesehatan dan Keuangan melalui regulasi PP Alma.",
+            "key_points": [
+              "BPJS Kesehatan mengalami defisit Rp2 triliun per bulan akibat selisih klaim Rp16-16,5 triliun dan iuran Rp14 triliun.",
+              "Defisit berisiko menyebabkan gagal bayar pada Juli 2027 tanpa intervensi pemerintah.",
+              "Pemerintah berencana memberikan dukungan pendanaan Rp20 triliun dari dua kementerian melalui PP Alma."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Ancaman Gempa Jawa Lebih Tinggi dari Perkiraan",
+        "title": "Ancaman Gempa Jawa Lebih Tinggi dari Perkiraan",
+        "synthesis": [
+          "Ancaman gempa Jawa lebih besar dari perkiraan.",
+          "Sistem sumber gempa kompleks (zona subduksi, sesar aktif) dengan ketidakpastian karakteristik.",
+          "Diperlukan pemetaan ulang dan peningkatan akurasi data risiko bencana."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ancaman gempa yang lebih besar dari perkiraan berpotensi menyebabkan disrupsi sistemik dan kebijakan nasional krusial.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ancaman Gempa di Jawa Ternyata Lebih Besar dari yang Diperkirakan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8527110/ancaman-gempa-di-jawa-ternyata-lebih-besar-dari-yang-diperkirakan",
+            "category": "Lingkungan",
+            "published_at": "2026-06-11T02:15:34+00:00",
+            "summary": "Peneliti BRIN Danny Hilman Natawidjaja menegaskan bahwa ancaman gempa di Jawa lebih besar dari perkiraan akibat sistem sumber gempa yang kompleks, termasuk zona subduksi dan sesar aktif di daratan yang masih penuh ketidakpastian karakteristiknya. Ia menyoroti perlunya pemetaan ulang dan peningkatan akurasi data untuk menilai risiko bencana secara lebih tepat.",
+            "key_points": [
+              "Sistem sumber gempa di Jawa terdiri atas zona subduksi di selatan dan sesar aktif di daratan yang berpotensi memicu gempa merusak.",
+              "Karakteristik sesar aktif seperti laju pergeseran dan magnitudo maksimum masih belum sepenuhnya dipahami, menciptakan ketidakpastian dalam penilaian bahaya.",
+              "Temuan geologi baru, seperti pemetaan di sekitar Gunung Ciremai, dapat mengubah estimasi bahaya gempa di tingkat lokal meski dampaknya terbatas pada skala regional."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Manfaat 6 Jus Buah Turunkan Kolesterol Jahat",
+        "title": "Manfaat 6 Jus Buah Turunkan Kolesterol Jahat",
+        "synthesis": [
+          "6 jus buah (delima, tomat, dll.) turunkan LDL dan tingkatkan HDL.",
+          "Jus buah sebagai bagian pola makan sehat, bukan pengganti pengobatan.",
+          "Diperlukan olahraga dan pengaturan gaya hidup untuk efek maksimal."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Update rutin tanpa efek domino besar.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Coba Rutin Minum 6 Jus Buah Segar Ini, Bantu Turunkan Kadar Kolesterol Jahat",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8526794/coba-rutin-minum-6-jus-buah-segar-ini-bantu-turunkan-kadar-kolesterol-jahat",
+            "category": "Kesehatan",
+            "published_at": "2026-06-10T13:07:48+00:00",
+            "summary": "Artikel ini menjelaskan bahwa mengonsumsi jus buah tertentu seperti delima, tomat, nanas, buah beri, cranberry, dan bit dapat membantu menurunkan kadar kolesterol jahat (LDL) serta meningkatkan kolesterol baik (HDL). Namun, jus buah tidak boleh dianggap sebagai pengganti pengobatan, melainkan bagian dari pola makan sehat yang didukung oleh olahraga dan pengaturan gaya hidup.",
+            "key_points": [
+              "Jus buah seperti delima, tomat, dan bit mengandung senyawa seperti polifenol, likopen, dan betanin yang berpotensi menurunkan LDL dan meningkatkan HDL.",
+              "Pola makan tidak sehat, kegemukan, dan kurang olahraga menjadi faktor utama peningkatan kolesterol tinggi, terutama pada usia muda.",
+              "Rekomendasi konsumsi jus buah dibatasi hingga 150 ml per hari untuk memaksimalkan manfaatnya tanpa risiko berlebihan."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik Energi Memperburuk Defisit BPJS",
+        "analysis": "Penutupan Selat Hormuz oleh Iran memicu kenaikan harga energi global yang berdampak pada inflasi AS (4,2%) yang didukung Trump. Kenaikan harga energi ini secara tidak langsung meningkatkan beban biaya operasional rumah sakit dan fasilitas kesehatan di Indonesia, sehingga memperberat defisit BPJS yang sudah mencapai Rp2 triliun per bulan. Selain itu, ancaman gempa Jawa yang meningkat membutuhkan alokasi anggaran darurat, yang berpotensi mengurangi dana subsidi kesehatan untuk BPJS. Keterkaitan ini menunjukkan bagaimana ketegangan geopolitik dan risiko lingkungan dapat memperburuk krisis sosial-ekonomi melalui efek domino pada sektor energi dan kesehatan."
+      },
+      {
+        "title": "Inflasi Energi Memicu Krisis Kesehatan Publik",
+        "analysis": "Dukungan Trump terhadap inflasi energi akibat konflik AS-Iran berdampak pada kenaikan biaya transportasi dan distribusi obat-obatan di Indonesia. Kenaikan ini memperberat beban pasien BPJS yang sudah menghadapi defisit Rp2 triliun per bulan. Paralel dengan itu, ancaman gempa Jawa yang lebih tinggi dari perkiraan memicu kebutuhan akan layanan kesehatan darurat, yang tidak tercukupi oleh sistem BPJS yang defisit. Keterkaitan ini menunjukkan bagaimana kebijakan ekonomi global dan risiko lingkungan lokal dapat bersamaan memicu krisis kesehatan publik."
+      }
+    ],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "OpenAI considers drastic price cuts, anticipating war for users with Anthropic, WSJ reports",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/openai-considers-drastic-price-cuts-anticipating-war-users-anthropic-wsj-reports-6175586",
+          "category": "Teknologi",
+          "published_at": "2026-06-11T01:45:24+00:00",
+          "summary": "OpenAI sedang mempertimbangkan pengurangan harga secara signifikan untuk menarik pelanggan dari kompetitor Anthropic, menurut laporan Wall Street Journal. Langkah ini mungkin mencakup penurunan harga token, unit utama pengukuran biaya AI, meski pembahasan masih dalam proses.",
+          "key_points": [
+            "OpenAI mempertimbangkan pengurangan harga untuk bersaing dengan Anthropic.",
+            "Potensi penurunan harga token, unit biaya AI, sedang dibahas.",
+            "Laporan tersebut belum dapat diverifikasi oleh Reuters."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Jutaan HP Samsung Siap Dapat One UI 9 Gratis, Cek Daftarnya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8527053/jutaan-hp-samsung-siap-dapat-one-ui-9-gratis-cek-daftarnya",
+          "category": "Teknologi",
+          "published_at": "2026-06-11T01:15:46+00:00",
+          "summary": "Samsung memperluas pengujian One UI 9 berbasis Android 17 ke berbagai perangkat, termasuk Galaxy S25 hingga Galaxy A17 5G, dengan rencana peluncuran resmi pada acara Galaxy Unpacked 2026. Pembaruan ini akan dibagikan secara gratis dan membawa fitur baru seperti peningkatan antarmuka, integrasi AI Gemini Intelligence, serta peningkatan keamanan.",
+          "key_points": [
+            "One UI 9 diuji pada perangkat kelas menengah hingga flagship, termasuk Galaxy A17 5G, Galaxy A34, dan Galaxy A57.",
+            "Fitur utama meliputi AI Gemini Intelligence, peningkatan aksesibilitas, dan keamanan otomatis untuk mendeteksi aplikasi berisiko.",
+            "Peluncuran resmi dijadwalkan bersamaan dengan acara Galaxy Unpacked 2026, dengan distribusi bertahap mulai dari perangkat flagship."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Air India crash report delayed due to unfinished engine examination",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/air-india-flight-787-crash-report-delayed-unfinished-engine-examination-6175606",
+          "category": "Umum",
+          "published_at": "2026-06-11T02:14:00+00:00",
+          "summary": "Laporan akhir penyelidikan kecelakaan pesawat Air India tertunda karena pemeriksaan mesin Boeing 787 di Amerika Serikat belum selesai, sehingga melewatkan tenggat waktu satu tahun. Badan Investigasi Kecelakaan Penerbangan India (AAIB) akan merilis laporan status minggu ini, dengan laporan akhir diperkirakan keluar dalam tiga bulan setelah pemeriksaan mesin selesai.",
+          "key_points": [
+            "Penyelidikan tertunda karena pemeriksaan mesin GE Aerospace di AS membutuhkan waktu lebih lama, yang hanya bisa dilakukan di sedikit fasilitas global.",
+            "Laporan awal menunjukkan sakelar kontrol bahan bakar mesin berpindah ke posisi 'CUTOFF' secara bersamaan, menyebabkan kedua mesin kehabisan bahan bakar.",
+            "Pihak keluarga kapten dan serikat pilot meminta investigasi independen serta peninjauan ulang teori tindakan sengaja, sementara AAIB belum menyimpulkan penyebab pasti."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Wajib Tahu! Ini Fase Gejala Penyakit Ginjal Kronis dari Stadium 1 hingga Akhir",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8526800/wajib-tahu-ini-fase-gejala-penyakit-ginjal-kronis-dari-stadium-1-hingga-akhir",
+          "category": "Kesehatan",
+          "published_at": "2026-06-11T00:05:20+00:00",
+          "summary": "Penyakit ginjal kronis terbagi menjadi lima stadium berdasarkan laju filtrasi glomerulus (GFR), yang menunjukkan penurunan fungsi ginjal secara bertahap hingga gagal ginjal. Konsumsi gula berlebihan meningkatkan risiko kerusakan ginjal melalui efek jangka panjang seperti diabetes dan hipertensi, sementara penanganan dini terhadap faktor risiko seperti tekanan darah tinggi dan gula darah menjadi kunci mencegah perkembangan penyakit.",
+          "key_points": [
+            "Penyakit ginjal kronis memiliki lima stadium yang ditentukan oleh laju filtrasi glomerulus (GFR) untuk mengukur seberapa baik ginjal menyaring darah.",
+            "Konsumsi gula berlebihan berisiko menyebabkan diabetes, hipertensi, dan obesitas, yang merupakan faktor utama kerusakan ginjal kronis.",
+            "Hipertensi dan diabetes yang tidak terkontrol sering menjadi penyebab utama gagal ginjal, sehingga deteksi dini dan pengelolaan kesehatan penting untuk pencegahan."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Cuma Tambah Bumbu Dapur Ini ke Kopi, Ngantuk Hilang Risiko Diabetes Pun Turun",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8526914/cuma-tambah-bumbu-dapur-ini-ke-kopi-ngantuk-hilang-risiko-diabetes-pun-turun",
+          "category": "Kesehatan",
+          "published_at": "2026-06-10T22:05:00+00:00",
+          "summary": "Kopi memiliki manfaat kesehatan seperti mengurangi risiko penyakit kronis dan meningkatkan harapan hidup. Menambahkan kayu manis ke kopi dapat menstabilkan kadar gula darah, meningkatkan sensitivitas insulin, serta mendukung kesehatan jantung melalui efek anti-inflamasi dan kandungan nutrisinya.",
+          "key_points": [
+            "Kopi dikaitkan dengan risiko lebih rendah terhadap penyakit jantung, stroke, dan diabetes tipe 2.",
+            "Kayu manis membantu menurunkan penyerapan glukosa dan meningkatkan sensitivitas insulin, mengurangi risiko diabetes.",
+            "Kayu manis mengandung antioksidan dan senyawa anti-inflamasi yang mendukung kesehatan kardiovaskular serta menurunkan peradangan kronis."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Portugal Menang, Ronaldo Buang Peluang Emas di Depan Gawang Nigeria",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8527044/portugal-menang-ronaldo-buang-peluang-emas-di-depan-gawang-nigeria",
+          "category": "Olahraga",
+          "published_at": "2026-06-11T02:00:09+00:00",
+          "summary": "Portugal mengalahkan Nigeria 2-1 dalam pertandingan di Stadion Dr Magalhaes Pessoa, dengan gol dari Pedro Neto dan Francisco Conceicao. Cristiano Ronaldo, yang bermain 65 menit, membuang tiga peluang emas, termasuk dua situasi one-on-one, meski Portugal tetap tidak terkalahkan dalam lima pertandingan terakhirnya.",
+          "key_points": [
+            "Portugal menang 2-1 atas Nigeria berkat gol Pedro Neto dan Francisco Conceicao.",
+            "Cristiano Ronaldo gagal memanfaatkan tiga peluang bersih, termasuk dua kali one-on-one dengan kiper Nigeria.",
+            "Portugal tidak terkalahkan dalam lima pertandingan terakhir di semua kompetisi, menjelang Piala Dunia 2026."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Marc Marquez Masih Belum Siap Bersaing Rebut Gelar Juara Dunia",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/moto-gp/d-8527066/marc-marquez-masih-belum-siap-bersaing-rebut-gelar-juara-dunia",
+          "category": "Olahraga",
+          "published_at": "2026-06-11T01:20:54+00:00",
+          "summary": "Marc Marquez meraih kemenangan ke-100 di kelas premier pada MotoGP Hungaria 2026, tetapi menegaskan dirinya belum siap bersaing untuk gelar juara dunia musim ini karena ketidakstabilan performa dan pemulihan cedera bahu. Ia mengakui kompetisi dengan Marco Bezzecchi dan Jorge Martin semakin ketat, namun menilai timnya belum mencapai kondisi terbaik.",
+          "key_points": [
+            "Marc Marquez memenangi MotoGP Hungaria 2026 dengan torehan 100 kemenangan di kelas premier, mengakhiri puasa kemenangan sejak September 2023.",
+            "Marquez menyatakan dirinya belum siap bersaing untuk gelar juara dunia 2026 karena ketidakstabilan performa dan kondisi fisik pasca-cedera bahu.",
+            "Ia mengakui persaingan dengan Marco Bezzecchi dan Jorge Martin semakin ketat, tetapi menegaskan timnya belum berada di bentuk terbaik, terbukti dengan keterlambatan 10 detik di Mugello."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Which World Cup teams, players and officials were denied US visas, entry?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/11/which-world-cup-teams-players-and-officials-were-denied-us-visas-entry?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-11T02:24:07+00:00",
+          "summary": "Pemerintah AS menghadapi kritik atas penolakan visa dan masuknya atlet, ofisial, serta penggemar dari berbagai negara yang ingin mengikuti Piala Dunia FIFA, termasuk penolakan terhadap wasit Somaliland Omar Artan dan masalah visa tim Iran.",
+          "key_points": [
+            "Wasit Omar Artan dari Somaliland ditolak masuk AS meski memiliki visa sah dan dokumen lengkap, memicu diskusi soal kebijakan imigrasi dan rasisme.",
+            "Timnas Iran menghadapi hambatan visa, dengan beberapa anggota staf ditolak masuk dan tim harus berbasis di Meksiko meski pertandingan grup di AS.",
+            "Beberapa atlet dan ofisial lain, seperti striker Irak Aymen Hussein dan fotografer Talal Salah, mengalami penahanan serta inspeksi dokumen di bandara AS."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Nigerian migrants flee South Africa after spike in xenophobic protests",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/nigerian-migrants-flee-south-africa-after-spike-in-xenophobic-protests?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-11T02:15:40+00:00",
+          "summary": "Migran Nigeria meninggalkan Afrika Selatan setelah aksi protes xenofobia meningkat. Mereka mengaku hidup dalam ketakutan setelah kelompok kampanye memberi batas waktu hingga 30 Juni bagi warga yang tinggal secara ilegal untuk pergi. Misyon diplomatik Nigeria di Afrika Selatan menyatakan banyak yang kembali tidak lagi merasa aman untuk tinggal atau bekerja di negara tersebut.",
+          "key_points": [
+            "Migran Nigeria meninggalkan Afrika Selatan akibat peningkatan aksi xenofobia.",
+            "Kelompok kampanye memberi batas waktu hingga 30 Juni bagi warga ilegal untuk meninggalkan Afrika Selatan.",
+            "Misyon diplomatik Nigeria menyatakan ketidakamanan warga negara mereka di Afrika Selatan."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Mexico braces for celebrations, protests as World Cup opens amid tensions",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/11/mexico-braced-for-celebrations-protests-as-world-cup-opens-amid-tensions?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-11T00:14:52+00:00",
+          "summary": "Mexico bersiap menggelar perayaan Piala Dunia 2026 di tengah protes dan ketegangan sosial, dengan aksi unjuk rasa yang mengganggu rencana acara fan festival di ibu kota. Presiden Claudia Sheinbaum menghadapi kritik atas alokasi anggaran turnamen, sementara pihak berwenang menegaskan keamanan di kota-kota tuan rumah telah dipastikan.",
+          "key_points": [
+            "Protes serikat guru dan keluarga korban hilang menghambat akses ke plaza fan festival di Mexico City.",
+            "Pemerintah kritis atas pengeluaran Piala Dunia dan skandal politik, sambil menghadapi kekhawatiran keamanan pasca-kerusuhan bulan Februari.",
+            "Lebih dari 100.000 personel keamanan ditempatkan di kota tuan rumah, termasuk di Guadalajara yang akan menggelar empat pertandingan."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4113
+    },
+    "timestamp": "2026-06-11T02:56:16.357105+00:00"
   }
 ]
