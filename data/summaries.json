@@ -20427,5 +20427,322 @@
       "total_in_qdrant": 4028
     },
     "timestamp": "2026-06-14T02:57:12.432436+00:00"
+  },
+  {
+    "date": "2026-06-15",
+    "generated_at": "2026-06-15T03:01:18.681826+00:00",
+    "headline": "Kesepakatan AS-Iran yang dimediasi Pakistan untuk membuka Selat Hormuz memicu penurunan harga minyak global.",
+    "global_headline": "Kesepakatan AS-Iran yang dimediasi Pakistan untuk membuka Selat Hormuz memicu penurunan harga minyak global.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Deal Damai Iran Dukungan Trump",
+        "title": "Deal Damai Iran Dukungan Trump",
+        "synthesis": [
+          "Trump dan sekutu menyambut baik kesepakatan damai AS-Iran sebagai kemenangan strategis.",
+          "Demokrat mempertanyakan manfaat nyata dan meminta penjelasan detail kesepakatan.",
+          "Kesepakatan awal diumumkan menghentikan konflik, tetapi negosiasi nuklir Iran ditunda 60 hari."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi mengubah dinamika geopolitik Timur Tengah dan hubungan AS-Iran secara sistemik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Deal Damai Iran Dukungan Trump",
+            "content": "Berikut adalah 3-4 poin fakta yang padat tentang \"Deal Damai Iran Dukungan Trump\":\n\n1. **Perjanjian Damai**: Presiden AS Donald Trump mengatakan bahwa perjanjian damai dengan Iran telah \"sebagian besar dinegosiasikan\", termasuk tentang pembukaan kembali Selat Hormuz.\n2. **Kemajuan Perundingan**: Kedua pihak telah menyetujui teks kesepakatan dan memperkirakan kesepakatan awal dapat ditandatangani dalam beberapa hari mendatang.\n3. **Akses Aset Iran**: AS akan mulai membuka akses terhadap miliaran dolar aset Iran yang selama ini dibekukan, serta memberikan pelonggaran sanksi ekspor minyak.\n4. **Kemungkinan Perubahan**: Meski masih ada kemungkinan perubahan dalam isi kesepakatan, Menteri Luar Negeri Iran Abbas Araqchi menilai hasil sementara menunjukkan Iran keluar sebagai pihak yang lebih kuat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/6/15/trump-allies-cheer-iran-deal-announcement-as-democrats-call-for-clarity?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-06-15T01:13:29+00:00",
+            "summary": "Trump dan sekutunya menyambut baik pengumuman kesepakatan perdamaian AS-Iran sebagai kemenangan strategis, meski detailnya belum jelas. Demokrat mempertanyakan manfaat kesepakatan tersebut dan meminta penjelasan lebih lanjut. Kesepakatan awal diumumkan akan menghentikan konflik di semua front, tetapi negosiasi soal program nuklir Iran akan dilanjutkan setelah 60 hari.",
+            "key_points": [
+              "Trump dan pendukungnya memuji kesepakatan sebagai kemenangan strategis, meski syaratnya masih belum diungkap secara lengkap.",
+              "Demokrat menilai kesepakatan tersebut belum memberikan keuntungan jelas bagi AS dan meminta transparansi lebih besar.",
+              "Kesepakatan awal akan menghentikan operasi militer di semua front, tetapi isu program nuklir Iran akan dibahas dalam 60 hari ke depan."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Harga Minyak Turun Deal AS-Iran",
+        "title": "Harga Minyak Turun Deal AS-Iran",
+        "synthesis": [
+          "Pakistan mediasi kesepakatan AS-Iran untuk buka Selat Hormuz.",
+          "Harga minyak turun 3,23% ke 84,88 USD/Bbl pasca-umumkan kesepakatan.",
+          "Iran konfirmasi kesepakatan via TV negara, penandatanganan 19 Juni."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Resolusi ketegangan geopolitik kritis di jalur pasokan minyak global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Harga Minyak Turun Deal AS-Iran",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang harga minyak turun:\n\n1. **Harga Minyak Mentah Turun**: Harga minyak mentah telah turun menjadi 84,88 USD/Bbl pada 12 Juni 2026, turun 3,23% dari hari sebelumnya.\n2. **Kenaikan Harga Minyak Mendorong Inflasi**: Kenaikan harga minyak sebesar 5% secara tahunan biasanya menambah sekitar 0,1 poin persentase pada inflasi rata-rata di ekonomi utama.\n3. **Dampak Kenaikan Harga Minyak bagi Indonesia**: Produksi minyak domestik Indonesia yang berkisar 600-700 ribu barel per hari belum mampu memenuhi kebutuhan konsumsi nasional yang mencapai sekitar 1 juta barel per hari.\n4. **Harga Minyak yang Tinggi Mempengaruhi Ekonomi Global**: Harga minyak yang tinggi dapat menekan kepercayaan dan belanja konsumen, serta memperlambat pertumbuhan ekonomi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+            "category": "Ekonomi",
+            "published_at": "2026-06-15T01:33:55+00:00",
+            "summary": "Harga minyak turun setelah Pakistan mengumumkan kesepakatan antara AS dan Iran untuk membuka kembali Selat Hormuz. Kesepakatan tersebut diumumkan oleh Perdana Menteri Pakistan Shehbaz Sharif dengan rencana penandatanganan resmi pada 19 Juni, sementara Iran mengonfirmasi kesepakatan tersebut melalui saluran televisi negara.",
+            "key_points": [
+              "Harga minyak Brent dan AS turun 4% hingga 4,7% setelah pengumuman kesepakatan Selat Hormuz.",
+              "Kesepakatan tersebut melibatkan penandatanganan resmi di Swiss dan konfirmasi dari Iran melalui saluran TV negara.",
+              "Ketidakpastian pasar tetap ada karena kurangnya detail kesepakatan dan proses pembersihan ranjau di Selat Hormuz yang memakan waktu hingga 6 bulan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Kebersihan Stadion Jepang Viral",
+        "title": "Kebersihan Stadion Jepang Viral",
+        "synthesis": [
+          "Tradisi pembersihan stadion Jepang sejak 1998 viral di media sosial.",
+          "Aksi suporter Jepang di Piala Dunia 2026 menunjukkan disiplin dan rasa hormat.",
+          "Dunia internasional mengapresiasi budaya kebersihan dan tanggung jawab lingkungan Jepang."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Meningkatkan citra nasional Jepang dan memengaruhi praktik kebersihan di acara internasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Video Suporter Jepang Bersihkan Stadion Viral, Dunia Beri Hormat",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8532176/video-suporter-jepang-bersihkan-stadion-viral-dunia-beri-hormat",
+            "category": "Hiburan",
+            "published_at": "2026-06-15T01:45:47+00:00",
+            "summary": "Aksi suporter Jepang yang membersihkan stadion setelah pertandingan melawan Belanda di Piala Dunia 2026 viral di media sosial. Tradisi ini telah dilakukan sejak Piala Dunia 1998 dan dianggap sebagai bentuk rasa hormat terhadap lingkungan serta sesama penonton.",
+            "key_points": [
+              "Suporter Jepang membersihkan stadion menggunakan kantong sampah setelah pertandingan, yang terekam dalam video resmi FIFA.",
+              "Tradisi ini telah dipertahankan sejak Piala Dunia 1998 dan menjadi sorotan global karena nilai disiplin serta tanggung jawab terhadap lingkungan.",
+              "Budaya ini berasal dari filosofi Jepang 'Tatsu tori ato wo nigosazu' yang menekankan tidak meninggalkan jejak buruk setelah kepergian."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Swedia Ungguli Tunisia Piala Dunia",
+        "title": "Swedia Ungguli Tunisia Piala Dunia",
+        "synthesis": [
+          "Swedia ungguli Tunisia 2-1 di babak pertama Piala Dunia 2026.",
+          "Gol Swedia dicetak Ayari dan Isak, Tunisia membalas melalui Rekik.",
+          "Laga berlangsung di Estadio BBVA, Guadalupe, 15 Juni 2026."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Update rutin turnamen olahraga tanpa efek sistemik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Piala Dunia 2026: Swedia Ungguli Tunisia 2-1 di Babak Pertama",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8532275/piala-dunia-2026-swedia-ungguli-tunisia-2-1-di-babak-pertama",
+            "category": "Olahraga",
+            "published_at": "2026-06-15T02:51:50+00:00",
+            "summary": "Swedia mengalahkan Tunisia 2-1 di babak pertama Piala Dunia 2026 yang berlangsung di Estadio BBVA, Guadalupe, Senin (15/6/2026) pagi WIB. Swedia unggul dua gol melalui Yasin Ayari dan Alexander Isak, sementara Tunisia memperkecil ketertinggalan melalui sundulan Karim Rekik.",
+            "key_points": [
+              "Swedia membuka keunggulan 1-0 di menit ke-7 melalui gol Yasin Ayari setelah tembakan Viktor Gyokeres diblok.",
+              "Swedia memperbesar keunggulan menjadi 2-0 di menit ke-30 lewat gol Alexander Isak dari umpan Gyokeres.",
+              "Tunisia memperkecil ketertinggalan menjadi 2-1 di menit ke-43 melalui sundulan Karim Rekik sebelum turun minum."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      },
+      {
+        "id": 4,
+        "topic": "Swiss Tolak Batas Penduduk 10 Juta",
+        "title": "Swiss Tolak Batas Penduduk 10 Juta",
+        "synthesis": [
+          "Swiss voters reject 10 million population cap"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Swiss Tolak Batas Penduduk 10 Juta",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Swiss Tolak Batas Penduduk 10 Juta\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebijakan Natalitas**: Kebijakan natalitas yang bijak seperti program KB (Keluarga Berencana) perlu diprioritaskan untuk mengontrol laju pertumbuhan populasi dan mengurangi beban infrastruktur.\n2. **Dampak Ekonomi**: Implikasi ekonomi dari pertumbuhan penduduk sangat kompleks, dapat meningkatkan produktivitas dan pertumbuhan ekonomi jika dikelola dengan baik, tetapi juga dapat meningkatkan inflasi dan kesenjangan sosial jika tidak diatasi.\n3. **Pentingnya Data Kependudukan**: Data kependudukan adalah segala tampilan data penduduk dalam bentuk resmi maupun tidak resmi yang diterbitkan oleh badan-badan pencatatan kependudukan, dalam berbagai bentuk baik angka, grafik, gambar dan lain-lain.\n4. **Transmigrasi di Indonesia**: Transmigrasi adalah kebijakan kependudukan yang amat khas di Indonesia yang dimaksudkan untuk menyeimbangkan kepadatan penduduk di berbagai pulau di Indonesia, serta untuk pemerataan ekonomi dan mengurangi ketimpangan sosial.\n\nSaya berharap informasi ini dapat membantu Anda dalam menyelesaikan tugas."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Swiss voters reject 10 million population cap",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+            "category": "Umum",
+            "published_at": "2026-06-14T18:23:52+00:00",
+            "summary": "Pemilih Swiss menolak usulan pembatasan populasi negara hingga 10 juta jiwa dengan 55% suara menentang, 45% mendukung, dan tingkat partisipasi 60%. Usulan tersebut diajukan Partai Rakyat Swiss (kanan sayap) yang selama ini memperjuangkan kebijakan anti-imigrasi, tetapi ditentang pemerintah, bisnis, dan partai besar lainnya karena risiko mengganggu kesepakatan kebebasan pergerakan dengan Uni Eropa.",
+            "key_points": [
+              "Pemilih Swiss menolak usulan pembatasan populasi 10 juta jiwa dengan 55% suara menentang dan 45% mendukung.",
+              "Partai Rakyat Swiss, yang mengusulkan cap populasi, memiliki platform anti-imigrasi dan sering menyalahkan imigran atas masalah sosial.",
+              "Penolakan cap populasi dianggap melindungi akses Swiss ke pasar tunggal Eropa, yang bergantung pada komitmen terhadap kebebasan pergerakan orang."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Deal AS-Iran dan Stabilisasi Harga Minyak",
+        "analysis": "Kesepakatan damai AS-Iran (geopolitik) secara langsung memengaruhi harga minyak global (ekonomi) melalui normalisasi akses ke Selat Hormuz, jalur kritis 20% ekspor minyak dunia. Penurunan harga minyak ini akan mengurangi tekanan inflasi di negara konsumen (termasuk Eropa dan Asia), tetapi memperlemah pendapatan negara eksportir minyak seperti Arab Saudi dan Rusia. Dalam jangka panjang, ini bisa memicu pergeseran aliansi strategis di Timur Tengah, terutama jika Iran memperluas pengaruhnya di wilayah tersebut."
+      },
+      {
+        "title": "Tradisi Kebersihan Jepang dan Branding Nasional",
+        "analysis": "Viralnya tradisi pembersihan stadion Jepang (sosial) memperkuat citra negara sebagai 'model kebersihan' (lingkungan), yang secara tidak langsung mendukung sektor pariwisata dan investasi asing. Citra positif ini bisa memengaruhi keputusan perusahaan multinasional dalam memilih lokasi produksi, terutama di industri manufaktur presisi yang membutuhkan standar kebersihan tinggi. Dalam konteks geopolitik, ini memperkuat posisi Jepang sebagai mitra ekonomi andal di Asia."
+      }
+    ],
+    "other_news": {
+      "Lingkungan": [
+        {
+          "title": "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/15/zimbabwes-climate-migrants-fear-eviction-as-crackdown-intensifies?traffic_source=rss",
+          "category": "Lingkungan",
+          "published_at": "2026-06-15T00:54:32+00:00",
+          "summary": "Warga Zimbabwe yang pindah ke Eastern Highlands akibat perubahan iklim menghadapi ancaman pemaksaan pengosongan tanah oleh pemerintah yang memperketat penegakan hukum terhadap pemukiman ilegal. Mereka mengklaim migrasi dilakukan karena kesulitan pertanian di daerah kering, tetapi pemerintah menegaskan perlunya menegakkan aturan tanah dan melindungi lingkungan.",
+          "key_points": [
+            "Migrasi ke Eastern Highlands dipicu oleh perubahan iklim yang memperparah kesulitan pertanian di daerah kering Zimbabwe.",
+            "Pemerintah memperketat penindakan terhadap pemukiman ilegal, termasuk penangkapan pemimpin adat dan pejabat terkait alokasi tanah tidak sah.",
+            "Belum ada kebijakan khusus untuk mengatasi migrasi akibat perubahan iklim, sehingga warga yang tinggal di tanah ilegal menghadapi ketidakpastian hukum."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "FIFA Tanggapi Kontroversi VAR Penalti Swiss saat Ditahan Qatar",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8532117/fifa-tanggapi-kontroversi-var-penalti-swiss-saat-ditahan-qatar",
+          "category": "Olahraga",
+          "published_at": "2026-06-15T02:20:20+00:00",
+          "summary": "FIFA merespons kontroversi penggunaan VAR dalam pemberian penalti Swiss saat imbang melawan Qatar, di mana posisi offside dua pemain Swiss menjadi sorotan. Publik mempertanyakan ketidaktampilan tayangan grafik 3D yang biasa digunakan untuk memperjelas keputusan VAR, sementara FIFA mengklaim gangguan teknis menyebabkan absennya tayangan tersebut.",
+          "key_points": [
+            "Penalti diberikan kepada Swiss setelah VAR menyatakan Breel Embolo dan Remo Freuler dalam posisi onside meski dinilai offside oleh publik dan analis.",
+            "Ketidaktampilan tayangan grafik 3D memicu kritik terhadap transparansi FIFA, dengan Gary Neville menyebut keputusan tersebut 'offside' hingga dibuktikan sebaliknya.",
+            "FIFA mengklaim gangguan teknis singkat mencegah tayangan grafik 3D muncul, tetapi menegaskan alur kerja VAR tetap berjalan sesuai prosedur."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "WEC 2026: Sean dan WRT 32 Finis Ketujuh di 24H of Le Mans",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sport-lain/d-8532220/wec-2026-sean-dan-wrt-32-finis-ketujuh-di-24h-of-le-mans",
+          "category": "Olahraga",
+          "published_at": "2026-06-15T02:10:51+00:00",
+          "summary": "Sean Gelael dan Team WRT 32 menyelesaikan balapan 24H of Le Mans 2026 di posisi ketujuh setelah mengalami perubahan strategi dan hukuman selama lomba. Darren Leung awalnya direncanakan melakukan dua stint, tetapi akhirnya menjalankan lima stint karena konsistensi kecepatannya. Keberadaan Safety Car dan penalti drive through menyebabkan posisi tim turun dari P3 ke P7.",
+          "key_points": [
+            "Sean Gelael dan Team WRT 32 finis ketujuh di kelas LMGT3 24H of Le Mans 2026.",
+            "Darren Leung menjalankan lima stint karena strategi yang berubah selama balapan.",
+            "Insiden Safety Car dan penalti drive through mengakibatkan penurunan posisi dari P3 ke P7."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Ivory Coast beats Ecuador 1-0 at FIFA World Cup with Amad Diallo goal",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/15/ivory-coast-beat-ecuador-1-0-at-fifa-world-cup-with-amad-diallo?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-06-15T02:05:44+00:00",
+          "summary": "Ivory Coast mengalahkan Ecuador 1-0 di Piala Dunia FIFA dengan gol kemenangan Amad Diallo pada menit ke-90. Pertandingan ini menjadi langkah penting bagi Ivory Coast menuju babak gugur, sementara Ecuador gagal mencetak gol meski mendapat dukungan dari penonton setempat.",
+          "key_points": [
+            "Amad Diallo mencetak gol kemenangan Ivory Coast sebagai pemain pengganti di menit ke-90.",
+            "Kedua tim total mengarahkan tiga tembakan ke mistar sebelum Ivory Coast unggul.",
+            "Ivory Coast akan menghadapi Jerman, sementara Ecuador bertemu Curacao pada pertandingan berikutnya di Grup E."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Ecuadorian World Cup fans takeover Philly’s Rocky Steps",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/ecuadorian-world-cup-fans-takeover-phillys-rocky-steps?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-06-15T02:04:51+00:00",
+          "summary": "Penggemar sepak bola Ekuador mengambil alih Tepian Rocky di Philadelphia untuk mendukung timnas mereka dalam laga pembuka Piala Dunia melawan Pantai Gading. Kegiatan ini menunjukkan antusiasme fans Ekuador terhadap pertandingan internasional tersebut.",
+          "key_points": [
+            "Penggemar Ekuador menghimpun diri di lokasi ikonik Philadelphia, Tepian Rocky.",
+            "Mereka mendukung timnas Ekuador dalam laga pembuka Piala Dunia melawan Pantai Gading.",
+            "Kegiatan ini terjadi saat Ekuador berpartisipasi dalam turnamen Piala Dunia."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Qatar's keeper Abunada enjoys 'most beautiful moment' at World Cup after setbacks",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/qatars-keeper-abunada-enjoys-most-beautiful-moment-world-cup-after-setbacks-6183261",
+          "category": "Olahraga",
+          "published_at": "2026-06-15T02:02:23+00:00",
+          "summary": "Kiper Qatar, Mahmoud Abunada, mencatatkan momen bersejarah dalam kariernya dengan membawa timnya meraih poin pertama di Piala Dunia setelah bangkit dari cedera punggung serius yang hampir membuatnya pensiun. Meski awalnya dianggap berisiko karena pengalaman terbatas, penampilannya yang gemilang melawan Swiss, termasuk penyelamatan krusial, membuatnya dinobatkan sebagai Man of the Match.",
+          "key_points": [
+            "Abunada bangkit dari cedera punggung parah yang membuatnya absen selama musim 2023–24 dan sempat mempertimbangkan pensiun.",
+            "Penampilannya melawan Swiss, termasuk penyelamatan penalti dan gol penyama 1-1, bantu Qatar meraih poin pertama sejarah di Piala Dunia.",
+            "Kemenangan ini dianggap sebagai 'momennya yang paling indah' dan ia menyematkan prestasi ini untuk keluarganya, khususnya ibunya."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "IDAI Kecam Kriminalisasi Dokter Anak Ratna yang Dituntut 4,6 Tahun Bui",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8532170/idai-kecam-kriminalisasi-dokter-anak-ratna-yang-dituntut-4-6-tahun-bui",
+          "category": "Hukum",
+          "published_at": "2026-06-15T01:07:56+00:00",
+          "summary": "IDAI mengkritik kriminalisasi terhadap dokter anak dr Ratna Setia Asih yang dituntut 4,6 tahun penjara atas dugaan kelalaian medis menyebabkan kematian pasien. Mereka menekankan tuntutan tersebut tidak didasari sidang etik dan disiplin profesi. dr Ratna memberikan instruksi awal via telepon sesuai standar kompetensi, namun pasien meninggal setelah kondisinya memburuk.",
+          "key_points": [
+            "IDAI menolak kriminalisasi tenaga medis tanpa sidang etik dan disiplin profesi terlebih dahulu.",
+            "dr Ratna memberikan instruksi medis melalui telekonsultasi yang diakui dalam perundang-undangan.",
+            "Pasien AR (10) sempat ditangani delapan dokter di tiga fasilitas kesehatan sebelum masuk rumah sakit."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Baseus PicoGo Air Rilis, Powerbank Setipis Kartu Tantang Xiaomi UltraThin",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8532177/baseus-picogo-air-rilis-powerbank-setipis-kartu-tantang-xiaomi-ultrathin",
+          "category": "Teknologi",
+          "published_at": "2026-06-15T02:15:50+00:00",
+          "summary": "Baseus meluncurkan PicoGo Air AM71, powerbank magnetik ultra-tipis dengan ketebalan 6,9 mm yang bersaing dengan Xiaomi UltraThin. Perangkat ini memiliki baterai 5.000 mAh, fitur NFC Battery Monitoring, dan sistem pendingin Triple-Loop Cooling Structure untuk menjaga suhu stabil.",
+          "key_points": [
+            "PicoGo Air AM71 memiliki ketebalan 6,9 mm, menjadikannya salah satu powerbank terkecil di dunia.",
+            "Dilengkapi NFC Battery Monitoring untuk memantau sisa daya dan status pengisian secara instan melalui aplikasi.",
+            "Sistem Triple-Loop Cooling Structure dengan material graphene dan aerogel mencegah overheat selama pengisian daya."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4041
+    },
+    "timestamp": "2026-06-15T03:01:18.681834+00:00"
   }
 ]
