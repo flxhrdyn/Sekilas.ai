@@ -21097,5 +21097,349 @@
       "total_in_qdrant": 4042
     },
     "timestamp": "2026-06-16T03:02:57.555030+00:00"
+  },
+  {
+    "date": "2026-06-17",
+    "generated_at": "2026-06-17T02:59:29.663526+00:00",
+    "headline": "7 pasien Ebola di Kongo sembuh memicu klaim wabah hoax muncul di wilayah tersebut.",
+    "global_headline": "7 pasien Ebola di Kongo sembuh memicu klaim wabah hoax muncul di wilayah tersebut.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "Ketenangan Fragil Lebanon Pasca Perjanjian AS-Iran",
+        "title": "Ketenangan Fragil Lebanon Pasca Perjanjian AS-Iran",
+        "synthesis": [
+          "Jeda AS-Iran picu kembalinya pengungsi Lebanon, tetapi konflik Israel-Hezbollah tetap tidak terpecahkan.",
+          "Ketidakpastian implementasi kesepakatan memperumit pemulihan Lebanon yang hancur.",
+          "Ekonomi Lebanon diperkirakan kontraksi 7-10% pada 2026 akibat perang terus-menerus."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik konflik regional dan kerusakan ekonomi berdampak jangka panjang.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ketenangan Fragil Lebanon Pasca Perjanjian AS-Iran",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Kerugian Ekonomi Lebanon**: Perekonomian Libanon diperkirakan akan mengalami kontraksi tajam antara 7% hingga 10% pada tahun 2026 akibat perang yang sedang berlangsung antara Israel dan kelompok bersenjata Hizbullah. Menteri Keuangan Libanon Yasin Jaber menyatakan bahwa total kerugian baik dampak kerusakan langsung maupun tidak langsung ditaksir mencapai 20 miliar dolar Amerika Serikat atau setara dengan Rp353,54 triliun.\n2. **Kondisi Keamanan Lebanon**: Lebanon menyerukan agar tentara Lebanon mengambil kendali penuh atas wilayah-wilayah tersebut. Selama ini tentara Lebanon tidak bisa mempertahankan kedaulatannya di Lebanon Selatan. Sehingga Hizbullah maju untuk melakukan perlawanan terhadap penjajah Zionis Israel.\n3. **Perjanjian Abraham Accords**: Perjanjian Abraham Accords adalah kesepakatan perdamaian kawasan yang dibuat oleh AS, Israel, UEA, Bahrain, dan Maroko pada tahun 2020. Perjanjian ini bertujuan untuk melakukan normalisasi kawasan negara konflik tersebut dan menghadapi ancaman Iran.\n4. **Kondisi Geopolitik Timur Tengah**: Kawasan Timur Tengah menjadi suatu kawasan yang \"unik\" dan cukup banyak dijadikan bahan penelitian dalam studi hubungan internasional. Kawasan ini sangat berkaitan erat dengan konflik AS-Iran dan perjanjian JCPOA."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-16T16:20:33+00:00",
+            "summary": "Sebuah kesepakatan jeda perang antara AS dan Iran memicu kembalinya warga Lebanon yang terdampak konflik, meski ketidakpastian tetap menghiasi masa depan perang antara Israel dan Hizbullah. Kesepakatan tersebut belum diumumkan secara resmi dan belum jelas bagaimana penerapannya di Lebanon, sementara wilayah yang dihancurkan dan senjata Hizbullah tetap menjadi isu krusial.",
+            "key_points": [
+              "Kesepakatan jeda perang AS-Iran memicu kembalinya warga Lebanon, tetapi ketidakpastian tentang keberlanjutan jeda dan keamanan tetap menjadi perhatian utama.",
+              "Isu-isu yang belum terjawab termasuk penarikan pasukan Israel dari wilayah yang diduduki, rekonstruksi daerah hancur, dan nasib senjata Hizbullah.",
+              "Hizbullah menolak diskusi tentang pengebiruan senjatanya, sementara pemerintah Lebanon dan kritikus menuntut solusi diplomatik untuk mengurangi pengaruh Iran."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Kasus Temanggung: Pesan Dokter untuk Glamping Aman",
+        "title": "Kasus Temanggung: Pesan Dokter untuk Glamping Aman",
+        "synthesis": [
+          "Keluarga tewas akibat keracunan CO di tenda glamping Temanggung.",
+          "Dokter peringatkan risiko alat pembakaran di ruang tertutup saat glamping.",
+          "Pentingnya protokol keselamatan untuk mencegah asfiksia di area glamping."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Insiden ini mengungkap risiko sistemik aktivitas rekreasi yang berpotensi menyebabkan kematian dan memerlukan perubahan kebijakan keselamatan.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Belajar dari Kasus Temanggung, Ini Pesan Dokter agar Glamping Tak Fatal",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8534644/belajar-dari-kasus-temanggung-ini-pesan-dokter-agar-glamping-tak-fatal",
+            "category": "Kesehatan",
+            "published_at": "2026-06-17T00:05:22+00:00",
+            "summary": "Seorang keluarga meninggal akibat keracunan gas karbon monoksida (CO) di dalam tenda glamping di Taman Wisata Alam Posong, Temanggung. Dokter paru Prof Tjandra Aditama memperingatkan risiko membawa alat pembakaran ke dalam ruangan tertutup saat glamping, yang dapat menyebabkan hipoksia hingga asfiksia. Ia menekankan pentingnya keselamatan dengan menghindari penggunaan pemanas atau kompor berbahan bakar di area tertutup.",
+            "key_points": [
+              "Kematian satu keluarga di tenda glamping disebabkan keracunan gas CO dari alat pembakaran di ruangan tertutup.",
+              "Prof Tjandra memperingatkan bahaya penggunaan kompor atau pemanas berbahan bakar di dalam ruangan tertutup saat glamping.",
+              "Gas CO menggantikan oksigen dalam darah, menyebabkan hipoksia dan kematian karena asfiksia."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Pemulihan Pasien Ebola di Kongo",
+        "title": "Pemulihan Pasien Ebola di Kongo",
+        "synthesis": [
+          "7 pasien Ebola di Kongo sembuh, klaim wabah hoax muncul.",
+          "Klaim hoax mengganggu respons kesehatan masyarakat.",
+          "Tekanan pada sistem kesehatan Kongo memburuk."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Klaim hoax berpotensi menghambat upaya penanggulangan wabah secara regional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ebola patients recover in DRC amid claims of outbreak hoax",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/ebola-patients-recover-in-drc-amid-claims-of-outbreak-hoax?traffic_source=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-06-17T01:24:10+00:00",
+            "summary": "Tujuh pasien Ebola di Kongo Demokratik telah sembuh dan keluar dari pusat perawatan. Otoritas setempat menghadapi klaim bahwa wabah tersebut tidak nyata.",
+            "key_points": [
+              "Tujuh pasien Ebola sembuh dan meninggalkan pusat perawatan di Kongo Demokratik.",
+              "Otoritas Kongo Demokratik menghadapi klaim bahwa wabah Ebola adalah hoaks.",
+              "Wabah Ebola masih terjadi di Kongo Demokratik meski ada pasien yang sembuh."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Debut Haaland di Piala Dunia 2026 dengan Dua Gol",
+        "title": "Debut Haaland di Piala Dunia 2026 dengan Dua Gol",
+        "synthesis": [
+          "Haaland cetak 2 gol di debut Piala Dunia 2026, Norwegia menang 4-1 atas Irak.",
+          "Penampilan Haaland sorotan media sosial, tingkatkan ekspektasi publik terhadap timnas Norwegia.",
+          "Kemenangan Norwegia di Grup I menjadi momentum positif untuk kampanye Piala Dunia."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam ekspektasi publik dan performa timnas Norwegia di Piala Dunia.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pemulihan Pasien Ebola di Kongo",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Pemulihan Pasien Ebola di Kongo. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tidak ada obat atau vaksin yang disetujui untuk melawan galur Ebola Bundibugyo**: Menurut WHO, galur Bundibugyo adalah penyebab wabah Ebola saat ini, dan belum ada obat atau vaksin yang disetujui untuk melawan galur tersebut.\n2. **Gejala awal Ebola meliputi demam, nyeri otot, kelelahan, sakit kepala, dan sakit tenggorokan**: Gejala awal Ebola dapat berbeda-beda, tetapi biasanya meliputi demam, nyeri otot, kelelahan, sakit kepala, dan sakit tenggorokan.\n3. **Pengobatan Ebola saat ini meliputi pengendalian gejala dan penggunaan obat dan vaksin**: Saat ini, pengobatan Ebola meliputi pengendalian gejala dan penggunaan obat dan vaksin, seperti Inmazeb dan Ebanga, yang menggunakan antibodi monoklonal untuk mengobati infeksi.\n4. **Surveilans dan penggunaan teknologi dapat membantu mengatasi wabah Ebola**: Surveilans dan penggunaan teknologi, seperti teknologi optical microring resonators, dapat membantu mengatasi wabah Ebola dengan cepat dan efektif."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Haaland Menggila di Debut Piala Dunia 2026, Borong 2 Gol Bikin Heboh Medsos",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8534834/haaland-menggila-di-debut-piala-dunia-2026-borong-2-gol-bikin-heboh-medsos",
+            "category": "Olahraga",
+            "published_at": "2026-06-17T00:45:25+00:00",
+            "summary": "Erling Haaland mencatatkan debutnya di Piala Dunia 2026 dengan mencetak dua gol saat Norwegia mengalahkan Irak 4-1 di Grup I. Penampilannya langsung menjadi sorotan media sosial dan memperkuat harapan publik terhadap timnas Norwegia.",
+            "key_points": [
+              "Haaland mencetak dua gol dalam debutnya di Piala Dunia 2026 saat Norwegia menang 4-1 atas Irak.",
+              "Penampilan Haaland memicu heboh di media sosial dengan nama dan cuplikan golnya menjadi trending topic.",
+              "Kemenangan atas Irak memberikan modal positif bagi Norwegia dan meningkatkan ekspektasi publik terhadap timnas."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Kemenangan Prancis Berkat Olise",
+        "title": "Kemenangan Prancis Berkat Olise",
+        "synthesis": [
+          "Prancis menang 2-1 atas Senegal di laga pembuka Grup I Piala Dunia 2026.",
+          "Olise pindah ke tengah lapangan jadi kunci gol kemenangan Prancis.",
+          "Deschamps puas meski tim kesulitan di babak pertama."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Hasil laga memengaruhi dinamika grup dan momentum tim nasional Prancis.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kemenangan Prancis Puaskan Deschamps, Olise Jadi Kunci",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8534877/kemenangan-prancis-puaskan-deschamps-olise-jadi-kunci",
+            "category": "Olahraga",
+            "published_at": "2026-06-17T02:40:23+00:00",
+            "summary": "Prancis mengalahkan Senegal 2-1 dalam laga pembuka Grup I Piala Dunia 2026 setelah taktik pergeseran Michael Olise ke tengah lapangan membuahkan gol kemenangan. Kylian Mbappe dan Bradley Barcola mencetak gol untuk Prancis, sementara Ibrahim Mbaye mencetak satu gol untuk Senegal. Didier Deschamps menyatakan kepuasan atas kemenangan yang diraih meski tim menghadapi kesulitan di babak pertama.",
+            "key_points": [
+              "Michael Olise dipindahkan ke posisi tengah di babak kedua dan menjadi kunci kemenangan Prancis melalui assist gol pertama Kylian Mbappe.",
+              "Prancis unggul 2-1 berkat gol dari Kylian Mbappe (menit ke-66) dan Bradley Barcola (menit ke-82), meski Senegal sempat memperkecil ketertinggalan melalui Ibrahim Mbaye.",
+              "Didier Deschamps menilai kemenangan penting di grup yang dianggap sulit, dengan penampilan Prancis membaik di babak kedua setelah perubahan taktik."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Kesehatan dan Stabilitas Geopolitik",
+        "analysis": "Pemulihan pasien Ebola di Kongo yang disertai klaim hoax menunjukkan risiko disinformasi yang dapat melemahkan kepercayaan publik terhadap sistem kesehatan. Hal ini mirip dengan ketegangan sosial di Lebanon, di mana perjanjian AS-Iran hanya menciptakan ketenangan fragil. Kedua situasi ini menegaskan bahwa kepercayaan masyarakat terhadap institusi—baik kesehatan maupun politik—adalah fondasi krusial untuk stabilitas. Jika disinformasi di Kongo memicu protes atau penolakan vaksinasi, dampaknya bisa menyebar ke wilayah tetangga, termasuk Lebanon, yang rentan terhadap konflik regional."
+      },
+      {
+        "title": "Dampak Ekonomi Wisata dan Kesehatan",
+        "analysis": "Kasus keracunan CO di glamping Temanggung (dampak tinggi) mengungkap risiko keselamatan dalam sektor pariwisata, yang secara langsung mengurangi kepercayaan wisatawan. Di sisi lain, kemenangan Prancis di Piala Dunia 2026 (dampak sedang) berpotensi meningkatkan pemasukan ekonomi melalui wisata olahraga. Kedua isu ini menunjukkan ketergantungan ekonomi pada sektor pariwisata: krisis kesehatan (seperti di Temanggung) bisa membatalkan manfaat ekonomi dari acara besar (seperti Piala Dunia), sementara kegagalan mengelola risiko kesehatan akan memicu kerugian jangka panjang."
+      }
+    ],
+    "other_news": {
+      "Kesehatan": [
+        {
+          "title": "Picu Sekeluarga Tewas saat Glamping, Kenali Fase Berbahaya Keracunan Gas CO",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8534659/picu-sekeluarga-tewas-saat-glamping-kenali-fase-berbahaya-keracunan-gas-co",
+          "category": "Kesehatan",
+          "published_at": "2026-06-17T02:05:01+00:00",
+          "summary": "Empat orang tewas akibat keracunan gas karbon monoksida (CO) saat berkemah di Taman Wisata Alam Posong, Jawa Tengah, karena menggunakan tungku berbahan arang di dalam tenda tertutup. Spesialis Paru Prof Agus Dwi Susanto menjelaskan bahwa gas CO tidak berbau, tidak berwarna, dan mengikat hemoglobin 300 kali lebih kuat daripada oksigen, sehingga korban tidak menyadari keracunan hingga mengalami pingsan dan koma.",
+          "key_points": [
+            "Korban meninggal akibat keracunan gas CO dari tungku arang di dalam tenda tertutup.",
+            "Gas CO tidak berbau dan tidak berwarna, sehingga korban tidak menyadari keracunan hingga kehilangan kesadaran.",
+            "Keracunan CO berisiko tinggi saat korban sedang tidur karena proses keracunan terjadi secara bertahap tanpa disadari."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Ghosts of empire: A quarantine centre and Laikipia’s colonial past",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/17/ghosts-of-empire-a-quarantine-centre-and-laikipias-colonial-past?traffic_source=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-06-17T01:12:20+00:00",
+          "summary": "Pembangunan pusat karantina AS untuk Ebola di Laikipia, Kenya, memicu kontroversi politik dan protes yang berujung pada kematian tiga orang, sambil mengungkap kembali ketegangan seputar sejarah kolonial dan kepemilikan tanah di wilayah tersebut.",
+          "key_points": [
+            "Pembangunan pusat karantina AS di Laikipia dihentikan oleh pengadilan setelah protes yang menyebabkan kematian tiga orang, menciptakan kontroversi politik.",
+            "Wilayah Laikipia memiliki sejarah kolonial yang kompleks, termasuk sistem White Highlands yang menyisakan ketidakadilan kepemilikan tanah hingga kini.",
+            "Kontroversi karantina memicu kembali konflik lama terkait kehadiran asing dan klaim tanah, yang dihubungkan dengan praktik kolonial Inggris di masa lalu."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Agar Tak Salah Paham, Ini 5 Mitos Tumor Otak yang Perlu Diluruskan",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8534640/agar-tak-salah-paham-ini-5-mitos-tumor-otak-yang-perlu-diluruskan",
+          "category": "Kesehatan",
+          "published_at": "2026-06-17T01:05:24+00:00",
+          "summary": "Artikel ini menjelaskan bahwa tumor otak tidak selalu bersifat kanker dan gejalanya bervariasi tergantung lokasi pertumbuhan. Prof Dr Satish Rudrappa menegaskan bahwa mitos seputar tumor otak, seperti keterkaitan dengan penggunaan ponsel, belum terbukti secara ilmiah, serta menekankan pentingnya pemeriksaan medis untuk gejala neurologis yang tidak kunjung hilang.",
+          "key_points": [
+            "Tidak semua tumor otak bersifat ganas dan dapat menyebar ke bagian tubuh lain.",
+            "Gejala tumor otak bervariasi, tidak selalu dimulai dengan sakit kepala, dan bisa meliputi kejang, kesulitan berbicara, atau perubahan kepribadian.",
+            "Belum ada bukti ilmiah yang menyatakan hubungan langsung antara penggunaan ponsel dan tumor otak."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/17/haaland-scores-two-goals-as-norway-beat-iraq-4-1-on-world-cup-return?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-06-17T02:46:13+00:00",
+          "summary": "Erling Haaland mencetak dua gol dalam debutnya di Piala Dunia, membantu Norwegia mengalahkan Irak 4-1 di babak pembuka Grup I. Norwegia kini memimpin grup berdasarkan selisih gol, sementara Irak menghadapi tantangan panjang dalam perjalanan mereka ke turnamen ini.",
+          "key_points": [
+            "Haaland mencetak dua gol dan mencapai 57 gol dalam 51 pertandingan internasional.",
+            "Norwegia unggul 4-1 atas Irak, memuncaki Grup I setelah kemenangan atas Senegal oleh Prancis.",
+            "Irak membutuhkan 21 pertandingan selama 867 hari untuk memastikan tempat di Piala Dunia sebagai tim terakhir."
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Croatia's Dalic warns team of Kane threat before England opener",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/croatias-dalic-warns-team-kane-threat-england-opener-6188996",
+          "category": "Olahraga",
+          "published_at": "2026-06-17T02:25:54+00:00",
+          "summary": "Pelatih Kroasia Zlatko Dalic memperingatkan timnya tentang ancaman Harry Kane menjelang pertandingan pembuka Grup L melawan Inggris di Dallas Stadium. Dalic menyoroti kekuatan Kane sebagai penyerang terbaik dunia dan menekankan persiapan untuk tendangan bebas, sementara Luka Modric tetap menjadi tokoh sentral Kroasia.",
+          "key_points": [
+            "Dalic memperingatkan tim Kroasia tentang bahaya Harry Kane, yang tampil impresif dengan 61 gol dalam 51 pertandingan untuk Bayern Munich musim lalu.",
+            "Luka Modric, mantan rekan setim Kane di Tottenham, akan menjadi kapten Kroasia dalam pertandingan ke-199-nya untuk negaranya.",
+            "Kroasia, yang pernah menjadi runner-up Piala Dunia 2018 dan semifinalis 2022, menargetkan lolos fase grup dengan fokus pada Piala Dunia 2022 yang baru."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Infografis: Mengenal 'Hydration Break' di Piala Dunia, Minum Tak Perlu 'Curi-curi' Lagi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/infografis/d-8534685/infografis-mengenal-hydration-break-di-piala-dunia-minum-tak-perlu-curi-curi-lagi",
+          "category": "Olahraga",
+          "published_at": "2026-06-16T23:02:25+00:00",
+          "summary": "Hydration break di Piala Dunia 2026 diterapkan sebagai jeda khusus untuk minum selama 3 menit di menit ke-22 tiap babak, bertujuan menjaga keselamatan pemain dari risiko heat exhaustion dan heat stroke akibat cuaca panas ekstrem. Sebelumnya, jeda ini hanya diterapkan berdasarkan indeks WBGT, tetapi kini menjadi wajib di semua laga.",
+          "key_points": [
+            "Hydration break diterapkan untuk mencegah risiko kesehatan pemain akibat cuaca panas ekstrem.",
+            "Di Piala Dunia 2026, jeda minum wajib diadakan di menit ke-22 setiap babak selama 3 menit.",
+            "Dahulu, penerapan jeda minum bergantung pada indeks WBGT, kini menjadi kebijakan wajib di semua pertandingan."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Zuckerberg Bayar Rp 248 T untuk Bocah Ajaib, Hasilnya Belum Ada",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/business/d-8534912/zuckerberg-bayar-rp-248-t-untuk-bocah-ajaib-hasilnya-belum-ada",
+          "category": "Teknologi",
+          "published_at": "2026-06-17T02:45:28+00:00",
+          "summary": "Mark Zuckerberg menginvestasikan USD 14 miliar (Rp 248 triliun) untuk merekrut Alexandr Wang dan tim Scale AI guna memperkuat AI Meta, namun hingga kini belum menunjukkan hasil finansial signifikan. Meski Meta meluncurkan model AI Muse Spark yang diharapkan memperbaiki posisi mereka di ranah AI, saham Meta justru anjlok 18% dalam 12 bulan terakhir karena ketidakpuasan investor terhadap komersialisasi produk AI.",
+          "key_points": [
+            "Meta menginvestasikan USD 14 miliar untuk merekrut Alexandr Wang dan Scale AI, tetapi hasil finansial belum terlihat.",
+            "Peluncuran model AI Muse Spark diharapkan memperbaiki posisi Meta di industri AI, tetapi saham Meta tetap melemah.",
+            "Meta menghadapi tekanan dari investor dan persaingan ketat dengan perusahaan AI lain seperti OpenAI dan Google."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Gibran Ingatkan Bahaya AI, Singgung Teknologi Tanpa Etika Itu Berbahaya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8534804/gibran-ingatkan-bahaya-ai-singgung-teknologi-tanpa-etika-itu-berbahaya",
+          "category": "Teknologi",
+          "published_at": "2026-06-17T00:15:34+00:00",
+          "summary": "Wakil Presiden Gibran Rakabuming Raka menekankan pentingnya etika dalam penggunaan teknologi AI, mengingatkan bahwa teknologi ini bisa digunakan untuk kebaikan maupun kejahatan, serta menyoroti perlunya kesiapan ekosistem dan tata kelola AI yang bertanggung jawab di Indonesia.",
+          "key_points": [
+            "Gibran mengingatkan bahwa pemanfaatan AI harus diiringi etika untuk mencegah penyalahgunaan seperti penyebaran hoax dan pelanggaran privasi.",
+            "Teknologi AI memiliki potensi ganda: menciptakan inovasi positif sekaligus berisiko merugikan masyarakat jika disalahgunakan.",
+            "Indonesia sedang membangun ekosistem AI yang bertanggung jawab, termasuk menyelesaikan Readiness Assessment Methodology (RAM) AI sesuai kerja sama dengan UNESCO."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Hospital patient who tried to grab gun from auxiliary police officer gets jail",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/hospital-patient-who-tried-grab-gun-auxiliary-police-officer-gets-jail-6188971",
+          "category": "Hukum",
+          "published_at": "2026-06-17T02:46:00+00:00",
+          "summary": "Seorang pria berusia 42 tahun yang mencoba mengambil pistol dari petugas polisi bantuan di rumah sakit divonis hukuman penjara selama 30 bulan. Pria tersebut sebelumnya dua kali ditolak permintaannya untuk diberi gunting kuku, yang memicu perilaku agresifnya. Jaksa tidak meminta hukuman cambuk dalam putusan tersebut.",
+          "key_points": [
+            "Pria yang mencoba mengambil pistol dari petugas polisi bantuan di rumah sakit karena ditolak permintaan gunting kuku dua kali.",
+            "Dihukum penjara 30 bulan atas upaya kepemilikan senjata api secara ilegal.",
+            "Jaksa tidak meminta hukuman cambuk, menunjukkan bahwa pria tersebut mungkin membutuhkan bantuan medis atau psikologis."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Kualitas Udara Jakarta Pagi Ini Jadi yang Terburuk Kedua di Dunia",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8534833/kualitas-udara-jakarta-pagi-ini-jadi-yang-terburuk-kedua-di-dunia",
+          "category": "Lingkungan",
+          "published_at": "2026-06-17T00:30:42+00:00",
+          "summary": "Kualitas udara Jakarta pada 17 Juni 2026 pagi tercatat sebagai kualitas udara terburuk kedua di dunia dengan AQI 162. Partikel PM 2.5 di Jakarta mencapai 71,0 mikrogram per meter kubik, 14,2 kali lebih tinggi dari standar WHO. Kota Lahore di Pakistan menjadi yang terburuk dengan AQI 244, diikuti Santiago de Chile dengan AQI 165.",
+          "key_points": [
+            "AQI Jakarta mencapai 162, menjadikannya kualitas udara terburuk kedua di dunia setelah Lahore (AQI 244).",
+            "Konsentrasi PM 2.5 di Jakarta 71,0 µg/m³, 14,2 kali lipat dari nilai pedoman WHO.",
+            "Partikel PM 2.5 berisiko menyebabkan peradangan saluran napas, gangguan kardiovaskular, dan iritasi kulit/mata."
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4073
+    },
+    "timestamp": "2026-06-17T02:59:29.663534+00:00"
   }
 ]
