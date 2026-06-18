@@ -21441,5 +21441,352 @@
       "total_in_qdrant": 4073
     },
     "timestamp": "2026-06-17T02:59:29.663534+00:00"
+  },
+  {
+    "date": "2026-06-18",
+    "generated_at": "2026-06-18T02:55:36.846452+00:00",
+    "headline": "Jepang tingkatkan pertahanan untuk cegah konflik regional.",
+    "global_headline": "Jepang tingkatkan pertahanan untuk cegah konflik regional.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Penguatan Pertahanan Jepang untuk Cegah Perang",
+        "title": "Penguatan Pertahanan Jepang untuk Cegah Perang",
+        "synthesis": [
+          "Jepang tingkatkan pertahanan untuk cegah konflik regional.",
+          "Peralihan aliansi ke AS dan negara sejalan diperkuat.",
+          "Revisi Pasal 9 Konstitusi dibahas sebagai respons keamanan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Perubahan sistem keamanan Jepang pasca-Perang Dunia II berpotensi mengubah dinamika geopolitik Asia.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-17T22:36:13+00:00",
+            "summary": "Menteri Pertahanan Jepang Shinjiro Koizumi menekankan pentingnya memperkuat kemampuan pertahanan Jepang untuk mencegah perang di kawasan, termasuk melalui peralihan aliansi dengan Amerika Serikat dan negara-negara sejalan serta merevisi postur pasifis sejak Perang Dunia II. Ia juga menyebut perubahan kebijakan pertahanan, seperti relaksasi aturan ekspor senjata, serta perlunya merevisi Pasal 9 Konstitusi Jepang sebagai respons terhadap dinamika keamanan regional.",
+            "key_points": [
+              "Jepang perlu memperkuat kemampuan pertahanan dan membangun deterensi multilapis dengan aliansi AS serta kerja sama dengan negara-negara Indo-Pasifik.",
+              "Kebijakan baru memungkinkan Jepang mengekspor senjata ke 17 negara mitra, termasuk AS dan Australia, sebagai bagian dari strategi keamanan regional.",
+              "Menteri Koizumi mendukung revisi Pasal 9 Konstitusi Jepang untuk menyesuaikan dengan ancaman keamanan yang berubah, meski tetap menekankan pentingnya dialog dengan Tiongkok."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Ancaman Status Quo Situs Suci Yerusalem",
+        "title": "Ancaman Status Quo Situs Suci Yerusalem",
+        "synthesis": [
+          "Status quo Situs Suci Al-Aqsa terancam perubahan kebijakan Israel.",
+          "Nasionalis Israel usulkan pembangunan Bait Suci di lokasi suci Islam.",
+          "Yordania dan Britania Raya peringatkan risiko konflik skala besar."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Ancaman perubahan status quo berpotensi memicu konflik sistemik di kawasan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ancaman Status Quo Situs Suci Yerusalem",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang Ancaman Status Quo Situs Suci Yerusalem:\n\n1. **Kepolisian Israel menyerang jamaah umat Muslim di Masjid Al-Aqsa** pada Rabu, 5 April 2023, subuh waktu setempat, dan menangkap lebih dari 350 orang. Aksi tersebut menuai kecaman dari masyarakat dunia.\n2. **Masjid Al-Aqsa adalah salah satu situs suci bagi umat Islam** yang menyimpan sejarah panjang. Terlebih, Masjid Al-Aqsa pernah menjadi arah kiblat pertama bagi umat Islam di seluruh dunia sebelum bergeser ke Mekkah.\n3. **Pemerintah Israel menetapkan larangan untuk ibadah bagi umat non-Islam** di Masjid Al-Aqsa untuk menjaga status quo. Namun, aksi kepolisian Israel menyerang jamaah umat Muslim menunjukkan bahwa status quo tersebut tidak selalu dipatuhi.\n4. **Custodianship Masjid Al-Aqsa** dipegang oleh Raja Hashemite sejak 1917, yang bertanggung jawab untuk menjaga status quo, melindungi situs suci, memastikan akses bagi peziarah, dan menjaga independensi dari intervensi negara."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-06-17T09:13:34+00:00",
+            "summary": "Status Quo di Situs Suci Al-Aqsa di Yerusalem terancam akibat aktivitas politisi nasionalis Israel yang menentang aturan lama. Mereka mengusulkan pembangunan Bait Suci baru di lokasi yang dihormati umat Islam selama 1.400 tahun, sementara pemerintah Israel menyangkal rencana perubahan status tersebut. Negara-negara seperti Yordania dan Britania Raya memperingatkan risiko konflik jika kesepakatan ini diabaikan.",
+            "key_points": [
+              "Politisi nasionalis Israel seperti Moshe Feiglin dan Itamar Ben-Gvir secara terbuka melanggar Status Quo dengan melakukan doa dan upacara Yahudi di Situs Suci Al-Aqsa.",
+              "Laporan menyebut pemerintah Israel mungkin mengubah Al-Aqsa menjadi pusat multi-agama, meski pemerintah Israel menyangkal hal ini.",
+              "Yordania, negara Teluk, Mesir, dan Inggris mengecam erosi otoritas Islam di Al-Aqsa, sementara kelompok nasionalis Israel terus memperkuat klaim teritorial mereka."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Ancaman Hak Kekayaan Intelektual",
+        "title": "Ancaman Hak Kekayaan Intelektual",
+        "synthesis": [
+          "Komdigi perkuat pengawasan pelanggaran HKI di ruang digital.",
+          "AVISI kolaborasi pemutusan pendanaan situs ilegal.",
+          "Ajakan publik dukung konten legal untuk perlindungan karya."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Upaya sistemik pemerintah dan industri melawan pelanggaran HKI yang ancam ekosistem kreatif nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ancaman Hak Kekayaan Intelektual",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang ancaman hak kekayaan intelektual (HKI). Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pemerintah Indonesia terus mengembangkan regulasi HKI**: Pemerintah Indonesia telah menyahkannya UU No. 65 Tahun 2024 tentang Perubahan Ketiga Atas UU No. 13 Tahun 2016 tentang Paten untuk mengoptimalkan sistem perlindungan paten di Indonesia.\n2. **Pelanggaran HKI masih marak**: Beberapa kasus pelanggaran HKI yang pernah terjadi di Indonesia antara lain penyalahgunaan merek dagang Louis Vuitton, pembajakan film \"Pengabdi Setan\", plagiarisme buku \"Laskar Pelangi\", pemalsuan produk kecantikan MS Glow, dan peniruan logo Starbucks.\n3. **Pengaruh teknologi terhadap HKI**: Teknologi dan ilmu pengetahuan dapat menjadikan manusia lebih kreatif dan inovatif, namun juga dapat meningkatkan pelanggaran HKI, seperti pelanggaran hak cipta, merek dagang, dan hak paten.\n4. **Ketergantungan Indonesia terhadap negara Barat**: Kekhawatiran pemerintah Indonesia adalah ketergantungan yang kuat terhadap negara Barat karena kemajuan teknologi dan ilmu pengetahuan berkembang lebih cepat di negara-negara tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ancaman Hak Kekayaan Intelektual Makin Masif, Komdigi Perkuat Pengawasan",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/law-and-policy/d-8536351/ancaman-hak-kekayaan-intelektual-makin-masif-komdigi-perkuat-pengawasan",
+            "category": "Hukum",
+            "published_at": "2026-06-18T01:15:17+00:00",
+            "summary": "Kementerian Komunikasi dan Digital (Komdigi) memperkuat pengawasan terhadap pelanggaran Hak Kekayaan Intelektual (HKI) di ruang digital, terutama melalui situs web ilegal yang menjadi sumber utama konten bajakan. AVISI, asosiasi industri streaming, berkolaborasi dengan penyedia pembayaran dan pengiklan untuk memutus pendanaan situs ilegal. Pemerintah dan pelaku industri mengajak masyarakat untuk mendukung konten legal sebagai bentuk perlindungan karya kreatif nasional.",
+            "key_points": [
+              "Komdigi menangani 9.263 kasus pelanggaran HKI sejak 2024 hingga 2026, dengan 98% pelanggaran terjadi di situs web ilegal.",
+              "AVISI fokus pada strategi 'Follow the Money' untuk memutus pemasukan situs pembajakan melalui kerja sama dengan penyedia pembayaran dan pengiklan.",
+              "Pemerintah menekankan pentingnya kolaborasi dengan platform digital dan partisipasi masyarakat dalam menjaga ekosistem digital yang sehat."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Pratinjau Pertandingan Leinster vs Bulls URC",
+        "title": "Pratinjau Pertandingan Leinster vs Bulls URC",
+        "synthesis": [
+          "Leinster diunggulkan mempertahankan gelar URC meski menghadapi tantangan cedera dan kritik gaya bermain.",
+          "Hasil buruk di final Eropa jadi beban mental Leinster sebelum laga melawan Bulls.",
+          "Bulls punya peluang melalui kekuatan scrum dan lini belakang untuk menggoyang dominasi Leinster."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pertandingan memengaruhi dinamika kompetisi regional dan strategi tim rugby Eropa.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "PREVIEW-Leinster fancied for URC success as they host Bulls again",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/preview-leinster-fancied-urc-success-they-host-bulls-again-6191916",
+            "category": "Olahraga",
+            "published_at": "2026-06-18T02:09:57+00:00",
+            "summary": "Leinster diunggulkan untuk mempertahankan gelar United Rugby Championship (URC) saat menjamu Bulls di Croke Park, meski menghadapi tantangan cedera dan kritik terkait perubahan gaya bermain. Mereka berusaha memperbaiki hasil buruk di final Eropa sebelumnya, sementara Bulls memiliki peluang melalui kekuatan scrum dan lini belakang mereka.",
+            "key_points": [
+              "Leinster menjadi favorit utama berkat keunggulan kandang dan rekor kemenangan 10 kali di URC.",
+              "Leinster menghadapi masalah cedera dan kritik terkait perubahan gaya bermain yang lebih defensif serta keputusan tidak memperbarui kontrak pemain andalan James Lowe.",
+              "Bulls memiliki peluang melalui kekuatan scrum dan lini belakang yang diisi pemain Springboks, meski sebelumnya kalah di tiga final URC terakhir."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "Bebasnya Mantan Menteri Minyak Nigeria dalam Kasus Suap",
+        "title": "Bebasnya Mantan Menteri Minyak Nigeria dalam Kasus Suap",
+        "synthesis": [
+          "Mantan menteri minyak Nigeria dibebaskan dari tuduhan suap di Inggris setelah penyelidikan 13 tahun.",
+          "Jepang-Indonesia perluas kerja sama keamanan maritim dan industri pertahanan.",
+          "Penandatanganan MoU antara Jepang-Indonesia untuk kolaborasi industri pertahanan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Penguatan kerja sama pertahanan regional dan implikasi hukum internasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Penguatan Pertahanan Jepang untuk Cegah Perang",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait penguatan pertahanan Jepang untuk cegah perang. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kerja Sama Keamanan Jepang-Indonesia**: Indonesia dan Jepang sepakat memperluas program pendidikan serta pertukaran kadet, serta memperkuat kerja sama keamanan maritim. Mereka juga menandatangani MoU untuk meningkatkan kemampuan industri pertahanan Indonesia dengan membuka peluang kolaborasi antara perusahaan pertahanan kedua negara.\n2. **Penguatan Kapasitas Pertahanan Indonesia**: Kerja sama ini bertujuan untuk menciptakan sekutu yang lebih kuat di kawasan Asia-Pasifik dan meningkatkan kemandirian teknologi Indonesia. Indonesia juga berharap dapat mengurangi ketergantungan pada negara-negara Barat.\n3. **Kerja Sama di Bidang Keamanan Siber, Intelijen, dan Teknologi**: Indonesia dan Jepang juga berencana untuk memperluas kerjasama di bidang keamanan siber, intelijen, dan pengembangan teknologi untuk menghadapi ancaman keamanan yang semakin kompleks.\n4. **Eksploitasi Sumber Daya Alam**: Jepang juga mengeksploitasi sumber daya alam Indonesia secara besar-besaran, seperti minyak bumi, timah, batu bara, dan hasil pertanian, untuk mendukung industri perangnya."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ex-Nigeria oil minister cleared in UK bribery trial",
+            "source": "BBC World News",
+            "url": "https://www.bbc.com/news/articles/c872pwx4x2vo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-06-17T19:03:10+00:00",
+            "summary": "Diezani Alison-Madueke, mantan menteri minyak Nigeria, dinyatakan tidak bersalah atas tuduhan menerima suap oleh pengadilan di London. Keputusan ini menjadi kekecewaan bagi Agen Nasional Kejahatan Inggris (NCA) yang telah menyelidiki kasus tersebut selama 13 tahun. Hakim menemukan bahwa jaksa gagal membuktikan keterlibatannya dalam penerimaan suap atau konspirasi terkait kontrak minyak.",
+            "key_points": [
+              "Alison-Madueke dinyatakan tidak bersalah atas lima dakwaan penerimaan suap dan satu tuduhan konspirasi korupsi.",
+              "Tim pembela menuding proses hukum Inggris tidak adil karena dokumen krusial menghilang di Nigeria dan penundaan penyelidikan selama hampir 11 tahun.",
+              "Jaksa gagal membuktikan keterkaitan Alison-Madueke dengan pemberian kontrak minyak akibat suap, meski menyebut gaya hidup mewahnya didanai oleh pebisnis minyak."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Keterkaitan Pertahanan Jepang dan Hak Kekayaan Intelektual Digital",
+        "analysis": "Penguatan pertahanan Jepang untuk menghadapi ancaman regional membutuhkan investasi besar dalam teknologi canggih seperti sistem pertahanan udara, cyber, dan intelijen. Perlindungan hak kekayaan intelektual (HKI) di ruang digital menjadi krusial untuk mencegah kebocoran teknologi militer ke pihak asing. Jepang, sebagai negara dengan inovasi teknologi tinggi, harus memastikan bahwa kebijakan HKI yang diperketat secara global tidak hanya melindungi aset intelektual sipil tetapi juga militer. Ketergantungan pada teknologi canggih untuk pertahanan memperkuat urgensi regulasi HKI yang ketat, sekaligus menciptakan dinamika ekonomi baru dalam sektor teknologi pertahanan."
+      },
+      {
+        "title": "Dampak Geopolitik Status Quo Yerusalem terhadap Stabilitas Ekonomi Global",
+        "analysis": "Ancaman perubahan status quo Situs Suci Yerusalem dapat memicu eskalasi konflik antar komunitas internasional, terutama antara Israel dan Palestina. Konflik ini tidak hanya bersifat politik-religi, tetapi juga berdampak pada stabilitas ekonomi global melalui perubahan aliran investasi, sanksi internasional, atau pergeseran aliansi strategis. Negara-negara seperti Jepang, yang bergantung pada stabilitas regional untuk perdagangan dan investasi, mungkin meningkatkan anggaran pertahanan sebagai respons. Di sisi lain, ancaman ini juga memperkuat kebutuhan regulasi digital (HKI) untuk mengelola narasi informasi dan mencegah provokasi yang memicu konflik."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Greta Thunberg joins Brussels protest against Israel",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-18T02:24:13+00:00",
+          "summary": "Greta Thunberg ikut serta dalam aksi protes di Brussels yang menuntut Uni Eropa memblokir penjualan produk Israel yang diproduksi di Tepi Barat yang diduduki. Aksi tersebut dihadiri sekitar 100 orang, termasuk aktivis Flotilla lainnya.",
+          "key_points": [
+            "Greta Thunberg menghadiri protes di Brussels menentang Israel.",
+            "Aksi diikuti sekitar 100 orang, termasuk aktivis dari kelompok Flotilla.",
+            "Protes menuntut Uni Eropa memblokir produk Israel yang diproduksi di Tepi Barat yang diduduki."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "US and Iran sign Memorandum of Understanding to end war",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-18T01:42:10+00:00",
+          "summary": "Amerika Serikat dan Iran telah menandatangani Memorandum of Understanding (MoU) untuk mengakhiri perang antara kedua negara. Presiden AS Donald Trump dan Presiden Iran Masoud Pezeshkian dilaporkan menandatangani MoU tersebut, sementara tim perunding dijadwalkan bertemu di Jenewa untuk melanjutkan kesepakatan.",
+          "key_points": [
+            "AS dan Iran menandatangani MoU untuk mengakhiri perang.",
+            "Presiden Trump dan Presiden Pezeshkian dilaporkan menandatangani MoU.",
+            "Tim perunding dijadwalkan bertemu di Jenewa untuk melanjutkan kesepakatan."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "What's in the US-Iran agreement that's now in effect",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-18T01:28:02+00:00",
+          "summary": "Sebuah perjanjian antara AS dan Iran untuk memperpanjang cessasi api telah ditandatangani dan berlaku, termasuk komitmen untuk membuka Selat Hormuz serta dana $300 miliar untuk rekonstruksi Iran. Perjanjian tersebut juga menetapkan penghentian operasi militer di semua front dan jaminan sovereginitas Lebanon.",
+          "key_points": [
+            "Perjanjian 14 poin menyatakan cessasi api permanen antara AS dan Iran, termasuk di Lebanon.",
+            "Iran berkomitmen tidak akan memiliki senjata nuklir, sementara AS menyiapkan dana $300 miliar untuk rekonstruksi Iran.",
+            "Selat Hormuz akan dibuka kembali tanpa biaya bagi kapal komersial, dengan penarikan blokade AS dalam 30 hari."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Iran sends tankers loaded with oil past US military blockade",
+          "source": "BBC World News",
+          "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-17T13:27:47+00:00",
+          "summary": "Tiga kapal tanker Iran yang memuat minyak mentah telah melewati garis blokade AS di Selat Oman, meskipun AS mengklaim blokade akan tetap berlaku hingga kesepakatan dengan Iran ditandatangani. Kapal-kapal tersebut mulai mengaktifkan pelacakan lokasi setelah lebih dari dua bulan tidak melakukannya, menunjukkan aktivitas maritim Iran meningkat pasca-sanksi AS.",
+          "key_points": [
+            "Tiga tanker Iran (Diona, Hero II, dan Sonia I) melewati blokade AS di Selat Oman dengan mengaktifkan pelacakan lokasi setelah hampir dua bulan tidak terdeteksi.",
+            "AS mengklaim blokade akan tetap berlaku hingga kesepakatan dengan Iran ditandatangani di Swiss, meskipun Iran tampak yakin blokade telah dicabut.",
+            "Kapal-kapal tersebut membawa total 3,8 juta barrel minyak mentah, yang menjadi ekspor pertama Iran setelah sanksi AS mengurangi ekspor minyaknya menjadi 260.000 barrel per hari pada Mei 2025."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Jadwal Kualifikasi Mobile Legends Asian Games Hari Ini: Indonesia Vs Laos",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8536396/jadwal-kualifikasi-mobile-legends-asian-games-hari-ini-indonesia-vs-laos",
+          "category": "Olahraga",
+          "published_at": "2026-06-18T02:15:25+00:00",
+          "summary": "Babak kualifikasi Mobile Legends Asian Games 2026 dimulai 18-21 Juni 2026, dengan Timnas Indonesia bermain tujuh kali, termasuk melawan Laos dan Vietnam. Tim yang berisi pemain Alter Ego dipimpin pelatih Xepher dengan strategi gameplay agresif, dan pertandingan dapat disaksikan secara online meski digelar offline.",
+          "key_points": [
+            "Jadwal kualifikasi Mobile Legends Asian Games 2026 berlangsung 18-21 Juni 2026, dengan Timnas Indonesia bermain dua kali sehari kecuali 19 Juni.",
+            "Timnas Indonesia terdiri dari pemain Alter Ego dan dilatih oleh Xepher yang menekankan strategi gameplay agresif, disiplin, dan cerdas.",
+            "Pertandingan kualifikasi diselenggarakan secara offline, tetapi dapat ditonton oleh publik melalui link streaming resmi."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "South Africa coach tells critics to ‘shut up’ before second World Cup match",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/18/south-africa-coach-tells-critics-to-shut-up-before-second-world-cup-match?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-06-18T01:49:05+00:00",
+          "summary": "Pelatih timnas Afrika Selatan, Hugo Broos, menanggapi kritik terhadap taktiknya di laga pembuka Piala Dunia melawan Meksiko dengan menyatakan akan tetap melanjutkan gaya kepelatihannya. Timnya kalah 2-0 tanpa peluang berarti dan kehilangan dua pemain akibat kartu merah. Broos menekankan pentingnya kemenangan melawan Ceko untuk peluang lolos.",
+          "key_points": [
+            "Broos menolak mengubah pendekatannya meski tim kalah 2-0 dengan strategi bertahan melawan Meksiko.",
+            "Tim Afrika Selatan kehilangan dua pemain akibat kartu merah dan gagal menciptakan peluang signifikan.",
+            "Pelatih menegaskan kemenangan melawan Ceko menjadi syarat mutlak untuk tetap berkompetisi di Piala Dunia."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Messi Hat-trick, Ronaldo Mandul! Debat GOAT Kembali Membara",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8536341/messi-hat-trick-ronaldo-mandul-debat-goat-kembali-membara",
+          "category": "Olahraga",
+          "published_at": "2026-06-18T00:48:59+00:00",
+          "summary": "Lionel Messi mencetak hat-trick pertamanya di Piala Dunia 2026 saat Argentina menang 3-0 atas Aljazair, sementara Cristiano Ronaldo gagal mencetak gol saat Portugal bermain imbang 1-1 melawan RD Kongo. Kinerja keduanya memicu perdebatan ulang soal siapa yang layak disebut Greatest of All Time (GOAT) di media sosial.",
+          "key_points": [
+            "Messi mencetak hat-trick dan menjadi motor permainan Argentina di usia 38 tahun.",
+            "Ronaldo gagal mencetak gol atau assist meski bermain penuh 90 menit untuk Portugal.",
+            "Perbandingan performa keduanya memicu perdebatan global soal status GOAT di media sosial."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Portugal Ditahan RD Kongo, Ronaldo Dibela Fans dan Dicibir Haters",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8536315/portugal-ditahan-rd-kongo-ronaldo-dibela-fans-dan-dicibir-haters",
+          "category": "Olahraga",
+          "published_at": "2026-06-17T23:45:27+00:00",
+          "summary": "Portugal bermain imbang 1-1 melawan Republik Demokratik Kongo di laga pembuka Grup K Piala Dunia 2026. Cristiano Ronaldo, yang bermain penuh, gagal mencetak gol dan menjadi sorotan dalam perdebatan netizen soal dukungan dari rekan setimnya. Reaksi publik terbagi antara pembelaan terhadap Ronaldo dan kritik terhadap penampilannya yang dianggap menurun.",
+          "key_points": [
+            "Portugal ditahan imbang RD Kongo 1-1 dalam laga pembuka Piala Dunia 2026.",
+            "Cristiano Ronaldo bermain penuh namun tidak mencetak gol, memicu perdebatan di media sosial.",
+            "Netizen membagi tanggung jawab hasil imbang antara kurangnya suplai bola ke Ronaldo dan penurunan performanya."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Who benefits from Zimbabwe’s lithium boom?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-06-18T02:26:51+00:00",
+          "summary": "Industri lithium Zimbabwe didominasi proyek pertambangan besar yang didukung investasi Tiongkok, seperti Prospect Lithium Zimbabwe dan Bikita Minerals, yang bergerak menuju produksi lithium berbentuk nilai tambah. Pemerintah menaikkan pendapatan ekspor lithium melalui kebijakan pengolahan domestik, dengan nilai ekspor meningkat hampir dua kali lipat dalam setahun. Namun, analis memperingatkan risiko ketergantungan berlebih pada mitra investasi tunggal.",
+          "key_points": [
+            "Mayoritas proyek lithium Zimbabwe didukung investasi Tiongkok, termasuk PLZ yang sepenuhnya dimiliki perusahaan Tiongkok Zhejiang Huayou Cobalt.",
+            "Perusahaan seperti PLZ dan Bikita Minerals berinvestasi besar-besaran untuk beralih dari ekspor konsentrat lithium ke produksi bahan kimia lithium berbasis nilai tambah.",
+            "Pemerintah Zimbabwe mencatat kenaikan signifikan pendapatan ekspor lithium (dari $84,19 juta ke $178,64 juta) setelah melarang ekspor bahan mentah."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Jebakan Batman Hidden Sugar di Pangan yang Bisa Berujung Diabetes",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8536293/jebakan-batman-hidden-sugar-di-pangan-yang-bisa-berujung-diabetes",
+          "category": "Kesehatan",
+          "published_at": "2026-06-18T02:09:17+00:00",
+          "summary": "Artikel ini membahas risiko konsumsi gula tersembunyi dalam makanan dan minuman kemasan yang berpotensi menyebabkan diabetes. Meski pemerintah wajibkan label kandungan gizi, masyarakat sering tidak membacanya dan terkecoh oleh klaim seperti 'less sugar'. Solusi yang diusulkan adalah sistem Nutri Level berbasis warna untuk memudahkan identifikasi kandungan gula, garam, dan lemak.",
+          "key_points": [
+            "Gula tersembunyi dalam berbagai bentuk (sukrosa, fruktosa, sirup jagung) sering tidak disadari masyarakat meski tercantum di label kemasan.",
+            "Pemerintah telah mewajibkan label kandungan gizi sejak 2019, tetapi masyarakat Indonesia belum terbiasa membaca informasi tersebut.",
+            "Sistem Nutri Level dengan warna sederhana (hijau, kuning) diusulkan untuk menggantikan istilah membingungkan dan membantu konsumen memantau asupan gula secara lebih mudah."
+          ],
+          "cluster_id": 9
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 4102
+    },
+    "timestamp": "2026-06-18T02:55:36.846460+00:00"
   }
 ]
