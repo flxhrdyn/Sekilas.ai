@@ -23512,5 +23512,354 @@
       "total_in_qdrant": 3799
     },
     "timestamp": "2026-06-23T02:38:27.086633+00:00"
+  },
+  {
+    "date": "2026-06-24",
+    "generated_at": "2026-06-24T02:39:25.547935+00:00",
+    "headline": "Gelombang panas rekor di Prancis memicu peningkatan tajam kematian tenggelam.",
+    "global_headline": "Gelombang panas rekor di Prancis memicu peningkatan tajam kematian tenggelam.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "Kematian Tenggelam di Prancis Saat Panas Ekstrem",
+        "title": "Kematian Tenggelam di Prancis Saat Panas Ekstrem",
+        "synthesis": [
+          "Kematian tenggelam di Prancis meningkat tajam selama gelombang panas rekor.",
+          "Lebih dari setengah wilayah Prancis dalam status siaga merah akibat suhu ekstrem.",
+          "Pemerintah Prancis memperingatkan risiko berenang di area tanpa pengawasan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Krisis kesehatan publik akibat panas ekstrem dan ancaman nyawa di wilayah luas.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kematian Tenggelam di Prancis Saat Panas Ekstrem",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel terkait topik \"Kematian Tenggelam di Prancis Saat Panas Ekstrem\":\n\n1. **Peningkatan Kematian Tenggelam**: Tenggelam merupakan penyebab kematian ketiga pada anak-anak dan 90% kematian karena tenggelam terjadi pada negara berkembang seperti Indonesia.\n2. **Dampak Panas Ekstrem**: Saat panas ekstrem, banyak bangunan berubah menjadi perangkap panas yang membuat suhu di dalam ruangan lebih tinggi daripada di luar.\n3. **Perubahan Iklim dan Bencana Alam**: Perubahan iklim meningkatkan frekuensi dan intensitas peristiwa cuaca ekstrem, termasuk banjir, kekeringan, dan gelombang panas berkepanjangan, yang dapat meningkatkan risiko kematian tenggelam.\n4. **Dampak pada Sulawesi Tengah**: Di Sulawesi Tengah, fenomena banjir semakin sering terjadi akibat perubahan iklim, yang dapat meningkatkan risiko kematian tenggelam."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+            "category": "Lingkungan",
+            "published_at": "2026-06-23T16:27:17+00:00",
+            "summary": "Perdana Menteri Prancis Sébastien Lecornu melaporkan 40 kematian akibat gelombang panas sejak Kamis, dengan Menteri Olahraga Marina Ferrari memperingatkan risiko berenang di area tanpa pengawasan selama gelombang panas. Suhu rekor tercatat di Prancis, Spanyol, dan Italia, dengan lebih dari setengah wilayah Prancis dalam status siaga merah.",
+            "key_points": [
+              "Empat puluh orang tewas akibat gelombang panas di Prancis sejak Kamis, termasuk dua anak yang ditemukan di dalam mobil di Carpentras.",
+              "Menteri Olahraga Prancis menyoroti peningkatan risiko tenggelam di sungai dan kanal tanpa memperhatikan bahaya, seperti kasus seorang remaja dan pemain sepak bola profesional.",
+              "Suhu rekor tercatat di Prancis (29,8°C pada siang hari, 21,6°C pada malam hari) dan Spanyol (hingga 44°C di daerah pedesaan), dengan gelombang panas memicu penutupan fasilitas publik dan pembatasan kerja di Italia."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Bahaya Sodium Tersembunyi dalam Kecap dan Hipertensi",
+        "title": "Bahaya Sodium Tersembunyi dalam Kecap dan Hipertensi",
+        "synthesis": [
+          "Peringatan kesehatan: kecap manis tinggi natrium picu hipertensi",
+          "Satu sendok kecap manis = 350-500 mg natrium (hampir 20% batas harian WHO)",
+          "Ancaman 'hidden sodium' memerlukan pengawasan konsumsi nasional"
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Risiko kesehatan sistemik dengan implikasi kebijakan gizi nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Bahaya Sodium Tersembunyi dalam Kecap dan Hipertensi",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta penting terkait bahaya sodium tersembunyi dalam kecap dan hipertensi. Berikut adalah 4 poin fakta yang paling relevan dan kredibel:\n\n1. **Kecap manis dapat meningkatkan risiko hipertensi**: Konsumsi kecap manis berlebih dapat menyebabkan tekanan darah tinggi (hipertensi) dalam jangka panjang.\n2. **Zat beracun dalam kecap dapat menyebabkan kanker**: Chloropropanols, termasuk 3-MCPD, dapat diproduksi selama pemrosesan makanan dan ditemukan dalam protein nabati terhidrolisis asam dalam kecap. Zat ini dapat memberikan dampak buruk terhadap kesehatan, termasuk menjadi penyebab kanker.\n3. **Mengurangi asupan garam dapat mengurangi risiko hipertensi**: Mengurangi asupan garam makanan dapat membantu mengurangi risiko hipertensi dan masalah kesehatan lainnya.\n4. **Pilih makanan utuh dan olah masakan sendiri**: Prioritaskan makanan utuh seperti buah-buahan segar, sayuran, dan daging, dan olah masakan sendiri untuk mengurangi kandungan sodium dalam makanan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ancaman Hipertensi di Balik Manisnya Kecap, Waspadai Hidden Sodium!",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8544528/ancaman-hipertensi-di-balik-manisnya-kecap-waspadai-hidden-sodium",
+            "category": "Kesehatan",
+            "published_at": "2026-06-24T00:03:10+00:00",
+            "summary": "Menteri Kesehatan RI Budi Gunadi Sadikin memperingatkan risiko hipertensi akibat konsumsi berlebihan kecap manis yang mengandung natrium tinggi. Satu sendok makan kecap manis dapat menyumbang 350–500 mg natrium, hampir mencapai batas harian 2.000 mg yang direkomendasikan WHO. Natrium dalam kecap, yang sering dianggap sebagai 'hidden sodium', perlu dikontrol untuk mencegah peningkatan tekanan darah.",
+            "key_points": [
+              "Kecap manis mengandung natrium tinggi (350–500 mg per sendok makan) meski tidak terasa asin.",
+              "Natrium dalam kecap termasuk 'hidden sodium' yang berkontribusi pada risiko hipertensi dan penyakit kardiovaskular.",
+              "Disarankan menggunakan kecap manis secukupnya, memilih produk rendah natrium, dan membaca label nutrisi untuk mengontrol asupan."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Perburuan Sepatu Emas Piala Dunia",
+        "title": "Perburuan Sepatu Emas Piala Dunia",
+        "synthesis": [
+          "Messi memimpin persaingan Golden Boot dengan 18 gol karier.",
+          "Mbappe dan Haaland ancam rekor Fontaine dengan 4 gol masing-masing.",
+          "Ronaldo sejarah dengan gol di enam edisi berbeda Piala Dunia."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Persaingan sengit dan rekor sejarah terancam mengubah dinamika olahraga global.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Golden Boot battle steals the show at World Cup",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/golden-boot-battle-steals-show-world-cup-6205436",
+            "category": "Olahraga",
+            "published_at": "2026-06-24T01:51:00+00:00",
+            "summary": "Lionel Messi memimpin persaingan Golden Boot Piala Dunia 2026 dengan 18 gol sepanjang kariernya, dikejar ketat oleh Kylian Mbappe dan Erling Haaland yang masing-masing mencetak empat gol. Rekor tertua Fontaine sebanyak 13 gol dalam satu turnamen kini terancam, sementara Cristiano Ronaldo mencetak sejarah dengan menjadi pemain pertama yang mencetak gol di enam edisi berbeda Piala Dunia.",
+            "key_points": [
+              "Messi memecahkan rekor total gol sepanjang kariernya di Piala Dunia dengan 18 gol, unggul di atas Mbappe dan Haaland.",
+              "Rekor Fontaine (13 gol dalam satu turnamen) terancam setelah Messi dan Mbappe menunjukkan performa luar biasa.",
+              "Cristiano Ronaldo menjadi pemain pertama yang mencetak gol di enam edisi berbeda Piala Dunia."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Klasemen Grup L Piala Dunia 2026: Inggris Puncak, Panama Tereliminasi",
+        "title": "Klasemen Grup L Piala Dunia 2026: Inggris Puncak, Panama Tereliminasi",
+        "synthesis": [
+          "Inggris pimpin Grup L dengan 4 poin setelah imbang melawan Ghana.",
+          "Panama dipastikan tersingkir setelah dua kali kalah.",
+          "Kroasia dan Ghana bersaing untuk tiket 32 besar di laga terakhir."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran kualifikasi Piala Dunia 2026 dan eliminasi Panama mengubah dinamika grup.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Klasemen Grup L Piala Dunia 2026: Inggris Teratas, Panama Out",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8544655/klasemen-grup-l-piala-dunia-2026-inggris-teratas-panama-out",
+            "category": "Olahraga",
+            "published_at": "2026-06-24T01:40:56+00:00",
+            "summary": "Pada matchday kedua Grup L Piala Dunia 2026, Inggris berada di puncak klasemen dengan empat poin setelah ditahan imbang Ghana, sementara Panama dipastikan tersingkir setelah kalah dua kali. Kroasia menang tipis atas Panama dan akan bersaing dengan Ghana dalam laga pamungkas untuk memperebutkan satu tiket ke babak 32 besar.",
+            "key_points": [
+              "Inggris unggul selisih gol di puncak klasemen meski ditahan imbang Ghana.",
+              "Panama dipastikan tersingkir setelah kalah dua kali dan kalah head-to-head.",
+              "Ghana dan Kroasia akan bertanding untuk memperebutkan satu tiket lolos langsung."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Donald Trump Berikan Trofi Piala Dunia 2026",
+        "title": "Donald Trump Berikan Trofi Piala Dunia 2026",
+        "synthesis": [
+          "Trump ikut menyerahkan trofi Piala Dunia 2026, menyimpang dari tradisi sebelumnya.",
+          "Keputusan kontroversial karena melibatkan tokoh politik AS di acara olahraga internasional.",
+          "Potensi risiko diplomasi dan citra FIFA akibat kontroversi politik."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran protokol internasional dan risiko konflik diplomasi akibat keterlibatan tokoh politik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Klasemen Grup L Piala Dunia 2026: Inggris Puncak, Panama Tereliminasi",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Klasemen Grup L Piala Dunia 2026. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Klasemen Grup L Piala Dunia 2026**: Inggris berada di peringkat pertama dengan 3 poin, diikuti oleh Ghana dengan 3 poin, Panama dengan 0 poin, dan Kroasia dengan 0 poin.\n2. **Kriteria Penentuan Peringkat**: Peringkat tim ditentukan berdasarkan poin tertinggi, selisih gol tertinggi, jumlah gol terbanyak, skor perilaku tim, dan peringkat FIFA terbaru.\n3. **Skor Perilaku Tim**: Skor perilaku tim ditentukan berdasarkan jumlah kartu kuning dan merah yang diterima oleh pemain dan ofisial tim. Kartu kuning -1 poin, kartu merah tidak langsung -3 poin, kartu merah langsung -4 poin, dan kartu kuning yang diikuti kartu merah langsung -5 poin.\n4. **Panama Tereliminasi**: Panama tereliminasi dari Piala Dunia 2026 karena hanya memperoleh 0 poin dari pertandingan grup.\n\nSaya tidak menemukan informasi yang relevan tentang politik pembinaan olahraga atau kebijakan kolonial Inggris di Indonesia dalam hasil pencarian web."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Donald Trump Akan Berikan Trofi ke Juara Piala Dunia 2026",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8544572/donald-trump-akan-berikan-trofi-ke-juara-piala-dunia-2026",
+            "category": "Olahraga",
+            "published_at": "2026-06-24T02:20:30+00:00",
+            "summary": "Presiden FIFA Gianni Infantino mengumumkan bahwa Donald Trump akan ikut menyerahkan trofi Piala Dunia 2026 kepada tim juara. Keputusan ini menuai kontroversi karena Trump sebelumnya hadir di panggung penyerahan trofi Piala Dunia Antarklub 2023, serta berbeda dengan tradisi di edisi sebelumnya yang hanya melibatkan Infantino sendiri.",
+            "key_points": [
+              "Donald Trump akan menjadi tokoh bersama Presiden FIFA Gianni Infantino dalam penyerahan trofi Piala Dunia 2026.",
+              "Kontroversi muncul karena kehadiran Trump di panggung penyerahan trofi Piala Dunia Antarklub 2023 dan perbedaan dengan tradisi edisi sebelumnya.",
+              "Sejarah mencatat hanya dua pemimpin negara tuan rumah yang pernah menyerahkan trofi Piala Dunia, yakni Ratu Elizabeth II (1966) dan Raja Juan Carlos (1982)."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Dampak Panas Ekstrem terhadap Kesehatan dan Ekonomi Prancis",
+        "analysis": "Gelombang panas rekor di Prancis yang menyebabkan kematian tenggelam secara langsung memperkuat krisis kesehatan publik (dampak HIGH) dan memicu beban ekonomi akibat biaya perawatan korban serta kerusakan infrastruktur air. Paralel dengan peringatan kesehatan tentang sodium tersembunyi dalam kecap, situasi ini menunjukkan bahwa perubahan iklim (lingkungan) mempercepat risiko kesehatan (sosial) dan memaksa pemerintah meningkatkan anggaran kesehatan (ekonomi). Kaitan ini menggarisbawahi urgensi kebijakan lintas sektor untuk mengatasi dampak iklim dan kesehatan."
+      },
+      {
+        "title": "Politik Global dan Simbolisme dalam Piala Dunia 2026",
+        "analysis": "Keterlibatan Donald Trump dalam penyerahan trofi Piala Dunia 2026 (dampak MEDIUM) mencerminkan strategi geopolitik AS untuk memperkuat pengaruh budaya dan ekonomi melalui event global. Ini berdampak pada citra politik Trump secara internasional dan memengaruhi dinamika diplomasi olahraga. Paralel dengan klasemen grup yang menempatkan Inggris di puncak, event ini menjadi alat untuk membangun identitas nasional dan memicu investasi ekonomi di sektor pariwisata serta media, terutama di negara tuan rumah."
+      }
+    ],
+    "other_news": {
+      "Olahraga": [
+        {
+          "title": "England’s Spence appears to refuse handshake with booed Ghana player Partey",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/6/24/englands-spence-appears-to-refuse-handshake-with-booed-ghana-player-partey?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-06-24T01:18:08+00:00",
+          "summary": "Pemain sepak bola Ghana Thomas Partey mendapat reaksi negatif dari penonton dan ditolak jabat tangan oleh bek Inggris Djed Spence sebelum pertandingan Piala Dunia melawan Inggris, sementara Partey dihadapkan pada tuduhan hukum di Inggris.",
+          "key_points": [
+            "Djed Spence tampak menolak jabat tangan dengan Thomas Partey sebelum pertandingan, diikuti dengan tepuk tangan negatif dari penonton Inggris.",
+            "Partey menghadapi tujuh dakwaan pencabulan dan dua tuduhan pelecehan seksual di Inggris, yang ia telah membantah.",
+            "Reaksi terhadap Partey memicu diskusi publik tentang perbedaan penanganan terhadap pemain dengan tuduhan serupa, termasuk Achraf Hakimi dari Maroko."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Hasil Piala Dunia 2026: Kroasia Tundukkan Panama",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8544634/hasil-piala-dunia-2026-kroasia-tundukkan-panama",
+          "category": "Olahraga",
+          "published_at": "2026-06-24T00:59:22+00:00",
+          "summary": "Kroasia mengalahkan Panama 1-0 dalam laga Piala Dunia 2026 di Toronto Stadium. Kroasia unggul berkat gol Ante Budimir di menit ke-54, sementara Panama gagal membalas hingga laga usai. Kroasia duduk di peringkat tiga dengan tiga poin, sedangkan Panama dipastikan terpuruk di juru kunci tanpa poin.",
+          "key_points": [
+            "Kroasia menang 1-0 atas Panama berkat gol Ante Budimir di babak kedua.",
+            "Panama gagal memanfaatkan beberapa peluang emas, termasuk sundulan Jose Luis Rodriguez yang mengenai tiang di menit ke-23.",
+            "Hasil ini memastikan Panama tersingkir dari Piala Dunia 2026 setelah dua kekalahan berturut-turut."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Bank of Korea board member raises concerns about house prices, leveraged stock investments",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/bank-korea-board-member-raises-concerns-about-house-prices-leveraged-stock-investments-6205546",
+          "category": "Ekonomi",
+          "published_at": "2026-06-24T02:02:13+00:00",
+          "summary": "Seorang anggota dewan Bank of Korea, Hwang Kun-il, menyampaikan kekhawatiran terkait risiko stabilitas finansial seperti kenaikan utang rumah tangga dan investasi saham bersifat berleverage, terutama di wilayah Seoul. Ia menyoroti potensi ketimpangan yang meningkat serta volatilitas pasar keuangan dan valuta asing yang berdampak pada stabilitas.",
+          "key_points": [
+            "Kenaikan harga properti di Seoul dan investasi saham berleverage berisiko meningkatkan utang rumah tangga.",
+            "Ketimpangan ekonomi yang meningkat dapat menjadi ancaman stabilitas finansial.",
+            "Volatilitas pasar keuangan dan valuta asing di semester pertama tahun ini memperburuk risiko stabilitas."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-24T01:57:54+00:00",
+          "summary": "Warga Damaskus menolak saran Presiden AS Donald Trump agar Suriah melawan Hizbullah di Lebanon, mengingatkan Suriah sebaiknya menghindari konflik regional baru. Trump dalam kritik langka meminta Israel membiarkan Suriah menangani Hizbullah.",
+          "key_points": [
+            "Warga Suriah menolak ajakan Trump untuk melawan Hizbullah di Lebanon.",
+            "Mereka menyarankan Suriah menghindari konflik regional baru.",
+            "Trump meminta Israel membiarkan Suriah menangani Hizbullah."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-23T16:47:45+00:00",
+          "summary": "Pasukan Israel menembak mati dua orang di selatan Lebanon, yang dikecam oleh Hezbollah sebagai pelanggaran terhadap gencatan senjata yang berlaku sejak akhir pekan lalu. Pihak Israel mengklaim bahwa dua pria tersebut adalah teroris Hezbollah yang menyeberang ke zona keamanan Israel.",
+          "key_points": [
+            "Dua orang tewas ditembak pasukan Israel di dekat bulldozer yang sedang membersihkan jalan di Nabatieh al-Fawqa, selatan Lebanon.",
+            "Hezbollah mengecam insiden tersebut sebagai pelanggaran gencatan senjata, sementara Israel mengklaim menembakkan peringatan sebelum menembak.",
+            "Insiden ini terjadi setelah gencatan senjata antara Israel dan Hezbollah berlaku sejak Senin, meski sebelumnya terjadi serangkaian serangan udara Israel yang menewaskan 83 orang."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-23T11:10:06+00:00",
+          "summary": "Komisi penyelidik PBB menyatakan Israel melakukan genosida di Gaza dengan sengaja menargetkan anak-anak Palestina, sementara pemerintah Israel menolak laporan tersebut sebagai fitnah. Laporan tersebut menyebutkan bahwa sekitar 30% dari korban tewas di Gaza adalah anak-anak, dengan lebih dari 21.000 anak tewas sejak Oktober 2023.",
+          "key_points": [
+            "Komisi PBB menyimpulkan bahwa Israel melanggar hukum internasional dengan menargetkan anak-anak Palestina melalui serangan presisi dan penggunaan senjata berdampak tinggi.",
+            "Israel menolak laporan tersebut, menyebutnya sebagai 'propaganda' dan menegaskan bahwa operasi militer mereka adalah respons terhadap serangan Hamas.",
+            "Laporan mencatat bahwa lebih dari 21.280 anak tewas di Gaza sejak Oktober 2023, dengan komisi menuduh Israel menghancurkan akses layanan kesehatan anak-anak dan menggunakan kelaparan sebagai metode perang."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Registrasi SIM Wajib Scan Wajah, Operator Minta Biaya Rp 3.000 Dihapus",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8544630/registrasi-sim-wajib-scan-wajah-operator-minta-biaya-rp-3-000-dihapus",
+          "category": "Teknologi",
+          "published_at": "2026-06-24T01:15:34+00:00",
+          "summary": "Asosiasi Penyelenggara Telekomunikasi Seluruh Indonesia (ATSI) meminta pemerintah meninjau ulang biaya validasi data biometrik berbasis face recognition sebesar Rp 3.000 per orang dalam registrasi SIM prabayar, yang akan diterapkan 1 Juli 2026. ATSI menilai biaya tersebut terlalu tinggi dibandingkan biaya riil validasi NIK/KK (Rp 60) dan face recognition (Rp 200), serta mengharapkan biaya diturunkan atau digratiskan karena registrasi SIM merupakan program pemerintah.",
+          "key_points": [
+            "ATSI meminta biaya validasi face recognition Rp 3.000 per orang diturunkan atau digratiskan karena dianggap terlalu tinggi.",
+            "Biaya riil validasi biometrik berdasarkan perhitungan ATSI jauh lebih rendah (Rp 200 untuk face recognition) dibanding tarif yang dikenakan.",
+            "Kebijakan registrasi SIM berbasis biometrik bertujuan memperkuat validitas identitas pelanggan dan mencegah penyalahgunaan nomor seluler."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Ternyata Begini Beda Efek Kafein Kopi VS Teh pada Tubuh",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8544368/ternyata-begini-beda-efek-kafein-kopi-vs-teh-pada-tubuh",
+          "category": "Kesehatan",
+          "published_at": "2026-06-24T02:02:43+00:00",
+          "summary": "Kopi dan teh mengandung kafein yang berbeda dalam jumlah dan efeknya pada tubuh. Teh mengandung L-theanine yang meredam efek stimulan kafein, memberikan fokus tanpa kecemasan, sementara kopi memberikan efek lebih kuat. Keduanya memiliki manfaat kesehatan, tetapi teh lebih cocok untuk yang sensitif terhadap kafein.",
+          "key_points": [
+            "Kandungan kafein pada teh (14-61 mg) lebih rendah daripada kopi (65-120 mg) per sajian.",
+            "L-theanine dalam teh mengurangi efek gelisah kafein dan meningkatkan konsentrasi tanpa kecemasan.",
+            "Kopi kaya antioksidan, tetapi teh lebih disarankan bagi yang sensitif terhadap kafein untuk menghindari efek jantung berdebar."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Bijak Mengonsumsi Ultra Processed Food, Tak Selalu Buruk Asal Tahu Aturannya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8544532/bijak-mengonsumsi-ultra-processed-food-tak-selalu-buruk-asal-tahu-aturannya",
+          "category": "Kesehatan",
+          "published_at": "2026-06-24T00:31:57+00:00",
+          "summary": "Artikel ini menjelaskan bahwa tidak semua ultra-processed food (UPF) buruk bagi kesehatan jika dikonsumsi secara bijak. Produk UPF seperti susu kental manis dapat aman dikonsumsi sebagai pelengkap makanan dalam porsi terbatar, selama memperhatikan kandungan gizinya dan tidak menjadi sumber nutrisi utama. Pakar menekankan pentingnya melihat pola konsumsi secara keseluruhan, bukan hanya tingkat pengolahan.",
+          "key_points": [
+            "Tidak semua UPF merugikan kesehatan; manfaat atau risikonya bergantung pada komposisi gizi dan cara konsumsi.",
+            "Susu kental manis sebagai contoh UPF yang aman dikonsumsi dalam jumlah terbatar sebagai pelengkap, bukan pengganti nutrisi utama.",
+            "Pola makan seimbang dan pembacaan label nutrisi menjadi kunci untuk mengonsumsi UPF secara bijak."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Menkes Soroti Natrium 'Tersembunyi' di Kecap, Apa Dampaknya ke Tubuh?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8544509/menkes-soroti-natrium-tersembunyi-di-kecap-apa-dampaknya-ke-tubuh",
+          "category": "Kesehatan",
+          "published_at": "2026-06-23T23:06:18+00:00",
+          "summary": "Menteri Kesehatan RI Budi Gunadi Sadikin mengingatkan bahwa kecap manis mengandung natrium tinggi, sekitar 350–500 mg per sendok makan, yang jika dikonsumsi berlebihan dapat melebihi batas harian 2.000 mg yang direkomendasikan WHO. Hal ini berisiko meningkatkan tekanan darah dan penyakit kardiovaskular. Dokter spesialis menyarankan penggunaan kecap manis secara terbatas dan memilih produk dengan kandungan natrium serta gula rendah.",
+          "key_points": [
+            "Kecap manis mengandung 350–500 mg natrium per sendok makan, yang bisa mendekati atau melampaui batas harian 2.000 mg.",
+            "Konsumsi berlebihan kecap manis berisiko meningkatkan tekanan darah dan penyakit kardiovaskular, serta gangguan metabolik seperti diabetes.",
+            "Dianjurkan menggunakan kecap manis sebagai pelengkap, bukan utama, dan memilih varian rendah natrium serta gula."
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3837
+    },
+    "timestamp": "2026-06-24T02:39:25.547944+00:00"
   }
 ]
