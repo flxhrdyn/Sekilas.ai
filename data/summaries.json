@@ -25257,5 +25257,354 @@
       "total_in_qdrant": 3906
     },
     "timestamp": "2026-06-28T02:48:45.014051+00:00"
+  },
+  {
+    "date": "2026-06-29",
+    "generated_at": "2026-06-29T02:50:16.281597+00:00",
+    "headline": "Kecelakaan pesawat skydiving di Prancis timur memicu kematian 11 orang.",
+    "global_headline": "Kecelakaan pesawat skydiving di Prancis timur memicu kematian 11 orang.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "Kecelakaan Pesawat Skydiver Prancis",
+        "title": "Kecelakaan Pesawat Skydiver Prancis",
+        "synthesis": [
+          "11 tewas dalam kecelakaan pesawat skydiving di Prancis timur.",
+          "Korban termasuk pilot, 5 instruktur, dan 5 pemula skydiving.",
+          "Pesawat jatuh dekat perumahan, hampir mengenai rumah-rumah."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kasus fatalitas massal dengan potensi investigasi nasional dan dampak kebijakan keselamatan udara.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-28T18:34:07+00:00",
+            "summary": "Sebelas orang tewas setelah pesawat sipil yang membawa skydiver jatuh di Tomblaine, timur Prancis. Pilot dan sepuluh penumpang, termasuk lima instruktur dan lima pemula, meninggal dalam kecelakaan yang sedang diselidiki. Pesawat jatuh di dekat area perumahan, hampir mengenai rumah-rumah.",
+            "key_points": [
+              "Kecelakaan pesawat terjadi di dekat bandara Nancy-Essey saat pesawat sedang mengudara, menewaskan 11 orang termasuk pilot dan skydiver.",
+              "Pesawat jatuh hampir tegak di dekat perumahan, hampir menyebabkan korban tambahan, dan menyebabkan trauma psikologis bagi keluarga korban.",
+              "Ini adalah kecelakaan pesawat pribadi paling mematikan dalam sejarah Prancis, menurut data BEA (Badan Keselamatan Penerbangan Prancis)."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Persaingan Portugal-Kroasia",
+        "title": "Persaingan Portugal-Kroasia",
+        "synthesis": [
+          "Portugal vs Kroasia bertemu di babak 32 besar Piala Dunia 2026.",
+          "Kroasia percaya bisa mengejutkan Portugal meski kalah dalam peringkat dan rekor pertemuan.",
+          "Portugal unggul 7-1 dalam 10 pertemuan sebelumnya."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Laga krusial Piala Dunia dengan potensi kejutan yang memengaruhi kebanggaan nasional dan dinamika turnamen.",
+        "external_research": [
+          {
+            "title": "Deep Research: Persaingan Portugal-Kroasia",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang persaingan Portugal-Kroasia. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Statistik Head-to-Head**: Portugal dan Kroasia telah bermain 9 pertandingan sejak 2005, dengan Portugal memenangkan 3 pertandingan, Kroasia memenangkan 3 pertandingan, dan 3 pertandingan berakhir imbang. Rata-rata gol yang dicetak oleh Portugal adalah 1.4 per pertandingan, sedangkan Kroasia mencetak 1.6 gol per pertandingan.\n2. **Pertandingan Terakhir**: Portugal bermain imbang 0-0 melawan Kolombia dalam laga Piala Dunia 2026 di Florida, Minggu (28/6). Hasil ini membuat Portugal berjumpa Kroasia di 32 besar dan berpotensi bertemu Spanyol di 16 besar.\n3. **Kebijakan Olahraga**: Pemerintah Portugal dan Kroasia memiliki kebijakan olahraga yang mendukung pembinaan olahraga prestasi sejak dini. Pemerintah memulai persiapkan bibit-bibit atlet muda sejak sekolah dan menggali potensi talenta muda yang nanti ini linear dalam kancah global.\n4. **Strategi Kebijakan Olahraga**: Strategi kebijakan olahraga yang membawa kesuksesan adalah dengan memajukan olahraga pendidikan, olahraga masyarakat, olahraga prestasi, dan olahraga rekreasi. Pemerintah harus mendukung mulai dari hulu ke hilir, dari pembinaan olahraga prestasi sejak dini hingga pembinaan atlet muda yang nanti ini linear dalam kancah global."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Modric: Portugal Tak Akan Senang Jumpa Kroasia",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8551562/modric-portugal-tak-akan-senang-jumpa-kroasia",
+            "category": "Olahraga",
+            "published_at": "2026-06-29T02:40:00+00:00",
+            "summary": "Kroasia dan Portugal akan bertemu di babak 32 besar Piala Dunia 2026 pada 3 Juli di Toronto. Meski diunggulkan, Luka Modric percaya Kroasia memiliki peluang mengejutkan Portugal, yang unggul dalam peringkat dunia dan rekor pertemuan. Kedua tim sebelumnya sudah bertemu 10 kali, dengan Portugal memimpin head-to-head 7-1.",
+            "key_points": [
+              "Pertandingan Kroasia vs Portugal dijadwalkan pada 3 Juli 2026 di BMO Field, Toronto, sebagai bagian dari babak 32 besar Piala Dunia.",
+              "Kroasia finis runner-up Grup L di bawah Inggris, sementara Portugal menempati posisi kedua Grup K di bawah Kolombia.",
+              "Luka Modric menyatakan keyakinan Kroasia mampu mengimbangi Portugal, meski Portugal unggul dalam peringkat dunia (5 vs 11) dan rekor pertemuan (7 kemenangan vs 1 kekalahan Kroasia)."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "HPV dan Risiko Kanker Serviks",
+        "title": "HPV dan Risiko Kanker Serviks",
+        "synthesis": [
+          "HPV menyebabkan kanker serviks dan 4 jenis kanker lain (vagina, vulva, anus, mulut).",
+          "Penyebaran melalui kontak seksual atau kulit, vaksinasi disarankan untuk pencegahan.",
+          "Vaksin HPV 95% efektif mencegah infeksi onkogenik dan 100% efektif mencegah prakanker serviks."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "HPV menyebabkan kanker sistemik dan vaksinasi menjadi kebijakan kesehatan krusial.",
+        "external_research": [
+          {
+            "title": "Deep Research: HPV dan Risiko Kanker Serviks",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang HPV dan risiko kanker serviks. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Vaksin HPV efektif dalam mencegah kanker serviks**: Vaksin HPV 95% efektif dalam mencegah infeksi HPV onkogenik dan 100% efektif dalam mencegah perkembangan prakanker serviks, terutama jika diberikan sebelum perempuan aktif secara seksual.\n2. **Prevalensi HPV meningkat di Indonesia**: Data historis menunjukkan jumlah kasus kanker meningkat hampir 40% dari tahun 2008 ke tahun 2022, dengan estimasi Globocan yang menunjukkan jumlah kasus kanker menurut jenis kelamin dan jenis kanker.\n3. **Program vaksinasi HPV telah diterapkan di 124 negara**: Sejak Desember 2019, sebanyak 124 negara dan wilayah telah menerapkan program imunisasi nasional untuk vaksinasi HPV, dengan tujuan mencapai cakupan sebanyak 90% pada anak perempuan usia 15 tahun di tahun 2030.\n4. **Vaksin HPV telah terbukti efektif dalam mencegah kanker serviks**: Penelitian di Belanda dan Skotlandia menunjukkan efektivitas vaksin HPV sebesar 89,9% terhadap HPV subtipe 16 dan 18."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Selain Picu Kanker Serviks, Infeksi Virus HPV Ternyata Bisa Picu 4 Kanker Ini",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8550342/selain-picu-kanker-serviks-infeksi-virus-hpv-ternyata-bisa-picu-4-kanker-ini",
+            "category": "Kesehatan",
+            "published_at": "2026-06-28T13:04:40+00:00",
+            "summary": "Infeksi virus HPV dapat menyebabkan kanker serviks serta empat jenis kanker lainnya, yaitu kanker vagina, vulva, anus, dan rongga mulut. Virus ini menyebar melalui kontak seksual atau kulit, dan vaksinasi HPV disarankan untuk memberikan perlindungan terhadap berbagai tipe virus penyebab kanker.",
+            "key_points": [
+              "HPV dapat menyebabkan kanker serviks, vagina, vulva, anus, dan rongga mulut.",
+              "Penularan HPV terjadi melalui kontak seksual vaginal, anal, oral, atau kontak kulit.",
+              "Vaksinasi HPV direkomendasikan untuk laki-laki dan perempuan sebagai perlindungan terhadap berbagai tipe virus."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Penyelamatan Korban Gempa Venezuela",
+        "title": "Penyelamatan Korban Gempa Venezuela",
+        "synthesis": [
+          "Dua bocah 11 tahun selamat dari reruntuhan gempa Venezuela setelah terjebak beberapa hari.",
+          "33 korban selamat ditemukan dalam 2 hari, waktu kritis 72 jam telah berlalu.",
+          "Ribuan orang masih hilang, harapan penyelamatan korban lain semakin menipis."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran fokus bantuan darurat ke tahap pemulihan pasca-gempa dengan risiko kemanusiaan tinggi.",
+        "external_research": [
+          {
+            "title": "Deep Research: Penyelamatan Korban Gempa Venezuela",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait penyelamatan korban gempa di Venezuela. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebijakan Pemerintah dalam Mengatasi Bencana**: Pemerintah Venezuela telah mengambil langkah-langkah mitigasi untuk mengurangi risiko bencana, seperti pembangunan infrastruktur tahan bencana, penguatan sistem peringatan dini, serta pelatihan kesiapsiagaan bagi masyarakat.\n2. **Pengembangan Sistem Peringatan Dini**: Pemerintah telah mengembangkan sistem peringatan dini berbasis teknologi, seperti deteksi gempa dan tsunami, serta aplikasi mobile yang memberikan informasi real-time kepada masyarakat.\n3. **Respon Cepat dan Koordinasi Bantuan**: Pemerintah telah meningkatkan respon cepat dan koordinasi bantuan dalam menghadapi bencana, termasuk dengan membentuk Badan Nasional Penanggulangan Bencana (BNPB) untuk mengoordinasikan strategi mitigasi di seluruh wilayah.\n4. **Data Statistik Kejadian Gempa Bumi di Venezuela**: Berdasarkan data kejadian gempa bumi di Venezuela tahun 1980 hingga 2024, sebanyak 12-15% kejadian gempa bumi dunia terjadi di wilayah Venezuela, dengan kejadian gempa bumi terbesar terjadi pada 26 Desember 2004 dengan magnitudo (M 9,1) yang memicu terjadinya tsunami dahsyat dan korban jiwa lebih dari 220.000 jiwa."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+            "category": "Internasional",
+            "published_at": "2026-06-29T01:23:32+00:00",
+            "summary": "Dua bocah laki-laki berusia 11 tahun berhasil diselamatkan dari reruntuhan gempa bumi di Venezuela, salah satunya setelah terjebak selama beberapa hari. Total 33 orang selamat ditemukan dalam dua hari pasca-gempa, meskipun harapan untuk menyelamatkan korban lain semakin menipis karena waktu kritis 72 jam telah berlalu dan ribuan orang masih hilang.",
+            "key_points": [
+              "Dua bocah laki-laki berusia 11 tahun diselamatkan dari reruntuhan gempa bumi di Venezuela, salah satunya setelah terjebak di bawah tumpukan 3 meter.",
+              "Lebih dari 1.450 orang dilaporkan tewas akibat dua gempa bumi berkekuatan 7,2 dan 7,5 yang menghancurkan hampir 800 bangunan.",
+              "Upaya penyelamatan terganjal oleh akses terbatas, hambatan pemerintah, dan ketiadaan alat berat, sementara keluarga korban mencari sendiri dengan tangan kosong."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Gejala Awal Kanker Testis",
+        "title": "Gejala Awal Kanker Testis",
+        "synthesis": [
+          "Pemeriksaan mandiri dini kanker testis efektif deteksi benjolan keras tanpa nyeri.",
+          "Tingkat kesembuhan tinggi jika kanker testis diatasi sejak stadium awal.",
+          "Epididimitis dan torsi testis memerlukan penanganan medis segera untuk mencegah komplikasi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Peningkatan kesadaran dini kanker testis berpotensi mengurangi angka kematian melalui deteksi lebih awal.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Urolog Ungkap Cara Cek Kanker di Testis, Waspadai Gejala Awal Seperti Ini",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8551451/urolog-ungkap-cara-cek-kanker-di-testis-waspadai-gejala-awal-seperti-ini",
+            "category": "Kesehatan",
+            "published_at": "2026-06-29T00:02:27+00:00",
+            "summary": "Dr. Jamin Brahmbhatt, spesialis urologi, menekankan pentingnya pemeriksaan dini kanker testis melalui pemeriksaan mandiri rutin. Ia mengingatkan bahwa benjolan keras tanpa nyeri bisa menjadi tanda kanker testis, yang memiliki tingkat kesembuhan tinggi jika dideteksi awal. Selain itu, kondisi seperti epididimitis dan torsi testis memerlukan penanganan medis segera.",
+            "key_points": [
+              "Pemeriksaan testis secara berkala membantu mengenali perubahan dini, meski tidak harus dilakukan setiap bulan.",
+              "Benjolan keras tanpa nyeri di testis merupakan tanda klasik kanker testis yang perlu segera diperiksa.",
+              "Torsi testis adalah kegawatdaruratan medis yang membutuhkan penanganan darurat untuk mencegah kerusakan permanen."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Dampak Regulasi Keamanan Pascakecelakaan Skydiving Prancis terhadap Ekonomi Wisata",
+        "analysis": "Kecelakaan pesawat skydiving di Prancis dengan korban tinggi berpotensi memicu revisi aturan keamanan pariwisata ekstrem. Ini dapat mengurangi minat wisatawan, menghambat pendapatan sektor pariwisata, dan memicu investasi di teknologi keamanan penerbangan. Dampaknya meluas ke sektor ekonomi lokal yang bergantung pada industri pariwisata, sementara pemerintah mungkin perlu mengalokasikan anggaran lebih besar untuk rehabilitasi industri."
+      },
+      {
+        "title": "Ketergantungan Venezuela pada Bantuan Internasional Pasca-Gempa dan Implikasi Geopolitik",
+        "analysis": "Penyelamatan korban gempa Venezuela yang melibatkan upaya internasional menunjukkan ketergantungan negara tersebut pada bantuan asing. Ini bisa memperkuat posisi negara donor dalam diplomasi regional, sementara krisis kemanusiaan memicu diskusi global tentang kebijakan bantuan darurat. Dalam jangka panjang, ini mungkin memengaruhi stabilitas politik Venezuela dan hubungan bilateral dengan negara-negara tetangga."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "Father and son pulled out alive four days after Venezuela earthquake",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/father-and-son-pulled-out-alive-four-days-after-venezuela-earthquake?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-29T00:41:32+00:00",
+          "summary": "Seorang ayah dan anak berhasil diselamatkan dari reruntuhan bangunan empat hari setelah gempa bumi mematikan mengguncang Venezuela. Hingga kini, 33 orang telah berhasil diselamatkan, sementara puluhan ribu lainnya masih hilang.",
+          "key_points": [
+            "Ayah dan anak diselamatkan dari reruntuhan bangunan empat hari setelah gempa.",
+            "Total 33 orang telah berhasil diselamatkan hingga saat ini.",
+            "Puluhan ribu orang masih belum ditemukan setelah bencana gempa."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/29/if-i-am-to-die-let-it-be-here-malawians-fleeing-unrest-in-south-africa?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-29T00:19:47+00:00",
+          "summary": "Ribuan warga Malawi kembali ke negara mereka setelah melarikan diri dari kekerasan anti-asing di Afrika Selatan. Banyak dari mereka kehilangan harta benda dan menghadapi kesulitan ekonomi akibat utang perjalanan serta kerugian akibat serangan. Pemerintah Malawi memfasilitasi repatriasi dengan rencana komprehensif untuk memastikan kembalinya warga secara aman dan terhormat.",
+          "key_points": [
+            "Kekerasan anti-asing di Afrika Selatan mendorong ribuan warga Malawi pulang, kebanyakan kehilangan harta dan menghadapi utang akibat perjalanan ke luar negeri.",
+            "Pemerintah Malawi memproses repatriasi warga dengan bantuan dana dari masyarakat dan rencana komprehensif untuk pemulihan.",
+            "Beberapa pengungsi mengungkapkan trauma akibat serangan malam hari serta kesulitan reintegrasi di Malawi, yang memiliki tingkat pengangguran tinggi."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-06-27T14:22:37+00:00",
+          "summary": "Gempa bumi ganda di Caracas, Venezuela, menyebabkan kerusakan parah dan kesengsaraan bagi warga, dengan banyak yang kehilangan tempat tinggal dan keluarga. Bantuan pemerintah dinilai tidak memadai, sehingga masyarakat bergantung pada bantuan sesama warga. Upaya penyelamatan terus berlangsung meski melewati batas waktu kritis 48 jam.",
+          "key_points": [
+            "Gempa bumi menghancurkan ribuan bangunan, meninggalkan korban hilang dan luka-luka, serta memicu trauma mendalam bagi warga.",
+            "Kurangnya respons efektif dari pemerintah memicu frustrasi masyarakat, yang lebih bergantung pada solidaritas antar sesama untuk bertahan.",
+            "Sistem kesehatan Venezuela yang sudah lemah sebelumnya kewalahan menangani korban gempa, dengan rumah sakit di wilayah pesisir hampir tidak mampu menampung pasien."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "Foto-foto Memukau Jawara 1839 Awards, Keindahan Warna Bikin Takjub",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8551575/foto-foto-memukau-jawara-1839-awards-keindahan-warna-bikin-takjub",
+          "category": "Hiburan",
+          "published_at": "2026-06-29T01:45:40+00:00",
+          "summary": "Artikel ini merangkum karya pemenang 1839 Awards yang menampilkan beragam tema alam dan kehidupan manusia melalui foto-foto berwarna dan penuh makna.",
+          "key_points": [
+            "Karya-karya pemenang menggambarkan interaksi antara alam dan manusia, seperti pasar terapung Myanmar dan festival api Jepang.",
+            "Foto-foto menggunakan teknik kreatif, seperti foto makro lalat yang disulam ornamen Natal dan burung di es mencair.",
+            "Beberapa karya menyoroti keindahan dan kompleksitas ekosistem, seperti migrasi rusa kutub dan ekosistem hutan Wyoming."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Australian man charged with murder after dead girl found in suitcase in Thailand",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-06-29T01:58:29+00:00",
+          "summary": "Seorang pria Australia, Simon Peter Carman, ditangkap di Bandara Bangkok setelah tubuh seorang remaja berusia 17 tahun ditemukan di dalam koper di Pattaya, Thailand. Carman menyangkal dakwaan pembunuhan dan mengklaim bertindak dalam pembelaan diri, sementara keluarga korban menyatakan kesedihan mendalam dan berharap pelaku dihukum mati.",
+          "key_points": [
+            "Tubuh Tunchanok Donhomla ditemukan dalam koper di dekat jalur kereta api, dan Carman ditangkap saat berusaha melarikan diri ke luar negeri.",
+            "Carman menyangkal tuduhan pembunuhan serta mengklaim bahwa kematian korban tidak terkait perbuatannya dan terjadi akibat perkelahian.",
+            "Keluarga korban menyatakan dukacita mendalam dan meminta pelaku dihukum mati jika terbukti bersalah."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Dutch predict Morocco clash could be a thriller but feel it comes too soon",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/dutch-predict-morocco-clash-could-be-thriller-feel-it-comes-too-soon-6217221",
+          "category": "Olahraga",
+          "published_at": "2026-06-29T02:18:46+00:00",
+          "summary": "Pelatih Belanda Ronald Koeman mengatakan pertemuan melawan Maroko di babak 32 besar Piala Dunia 2026 terjadi terlalu dini bagi kedua tim yang seharusnya mampu melangkah lebih jauh. Ia memastikan Belanda akan bermain ofensif, sementara kapten Virgil van Dijk menyoroti kekuatan pemain Maroko seperti Achraf Hakimi, Ismael Saibari, dan Brahim Diaz.",
+          "key_points": [
+            "Koeman menilai pertandingan kontra Maroko terjadi terlalu awal karena kedua tim memiliki potensi untuk melaju lebih jauh di turnamen.",
+            "Belanda berencana bermain ofensif dan yakin mampu mengatasi ancaman dari tim Maroko yang dianggap memiliki banyak talenta.",
+            "Van Dijk menyoroti kekuatan Maroko melalui pemain kunci seperti Hakimi, Saibari, dan Diaz, tetapi percaya timnya telah siap secara taktis."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Jadwal Piala Dunia 2026: Brasil Vs Jepang Malam Ini, Belanda Main Pagi",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8551560/jadwal-piala-dunia-2026-brasil-vs-jepang-malam-ini-belanda-main-pagi",
+          "category": "Olahraga",
+          "published_at": "2026-06-29T02:00:09+00:00",
+          "summary": "Piala Dunia 2026 memasuki babak 32 besar dengan jadwal pertandingan Brasil vs Jepang pada Selasa (30/6) pukul 00.00 WIB, diikuti Jerman vs Paraguay pukul 03.30 WIB, dan Belanda vs Maroko pukul 08.00 WIB. Sebelumnya, Kanada berhasil mengalahkan Afrika Selatan lewat gol di masa injury time.",
+          "key_points": [
+            "Brasil vs Jepang berlangsung pada Selasa (30/6) pukul 00.00 WIB di NRG Stadium, Houston.",
+            "Jerman vs Paraguay dijadwalkan pukul 03.30 WIB di Gillette Stadium, Foxborough.",
+            "Belanda vs Maroko dimainkan pukul 08.00 WIB tanpa disebutkan lokasi spesifik."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Tim Indonesia Cetak Sejarah Juara AVC Men's Cup, Banjir Pujian",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8551526/tim-indonesia-cetak-sejarah-juara-avc-mens-cup-banjir-pujian",
+          "category": "Olahraga",
+          "published_at": "2026-06-29T00:48:52+00:00",
+          "summary": "Tim voli putra Indonesia berhasil meraih gelar pertama di AVC Men's Volleyball Cup 2026 setelah mengalahkan Korea Selatan 3-0 di final, membalaskan kekalahan sebelumnya di fase grup. Kemenangan dramatis terjadi di set pertama yang berakhir 34-32, diikuti oleh dominasi di dua set berikutnya.",
+          "key_points": [
+            "Indonesia memperoleh gelar pertama sepanjang partisipasinya di AVC Men's Volleyball Cup 2026.",
+            "Tim Indonesia berhasil membalikkan keadaan setelah kalah dari Korea Selatan di fase grup.",
+            "Final berlangsung dramatis, terutama set pertama yang berakhir dalam pertarungan sengit hingga deuce (34-32)."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "Dollar poised for best month in nearly a year; eyes on jobs data, Gulf tension",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/dollar-poised-best-month-in-nearly-year-eyes-jobs-data-gulf-tension-6217181",
+          "category": "Ekonomi",
+          "published_at": "2026-06-29T01:50:12+00:00",
+          "summary": "Dolar AS berpotensi mencatat kenaikan bulanan terbesar dalam hampir setahun karena ketegangan di Teluk dan ekspektasi data tenaga kerja yang akan memengaruhi kebijakan suku bunga Federal Reserve. Kenaikan harga minyak akibat gangguan pengiriman di Selat Hormuz serta pelemahan mata uang utama lainnya seperti euro dan pound juga mendukung permintaan safe-haven terhadap dolar.",
+          "key_points": [
+            "Dolar AS diperkirakan mengalami kenaikan bulanan sebesar 2,5% pada Juni, yang merupakan kenaikan terbesar sejak Juli tahun lalu.",
+            "Ketegangan antara AS dan Iran serta risiko perang dagang memicu kekhawatiran investor, sementara keputusan untuk berhenti saling serang sementara waktu meninggalkan ketidakpastian.",
+            "Data tenaga kerja AS yang akan dirilis pekan ini menjadi fokus utama pasar untuk mengevaluasi prospek kenaikan suku bunga Federal Reserve."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "A residence positioned for Lentor’s next phase of growth",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/residence-positioned-lentors-next-phase-growth-6212521",
+          "category": "Ekonomi",
+          "published_at": "2026-06-29T01:45:26+00:00",
+          "summary": "Lentor Gardens Residences, proyek ketujuh di kawasan Lentor Hills, melengkapi transformasi kawasan yang berubah dari hutan sekunder menjadi kawasan hunian pribadi dengan fasilitas modern. Kawasan ini didukung oleh infrastruktur transportasi seperti MRT Thomson-East Coast Line dan rencana proyek infrastruktur masa depan, serta akses ke fasilitas pendidikan dan rekreasi.",
+          "key_points": [
+            "Lentor Hills bertransformasi dari lahan hijau menjadi kawasan hunian pribadi dengan sejumlah proyek perumahan sejak 2022.",
+            "Lentor Gardens Residences meluncur sebagai proyek ketujuh, menawarkan 499 unit apartemen dan rumah teras strata.",
+            "Kawasan ini memiliki konektivitas transportasi yang baik, termasuk akses MRT, rencana North-South Corridor, dan Johor Bahru-Singapore Rapid Transit System (RTS) Link."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3899
+    },
+    "timestamp": "2026-06-29T02:50:16.281604+00:00"
   }
 ]
