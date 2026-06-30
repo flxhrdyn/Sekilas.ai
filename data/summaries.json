@@ -25606,5 +25606,354 @@
       "total_in_qdrant": 3899
     },
     "timestamp": "2026-06-29T02:50:16.281604+00:00"
+  },
+  {
+    "date": "2026-06-30",
+    "generated_at": "2026-06-30T02:43:44.964145+00:00",
+    "headline": "Paraguay mengalahkan Jerman dalam babak 32 besar Piala Dunia 2026 via adu penalti, mengakhiri dominasi tim nasional Jerman di fase grup.",
+    "global_headline": "Paraguay mengalahkan Jerman dalam babak 32 besar Piala Dunia 2026 via adu penalti, mengakhiri dominasi tim nasional Jerman di fase grup.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Paraguay mengalahkan Jerman di Piala Dunia melalui adu penalti.",
+          "Pelatih Alfaro puji strategi efektif menghadang Jerman.",
+          "Paraguay lolos ke babak 16 besar, potensi hadapi Prancis."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kemenangan mengejutkan melawan tim kuat Jerman mengubah dinamika turnamen Piala Dunia.",
+        "external_research": [
+          {
+            "title": "Deep Research: Paraguay coach salutes ‘extraordinary’ World Cup win over Germany",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Paraguay coach salutes ‘extraordinary’ World Cup win over Germany\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Paraguay berhasil mengalahkan Jerman di Piala Dunia**: Paraguay menunjukkan kinerja luar biasa dengan mengalahkan Jerman di Piala Dunia, yang merupakan salah satu tim kuat di dunia.\n2. **Gustavo Alfaro menjadi katalis perubahan**: Pelatih Paraguay, Gustavo Alfaro, dianggap sebagai katalis perubahan yang membantu tim mencapai kemenangan luar biasa tersebut.\n3. **Paraguay menunjukkan kemampuan defensif yang kuat**: Paraguay berhasil mengubah defensif mereka menjadi \"dinding yang tidak dapat ditembus\" di bawah kepemimpinan Alfaro, yang membantu mereka mencapai kemenangan tersebut.\n4. **Kemenangan Paraguay menunjukkan tren geografis yang jarang terjadi**: Kemenangan Paraguay menunjukkan bahwa tim dapat menjuarai Piala Dunia di luar benua mereka sendiri, yang merupakan tren geografis yang jarang terjadi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Paraguay coach salutes ‘extraordinary’ World Cup win over Germany",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/sports/2026/6/30/paraguay-coach-salutes-extraordinary-world-cup-win-over-germany?traffic_source=rss",
+            "category": "Olahraga",
+            "published_at": "2026-06-30T02:18:23+00:00",
+            "summary": "Paraguay mengalahkan Jerman dalam babak adu penalti 4-3 setelah imbang 1-1 di babak tambahan dalam pertandingan World Cup, dengan pelatih Gustavo Alfaro memuji kinerja tim yang efektif menghadang permainan Jerman. Kemenangan ini membawa Paraguay ke babak 16 besar dan berpotensi menghadapi Prancis di babak berikutnya.",
+            "key_points": [
+              "Paraguay menang melalui adu penalti setelah skor 1-1 di waktu tambahan, dengan kiper Orlando Gill membuat dua penyelamatan krusial.",
+              "Pelatih Gustavo Alfaro menyebut tim berhasil menjalankan rencana pertandingan dengan baik untuk menghambat dominasi Jerman.",
+              "Kemenangan ini menjadi kemenangan kedua Paraguay di babak gugur Piala Dunia, dengan peluang melawan Prancis sebagai tim favorit turnamen."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Jerman tampil dominan di fase grup Piala Dunia 2026 dengan 10 gol, tapi kalah di babak 32 besar melawan Paraguay via adu penalti.",
+          "Kekalahan ini mengejutkan karena performa meyakinkan di awal turnamen.",
+          "Hasil ini mengakhiri perjalanan Jerman di Piala Dunia 2026 lebih awal dari ekspektasi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Kekalahan mengejutkan Jerman mengganggu ekspektasi publik dan memengaruhi peringkat FIFA.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ironi Jerman: Galak di Fase Grup, Langsung Keok di Babak Gugur",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8553157/ironi-jerman-galak-di-fase-grup-langsung-keok-di-babak-gugur",
+            "category": "Olahraga",
+            "published_at": "2026-06-30T01:31:40+00:00",
+            "summary": "Jerman tampil dominan di fase grup Piala Dunia 2026 dengan mencetak 10 gol, namun gagal melanjutkan perjalanan setelah dikalahkan Paraguay melalui adu penalti di babak 32 besar. Kekalahan ini dianggap ironis mengingat performa mereka yang meyakinkan di awal turnamen.",
+            "key_points": [
+              "Jerman mencetak 10 gol di fase grup, sama dengan Belanda dan Prancis, termasuk kemenangan 7-1 atas Curacao.",
+              "Jerman kalah 1-1 dalam waktu normal dan 3-4 di adu penalti melawan Paraguay di babak 32 besar.",
+              "Paraguay lolos ke babak 16 besar sebagai peringkat tiga terbaik dengan hanya 4 poin di grupnya."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "PCF merayakan 40 tahun layanan pendidikan dan perawatan lansia di Singapura.",
+          "Program DS-Plus dan Transport Kaki dukung kelompok rentan secara berkelanjutan.",
+          "Inisiatif adaptif PCF responsif terhadap kebutuhan sosial masyarakat Singapura."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Program sosial berkelanjutan memperkuat ketahanan komunitas dan kebijakan inklusi.",
+        "external_research": [
+          {
+            "title": "Deep Research: PCF’s birthday letter to Singapore: 40 years of empowering dreams",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Singapura. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Perekonomian Singapura**: Singapura memiliki kontributor utama perekonomian yang kuat dari sektor pariwisata, dengan lebih dari 10 juta wisatawan yang berkunjung setiap tahunnya. Negara ini juga dikenal sebagai pusat transit untuk perjalanan antara Asia Timur, Oseania, Eropa, Afrika, dan Timur Tengah.\n2. **Pertumbuhan Ekonomi**: Singapura telah berhasil membangun ekonominya menjadi negara maju dalam waktu relatif singkat sejak kemerdekaannya pada tahun 1965. Negara ini telah melakukan empat tahapan pembangunan ekonomi, yaitu industrialisasi ekspor, restrukturisasi industri, pengembangan sektor jasa, dan pengembangan ekonomi berbasis pengetahuan.\n3. **Kebijakan Energi**: Pemerintah Singapura berkomitmen untuk mengurangi emisi GRK-nya baik dalam jangka pendek maupun jangka panjang. Negara ini juga berencana untuk meningkatkan ketersediaan informasi bagi rumah tangga untuk membantu membuat pilihan yang terinformasikan tentang penggunaan energi.\n4. **Pendidikan**: Pemerintah Singapura memiliki fokus dalam membangun masyarakat melalui pendidikan. Negara ini memiliki beragam program pendidikan yang bertujuan untuk mengkonstruksi identitas masyarakat Singapura dan meningkatkan kesadaran masyarakat tentang pentingnya pendidikan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "PCF’s birthday letter to Singapore: 40 years of empowering dreams",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/brand-studio/pcfs-birthday-letter-singapore-40-years-empowering-dreams-6214986",
+            "category": "Umum",
+            "published_at": "2026-06-30T01:45:28+00:00",
+            "summary": "PAP Community Foundation (PCF) merayakan ulang tahun ke-40 dengan terus mendukung berbagai kelompok usia di Singapura melalui layanan pendidikan awal dan perawatan lansia. Program seperti DS-Plus membantu anak-anak dengan keterlambatan perkembangan, sementara inisiatif seperti Transport Kaki mendukung lansia dalam tetap aktif. PCF menekankan pentingnya adaptasi terhadap kebutuhan masyarakat yang berubah.",
+            "key_points": [
+              "PCF menyediakan program DS-Plus untuk anak-anak dengan keterlambatan perkembangan melalui pendekatan bermain dan kolaborasi dengan orang tua.",
+              "PCF Sparkle Care mengembangkan program perawatan lansia yang inovatif, termasuk Transport Kaki untuk memfasilitasi mobilitas dan interaksi sosial.",
+              "Ulang tahun ke-40 PCF menekankan komitmen organisasi dalam mendukung mimpi masyarakat Singapura melalui pendidikan dan layanan inklusif."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Obesitas anak 5-12 tahun di Indonesia mencapai 19,7%",
+          "BPOM luncurkan program 'Gebyar SAPA Sekolah' untuk budaya pangan sehat",
+          "Fokus pada perubahan pola konsumsi pangan di lingkungan pendidikan"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Inisiatif kebijakan kesehatan nasional dengan fokus jangka panjang pada perilaku konsumsi anak.",
+        "external_research": [
+          {
+            "title": "Deep Research: Anak-anak Rentan Obesitas, BPOM Dorong Budaya Pangan Aman di Sekolah",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Anak-anak Rentan Obesitas, BPOM Dorong Budaya Pangan Aman di Sekolah\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **BPOM Dorong Budaya Pangan Aman di Sekolah**: Kepala BPOM menegaskan bahwa pangan yang aman merupakan fondasi utama dalam mewujudkan masyarakat yang sehat, produktif, dan berdaya saing. BPOM terus memperkuat sistem pengawasan pangan dari hulu hingga hilir melalui penguatan regulasi, edukasi, pendampingan, serta pelayanan publik yang semakin inklusif dan responsif terhadap kebutuhan masyarakat.\n2. **Dampak Pangan Jajanan terhadap Kesehatan Anak**: Pangan jajanan dapat menjadi sumber masalah kesehatan jika diproduksi, disimpan, dan didistribusikan tidak sesuai dengan standar keamanan pangan. Hasil uji BPOM pada Januari - Agustus 2014 menyebutkan bahwa hampir sepertiga jajanan anak sekolah di 23.500 Sekolah Dasar tidak memenuhi standar keamanan pangan.\n3. **Faktor yang Mempengaruhi Keberhasilan Implementasi Kebijakan**: Faktor komunikasi, sumberdaya, dan lain-lain mempengaruhi keberhasilan implementasi kebijakan tentang program nasional keamanan pangan jajanan anak sekolah.\n4. **Pentingnya Akses terhadap Layanan Publik**: Pengalokasian anggaran dalam kebijakan ekonomi juga berdampak pada akses masyarakat terhadap layanan publik seperti pendidikan, kesehatan, dan infrastruktur, yang dapat meningkatkan kesejahteraan dengan meningkatkan kualitas hidup dan kesempatan ekonomi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Anak-anak Rentan Obesitas, BPOM Dorong Budaya Pangan Aman di Sekolah",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8553159/anak-anak-rentan-obesitas-bpom-dorong-budaya-pangan-aman-di-sekolah",
+            "category": "Kesehatan",
+            "published_at": "2026-06-30T01:33:17+00:00",
+            "summary": "BPOM RI mengkhawatirkan tingginya angka obesitas pada anak usia 5-12 tahun di Indonesia (19,7%) akibat pola konsumsi pangan tidak seimbang. Untuk mengatasi ini, BPOM meluncurkan program 'Gebyar SAPA Sekolah' yang bertujuan menanamkan budaya pangan aman dan sehat di lingkungan pendidikan.",
+            "key_points": [
+              "Prevalensi overweight dan obesitas pada anak Indonesia mencapai 19,7% berdasarkan data Survei Kesehatan Indonesia.",
+              "BPOM mendorong edukasi pemilihan jajanan sehat, penataan higiene kantin, dan integrasi materi keamanan pangan dalam kurikulum sekolah.",
+              "Program Gebyar SAPA Sekolah bertujuan menciptakan ekosistem sekolah yang mendukung perilaku konsumsi pangan sehat untuk mencegah penyakit tidak menular di usia muda."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Kafein dalam kopi bersifat diuretik, meningkatkan frekuensi buang air kecil.",
+          "Teh hijau dan cokelat juga mengandung kafein yang bisa mengiritasi kandung kemih.",
+          "Dokter menyarankan konsumsi kafein secara bijak sesuai kondisi tubuh."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Informasi kesehatan umum tanpa efek sistemik.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Jadi Lebih Sering Pipis usai Ngopi, Normal Nggak Sih?",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8552844/jadi-lebih-sering-pipis-usai-ngopi-normal-nggak-sih",
+            "category": "Kesehatan",
+            "published_at": "2026-06-29T22:05:57+00:00",
+            "summary": "Kopi mengandung kafein yang bersifat diuretik, sehingga dapat meningkatkan frekuensi buang air kecil. Selain kopi, minuman dan makanan lain yang mengandung kafein seperti teh hijau dan cokelat juga berpotensi mengiritasi kandung kemih. Dokter menyarankan untuk mengonsumsi kafein secara bijak sesuai kondisi tubuh masing-masing.",
+            "key_points": [
+              "Kafein dalam kopi bersifat diuretik dan dapat meningkatkan produksi urine.",
+              "Kopi serta makanan/minuman berkafein lainnya bisa mengiritasi kandung kemih, menyebabkan rasa ingin pipis meski urine belum banyak.",
+              "Disarankan mengatur konsumsi kafein sesuai sensitivitas tubuh untuk menghindari efek samping."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Kemenangan Paraguay atas Jerman Memicu Dinamika Geopolitik dan Ekonomi",
+        "analysis": "Kemenangan Paraguay atas Jerman di Piala Dunia melalui adu penalti, meski bersifat sementara, dapat memicu pergeseran diplomatis antara kedua negara. Paraguay, sebagai negara kecil dengan kemenangan mengejutkan, mungkin memanfaatkan momen ini untuk memperkuat hubungan bilateral dengan Jerman, terutama dalam sektor pendidikan atau teknologi. Di sisi lain, kekalahan Jerman yang dominan di fase grup tetapi kalah di babak 32 besar menunjukkan kelemahan taktis yang bisa memicu evaluasi kebijakan olahraga Jerman, termasuk investasi dalam pelatihan pemain muda atau kolaborasi dengan negara-negara dengan sistem pendidikan olahraga unggul seperti Singapura. Hal ini menciptakan keterkaitan antara hasil olahraga, kebijakan internasional, dan sektor pendidikan."
+      },
+      {
+        "title": "Model Pendidikan Singapura (PCF) Sebagai Referensi untuk Kesehatan Publik di Indonesia",
+        "analysis": "Perayaan 40 tahun layanan pendidikan dan perawatan lansia oleh PCF di Singapura menunjukkan keberhasilan integrasi sistem pendidikan dengan kesehatan masyarakat. Model ini bisa menjadi acuan bagi Indonesia dalam mengatasi krisis obesitas anak (19,7%) melalui pendekatan edukasi berbasis komunitas. PCF menekankan pendidikan holistik yang melibatkan keluarga dan lingkungan, prinsip yang bisa diadaptasi untuk kampanye kesehatan di Indonesia. Selain itu, keberhasilan Singapura dalam mengelola kesehatan lansia juga menunjukkan pentingnya kolaborasi lintas sektor antara pemerintah, sektor swasta, dan organisasi masyarakat, yang relevan dengan tantangan kesehatan di Indonesia."
+      }
+    ],
+    "other_news": {
+      "Kesehatan": [
+        {
+          "title": "Berawal dari Flu, Remaja 14 Tahun Ini Kehilangan Tangan dan Kedua Kakinya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8553204/berawal-dari-flu-remaja-14-tahun-ini-kehilangan-tangan-dan-kedua-kakinya",
+          "category": "Kesehatan",
+          "published_at": "2026-06-30T02:12:11+00:00",
+          "summary": "Kaydin Baldwin, seorang remaja berusia 14 tahun dari Texas, mengalami komplikasi berat setelah tertular flu, termasuk pneumonia streptokokus, sepsis, dan pneumonia nekrotik, yang menyebabkan kehilangan tangan kanan dan kedua kakinya. Ia dirawat di rumah sakit selama lebih dari 100 hari dan menjalani amputasi untuk menyelamatkan nyawanya. Keluarganya kini menggalang dana untuk membeli mobil van yang dapat mengakomodasi kursi roda.",
+          "key_points": [
+            "Flu yang dialami Kaydin memicu komplikasi seperti pneumonia streptokokus, sepsis, dan pneumonia nekrotik yang mengancam nyawa.",
+            "Kaydin menjalani amputasi tangan kanan dan kedua kaki setelah mengalami gagal organ multipel dan henti jantung.",
+            "Keluarga Kaydin mengumpulkan dana untuk membeli mobil van yang ramah kursi roda, dengan dukungan masyarakat yang besar."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Piala Dunia 2026: Malangnya Tah!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8553124/piala-dunia-2026-malangnya-tah",
+          "category": "Olahraga",
+          "published_at": "2026-06-30T01:00:51+00:00",
+          "summary": "Jerman kalah dari Paraguay dalam adu penalti 4-3 pada laga Piala Dunia 2026 setelah pertandingan berakhir imbang 1-1 hingga extra time. Jonathan Tah mengalami nasib buruk dengan golnya yang dianulir VAR dan gagal menyarikan Jerman di babak penalti.",
+          "key_points": [
+            "Pertandingan Jerman vs Paraguay berakhir 1-1 hingga extra time dan dilanjutkan ke adu penalti.",
+            "Gol Jonathan Tah di menit ke-102 dianulir VAR karena pelanggaran kiper oleh rekan setimnya.",
+            "Jerman kalah 3-4 dalam adu penalti setelah Tah gagal menyarikan timnya sebagai penembak tambahan."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Samurai Blue Dipuji Netizen Meski Tersingkir dari Piala Dunia 2026",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8553132/samurai-blue-dipuji-netizen-meski-tersingkir-dari-piala-dunia-2026",
+          "category": "Olahraga",
+          "published_at": "2026-06-30T00:56:32+00:00",
+          "summary": "Timnas Jepang (Samurai Blue) tersingkir dari Piala Dunia 2026 setelah kalah 1-2 dari Brasil, namun penampilan mereka mendapat apresiasi dari netizen atas disiplin, perlawanan sengit, dan kemampuan bersaing dengan tim elit dunia.",
+          "key_points": [
+            "Jepang kalah dari Brasil 1-2 di babak 32 besar Piala Dunia 2026.",
+            "Netizen memuji perjuangan Samurai Blue atas disiplin dan perlawanan sengit sepanjang pertandingan.",
+            "Timnas Jepang dianggap sebagai kekuatan sepak bola Asia yang konsisten di panggung dunia."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Jerman Tersingkir, Rekor Adu Penaltinya Dihentikan Paraguay",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8553111/jerman-tersingkir-rekor-adu-penaltinya-dihentikan-paraguay",
+          "category": "Olahraga",
+          "published_at": "2026-06-30T00:22:00+00:00",
+          "summary": "Jerman tersingkir dari Piala Dunia 2026 setelah kalah dalam adu penalti melawan Paraguay. Rekor tak terkalahkan Jerman di babak tos-tosan selama empat edisi Piala Dunia pun berakhir. Paraguay melaju ke babak 16 besar.",
+          "key_points": [
+            "Jerman kalah 3-4 dalam adu penalti melawan Paraguay di babak 32 besar Piala Dunia 2026.",
+            "Rekor Jerman yang selama ini tak terkalahkan dalam adu penalti (4 kali menang) berakhir setelah tiga penendang gagal menyarangkan bola.",
+            "Paraguay berhasil melaju ke babak 16 besar setelah mengalahkan Jerman."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Thousands from Philippine sect protest pro-Duterte senator's looming arrest",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/philippines-senator-marcoleta-duterte-protest-arrest-6220306",
+          "category": "Politik",
+          "published_at": "2026-06-30T02:14:00+00:00",
+          "summary": "Ribuan anggota Iglesia Ni Cristo (INC) menggelar aksi protes di Manila, Filipina, menentang rencana penangkapan Senator Rodante Marcoleta terkait dana kampanye yang tidak dilaporkan sebesar 75 juta peso. Aksi ini terjadi menjelang persidangan impeachment terhadap Wakil Presiden tergugat Sara Duterte, di mana Marcoleta dianggap akan menjadi suara penting.",
+          "key_points": [
+            "Senator Rodante Marcoleta, anggota INC dan sekutu Sara Duterte, akan dikenai dakwaan korupsi terkait dana kampanye tak terungkap senilai 75 juta peso.",
+            "Aksi protes di Manila disertai kemacetan parah dan dihadiri sekitar 8.000 peserta, dengan ancaman peningkatan jumlah peserta.",
+            "Marcoleta dianggap sebagai suara kunci dalam persidangan impeachment Sara Duterte, yang akan dimulai 6 Juli 2025."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Keiko Fujimori leads in Peruvian presidential race as vote count concludes",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/6/30/keiko-fujimori-leads-in-peruvian-presidential-race-as-vote-count-concludes?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-06-30T00:28:43+00:00",
+          "summary": "Keiko Fujimori memimpin perolehan suara dalam pemilihan presiden Peru dengan selisih tipis 50,13% versus 49,86% dari rivalnya Roberto Sánchez, meski hasil ini belum diakui secara resmi oleh Sánchez yang menuding adanya kecurangan. Proses penghitungan suara yang berlangsung selama berminggu-minggu diwarnai ketegangan politik yang berpotensi memperpanjang krisis stabilitas negara.",
+          "key_points": [
+            "Keiko Fujimori unggul dalam pemilihan presiden Peru dengan selisih 0,27 persen dari Roberto Sánchez.",
+            "Roberto Sánchez menolak mengakui hasil pemilu, mengklaim adanya kecurangan tanpa bukti konkret.",
+            "Krisis politik Peru berlanjut dengan pergantian sembilan presiden dalam sepuluh tahun terakhir."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Steam Machine Valve Diburu Penimbun, Harganya tembus Rp 50 Jutaan",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8553201/steam-machine-valve-diburu-penimbun-harganya-tembus-rp-50-jutaan",
+          "category": "Teknologi",
+          "published_at": "2026-06-30T02:07:52+00:00",
+          "summary": "Steam Machine Valve menghadapi keterbatasan pasokan dan harga jual yang melonjak hingga Rp 53 juta di pasar gelap, meski harga resminya hanya Rp 17,2 juta. Komunitas pengguna juga aktif menciptakan modifikasi inovatif pada Steam Controller, sementara Valve mengakui kesulitan menekan harga akibat kenaikan biaya komponen dan tekanan rantai pasok.",
+          "key_points": [
+            "Harga Steam Machine melonjak hingga Rp 53 juta di eBay karena keterbatasan pasokan dan aksi penimbun.",
+            "Komunitas pengguna mengembangkan modifikasi kreatif untuk Steam Controller.",
+            "Valve kesulitan menurunkan harga akibat kenaikan biaya komponen dan kebijakan harga memori Micron."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Unboxing Poco Pad C1, Tablet Rp 2,2 Juta Pas untuk Belajar dan Hiburan",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8553082/unboxing-poco-pad-c1-tablet-rp-2-2-juta-pas-untuk-belajar-dan-hiburan",
+          "category": "Teknologi",
+          "published_at": "2026-06-29T23:49:18+00:00",
+          "summary": "Poco Pad C1 adalah tablet 9,7 inci dengan layar 2K dan refresh rate 120Hz, dijual dengan harga Rp 2,2 juta selama periode promo hingga 7 Juli 2026. Tablet ini ditenagai Snapdragon 6s 4G Gen 2, RAM 4 GB, dan baterai 7.600 mAh yang mendukung fast charging 18W serta reverse charging 10W.",
+          "key_points": [
+            "Layar 9,7 inci dengan resolusi 2K, refresh rate 120Hz, dan kecerahan hingga 600 nits.",
+            "Menggunakan Xiaomi HyperOS 3 dengan fitur konektivitas antarperangkat Poco/Xiaomi.",
+            "Baterai 7.600 mAh dengan fast charging 18W dan reverse charging 10W."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "WhatsApp Umumkan Fitur Username, Bisa Reservasi dari Sekarang",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/mobile-apps/d-8553074/whatsapp-umumkan-fitur-username-bisa-reservasi-dari-sekarang",
+          "category": "Teknologi",
+          "published_at": "2026-06-29T23:13:56+00:00",
+          "summary": "WhatsApp memperkenalkan fitur username yang memungkinkan pengguna mengirim pesan tanpa berbagi nomor telepon, dengan reservasi username mulai pekan ini dan peluncuran penuh di akhir tahun. Fitur ini bertujuan memberikan kontrol lebih atas privasi pengguna.",
+          "key_points": [
+            "Username WhatsApp memungkinkan komunikasi tanpa membagikan nomor telepon.",
+            "Reservasi username dapat dilakukan mulai pekan ini, dengan peluncuran bertahap hingga akhir tahun.",
+            "Pengguna dapat menggunakan kode empat digit opsional untuk mengontrol siapa yang dapat menghubungi mereka melalui username."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Bendera Arab Saudi Diperlakukan Istimewa di Pesta Bola Dunia, Ini Sebabnya",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/serba-serbi/d-8552888/bendera-arab-saudi-diperlakukan-istimewa-di-pesta-bola-dunia-ini-sebabnya",
+          "category": "Internasional",
+          "published_at": "2026-06-30T01:31:41+00:00",
+          "summary": "Bendera Arab Saudi tidak dibentangkan secara horizontal di lapangan pada Pesta Bola Dunia 2026 karena mengandung kalimat syahadat yang dihormati secara religius. Perlakuan khusus ini bertujuan menjaga kesucian simbol nasional tersebut dari risiko terinjak atau terlipat, serta menunjukkan penghormatan terhadap nilai budaya dan agama Arab Saudi.",
+          "key_points": [
+            "Bendera Arab Saudi memuat kalimat syahadat yang memiliki makna religius penting dalam Islam.",
+            "Bendera ditempatkan di area khusus untuk menghindari kontak dengan tanah atau posisi yang dianggap kurang pantas.",
+            "Penyelenggara memberikan perlakuan istimewa sebagai bentuk penghormatan terhadap nilai agama dan budaya Arab Saudi."
+          ],
+          "cluster_id": 8
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3864
+    },
+    "timestamp": "2026-06-30T02:43:44.964151+00:00"
   }
 ]
