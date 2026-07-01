@@ -25955,5 +25955,356 @@
       "total_in_qdrant": 3864
     },
     "timestamp": "2026-06-30T02:43:44.964151+00:00"
+  },
+  {
+    "date": "2026-07-01",
+    "generated_at": "2026-07-01T02:50:11.277663+00:00",
+    "headline": "Mahkamah Agung AS mempertahankan hak kewarganegaraan kelahiran memicu kekalahan hukum Trump di AS.",
+    "global_headline": "Mahkamah Agung AS mempertahankan hak kewarganegaraan kelahiran memicu kekalahan hukum Trump di AS.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Pertahankan Hak Kelahiran Di Mahkamah Agung AS",
+        "title": "Pertahankan Hak Kelahiran Di Mahkamah Agung AS",
+        "synthesis": [
+          "Mahkamah Agung AS mempertahankan hak kewarganegaraan kelahiran.",
+          "Keputusan 6-3 menolak upaya Trump melalui perintah eksekutif.",
+          "Kekalahan besar bagi agenda imigrasi Trump."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Mengubah kebijakan imigrasi nasional dan menetapkan preseden hukum jangka panjang.",
+        "external_research": [
+          {
+            "title": "Deep Research: Pertahankan Hak Kelahiran Di Mahkamah Agung AS",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Pertahankan Hak Kelahiran Di Mahkamah Agung AS\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Keputusan Mahkamah Agung AS**: Mahkamah Agung AS telah mengeluarkan keputusan yang menegaskan hak kewarganegaraan kelahiran, dengan merujuk pada keputusan penting United States v Wong Kim Ark pada 1898.\n2. **Pengamat Hukum**: Para pengamat hukum dan pakar perdagangan menilai reaksi keras Trump tidaklah mengejutkan, mengingat besarnya kepentingan politik dan ekonominya dalam kasus ini.\n3. **Kemenangan bagi Supremasi Hukum**: Colin Grabow, pakar perdagangan di Cato Institute, mengatakan bahwa keputusan tersebut mewakili \"kemenangan bagi supremasi hukum... Namun, sangat disayangkan bahwa ia menyerang para hakim ini.\"\n4. **Reaksi Pasar**: Pascaputusan MA itu, saham di bursa Wall Street menguat, dengan indeks S&P 500 ditutup naik sekitar 0,7%."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-06-30T18:28:41+00:00",
+            "summary": "Mahkamah Agung AS mempertahankan hak kewarganegaraan berdasarkan kelahiran di AS, menolak upaya Presiden Trump untuk mengakhiri kebijakan yang berusia 150 tahun tersebut melalui perintah eksekutif. Keputusan 6-3 menyatakan bahwa anak-anak yang lahir di AS, termasuk dari orang tua yang tinggal secara ilegal atau sementara, adalah warga negara sejak lahir sesuai Amendemen ke-14. Keputusan ini dianggap sebagai kekalahan besar bagi agenda imigrasi Trump.",
+            "key_points": [
+              "Mahkamah Agung AS mempertahankan hak kewarganegaraan berdasarkan kelahiran di AS dengan keputusan 6-3, berdasarkan Amendemen ke-14 Konstitusi.",
+              "Upaya Presiden Trump untuk membatasi hak tersebut melalui perintah eksekutif ditolak, dianggap sebagai kekalahan bagi agenda imigrasi Trump.",
+              "Putusan tersebut menegaskan bahwa semua anak yang lahir di AS, termasuk dari orang tua yang tinggal secara ilegal atau sementara, adalah warga negara sejak lahir."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Kekalahan Berat Trump Di Mahkamah Agung AS",
+        "title": "Kekalahan Berat Trump Di Mahkamah Agung AS",
+        "synthesis": [
+          "MA AS menolak klaim Trump soal kewarganegaraan berdasarkan tempat lahir.",
+          "Kekuasaan eksekutif Trump diperluas untuk mengganti anggota lembaga federal.",
+          "Putusan MA memicu polarisasi politik dan ketidakpastian hukum di AS."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik terhadap kebijakan imigrasi dan kewenangan eksekutif.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kekalahan Berat Trump Di Mahkamah Agung AS",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel tentang kekalahan berat Trump di Mahkamah Agung AS. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Reaksi Trump tidak mengejutkan**: Para pengamat hukum dan pakar perdagangan menilai reaksi keras Trump tidak mengejutkan, mengingat besarnya kepentingan politik dan ekonominya dalam kasus ini.\n2. **Saham di bursa Wall Street menguat**: Pascaputusan MA, saham di bursa Wall Street menguat, dengan indeks S&P 500 ditutup naik sekitar 0,7%.\n3. **Putusan MA merupakan preseden penting**: Putusan ini merupakan preseden penting dalam perlindungan hak-hak masyarakat untuk berpartisipasi aktif dalam menjaga lingkungan tanpa takut dihukum atau ditekan oleh pihak yang lebih kuat.\n4. **Komitmen progresif dari pengadilan**: Putusan ini menunjukkan komitmen progresif dari pengadilan dalam menegakkan keadilan ekologis dengan mengedepankan prinsip perlindungan terhadap partisipasi masyarakat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-06-30T22:29:47+00:00",
+            "summary": "Mahkamah Agung AS memberi kekalahan bagi Trump terkait kewarganegaraan berdasarkan tempat lahir dan beberapa kebijakan imigrasi, namun secara bersamaan memperluas kekuasaan eksekutifnya, memungkinkan presiden mengganti anggota lembaga federal yang dianggap 'independen'.",
+            "key_points": [
+              "Mahkamah Agung menolak usulan Trump untuk mengakhiri kewarganegaraan otomatis bagi anak-anak imigran ilegal atau pengunjung sementara.",
+              "Mayoritas konservatif Mahkamah Agung memperluas kekuasaan presiden dengan memungkinkan penggantian anggota lembaga federal berdasarkan perbedaan kebijakan.",
+              "Putusan Mahkamah Agung secara bertolak belakang membatasi beberapa kebijakan ambisius Trump (seperti tarif dan penggunaan pasukan nasional) sambil mendukung ekspansi kekuasaan eksekutif di bidang imigrasi."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Haaland vs Gabriel: Norwegia Lawan Brasil",
+        "title": "Haaland vs Gabriel: Norwegia Lawan Brasil",
+        "synthesis": [
+          "Norwegia lolos 16 besar Piala Dunia 2026 berkat gol Haaland.",
+          "Norwegia akan bertemu Brasil di fase gugur Piala Dunia 2026.",
+          "Duel Haaland vs Gabriel jadi fokus publik di laga Norwegia vs Brasil."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pertandingan fase gugur Piala Dunia berpotensi mengubah jalannya turnamen dan reputasi tim.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Haaland vs Gabriel! Netizen Tak Sabar Norwegia Lawan Brasil",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8554660/haaland-vs-gabriel-netizen-tak-sabar-norwegia-lawan-brasil",
+            "category": "Olahraga",
+            "published_at": "2026-07-01T00:45:25+00:00",
+            "summary": "Erling Haaland memastikan Norwegia melangkah ke babak 16 besar Piala Dunia 2026 setelah mencetak gol krusial melawan Pantai Gading. Kini, Norwegia akan menghadapi Brasil di fase gugur, dengan duel antara Haaland dan bek Arsenal Gabriel Magalhaes yang menjadi sorotan publik.",
+            "key_points": [
+              "Haaland mencetak gol dalam tiga pertandingan pertamanya di Piala Dunia, rekor pertama dalam 72 tahun terakhir.",
+              "Norwegia menang 2-1 atas Pantai Gading dan melaju ke babak 16 besar Piala Dunia 2026.",
+              "Duel Haaland vs Gabriel Magalhaes di laga melawan Brasil menjadi perhatian utama setelah keduanya sering bertemu di Liga Inggris."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Pengiriman Hangat Iran Dari Piala Dunia",
+        "title": "Pengiriman Hangat Iran Dari Piala Dunia",
+        "synthesis": [
+          "Tim Iran diberi dukungan hangat oleh fans Meksiko di Piala Dunia.",
+          "Penggemar Meksiko mengumpulkan tanda tangan sebagai solidaritas.",
+          "Pelatih Iran menyatakan ikatan kedua negara tercatat dalam sejarah."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Meningkatkan hubungan bilateral melalui diplomasi olahraga.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Iran leaves World Cup with warm send-off from Mexican fans",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss",
+            "category": "Olahraga",
+            "published_at": "2026-07-01T01:18:09+00:00",
+            "summary": "Tim sepak bola Iran diberi penghormatan hangat oleh para penggemar Meksiko di Tijuana sebelum tim tersebut meninggalkan Piala Dunia setelah tersingkir. Para penggemar mengumpulkan tanda tangan dan memberikan dukungan kepada tim Iran, sementara pelatih kepala Iran menyatakan ikatan antara kedua negara telah 'tercatat dalam sejarah'.",
+            "key_points": [
+              "Penggemar Meksiko berkumpul di Tijuana untuk memberikan dukungan kepada tim Iran sebelum keberangkatan mereka.",
+              "Para penggemar mengumpulkan tanda tangan dari pemain tim Iran.",
+              "Pelatih Iran menyebut ikatan antara Iran dan Meksiko telah 'tercatat dalam sejarah'."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Tumor Otak Tidak Selalu Sakit Kepala",
+        "title": "Tumor Otak Tidak Selalu Sakit Kepala",
+        "synthesis": [
+          "Tumor otak sering muncul tanpa sakit kepala, melainkan perubahan perilaku dan emosi.",
+          "Gejala awal melibatkan gangguan fungsi kognitif dan sosial secara progresif.",
+          "Deteksi dini kritis untuk perubahan berkelanjutan atau gejala neurologis tambahan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Peningkatan kesadaran dini dapat memengaruhi hasil pengobatan secara signifikan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Tumor Otak Tidak Selalu Sakit Kepala",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang tumor otak tidak selalu menyebabkan sakit kepala. Berikut adalah 4 poin fakta yang padat:\n\n1. **Sakit kepala yang disebabkan oleh tumor otak biasanya lebih parah dan tidak hilang meskipun sudah mengonsumsi obat pereda nyeri**. Sakit kepala ini sering terjadi pada pagi hari atau saat bangun tidur dan bisa disertai dengan gejala lain seperti mual, muntah tanpa sebab yang jelas, atau gangguan penglihatan.\n2. **Tumor otak dapat menyebabkan peningkatan tekanan di dalam kepala**, yang berbahaya jika tidak segera ditangani. Oleh karena itu, jika Anda mengalami gejala-gejala seperti sakit kepala yang tidak kunjung membaik atau memburuk, segera periksakan diri ke dokter.\n3. **Pengobatan tumor otak tergantung pada jenis, ukuran, tingkat keparahan, dan lokasi tumbuhnya**. Pada tumor otak yang kecil, tidak bergejala, dan tidak bersifat kanker, dokter mungkin akan menunda pengobatan. Namun, pasien akan diminta untuk menjalani MRI otak secara berkala dalam 1 tahun agar perkembangan tumor dapat terpantau.\n4. **Gejala tumor otak sangat beragam dan tergantung pada lokasi, ukuran, dan tingkat pertumbuhan tumor itu sendiri**. Gejala awal mirip dengan gejala umum seperti nyeri kepala, mual muntah, kelemahan, dan lain-lain."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Tumor Otak Tak Selalu Diawali Sakit Kepala, Waspadai Perubahan Kebiasaan Ini",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8554748/tumor-otak-tak-selalu-diawali-sakit-kepala-waspadai-perubahan-kebiasaan-ini",
+            "category": "Kesehatan",
+            "published_at": "2026-07-01T02:02:59+00:00",
+            "summary": "Tumor otak tidak selalu diawali sakit kepala; perubahan perilaku, suasana hati, dan pengendalian emosi bisa menjadi gejala awal, terutama pada tumor di lobus frontal. Perubahan ini mungkin tidak langsung terasa sakit tetapi mengganggu fungsi kognitif dan sosial secara perlahan. Deteksi dini diperlukan jika perubahan terus berlanjut atau disertai gejala neurologis lain.",
+            "key_points": [
+              "Gejala awal tumor otak bisa berupa perubahan halus dalam perilaku, suasana hati, dan pengendalian emosi, terutama pada tumor di lobus frontal.",
+              "Lobus frontal mengatur kepribadian dan fungsi kognitif; tumor di area ini dapat mengganggu kemampuan berpikir, merasa, dan berinteraksi secara bertahap tanpa rasa sakit.",
+              "Perubahan perilaku yang tidak jelas penyebabnya, disertai gejala seperti sakit kepala berat atau kejang, memerlukan pemeriksaan medis untuk deteksi dini."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Hukum AS dan Dinamika Kewarganegaraan Global",
+        "analysis": "Keputusan Mahkamah Agung AS tentang hak kewarganegaraan kelahiran (topik 1 dan 3) menciptakan preseden hukum yang memengaruhi kebijakan imigrasi global. Negara-negara dengan perbatasan terbuka (seperti Kanada atau Australia) mungkin menyesuaikan aturan kewarganegaraan mereka untuk menghindari 'birth tourism'. Hal ini berdampak pada sektor ekonomi melalui perubahan aliran tenaga kerja migran, serta sektor sosial dengan pergeseran identitas nasional. Konflik hukum ini juga memicu debat geopolitik antara AS dan negara-negara yang mengkritik kebijakan imigrasi AS, seperti Eropa."
+      },
+      {
+        "title": "Diplomasi Olahraga dan Normalisasi Hubungan Iran-Meksiko",
+        "analysis": "Dukungan hangat Meksiko terhadap tim Iran di Piala Dunia (topik 4) mencerminkan upaya diplomasi budaya untuk mencairkan hubungan bilateral yang tegang. Ini berpotensi memengaruhi sektor ekonomi melalui peningkatan investasi atau kerja sama energi antara kedua negara. Di sisi lain, kemenangan Norwegia atas Brasil (topik 2) menunjukkan kekuatan tim Eropa Utara yang bisa memengaruhi dinamika geopolitik Eropa, terutama dalam konteks hubungan Norwegia dengan NATO dan Uni Eropa."
+      }
+    ],
+    "other_news": {
+      "Lingkungan": [
+        {
+          "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+          "category": "Lingkungan",
+          "published_at": "2026-06-30T21:30:52+00:00",
+          "summary": "Seorang anak laki-laki berusia tiga tahun berhasil diselamatkan dari reruntuhan enam hari setelah gempa bumi menghancurkan Venezuela, meskipun korban tewas telah mencapai 1.943 orang dengan ribuan bangunan rusak. Tim penyelamat internasional terus mencari korban selamat, sementara PBB memperingatkan kebutuhan mendesak akan makanan, tempat penampungan, dan dukungan kesehatan.",
+          "key_points": [
+            "Anak laki-laki berusia tiga tahun, Klieber Morán, diselamatkan hidup dari reruntuhan enam hari setelah gempa bumi 7,2 dan 7,5 magnitudo di Venezuela.",
+            "Gempa menghancurkan atau merusak 58.870 bangunan, dengan korban tewas mencapai 1.943 orang dan lebih dari 10.000 luka-luka.",
+            "PBB memperingatkan kekurangan makanan, layanan kesehatan yang tertekan, serta risiko wabah penyakit karena rendahnya cakupan vaksinasi pasca-gempa."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "HDB resale prices fall for second consecutive quarter; private home prices edge up 0.5%",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/hdb-resale-private-property-home-prices-6223346",
+          "category": "Ekonomi",
+          "published_at": "2026-07-01T02:37:54+00:00",
+          "summary": "Harga rumah HDB bekas di Singapura turun untuk kuartal kedua berturut-turut, sementara harga properti swasta naik 0,5% pada kuartal kedua 2026. Penurunan harga HDB disebut dipengaruhi oleh outlook tenaga kerja yang lebih lemah dan kehati-hatian pembeli akibat ketidakpastian pasar kerja.",
+          "key_points": [
+            "Indeks harga HDB bekas turun 0,3% pada kuartal kedua 2026, jatuh untuk kuartal kedua berturut-turut.",
+            "Harga properti swasta naik 0,5%, lebih lambat dibanding kenaikan 0,9% pada kuartal sebelumnya.",
+            "Analisis menyebut pelemahan pasar tenaga kerja dan struktur pemutusan kerja memengaruhi kehati-hatian pembeli dalam transaksi HDB."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Golden Village to close Plaza Singapura outlet in August after 28 years",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/living/golden-village-plaza-singapura-closing-gv-6223431",
+          "category": "Ekonomi",
+          "published_at": "2026-07-01T02:11:00+00:00",
+          "summary": "Golden Village mengumumkan penutupan bioskop di Plaza Singapura pada Agustus 2025 akibat renovasi besar-besaran mall tersebut. Penutupan berlangsung bertahap hingga 16 Agustus, disertai promosi dan lomba media sosial untuk pelanggan.",
+          "key_points": [
+            "Penutupan bioskop Golden Village di Plaza Singapura disebabkan oleh rencana renovasi besar mall.",
+            "Operasional bioskop akan dihentikan bertahap, dengan hari penutupan terakhir pada 16 Agustus 2025.",
+            "Golden Village menawarkan promosi e-voucher dan lomba media sosial sebagai bagian dari perayaan penutupan."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Trump made more than $1bn from crypto in first year back in office",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "category": "Ekonomi",
+          "published_at": "2026-07-01T01:45:58+00:00",
+          "summary": "Presiden AS Donald Trump melaporkan pendapatan lebih dari $1 miliar dari bisnis kriptocurrency pada 2025, terutama dari royalti koin meme dan perusahaan yang didirikan putranya, meskipun Gedung Putih menegaskan tidak ada konflik kepentingan. Pendapatan ini melampaui laporan keuangan sebelumnya dan mencakup penghasilan dari real estate serta produk bermerek Trump.",
+          "key_points": [
+            "Trump menerima $635 juta dari royalti koin meme Trump dan $500 juta dari perusahaan kripto World Liberty Financial yang didirikan putranya.",
+            "Gedung Putih menegaskan Trump menempatkan bisnisnya dalam trust yang dikelola putranya dan menolak adanya konflik kepentingan.",
+            "Selain kripto, Trump mendapat $77 juta dari Mar-a-Lago, $122 juta dari klub golf, serta $10,7 juta untuk Melania dari lisensi dokumenter dan penjualan NFT."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Potret Kelam Masa Lalu yang Terekam Kamera, Ada Kisah Mengerikan",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8554730/potret-kelam-masa-lalu-yang-terekam-kamera-ada-kisah-mengerikan",
+          "category": "Politik",
+          "published_at": "2026-07-01T02:15:55+00:00",
+          "summary": "Artikel ini menggambarkan sejumlah foto sejarah yang merekam momen-momen gelap dari berbagai konflik, termasuk perang dan demonstrasi politik, yang menunjukkan dampaknya terhadap kehidupan manusia dan hewan.",
+          "key_points": [
+            "Foto pasangan berlindung di bawah tank saat demonstrasi Tiananmen 1989 menjadi simbol kehidupan biasa di tengah krisis politik.",
+            "Pembebasan tahanan perempuan dari kamp konsentrasi Nazi pada 1945 menggambarkan kondisi memprihatinkan korban Perang Dunia II.",
+            "Anjing penjaga Finlandia pada 1940 menunjukkan peran hewan dalam operasi militer selama masa perang."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Intip Minuman Andalan Jeff Bezos untuk Jaga Fokus Otak, Ternyata Sering Kita Konsumsi!",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8554675/intip-minuman-andalan-jeff-bezos-untuk-jaga-fokus-otak-ternyata-sering-kita-konsumsi",
+          "category": "Kesehatan",
+          "published_at": "2026-07-01T01:02:29+00:00",
+          "summary": "Jeff Bezos diketahui memiliki kebiasaan minum kopi setiap pagi sebelum memulai aktivitasnya, seperti diungkapkan oleh istrinya, Lauren Sanchez. Artikel ini juga menjelaskan berbagai manfaat kopi bagi kesehatan otak, jantung, dan mikrobioma usus, serta pentingnya membatasi konsumsi kafein untuk menghindari risiko kesehatan.",
+          "key_points": [
+            "Jeff Bezos rutin meminum kopi setiap pagi sebelum beraktivitas, menurut pengakuan istrinya, Lauren Sanchez.",
+            "Kopi memiliki manfaat kesehatan seperti meningkatkan fungsi otak, mengurangi risiko penyakit jantung, dan mendukung kesehatan usus melalui polifenolnya.",
+            "Ahli gizi menyarankan batas konsumsi kafein harian sebesar 200-400 mg untuk orang dewasa agar menghindari risiko serangan jantung."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "5 Tanda Ginjal Mulai Bermasalah yang Kerap Diabaikan",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8554283/5-tanda-ginjal-mulai-bermasalah-yang-kerap-diabaikan",
+          "category": "Kesehatan",
+          "published_at": "2026-06-30T13:05:17+00:00",
+          "summary": "Penyakit ginjal sering disebut 'silent killer' karena gejalanya muncul tanpa disadari hingga kerusakan parah. Gejala awal seperti kelelahan, kulit kering, dan gangguan tidur sering diabaikan, sementara kasus gagal ginjal di Indonesia terus meningkat dengan biaya pengobatan mencapai Rp 2,92 triliun pada 2023.",
+          "key_points": [
+            "Penyakit ginjal berkembap tanpa gejala jelas hingga fungsi organ menurun signifikan.",
+            "Gejala awal meliputi kelelahan, kulit kering/gatal, dan gangguan tidur yang mudah diabaikan.",
+            "Jumlah penderita gagal ginjal di Indonesia mencapai 1,5 juta orang dengan biaya pengobatan Rp 2,92 triliun pada 2023."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Buzzing Bosnians bring World Cup boom to Santa Clara restaurant",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/buzzing-bosnians-bring-world-cup-boom-santa-clara-restaurant-6223591",
+          "category": "Olahraga",
+          "published_at": "2026-07-01T02:38:17+00:00",
+          "summary": "Restoran Euro Grill di Santa Clara menjadi pusat kegembiraan bagi penggemar Bosnia Herzegovina menjelang pertandingan perempat final Piala Dunia melawan Amerika Serikat. Komunitas Bosnia yang tersebar di kawasan tersebut, sebagian besar mantan pengungsi perang Balkan 1990-an, merayakan dengan antusiasme tinggi, didukung oleh diaspora global yang mencapai 300.000 orang.",
+          "key_points": [
+            "Euro Grill menjadi tempat berkumpul penggemar Bosnia di Northern California dengan pemesanan meja yang membludak.",
+            "Komunitas Bosnia di Santa Clara berjumlah sekitar 10.000 orang, sebagian besar adalah mantan pengungsi perang Balkan 1990-an.",
+            "Tim nasional Bosnia mencapai babak perempat final Piala Dunia 2026 untuk pertama kalinya, didukung oleh diaspora global yang aktif."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Bangganya Paraguay Depak Jerman",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8554673/bangganya-paraguay-depak-jerman",
+          "category": "Olahraga",
+          "published_at": "2026-07-01T01:30:10+00:00",
+          "summary": "Paraguay berhasil mengalahkan Jerman dalam pertandingan Piala Dunia 2026 melalui adu penalti 4-3 setelah skor 1-1 hingga babak tambahan. Kemenangan ini menjadi yang pertama bagi Paraguay sejak absen di tiga edisi Piala Dunia sebelumnya. Kiper Orlando Gill menjadi pahlawan dengan menyelamatkan dua penalti dan menyatakan dedikasi kemenangan tersebut untuk masyarakat Paraguay.",
+          "key_points": [
+            "Paraguay mengalahkan Jerman 4-3 dalam adu penalti setelah skor 1-1 hingga babak tambahan di Piala Dunia 2026.",
+            "Kemenangan ini merupakan kali pertama Paraguay setelah absen di tiga edisi Piala Dunia sebelumnya.",
+            "Kiper Orlando Gill menyelamatkan dua penalti dan mendedikasikan kemenangan untuk masyarakat Paraguay."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/1/north-koreas-kim-hails-unshakeable-will-to-develop-ties-with-chinas-xi?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-01T01:17:24+00:00",
+          "summary": "Pemimpin Korea Utara, Kim Jong Un, menyatakan komitmen untuk terus memperkuat hubungan dengan China, menyebut pertemuan puncak dengan Presiden Xi Jinping sebagai momen sejarah. Kim menekankan pentingnya kerja sama strategis antara kedua negara, sementara China tetap menjadi mitra ekonomi terbesar Korea Utara.",
+          "key_points": [
+            "Kim Jong Un dan Xi Jinping menegaskan komitmen untuk memperkuat hubungan bilateral melalui pertemuan puncak yang disebut sebagai momen sejarah.",
+            "China merupakan mitra ekonomi utama Korea Utara, dengan 98% dari total perdagangan luar negeri negara tersebut berasal dari China pada 2024.",
+            "Kedua pemimpin sepakat mengadopsi rencana strategis untuk memperluas kerja sama diplomatik, hukum, dan militer antara Korea Utara dan China."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3905
+    },
+    "timestamp": "2026-07-01T02:50:11.277671+00:00"
   }
 ]
