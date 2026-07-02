@@ -26306,5 +26306,358 @@
       "total_in_qdrant": 3905
     },
     "timestamp": "2026-07-01T02:50:11.277671+00:00"
+  },
+  {
+    "date": "2026-07-02",
+    "generated_at": "2026-07-02T02:39:35.417161+00:00",
+    "headline": "Investasi $51,46 miliar SK Hynix untuk pabrik NAND di Korea Selatan hingga 2029 memperkuat kapasitas produksi semikonduktor global.",
+    "global_headline": "Investasi $51,46 miliar SK Hynix untuk pabrik NAND di Korea Selatan hingga 2029 memperkuat kapasitas produksi semikonduktor global.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "SK Hynix investasi $51,46 miliar untuk pabrik NAND di Korea Selatan hingga 2029.",
+          "Fokus mengatasi kekurangan pasokan chip memori akibat permintaan AI.",
+          "Pabrik pengemasan chip senilai 20 triliun won dibangun di lokasi yang sama."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Investasi besar di infrastruktur kritis semikonduktor yang memengaruhi rantai pasok global AI.",
+        "external_research": [
+          {
+            "title": "Deep Research: SK Hynix to build $51 billion NAND memory chip factory by 2029",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **SK Hynix akan membangun pabrik NAND memory chip senilai $51 miliar**: Meskipun tidak ada informasi langsung tentang rencana pembangunan pabrik ini, namun dapat disimpulkan bahwa SK Hynix akan meningkatkan produksi NAND memory chip untuk memenuhi permintaan yang meningkat.\n2. **Pendapatan semikonduktor global diperkirakan mencapai $1,32 triliun pada 2026**: Menurut proyeksi Gartner, pendapatan semikonduktor global akan meningkat sebesar 64% pada 2026.\n3. **SK Hynix telah memulai produksi NAND 321-layer**: SK Hynix telah memulai produksi NAND 321-layer yang memiliki produktivitas 59% lebih tinggi dibandingkan dengan NAND 238-layer sebelumnya.\n4. **SK Hynix akan meningkatkan produksi NAND untuk memenuhi permintaan AI**: SK Hynix akan meningkatkan produksi NAND untuk memenuhi permintaan AI yang meningkat, dengan fokus pada aplikasi AI yang memerlukan daya rendah dan kinerja tinggi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "SK Hynix to build $51 billion NAND memory chip factory by 2029",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/sk-hynix-build-51-billion-nand-memory-chip-factory-2029-6226421",
+            "category": "Teknologi",
+            "published_at": "2026-07-02T02:04:27+00:00",
+            "summary": "SK Hynix berencana menginvestasikan 80 triliun won ($51,46 miliar) untuk membangun pabrik baru produksi chip memori NAND di Cheongju, Korea Selatan, yang akan selesai pada 2029. Pabrik tersebut bertujuan mengatasi kekurangan pasokan akibat lonjakan permintaan AI. Selain itu, perusahaan juga akan membangun pabrik pengemasan chip senilai 20 triliun won di lokasi yang sama.",
+            "key_points": [
+              "Investasi 80 triliun won ($51,46 miliar) untuk pabrik NAND memori hingga 2029.",
+              "Pembangunan pabrik M17 di Cheongju dimulai tahun depan dengan partisipasi CEO dan Presiden Korea Selatan.",
+              "Rencana tambahan 20 triliun won untuk pabrik pengemasan chip selesai hingga akhir 2027."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Gempa ganda Venezuela memicu krisis kesehatan akut dengan sistem medis hampir kolaps.",
+          "Ribuan pengungsi menghadapi risiko penyakit menular akibat sanitasi buruk.",
+          "Bantuan internasional terus berlangsung, tetapi akses terbatas di daerah terdampak."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Krisis kesehatan sistemik dengan potensi penyebaran penyakit dan ketergantungan pada bantuan luar.",
+        "external_research": [
+          {
+            "title": "Deep Research: ‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"A war zone': Venezuela aid workers fear health crisis after earthquakes\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Venezuela mengalami krisis kesehatan setelah gempa bumi**: Aid workers di Venezuela khawatir akan krisis kesehatan yang akan terjadi setelah gempa bumi, yang dapat menyebabkan kerusakan pada infrastruktur kesehatan dan meningkatkan risiko penyakit.\n2. **Pemerintah Venezuela harus berperan dalam pencegahan dan tanggap darurat**: Pemerintah Venezuela harus melakukan upaya pencegahan bencana alam, seperti pemetaan wilayah yang rentan terhadap gempa bumi, dan mengatur pembangunan dan perencanaan tata ruang yang memperhatikan mitigasi risiko bencana.\n3. **Teknologi dapat membantu dalam mengatasi krisis kesehatan**: Teknologi dapat membantu dalam pelacakan dan penanganan pandemi COVID-19, serta meningkatkan aksesibilitas layanan kesehatan, yang dapat membantu dalam mengatasi krisis kesehatan di Venezuela.\n4. **Rehabilitasi dan rekonstruksi wilayah yang terkena dampak gempa bumi**: Pasca bencana alam, pemerintah Venezuela harus berperan dalam rehabilitasi dan rekonstruksi wilayah yang terkena dampak gempa bumi, seperti membangun konstruksi rumah yang tahan terhadap guncangan gempa bumi dan meningkatkan infrastruktur kesehatan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-07-02T01:24:22+00:00",
+            "summary": "Gempa bumi ganda di Venezuela memicu krisis kesehatan dengan cedera tak tertangani, penyakit menular, dan sistem kesehatan yang hampir kolaps. Ribuan pengungsi menghadapi kondisi sanitasi buruk tanpa akses air bersih, sementara bantuan dari AS dan negara lain terus berlangsung.",
+            "key_points": [
+              "Krisis kesehatan berpotensi meluas akibat cedera tak tertangani, infeksi, dan sistem kesehatan Venezuela yang sudah rapuh sebelum gempa.",
+              "AS mengirimkan 900 personel militer dan bantuan $300 juta, sementara 50 tim bantuan internasional dari negara seperti Ekuador dan Israel turut terlibat.",
+              "Sistem kesehatan Venezuela sebelumnya sudah kritis dengan kekurangan pasokan darurat hingga 70% di ruang operasi dan kebocoran tenaga medis akibat krisis ekonomi."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Singapura percepat AI bertanggung jawab melalui kolaborasi internasional dan testbed Punggol.",
+          "Investasi OpenAI-Nvidia tingkatkan ekosistem AI Asia, dorong inovasi teknologi.",
+          "Keterbatasan infrastruktur dan akses data di Indonesia hambat adopsi AI."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Inisiatif sistemik AI bertanggung jawab dan testbed teknologi mengubah arah pengembangan digital Asia.",
+        "external_research": [
+          {
+            "title": "Deep Research: The AI questions Asia must answer next",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"The AI questions Asia must answer next\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Keterbatasan Infrastruktur Teknologi**: Indonesia masih menghadapi tantangan dalam pengembangan AI karena keterbatasan infrastruktur teknologi, seperti jaringan internet yang cepat dan andal, pusat data yang memadai, dan perangkat keras yang kuat.\n2. **Kurangnya Akses ke Data Berkualitas**: Akses ke data berkualitas masih menjadi masalah di Indonesia, sehingga pengembangan AI terhambat. Data yang tersedia sering kali tidak lengkap, tidak terstruktur, atau tidak akurat.\n3. **Kekuatan AI dalam Pertumbuhan Ekonomi**: AI diprediksi akan menjadi kekuatan besar yang mendorong pertumbuhan ekonomi global dan ASEAN pada 2030. Kontribusi AI terhadap Produk Domestik Bruto (PDB) dunia diperkirakan mencapai US$13 triliun, sedangkan di ASEAN, kontribusi AI diperkirakan mencapai US$1 triliun.\n4. **Dampak Ekonomi AI di Indonesia**: Indonesia diproyeksi mendapatkan dampak ekonomi paling tinggi dari pemanfaatan AI, sebesar US$366 miliar pada 2030, menurut laporan Kearney. Ini merupakan nilai tertinggi di Asia Tenggara."
+          }
+        ],
+        "articles": [
+          {
+            "title": "The AI questions Asia must answer next",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/brand-studio/ai-questions-asia-must-answer-next-6220546",
+            "category": "Teknologi",
+            "published_at": "2026-07-02T02:09:39+00:00",
+            "summary": "ATxSummit 2026 di Singapura membahas pengembangan AI yang bertanggung jawab, termasuk kolaborasi internasional untuk memastikan manfaat AI tersebar luas. Singapura memperkenalkan Punggol Digital District sebagai testbed robot multi-operator, sementara perusahaan seperti OpenAI dan Nvidia berkomitmen memperkuat ekosistem AI lokal melalui investasi dan penelitian.",
+            "key_points": [
+              "Singapura meluncurkan Punggol Digital District sebagai area uji coba pertama untuk robot multi-operator yang melayani tugas seperti pengiriman makanan dan keamanan.",
+              "OpenAI dan Nvidia berinvestasi di Singapura, termasuk pembangunan laboratorium AI dan pusat penelitian untuk meningkatkan ekosistem AI nasional.",
+              "Diskusi fokus pada tantangan implementasi AI di sektor bisnis dan pentingnya pendekatan bertanggung jawab untuk membangun kepercayaan publik terhadap teknologi AI."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "AS menang 2-0 atas Bosnia meski 10 pemain sejak babak kedua.",
+          "AS melaju ke babak 8 besar Piala Dunia 2026 untuk hadapi Belgia.",
+          "Kemenangan memperkuat posisi AS sebagai kontestan kuat turnamen."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pengaruh pada dinamika kompetisi Piala Dunia dan kebanggaan nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Hasil Piala Dunia 2026: 10 Pemain Amerika Serikat Kalahkan Bosnia 2-0",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8556230/hasil-piala-dunia-2026-10-pemain-amerika-serikat-kalahkan-bosnia-2-0",
+            "category": "Olahraga",
+            "published_at": "2026-07-02T02:07:44+00:00",
+            "summary": "Amerika Serikat menang 2-0 atas Bosnia & Herzegovina di babak 16 besar Piala Dunia 2026 meski bermain 10 orang sejak babak kedua. Kemenangan ini membawa AS ke babak selanjutnya untuk melawan Belgia.",
+            "key_points": [
+              "AS unggul 2-0 atas Bosnia meski bermain 10 orang setelah Folarin Balogun dikeluarkan pada menit ke-64.",
+              "Gol kemenangan AS dicetak oleh Folarin Balogun (menit ke-45) dan Malik Tillman (menit ke-82).",
+              "AS akan menghadapi Belgia di babak 16 besar Piala Dunia 2026."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "AS unggul 1-0 atas Bosnia di babak I melalui gol Balogun.",
+          "Dominasi AS terlihat meski Bosnia punya peluang dan satu gol dianulir.",
+          "Pertandingan belum menunjukkan dampak sistemik atau konflik politik."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Update pertandingan sepak bola rutin tanpa efek domino strategis.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Amerika Serikat Ungguli Bosnia 1-0 di Babak I",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8556173/amerika-serikat-ungguli-bosnia-1-0-di-babak-i",
+            "category": "Olahraga",
+            "published_at": "2026-07-02T00:56:51+00:00",
+            "summary": "Amerika Serikat memimpin 1-0 atas Bosnia & Herzegovina di babak pertama melalui gol Folarin Balogun. Pertandingan berlangsung dengan dominasi AS meski sempat ada peluang Bosnia dan satu gol dianulir karena offside.",
+            "key_points": [
+              "AS unggul 1-0 di babak pertama melalui gol Folarin Balogun.",
+              "Gol Balogun tercipta setelah kesalahan pemain Bosnia pada menit ke-45.",
+              "Sebelum gol sah, AS mencetak gol yang dianulir wasit karena offside di menit ke-31."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Investasi SK Hynix di NAND Memperkuat Ekosistem AI Singapura",
+        "analysis": "Investasi $51,46 miliar SK Hynix untuk pabrik NAND di Korea Selatan akan meningkatkan pasokan memori flash global, komponen kritis dalam pengolahan data AI. Singapura, yang mempercepat pengembangan AI bertanggung jawab melalui testbed Punggol, bergantung pada infrastruktur semikonduktor untuk memproses algoritma AI skala besar. Ketergantungan ini menciptakan keterkaitan strategis: pertumbuhan kapasitas NAND SK Hynix memperkuat ekosistem AI Singapura, sementara inovasi AI Singapura dapat memicu permintaan baru untuk NAND di sektor kesehatan, logistik, dan keamanan. Dampak geopolitiknya adalah konsolidasi dominasi Asia Timur dalam rantai pasok teknologi, menggeser pusat inovasi global dari AS-Eropa."
+      },
+      {
+        "title": "Krisis Kesehatan Venezuela Mempercepat Kolaborasi AI Singapura dalam Respons Bencana",
+        "analysis": "Gempa ganda Venezuela yang hampir menghancurkan sistem kesehatan nasional memperlihatkan kelemahan infrastruktur kritis di negara berkembang. Singapura, dengan inisiatif AI bertanggung jawab, dapat memanfaatkan krisis ini untuk memperluas testbed Punggol ke skenario respons bencana. Kolaborasi internasional yang diinisiasi Singapura akan mengintegrasikan AI untuk prediksi risiko bencana, alokasi sumber daya medis, dan koordinasi darurat. Dalam jangka panjang, ini menciptakan ketergantungan teknologi di negara berkembang pada solusi AI Singapura, sekaligus memperkuat posisi Singapura sebagai pusat inovasi teknologi di Asia Tenggara."
+      }
+    ],
+    "other_news": {
+      "Hiburan": [
+        {
+          "title": "Another 70 Teochew screenings of Dear You added after repeated sellouts",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/dear-you-70-more-teochew-screenings-6226371",
+          "category": "Hiburan",
+          "published_at": "2026-07-02T02:10:43+00:00",
+          "summary": "Film 'Dear You' menambah 70 sesi tayangan komersial di Singapura setelah tiket tayangan asli dalam bahasa Teochew ludes terjual. Tayangan diperluas dari 3 hingga 12 Juli di sembilan lokasi bioskop, dengan tambahan 30 sesi tayangan komunitas untuk lansia. Film ini mengangkat tema migrasi dan kebudayaan Tionghoa yang memicu diskusi tentang bahasa daerah dan kebijakan bahasa di Singapura.",
+          "key_points": [
+            "70 sesi tayangan baru ditambahkan setelah 40 sesi tambahan sebelumnya ludes terjual dalam tiga jam.",
+            "30 sesi tayangan komunitas akan diselenggarakan bersama organisasi lokal untuk menjangkau lansia.",
+            "Film ini memicu diskusi tentang pentingnya melestarikan budaya Tionghoa dan bahasa daerah di Singapura."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "US judge sides with NAACP over proposed mail-in ballot restrictions",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-01T22:53:50+00:00",
+          "summary": "Seorang hakim federal AS membatalkan rencana pembatasan pemungutan suara lewat surat yang didukung Presiden Donald Trump, setelah NAACP menggugat USPS terkait pelanggaran perjanjian hukum 2021 tentang pengiriman cepat surat suara. Hakim Emmet Sullivan menemukan rencana tersebut bertentangan dengan kewajiban USPS untuk memprioritaskan pengiriman surat suara, sehingga menimbulkan hambatan baru bagi upaya pemerintahan Trump dalam membatasi akses pemilu.",
+          "key_points": [
+            "Hakim federal AS menolak rencana USPS yang memerlukan daftar pemilih dan desain amplop baru untuk surat suara, yang dianggap melanggar perjanjian hukum 2021.",
+            "NAACP menggugat USPS atas rencana yang berpotensi menghambat pengiriman surat suara, dengan argumen bahwa USPS harus memastikan pengiriman tepat waktu sesuai perjanjian.",
+            "Putusan ini menjadi hambatan bagi upaya Trump untuk membatasi pemungutan suara lewat surat, terutama menjelang pemilu tengah periode November 2022."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Ini Yang Terjadi pada Tubuh saat Batasi Konsumsi Garam dalam Seminggu",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8555789/ini-yang-terjadi-pada-tubuh-saat-batasi-konsumsi-garam-dalam-seminggu",
+          "category": "Kesehatan",
+          "published_at": "2026-07-02T00:04:36+00:00",
+          "summary": "Mengurangi konsumsi garam selama satu minggu dapat menurunkan tekanan darah sistolik sebesar 6 mmHg, setara dengan efek obat hipertensi, berdasarkan studi pada tahun 2023. Namun, penurunan ini tidak menggantikan penggunaan obat yang diresepkan dokter, dan perlu dilakukan secara konsisten untuk mempertahankan hasilnya.",
+          "key_points": [
+            "Studi menunjukkan diet rendah natrium (500 mg/hari) selama seminggu menurunkan tekanan darah sistolik sebanding dengan obat hipertensi.",
+            "Konsumsi garam yang berlebihan meningkatkan volume darah dan tekanan darah, sementara natrium dalam jumlah kecil tetap diperlukan untuk fungsi tubuh.",
+            "Rekomendasi harian natrium untuk orang dewasa adalah maksimal 2.300 mg, dengan target ideal kurang dari 1.500 mg untuk menjaga tekanan darah sehat."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "'BPJS' AS Kini Cover Wegovy-Zepbound, Obat Suntik Penurun BB",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8555822/bpjs-as-kini-cover-wegovy-zepbound-obat-suntik-penurun-bb",
+          "category": "Kesehatan",
+          "published_at": "2026-07-01T22:05:02+00:00",
+          "summary": "Program Medicare AS mulai Juli 2026 akan menanggung biaya obat penurun berat badan Wegovy dan Zepbound melalui model percontohan Bridge Model, mengurangi biaya dari US$1.000 per bulan menjadi sekitar US$50. Peserta harus memenuhi kriteria BMI dan kondisi kesehatan tertentu untuk memenuhi syarat.",
+          "key_points": [
+            "Program Bridge Model Medicare mulai Juli 2026 menanggung biaya obat Wegovy dan Zepbound dengan biaya peserta hanya US$50 per bulan.",
+            "Harga obat penurun berat badan ini sebelumnya mencapai US$1.000 per bulan, kini lebih terjangkau bagi peserta yang memenuhi syarat.",
+            "Eligibilitas peserta didasarkan pada indeks massa tubuh (BMI) 35 atau lebih, atau BMI 27-35 dengan kondisi kesehatan tertentu seperti hipertensi atau pradiabetes."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Singapore to shorten timber scaffold use from 9 months to 3 to improve fire safety",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/singapore-shorten-timber-scaffold-use-9-months-3-improve-fire-safety-6225201",
+          "category": "Umum",
+          "published_at": "2026-07-02T02:18:11+00:00",
+          "summary": "Singapura akan mengurangi durasi penggunaan scaffolding kayu dari 9 bulan menjadi 3 bulan mulai 2027 untuk meningkatkan keselamatan kebakaran, terutama setelah insiden kebakaran Wang Fuk Court di Hong Kong. Kebijakan ini juga mencakup evaluasi persyaratan keselamatan baru untuk jaring scaffolding dan promosi penggunaan material tahan api seperti baja.",
+          "key_points": [
+            "Durasi penggunaan scaffolding kayu di Singapura akan dikurangi dari 9 bulan menjadi 3 bulan mulai 2027 untuk mengurangi risiko kebakaran.",
+            "Kebijakan ini dipengaruhi oleh investigasi kebakaran Wang Fuk Court di Hong Kong yang menewaskan 168 orang dan melibatkan scaffolding tidak aman.",
+            "Pemerintah Singapura sedang mengkaji persyaratan baru agar jaring scaffolding harus tahan api untuk mencegah penyebaran api."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Ocean temperatures hit record highs as El Niño looms",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/ocean-temperatures-hit-record-highs-as-el-nino-looms?traffic_source=rss",
+          "category": "Lingkungan",
+          "published_at": "2026-07-02T01:57:32+00:00",
+          "summary": "Suhu permukaan laut global mencapai rekor tertinggi 21°C, melampaui rekor tahun 2023 dan 2024, dengan potensi kenaikan lebih lanjut seiring perkembangan pola iklim El Niño yang memanaskan Pasifik tropis.",
+          "key_points": [
+            "Suhu rata-rata permukaan laut mencapai 21°C, rekor tertinggi sejauh ini.",
+            "Rekor ini melampaui suhu tertinggi pada tahun 2023 dan 2024.",
+            "El Niño diperkirakan mempercepat kenaikan suhu laut di Pasifik tropis."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Geger Gelombang Panas Melanda Eropa, Bagaimana dengan RI? Ini Kata BMKG",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8556180/geger-gelombang-panas-melanda-eropa-bagaimana-dengan-ri-ini-kata-bmkg",
+          "category": "Lingkungan",
+          "published_at": "2026-07-02T01:10:01+00:00",
+          "summary": "Eropa mengalami gelombang panas rekor dengan 1.300 kematian berlebih sejak 21 Juni 2026, sementara BMKG menyatakan Indonesia sangat kecil kemungkinannya mengalami fenomena serupa karena posisi geografis dan dinamika cuaca yang berbeda. Direktur WHO menyoroti Eropa sebagai benua dengan pemanasan paling cepat, dua kali lebih tinggi dari rata-rata global.",
+          "key_points": [
+            "Eropa melaporkan 1.300 kematian berlebih akibat gelombang panas yang mencapai suhu hingga 44°C.",
+            "WHO menyatakan Eropa mengalami pemanasan dua kali lebih cepat dari rata-rata global, dengan infrastruktur yang belum siap menghadapi suhu ekstrem.",
+            "BMKG menjelaskan Indonesia tidak mengalami heatwave karena berada di wilayah ekuatorial dengan dinamika atmosfer dan variabilitas cuaca yang berbeda."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Harry Kane Brace Bawa Inggris ke 16 Besar, Lepas dari 'Sihir Dukun Ghana'",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8556146/harry-kane-brace-bawa-inggris-ke-16-besar-lepas-dari-sihir-dukun-ghana",
+          "category": "Olahraga",
+          "published_at": "2026-07-01T23:45:11+00:00",
+          "summary": "Harry Kane mencetak dua gol krusial yang membawa Inggris menang 2-1 atas Republik Demokratik Kongo di babak 32 besar Piala Dunia 2026, mengakhiri kritik terhadap performanya. Kemenangan ini memastikan Inggris melaju ke 16 besar, dengan Kane kini menjadi top skor sementara turnamen. Kane juga mendapat pujian dari publik atas penampilannya yang memecahkan 'sihir dukun Ghana' yang sempat dihujat sebelumnya.",
+          "key_points": [
+            "Harry Kane mencetak brace yang mengantarkan Inggris menang 2-1 atas Republik Demokratik Kongo di babak 32 besar Piala Dunia 2026.",
+            "Kemenangan Inggris diraih setelah tertinggal lebih dulu, dengan Kane menjadi penentu kemenangan di menit-menit akhir.",
+            "Kane kini menjadi top skor sementara turnamen dengan lima gol, sementara Inggris akan menghadapi Meksiko di babak 16 besar."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "At least one killed in major airstrikes on Kyiv",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-02T01:55:18+00:00",
+          "summary": "Pasukan Rusia melancarkan serangan udara besar-besaran dengan drone dan rudal ke Ibu Kota Ukraina Kyiv, menewaskan setidaknya satu orang dan menyebabkan kebakaran di beberapa gedung. Pemerintah Polandia mengaktifkan jet tempur sebagai langkah pencegahan, sementara warga Kyiv dievakuasi dan sejumlah orang terjebak di reruntuhan bangunan.",
+          "key_points": [
+            "Serangan udara Rusia menyebabkan kematian satu orang dan kebakaran di kompleks apartemen serta stasiun ambulans.",
+            "Polandia mengaktifkan jet tempur sebagai langkah pencegahan untuk melindungi wilayah udaranya.",
+            "Sembilan lantai bangunan runtuh akibat serangan, dengan beberapa orang terjebak di reruntuhan."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Turkish police beat us with iron rods before we lost limbs to frostbite, Afghans say",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ce8k4pz91n5o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-01T22:13:03+00:00",
+          "summary": "Sejumlah migran Afghanistan yang mencoba mencapai Eropa melaporkan telah dipukuli dan dibiarkan di bawah salju oleh petugas perbatasan Turki, menyebabkan beberapa di antaranya kehilangan anggota tubuh akibat hipotermia. Mereka diperlakukan secara kasar, dipaksa melakukan pekerjaan berat, dan dilemparkan ke medan salju tanpa bantuan memadai sebelum akhirnya dikembalikan ke Afghanistan.",
+          "key_points": [
+            "Migran Afghanistan mengaku dipukuli dengan batang besi dan dicabik-cabik pakaian oleh petugas perbatasan Turki di suhu di bawah nol derajat Celsius.",
+            "Sebelas dari 12 migran yang ditemui BBC kehilangan anggota tubuh akibat hipotermia setelah dibiarkan tanpa bantuan medis yang memadai.",
+            "Kelompok migran tersebut diperlakukan secara kasar, dipaksa bekerja keras, dan dilemparkan ke medan salju, dengan setidaknya 20 orang diperkirakan meninggal akibat hipotermia."
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3913
+    },
+    "timestamp": "2026-07-02T02:39:35.417169+00:00"
   }
 ]
