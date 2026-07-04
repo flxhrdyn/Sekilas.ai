@@ -27010,5 +27010,354 @@
       "total_in_qdrant": 3867
     },
     "timestamp": "2026-07-03T02:14:59.116118+00:00"
+  },
+  {
+    "date": "2026-07-04",
+    "generated_at": "2026-07-04T02:13:28.016692+00:00",
+    "headline": "Gelombang panas rekor di Prancis memicu 2.025 kematian berlebih pada Juni 2023.",
+    "global_headline": "Gelombang panas rekor di Prancis memicu 2.025 kematian berlebih pada Juni 2023.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Serangan Bom Monaco, Pelaku Tersembunyi",
+        "title": "Serangan Bom Monaco, Pelaku Tersembunyi",
+        "synthesis": [
+          "Wanita Ukraina dicurigai pelaku ledakan Monaco, kabur ke Jerman.",
+          "Interpol bantu polisi buru tersangka serangan yang melukai tiga orang.",
+          "Korban termasuk pengusaha kaya yang dijatuhi sanksi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Serangan bom dengan korban sanksi internasional dan pengejaran lintas negara.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-07-03T15:20:57+00:00",
+            "summary": "Seorang wanita Ukraina, Anastasiia Berezovska, dicurigai menyebabkan ledakan di Monaco yang melukai tiga orang, termasuk seorang pengusaha kaya yang dijatuhi sanksi. Ia kabur ke Jerman setelah kejadian dan saat ini diburu polisi dengan bantuan Interpol. Otoritas Monaco dan Jerman sedang melakukan pencarian serta penyelidikan terkait serangan tersebut.",
+            "key_points": [
+              "Anastasiia Berezovska, 39, diduga menyebabkan ledakan di Monaco dengan menyembunyikan diri sebagai pria dan meninggalkan paket bom di lobi apartemen.",
+              "Korban serangan termasuk Vadym Yermolaiev, pengusaha Ukraina yang dijatuhi sanksi, serta istrinya dan putra mereka yang terluka parah.",
+              "Interpol menerbitkan Red Notice untuk Berezovska, sementara polisi Jerman melakukan pencarian di apartemen yang disewanya dan menyita kendaraan yang digunakannya."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Gempa Bumi Hancurkan Kota Wisata Venezuela",
+        "title": "Gempa Bumi Hancurkan Kota Wisata Venezuela",
+        "synthesis": [
+          "Gempa hancurkan kota wisata Puerto Viejo, Venezuela.",
+          "Kerusakan parah pada hotel, restoran, dan infrastruktur pesisir.",
+          "Ekonomi Venezuela semakin terpuruk akibat kerusakan pariwisata."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik pada sektor pariwisata krusial dan beban pemulihan nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gempa Bumi Hancurkan Kota Wisata Venezuela",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait gempa bumi di Venezuela. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Gempa Bumi di Venezuela**: Gempa bumi di Venezuela dapat menyebabkan kerusakan infrastruktur yang masif dan korban jiwa yang besar. Menurut sebuah laporan, gempa bumi di Venezuela dapat menyebabkan kerusakan bangunan, jalan raya, dan jembatan yang ambruk.\n2. **Dampak Ekonomi**: Gempa bumi dapat mempengaruhi ekonomi suatu wilayah dengan menyebabkan kerugian finansial yang besar. Menurut sebuah laporan, gempa bumi dapat menyebabkan penyusutan kapasitas produksi dalam skala besar yang berdampak kepada kerugian finansial.\n3. **Bantuan Internasional**: Pemerintah dan organisasi internasional dapat memberikan bantuan kepada negara yang terkena dampak gempa bumi. Menurut sebuah laporan, pemerintah Qatar, Jepang, dan Chevron telah memberikan bantuan kepada pemerintah Indonesia setelah gempa bumi di Sumatra.\n4. **Pemulihan Pasca-Bencana**: Pemerintah dan masyarakat dapat bekerja sama untuk memulihkan wilayah yang terkena dampak gempa bumi. Menurut sebuah laporan, pemerintah Indonesia telah menyalurkan total 12,18 triliun melalui BNPB untuk memulihkan wilayah yang terkena dampak gempa bumi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
+            "category": "Lingkungan",
+            "published_at": "2026-07-03T23:57:24+00:00",
+            "summary": "Gempa bumi di kota wisata Puerto Viejo, Venezuela, menghancurkan hotel, restoran, dan bangunan pesisir, memperparah ekonomi yang bergantung pada pariwisata. Pemerintah kini menghadapi tugas berat membangun kembali kota tersebut.",
+            "key_points": [
+              "Gempa bumi menghancurkan infrastruktur kota wisata Puerto Viejo.",
+              "Ekonomi kota sangat bergantung pada sektor pariwisata.",
+              "Pemerintah Venezuela dihadapkan pada tantangan memulihkan kota dan menumbuhkan kembali perekonomian."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Gelombang Panas Prancis 2023",
+        "title": "Gelombang Panas Prancis 2023",
+        "synthesis": [
+          "Prancis catat 2.025 kematian berlebih selama gelombang panas rekor Juni 2023.",
+          "Kenaikan kematian 29% dibanding minggu sebelumnya, dominasi korban lansia.",
+          "Eropa dan AS menghadapi gelombang panas ekstrem yang diprediksi berlanjut."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Krisis kesehatan regional dan dampak jangka panjang perubahan iklim.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gelombang Panas Prancis 2023",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Gelombang Panas Prancis 2023. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Gelombang Panas Prancis 2023 menyebabkan kematian lebih dari 1.000 orang**, dengan sebagian besar korban adalah orang lanjut usia yang tinggal di panti jompo atau rumah sendiri.\n2. **Perubahan iklim dipercaya sebagai penyebab utama gelombang panas ekstrem** di Eropa, termasuk Prancis. Laporan Panel Antarpemerintah tentang Perubahan Iklim (IPCC) menunjukkan peningkatan frekuensi dan tingginya intensitas cuaca ekstrem sejak dekade 1950-an.\n3. **Gelombang panas juga menyebabkan kebakaran hutan dan banjir** di beberapa daerah di Prancis, seperti di kawasan Taman Nasional Gunung Rinjani, Pulau Lombok.\n4. **Efek jangka panjang gelombang panas dapat mengganggu stabilitas ekonomi** dan meningkatkan risiko kematian, terutama bagi orang miskin dan kelompok rentan lainnya."
+          }
+        ],
+        "articles": [
+          {
+            "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+            "category": "Kesehatan",
+            "published_at": "2026-07-03T10:23:32+00:00",
+            "summary": "Prancis mencatat 2.025 kematian berlebih selama puncak gelombang panas rekor pada Juni 2023, dengan kenaikan 29% dibanding minggu sebelumnya. Sementara itu, Eropa dan AS menghadapi gelombang panas ekstrem yang diprediksi berlanjut, sementara kebakaran hutan melanda bagian selatan Prancis.",
+            "key_points": [
+              "Prancis mencatat 2.025 kematian berlebih pada minggu terakhir gelombang panas rekor Juni 2023, dengan kenaikan 62% kematian di wilayah Paris.",
+              "Wilayah selatan Prancis menghadapi risiko kebakaran hutan tinggi, dengan hampir 7.000 kebakaran terjadi sejak musim panas dimulai.",
+              "Spanyol dan Portugal memperpanjang peringatan gelombang panas hingga 40°C, sementara Eropa dan AS menghadapi suhu ekstrem yang dipicu oleh perubahan iklim."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Skrining Jantung untuk Peserta Hyrox",
+        "title": "Skrining Jantung untuk Peserta Hyrox",
+        "synthesis": [
+          "Tren olahraga intensif Hyrox di Indonesia meningkat pesat.",
+          "Dokter peringatkan risiko henti jantung mendadak tanpa skrining.",
+          "Ditekankan pemeriksaan medis mendalam sebelum partisipasi."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Peningkatan aktivitas fisik berisiko tinggi memicu kejadian darurat kesehatan jantung.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Lagi Ter Hyrox-Hyrox? Dokter Ingatkan Skrining Jantung Biar Nggak Kolaps di Arena",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/kebugaran/d-8559065/lagi-ter-hyrox-hyrox-dokter-ingatkan-skrining-jantung-biar-nggak-kolaps-di-arena",
+            "category": "Kesehatan",
+            "published_at": "2026-07-04T00:05:41+00:00",
+            "summary": "Tren olahraga intensitas tinggi seperti Hyrox di Indonesia meningkat, namun dokter memperingatkan risiko henti jantung mendadak jika dilakukan tanpa skrining kesehatan jantung yang memadai. Spesialis kardiovaskular menekankan pentingnya pemeriksaan medis mendalam sebelum terjun ke olahraga berat untuk mengidentifikasi kelainan jantung tersembunyi.",
+            "key_points": [
+              "Hyrox, olahraga fungsional berintensitas tinggi, populer di masyarakat urban Indonesia.",
+              "Risiko henti jantung mendadak meningkat jika olahraga berat dilakukan tanpa persiapan fisik dan skrining jantung.",
+              "Pemeriksaan kesehatan jantung yang lebih mendalam (seperti ekokardiografi atau CT scan) disarankan untuk mendeteksi kondisi tersembunyi."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "Laga Piala Dunia Inggris vs Meksiko",
+        "title": "Laga Piala Dunia Inggris vs Meksiko",
+        "synthesis": [
+          "Pertandingan perempat final Inggris vs Meksiko tetap jadwal.",
+          "Laporan penjadwalan ulang batal akibat cuaca dan ketinggian.",
+          "Dampak jadwal turnamen minimal, operasional normal."
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Konfirmasi jadwal tanpa perubahan signifikan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Serangan Bom Monaco, Pelaku Tersembunyi",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Serangan Bom Monaco, Pelaku Tersembunyi\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Target Utama Serangan**: Yermolaiev, seorang oligark kelahiran Ukraina, dianggap sebagai target utama serangan bom di Monaco. Namun, otoritas Monako belum mengonfirmasi hal ini secara resmi.\n2. **Motif Serangan**: Berbagai motif yang dibahas di media mencakup kemungkinan adanya hubungan antara Yermolaiev dengan mantan rekan bisnisnya di wilayah Ukraina yang diduduki Rusia, keterkaitan dengan kejahatan terorganisasi Rusia, serta kemungkinan keterkaitan dengan kasus pidana yang melibatkan putranya.\n3. **Putra Yermolaiev Ditangkap**: Pada Desember 2025, putra Yermolaiev, Artur, ditangkap di Siprus dan diekstradisi ke Estonia. Artur mengaku bersalah setelah didakwa memiliki keterkaitan dengan Milton Group.\n4. **Keterkaitan dengan Invasi Ukraina**: Serangan bom di Monaco dapat terkait dengan konflik antara Ukraina dan Rusia, yang telah berlangsung sejak 2014. Invasi Ukraina oleh Rusia telah menyebabkan banyak korban jiwa dan kehancuran infrastruktur."
+          }
+        ],
+        "articles": [
+          {
+            "title": "England vs Mexico World Cup knockout match to go ahead as scheduled",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss",
+            "category": "Olahraga",
+            "published_at": "2026-07-04T00:07:04+00:00",
+            "summary": "Pertandingan perempat final Piala Dunia antara Inggris melawan Meksiko di Estadio Azteca tetap berlangsung sesuai jadwal, yaitu pukul 18.00 waktu setempat (00:00 GMT), meski sebelumnya muncul laporan tentang kemungkinan penjadwalan ulang akibat kondisi cuaca dan ketinggian lokasi.",
+            "key_points": [
+              "Pertandingan Inggris vs Meksiko tidak diundur meski ada spekulasi dari media tentang reschedule untuk menghindari cuaca buruk dan suhu tinggi.",
+              "Potensi perubahan jadwal pertandingan bisa memengaruhi jadwal pertandingan Brasil melawan Norwegia di New York.",
+              "Meksiko dianggap memiliki keuntungan karena terbiasa bermain di ketinggian, sementara Inggris mengakui kesiapan tim meski kondisi fisik mereka belum sepenuhnya beradaptasi."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik dan Keamanan Eropa Terkait Serangan Bom Monaco",
+        "analysis": "Serangan bom di Monaco dengan pelaku tersembunyi di Jerman menciptakan ketegangan geopolitik antara Ukraina dan Eropa Barat. Ini memicu peningkatan pengawasan keamanan di kawasan Eropa, yang berdampak pada sektor pariwisata (seperti di Monaco) dan meningkatkan biaya keamanan nasional. Keterlibatan Ukraina dalam insiden ini juga memperkuat narasi konflik Rusia-Ukraina, yang bisa memengaruhi aliran investasi ke Eropa Timur dan memicu pergeseran aliansi politik."
+      },
+      {
+        "title": "Krisis Lingkungan dan Kesehatan Publik di Prancis",
+        "analysis": "Gelombang panas rekor di Prancis yang menyebabkan 2.025 kematian berlebih menunjukkan kelemahan sistem kesehatan dalam menghadapi perubahan iklim. Ini memperkuat tren skrining jantung di olahraga intensif seperti Hyrox, karena masyarakat semakin sadar risiko kesehatan akibat stres termal. Dampak ekonomi dari krisis kesehatan ini bisa mengalihkan anggaran pemerintah ke sektor kesehatan, mengurangi investasi di sektor energi atau infrastruktur."
+      }
+    ],
+    "other_news": {
+      "Olahraga": [
+        {
+          "title": "Argentina made to suffer in Cape Verde World Cup scare, says Scaloni",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/argentina-made-suffer-in-cape-verde-world-cup-scare-says-scaloni-6231641",
+          "category": "Olahraga",
+          "published_at": "2026-07-04T01:55:34+00:00",
+          "summary": "Argentina menang 3-2 lewat babak tambahan melawan Cape Verde di babak 32 besar Piala Dunia, meski mengalami perlawanan sengit dari tim underdog tersebut. Pelatih Lionel Scaloni mengakui pertandingan ini lebih sulit dari yang diperkirakan dan memuji ketangguhan timnya. Scaloni juga menekankan bahwa tidak ada pertandingan perempat final yang mudah, terutama setelah Cape Verde dua kali menyamakan kedudukan.",
+          "key_points": [
+            "Argentina menang tipis 3-2 setelah dua kali tertinggal oleh Cape Verde dalam pertandingan yang berlangsung hingga babak tambahan.",
+            "Scaloni menegaskan bahwa kemenangan ini memperlihatkan ketangguhan dan karakter tim Argentina di bawah tekanan.",
+            "Cape Verde, sebagai tim underdog, mampu mengancam Argentina dengan dua kali menyamakan skor, termasuk gol spektakuler di babak tambahan."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Queiroz recalls Ati-Zigi as Ghana face unbeaten Colombia in World Cup last 32",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/queiroz-recalls-ati-zigi-ghana-face-unbeaten-colombia-in-world-cup-last-32-6231546",
+          "category": "Olahraga",
+          "published_at": "2026-07-04T00:34:52+00:00",
+          "summary": "Dalam pertandingan World Cup babak 32 besar antara Ghana dan Kolombia, Ghana melakukan empat perubahan starting lineup termasuk mengganti kiper Benjamin Asare dengan Lawrence Ati-Zigi yang telah pulih dari cedera, sementara Kolombia melakukan dua perubahan dengan memasukkan Daniel Munoz dan Johan Mojica.",
+          "key_points": [
+            "Ghana mengganti kiper Benjamin Asare dengan Lawrence Ati-Zigi karena pulih dari cedera paha.",
+            "Ghana melakukan total empat perubahan starting lineup, termasuk memainkan Caleb Yirenkyi, Jerome Opoku, dan Inaki Williams.",
+            "Kolombia melakukan dua perubahan dengan memasukkan Daniel Munoz dan Johan Mojica menggantikan Santiago Arias dan Deiver Machado."
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Waspada, Psikolog Ungkap Ciri-ciri Perilaku Orang Kecanduan Judi Online",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8559160/waspada-psikolog-ungkap-ciri-ciri-perilaku-orang-kecanduan-judi-online",
+          "category": "Kesehatan",
+          "published_at": "2026-07-04T02:04:13+00:00",
+          "summary": "Psikolog mengungkap ciri-ciri kecanduan judi online, seperti penutupan informasi finansial, peningkatan utang, dan penggunaan gadget berlebihan. Kecanduan ini dapat menyebabkan masalah kesehatan mental hingga risiko bunuh diri, serta memicu penggunaan narkoba untuk tetap terjaga. Penanganan dini melalui pendekatan profesional dan pengalihan kebiasaan menjadi solusi utama.",
+          "key_points": [
+            "Orang kecanduan judi online sering menutupi finansial, menjual aset mendadak, dan mengalami utang yang terus bertambah.",
+            "Kecanduan judi online berisiko menyebabkan gangguan mental seperti kecemasan, depresi, hingga keinginan bunuh diri.",
+            "Penanganan efektif melibatkan pendekatan dini, pemutusan akses internet, dan pengalihan kegiatan yang memicu pelepasan dopamin."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Sampai Disorot Menkes, Ini Perbandingan Kadar Sodium Beberapa Produk Kecap Manis",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8559159/sampai-disorot-menkes-ini-perbandingan-kadar-sodium-beberapa-produk-kecap-manis",
+          "category": "Kesehatan",
+          "published_at": "2026-07-04T01:02:04+00:00",
+          "summary": "Kecap manis menjadi perhatian kesehatan karena kandungan sodium yang tinggi, meski sering diabaikan karena fokus pada gula. Kadar sodium bervariasi antar merek dan dapat menyumbang hingga 25% dari batas harian yang dianjurkan. Konsumen disarankan memperhatikan label nutrisi dan mengatur asupan natrium secara keseluruhan.",
+          "key_points": [
+            "Menteri Kesehatan menyoroti risiko sodium berlebih dari kecap manis yang sering diabaikan konsumen.",
+            "Kadar sodium kecap manis bervariasi per merek dan bisa mencapai 25% dari batas harian 2.000 mg per sendok makan.",
+            "Penggunaan kecap manis perlu diimbangi dengan pengawasan asupan natrium dari sumber lain untuk mencegah risiko kesehatan."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Investigasi Internal Kemenkes, Ada Dugaan Intimidasi Verbal ke Almarhum dr Icha",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8559069/investigasi-internal-kemenkes-ada-dugaan-intimidasi-verbal-ke-almarhum-dr-icha",
+          "category": "Kesehatan",
+          "published_at": "2026-07-03T23:03:21+00:00",
+          "summary": "Kementerian Kesehatan menyatakan hasil investigasi internal terhadap kematian dr Icha menemukan dugaan intimidasi verbal oleh oknum masyarakat, penanganan medis sesuai prosedur, dan koordinasi lemah antar instansi daerah. Investigasi lengkap diserahkan ke pihak kepolisian karena kasus ini sedang dalam penyelidikan.",
+          "key_points": [
+            "Ditemukan dugaan intimidasi verbal terhadap dr Icha oleh oknum masyarakat saat bertugas.",
+            "Penanganan luka gigitan ular di dua rumah sakit dilaporkan sesuai prosedur medis standar.",
+            "Koordinasi antara fasilitas kesehatan, dinas kesehatan, dan pemerintah daerah dinilai tidak efektif dalam melindungi tenaga medis."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "German row over plan for workers to need sick note on first day of illness",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
+          "category": "Kesehatan",
+          "published_at": "2026-07-03T14:56:30+00:00",
+          "summary": "Pemerintah Jerman yang berkoalisi antara Partai Demokrat Kristen (CDU) dan Partai Sosial Demokrat (SPD) mengusulkan perubahan aturan cuti sakit yang memerlukan surat keterangan dokter pada hari pertama sakit, dengan alasan mengurangi jumlah hari sakit yang dianggap terlalu tinggi. Kebijakan ini menuai kritik dari kelompok medis yang menilai akan memperberat klinik dan memicu risiko penyebaran infeksi, sementara sebagian anggota SPD mempertanyakan efektivitasnya.",
+          "key_points": [
+            "Perubahan aturan memerlukan surat keterangan dokter pada hari pertama sakit, menghapus kebijakan sebelumnya yang memungkinkan keterangan via telepon.",
+            "Kebijakan ditujukan untuk mengurangi jumlah hari sakit di Jerman yang dianggap terlalu tinggi (sekitar 18 hari per tahun per karyawan) demi mengatasi kerugian kompetitif ekonomi.",
+            "Kelompok medis dan sebagian anggota SPD mengkritik kebijakan ini karena risiko kelebihan beban klinik dan ketidakpastian manfaatnya."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "WHO Nyatakan Wabah Hantavirus di Kapal Pesiar MV Hondius Telah Berakhir",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8559083/who-nyatakan-wabah-hantavirus-di-kapal-pesiar-mv-hondius-telah-berakhir",
+          "category": "Kesehatan",
+          "published_at": "2026-07-03T14:54:03+00:00",
+          "summary": "WHO secara resmi menyatakan wabah Hantavirus di kapal pesiar MV Hondius telah berakhir setelah kontak terakhir dari penderita dinyatakan negatif dan menyelesaikan karantina. Wabah ini menginfeksi 13 orang dengan 3 kematian, melibatkan strain Andes hantavirus yang jarang ditemukan. Lebih dari 650 kontak erat di 33 negara berhasil dipantau.",
+          "key_points": [
+            "WHO mengakhiri wabah Hantavirus di MV Hondius setelah kontak terakhir negatif dan selesai karantina.",
+            "Wabah menginfeksi 13 orang dan menyebabkan 3 kematian, melibatkan strain Andes hantavirus yang langka.",
+            "Lebih dari 650 kontak erat di 33 negara dipantau secara ketat oleh otoritas kesehatan."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Ronaldo sends message to Venezuelan earthquake survivor",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/ronaldo-sends-message-to-venezuelan-earthquake-survivor?traffic_source=rss",
+          "category": "Lingkungan",
+          "published_at": "2026-07-04T01:32:28+00:00",
+          "summary": "Cristiano Ronaldo mengirim pesan dukungan kepada Andres Mieles, seorang selamat dari gempa bumi di Venezuela yang kehilangan kaki dan orang tua akibat bencana pada 24 Juni. Mieles awalnya meminta kartu koleksi Ronaldo untuk tetap bersemangat, tetapi pesepakbola tersebut memilih mengirim pesan langsung.",
+          "key_points": [
+            "Cristiano Ronaldo mengirim pesan dukungan kepada selamat gempa Venezuela Andres Mieles.",
+            "Andres Mieles kehilangan kaki dan orang tua akibat gempa bumi pada 24 Juni.",
+            "Mieles awalnya meminta kartu koleksi Ronaldo, tetapi mendapat pesan langsung dari pesepakbola tersebut."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-04T00:20:08+00:00",
+          "summary": "Pelatih Mesir Hossam Hassan mempersembahkan kemenangan timnya atas Australia di babak 16 besar Piala Dunia untuk rakyat Palestina, yang ikut merayakan kemenangan tersebut di Gaza. Mesir menang 4-2 lewat adu penalti setelah imbang 1-1 di waktu tambahan, sementara warga Gaza menonton pertandingan di antara reruntuhan dengan antusiasme luar biasa.",
+          "key_points": [
+            "Hossam Hassan mempersembahkan kemenangan Mesir atas Australia untuk rakyat Palestina dan Mesir.",
+            "Mesir menang 4-2 melalui adu penalti setelah imbang 1-1 di waktu tambahan melawan Australia.",
+            "Warga Gaza merayakan kemenangan Mesir di antara reruntuhan dan tenda darurat, dengan banyak yang menonton pertandingan di layar umum."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Lenovo Sebar Promosi Perangkat Koleksi FIFA World Cup 26 Edition",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8559185/lenovo-sebar-promosi-perangkat-koleksi-fifa-world-cup-26-edition",
+          "category": "Teknologi",
+          "published_at": "2026-07-03T23:11:03+00:00",
+          "summary": "Lenovo, sebagai Official Technology Partner FIFA World Cup 2026, meluncurkan koleksi perangkat eksklusif bertema sepak bola dengan tiga lini utama, yaitu Yoga Slim 7i Ultra, Legion Pro 7i, dan Legion Tab Gen 5. Koleksi ini menonjolkan desain khusus yang menggabungkan performa tinggi dengan elemen visual sepak bola. Pelanggan dapat mengakses koleksi ini melalui roadshow hingga Juli 2026 dan mendapatkan penawaran khusus hingga 31 Juli 2026.",
+          "key_points": [
+            "Lenovo merilis koleksi perangkat eksklusif bertema FIFA World Cup 2026 sebagai Official Technology Partner.",
+            "Koleksi terdiri dari Yoga Slim 7i Ultra, Legion Pro 7i, dan Legion Tab Gen 5 dengan desain khusus bertema sepak bola.",
+            "Roadshow untuk menampilkan koleksi berlangsung hingga Juli 2026, dengan penawaran khusus hingga 31 Juli 2026."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3698
+    },
+    "timestamp": "2026-07-04T02:13:28.016700+00:00"
   }
 ]
