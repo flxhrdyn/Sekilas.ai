@@ -28737,5 +28737,354 @@
       "total_in_qdrant": 3813
     },
     "timestamp": "2026-07-08T02:01:52.756446+00:00"
+  },
+  {
+    "date": "2026-07-09",
+    "generated_at": "2026-07-09T02:14:43.206966+00:00",
+    "headline": "Inflasi dan ketidakpastian fiskal di Jepang memicu yield obligasi 10-tahun tembus rekor 30 tahun.",
+    "global_headline": "Inflasi dan ketidakpastian fiskal di Jepang memicu yield obligasi 10-tahun tembus rekor 30 tahun.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "Kerja Sama Pertamina-Boeing Bahan Bakar Avtur Berkelanjutan",
+        "title": "Kerja Sama Pertamina-Boeing Bahan Bakar Avtur Berkelanjutan",
+        "synthesis": [
+          "Pertamina-Boeing MoU percepat pengembangan SAF di Indonesia.",
+          "Kolaborasi dukung dekarbonisasi sektor penerbangan nasional.",
+          "Indonesia posisikan diri sebagai pemimpin regional SAF."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kemitraan strategis mengubah ekosistem energi terbang dan posisi Indonesia di pasar global SAF.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kerja Sama Pertamina-Boeing Bahan Bakar Avtur Berkelanjutan",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Kerja Sama Pertamina-Boeing Bahan Bakar Avtur Berkelanjutan\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pemerintah Indonesia memasukkan perbaikan infrastruktur sebagai prioritas utama dalam anggarannya untuk meningkatkan kemitraan dagang dengan Amerika Serikat.** Infrastruktur yang baik tidak hanya dilihat dari jalan raya atau bandar udara, tetapi juga sistem transportasi yang berdaya guna tinggi.\n2. **Investor dari AS dapat terlibat dalam pembiayaan dan pengadaaan infrastruktur di Indonesia.** Proyek pembangunan infrastruktur pada sektor zona industri, energi dan listrik, transportasi, dan air bersih dapat menjadi prioritas kerjasama Indonesia-AS.\n3. **Transisi energi transportasi dapat mengurangi emisi gas rumah kaca dan meningkatkan kualitas udara di perkotaan.** Kendaraan listrik tidak menghasilkan emisi langsung saat beroperasi, sementara biofuel menghasilkan emisi 50-70% lebih rendah dibandingkan bahan bakar fosil.\n4. **Kerja sama industri dapat meningkatkan efisiensi dan keberlanjutan di kawasan industri.** Industrial symbiosis dapat dimanfaatkan untuk mengoptimalkan penggunaan sumber daya dan mengurangi konsumsi energi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Indonesia's Pertamina, Boeing sign MoU on sustainable aviation fuel development",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/indonesias-pertamina-boeing-sign-mou-sustainable-aviation-fuel-development-6242526",
+            "category": "Ekonomi",
+            "published_at": "2026-07-09T01:07:36+00:00",
+            "summary": "Pertamina dan Boeing menandatangani perjanjian kerja sama untuk mengembangkan industri bahan bakar aviasi berkelanjutan (SAF) di Indonesia. Kerja sama ini bertujuan mendukung upaya dekarbonisasi sektor penerbangan dan mencapai emisi bersih, serta memanfaatkan potensi Indonesia sebagai pemimpin regional dalam SAF.",
+            "key_points": [
+              "Kolaborasi antara Pertamina dan Boeing fokus pada identifikasi sumber bahan baku, pengembangan teknologi SAF, dan dukungan kebijakan terkait.",
+              "Pertamina telah meluncurkan inisiatif SAF, termasuk produksi, sertifikasi, dan proyek biorefinery di Cilacap yang menggunakan minyak goreng bekas.",
+              "Boeing memproyeksikan pertumbuhan lalu lintas penumpang di Asia Tenggara sebesar 7% per tahun hingga 2044, yang akan meningkatkan permintaan 4.900 pesawat baru dan mempercepat adopsi SAF."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Cedera Pemain Maroko Saibari di Piala Dunia",
+        "title": "Cedera Pemain Maroko Saibari di Piala Dunia",
+        "synthesis": [
+          "Morocco kehilangan pemain kunci Saibari cedera hamstring di perempat final Piala Dunia.",
+          "Pelatih Ouahbi optimis menjuarai laga melawan Prancis meski tanpa Saibari.",
+          "Rahimi diharapkan menggantikan Saibari setelah cetak gol kemenangan melawan Kanada."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kehilangan pemain kunci di pertandingan krusial Piala Dunia mengubah strategi dan peluang tim.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Morocco dealt huge blow as injured Saibari out of World Cup quarterfinal",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/sports/2026/7/9/morocco-dealt-huge-blow-as-injured-saibari-out-of-world-cup-quarterfinal?traffic_source=rss",
+            "category": "Olahraga",
+            "published_at": "2026-07-09T00:51:48+00:00",
+            "summary": "Morocco mengalami kehilangan pemain kunci, Ismael Saibari, yang cedera hamstring dan absen dalam laga perempat final Piala Dunia melawan Prancis. Pelatih Mohamed Ouahbi menyatakan tim tetap optimis untuk menjuarai pertandingan dan mengejar balas dendam atas kekalahan semifinal 2022. Soufiane Rahimi diharapkan menggantikan posisi Saibari setelah mencetak gol kemenangan melawan Kanada.",
+            "key_points": [
+              "Ismael Saibari absen karena cedera hamstring yang dialami saat melawan Kanada di babak 16 besar.",
+              "Pelatih Mohamed Ouahbi menegaskan tim bertekad menjuarai perempat final dan menolak anggapan keberhasilan hingga babak ini sudah cukup.",
+              "Morocco berupaya membalaskan kekalahan semifinal Piala Dunia 2022 dari Prancis."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 4,
+        "topic": "Yield Surat Utang Jepang Mencapai Rekor 30 Tahun",
+        "title": "Yield Surat Utang Jepang Mencapai Rekor 30 Tahun",
+        "synthesis": [
+          "Yield obligasi Jepang 10-tahun tembus rekor 30 tahun akibat inflasi dan ketidakpastian fiskal.",
+          "Kenaikan harga minyak serta rencana belanja pemerintah Jepang memperberat tekanan inflasi.",
+          "Pernyataan Trump soal konflik Iran memicu volatilitas pasar dan kekhawatiran risiko geopolitik."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik akibat keterkaitan fiskal, inflasi, dan ketegangan geopolitik yang mengancam stabilitas ekonomi Jepang.",
+        "external_research": [
+          {
+            "title": "Deep Research: Yield Surat Utang Jepang Mencapai Rekor 30 Tahun",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Yield Surat Utang Jepang Mencapai Rekor 30 Tahun\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Imbal hasil (yield) obligasi Jepang 10 tahun mencapai rekor tertinggi sejak Mei 1997**, dengan level di atas 2,8%. Ini disebabkan oleh kekhawatiran atas pengeluaran fiskal yang meningkat dan pinjaman pemerintah yang lebih berat.\n2. **Bank of Japan (BoJ) menghentikan program pengurangan obligasinya mulai April 2027** dan akan membeli sekitar 2 triliun yen dalam obligasi pemerintah Jepang (Japan Government Bond/JGB) per bulan.\n3. **BoJ juga menerapkan Yield Curve Control (YCC)**, yang berarti mereka mengendalikan imbal hasil obligasi pemerintah Jepang jangka panjang agar tetap berada di sekitar target tertentu (misalnya, sekitar nol persen).\n4. **Peningkatan suku bunga oleh BoJ diproyeksikan akan memperkuat yen Jepang**, setelah periode panjang dengan suku bunga negatif yang bertujuan untuk merangsang pertumbuhan ekonomi domestik melalui peningkatan pinjaman dan pengeluaran konsumen."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Japan benchmark bond yield hits 30-year high on inflation, fiscal health concerns",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/japan-benchmark-bond-yield-hits-30-year-high-inflation-fiscal-health-concerns-6242471",
+            "category": "Ekonomi",
+            "published_at": "2026-07-09T00:31:53+00:00",
+            "summary": "Yield surat utang pemerintah Jepang 10-tahun mencapai level tertinggi dalam 30 tahun pada 9 Juli 2024, didorong kekhawatiran inflasi akibat kenaikan harga minyak dan ketidakpastian kesehatan fiskal Jepang. Kenaikan yield terjadi seiring reaksi pasar terhadap pernyataan Presiden AS Donald Trump soal konflik Iran dan rencana pemerintah Jepang yang mengusulkan kenaikan belanja besar-besaran.",
+            "key_points": [
+              "Yield surat utang Jepang 10-tahun naik 1,5 basis poin ke 2,88%, tertinggi sejak September 1996.",
+              "Kenaikan harga minyak akibat ketegangan geopolitik dan kekhawatiran inflasi mendorong yield surat utang naik.",
+              "Pemerintah Jepang berencana mengadakan lelang obligasi 5-tahun senilai 2,5 triliun yen, didukung oleh peningkatan permintaan dan penurunan swap spread negatif."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "Kenaikan Dolar Akibat Ketegangan Teluk dan Harga Minyak",
+        "title": "Kenaikan Dolar Akibat Ketegangan Teluk dan Harga Minyak",
+        "synthesis": [
+          "Ketegangan Teluk dorong harga minyak naik, dolar AS menguat.",
+          "Inflasi global meningkat, tekanan kenaikan suku bunga Fed membesar.",
+          "Yen Jepang tertekan akibat pelemahan dolar AS."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik global melalui kenaikan harga energi dan kebijakan moneter.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kenaikan Dolar Akibat Ketegangan Teluk dan Harga Minyak",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait kenaikan dolar akibat ketegangan Teluk dan harga minyak. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kenaikan Dolar AS**: Nilai tukar DXY naik menjadi 101,1511 pada 7 Juli 2026, naik 0,30% dari sesi sebelumnya. Selama sebulan terakhir, Dolar Amerika Serikat menguat 1,11%, dan naik 3,73% selama 12 bulan terakhir.\n2. **Faktor Penyebab**: Kenaikan dolar disebabkan oleh kondisi eksternal dan internal dalam negeri, termasuk isu perang dagang antara AS dengan Tiongkok, penaikan suku bunga oleh Bank Sentral AS, dan fluktuasi harga minyak dunia.\n3. **Dampak pada Perekonomian**: Kenaikan dolar dapat mempengaruhi perekonomian beberapa negara lain di dunia, termasuk Indonesia, dan dapat menyebabkan fluktuasi signifikan dalam harga saham, obligasi, dan komoditas di seluruh dunia.\n4. **Kebijakan Moneter**: Bank Sentral AS, The Federal Reserve, telah menaikkan suku bunga untuk mempersempit terjadinya resesi di tengah upaya pemulihan ekonomi, yang dapat mempengaruhi kondisi ekonomi global secara keseluruhan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Dollar stands tall as Gulf tensions fuel oil price surge, Fed hike bets",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/dollar-stands-tall-gulf-tensions-fuel-oil-price-surge-fed-hike-bets-6242556",
+            "category": "Ekonomi",
+            "published_at": "2026-07-09T01:21:41+00:00",
+            "summary": "Dolar AS menguat di tengah ketegangan kembali di Teluk yang mendorong kenaikan harga minyak dan memperkuat ekspektasi kenaikan suku bunga, sementara yen Jepang terus tertekan. Kenaikan harga minyak juga meningkatkan tekanan inflasi global, yang memperbesar kemungkinan kenaikan suku bunga oleh The Fed.",
+            "key_points": [
+              "Ketegangan di Teluk kembali memicu permintaan dolar AS sebagai aset aman dan mendorong kenaikan harga minyak.",
+              "Kenaikan harga minyak berpotensi mempercepat kenaikan suku bunga Federal Reserve (The Fed) akibat tekanan inflasi.",
+              "Yen Jepang terus melemah terhadap dolar AS, mendekati level terendah 40 tahun akibat kenaikan harga minyak."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Misteri Mayat Perempuan di Antarktika Abad ke-19",
+        "title": "Misteri Mayat Perempuan di Antarktika Abad ke-19",
+        "synthesis": [
+          "Penemuan jasad perempuan di Antartika tahun 1819-1825 mengungkap jejak manusia awal di wilayah tersebut.",
+          "Analisis menunjukkan kemungkinan asal Chili dan praktik pemakaman di laut pada abad ke-19.",
+          "Penyebaran tulang dipengaruhi burung dan arus laut, memberi wawasan baru tentang degradasi jasad di lingkungan ekstrem."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Mengubah pemahaman tentang sejarah kehadiran manusia dan praktik pemakaman di wilayah kutub.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Misteri Perempuan yang Terkubur di Antartika 200 Tahun Lalu",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8566117/misteri-perempuan-yang-terkubur-di-antartika-200-tahun-lalu",
+            "category": "Umum",
+            "published_at": "2026-07-09T01:45:06+00:00",
+            "summary": "Seorang ilmuwan menemukan sisa-sisa jasad perempuan di Antartika pada 1985 yang diperkirakan meninggal antara 1819 dan 1825. Analisis menunjukkan kemungkinan ia berasal dari Chili dan terkubur di sana akibat kecelakaan atau praktik pemakaman di laut. Penyebaran tulang-tulangnya disebut mungkin dipengaruhi burung dan arus laut.",
+            "key_points": [
+              "Penemuan tengkorak dan tulang perempuan di Pantai Yamana, Antartika, yang diperkirakan berasal dari tahun 1819-1825.",
+              "Dugaan bahwa perempuan tersebut berasal dari Chili dan terkait dengan aktivitas pemburu anjing laut abad ke-19 atau dimakamkan di laut.",
+              "Penyebaran tulang-tulangnya di area luas disebabkan oleh aktivitas burung dan arus laut yang menghanyutkan jasadnya."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Geopolitik Energi dan Teknologi Berkelanjutan",
+        "analysis": "Kerja sama Pertamina-Boeing dalam pengembangan bahan bakar avtur berkelanjutan (SAF) secara langsung terkait dengan ketegangan geopolitik di Teluk yang mendorong kenaikan harga minyak dan dolar AS. Kenaikan harga minyak akibat ketegangan Teluk memperkuat urgensi transisi energi menuju SAF, yang menjadi strategi untuk mengurangi ketergantungan pada bahan bakar fosil. Di sisi lain, yield obligasi Jepang yang mencapai rekor 30 tahun mencerminkan ketidakpastian fiskal global, yang dapat memengaruhi arus investasi ke proyek energi terbarukan seperti SAF. Jepang, sebagai negara dengan kebutuhan energi tinggi, mungkin akan meningkatkan investasi di SAF untuk memitigasi risiko volatilitas harga minyak, sekaligus memanfaatkan momentum geopolitik yang mendorong inovasi teknologi hijau."
+      },
+      {
+        "title": "Dampak Ekonomi dan Sosial dari Ketegangan Geopolitik",
+        "analysis": "Kenaikan dolar AS akibat ketegangan Teluk dan harga minyak tidak hanya memengaruhi sektor energi, tetapi juga berimplikasi pada stabilitas ekonomi negara-negara berkembang seperti Indonesia. Kenaikan dolar memperberat beban impor energi, yang dapat memicu inflasi dan mengurangi daya beli masyarakat. Di sisi lain, kerja sama Pertamina-Boeing untuk SAF menjadi strategi jangka panjang untuk mengurangi ketergantungan pada impor minyak, sekaligus menciptakan peluang ekspor teknologi hijau. Namun, ketegangan geopolitik yang memicu kenaikan harga minyak juga dapat mengalihkan fokus pemerintah ke isu keamanan, sehingga memperlambat progres proyek berkelanjutan seperti SAF."
+      }
+    ],
+    "other_news": {
+      "Hukum": [
+        {
+          "title": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-09T00:54:32+00:00",
+          "summary": "Presiden AS Donald Trump berencana mengajukan permohonan ulang ke Mahkamah Agung AS terkait keputusan yang menolak aturannya untuk mengakhiri kewarganegaraan otomatis bagi bayi yang lahir di AS. Keputusan 6-3 tersebut dinilai sebagai kekalahan besar bagi Trump, sementara kelompok hak-hak sipil memuji keputusan pengadilan tersebut. Trump juga meminta Kongres untuk mengesahkan undang-undang pembatasan kewarganegaraan, yang dianggap sulit karena dukungan publik kuat terhadap praktik kewarganegaraan otomatis.",
+          "key_points": [
+            "Trump akan mengajukan permohonan ulang ke Mahkamah Agung terkait aturan kewarganegaraan otomatis untuk bayi yang lahir di AS.",
+            "Mahkamah Agung menolak aturan Trump karena melanggar Pasal 14 Amandemen Konstitusi AS yang menjamin kewarganegaraan bagi yang lahir di AS.",
+            "Upaya Trump untuk mengubah kebijakan kewarganegaraan dihadang oleh dukungan publik kuat dan kebutuhan amandemen konstitusi."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-08T15:09:08+00:00",
+          "summary": "Seorang remaja berusia 16 tahun ditangkap setelah dua siswi berusia 13 tahun mengalami luka serius dalam insiden di sebuah sekolah menengah di Schongau, Bavaria, Jerman. Pelaku diduga membawa pisau dan senjata api serta bertindak sendirian, sementara polisi masih menyelidiki detail lebih lanjut.",
+          "key_points": [
+            "Pelaku membawa pisau dan senjata api serta diduga bertindak sendirian.",
+            "Dua siswi berusia 13 tahun mengalami luka serius, tetapi tidak dalam kondisi kritis.",
+            "Pelaku diduga memiliki riwayat perawatan psikiatri dan mungkin pernah menjadi siswa di sekolah tersebut."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "German doctor jailed for murder of 15 patients and suspected of more",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-08T14:25:25+00:00",
+          "summary": "Seorang dokter perawatan palliatif Jerman, Johannes M., divonis hukuman penjara seumur hidup atas pembunuhan 15 pasiennya, dengan otoritas mencurigai ia terlibat dalam 76 kasus lainnya. Ia mengakui telah memberikan kombinasi obat mematikan tanpa izin pasien dan mencoba membakar tempat kejadian untuk menghapus jejak.",
+          "key_points": [
+            "Johannes M. dihukum mati karena membunuh 12 wanita dan 3 pria yang kondisinya kritis tetapi tidak dalam kondisi akut.",
+            "Ia diduga terlibat dalam 76 kasus kematian lainnya, yang jika terbukti akan menjadi kasus pembunuhan berantai terbesar dalam sejarah Jerman.",
+            "Hakim menetapkan penahanan preventif dan larangan seumur hidup untuk praktik kedokteran atas dasar kesalahan yang dianggap sangat serius."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "Rights group plans complaint to IOC against Infantino over Trump support",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/7/9/rights-group-plans-complaint-to-ioc-against-infantino-over-trump-support?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-09T00:53:41+00:00",
+          "summary": "FairSquare, sebuah kelompok hak asasi manusia, berencana mengajukan keluhan ke Komite Olimpiade Internasional (IOC) terkait dugaan pelanggaran Gianni Infantino, Presiden FIFA, atas netralitas politik akibat dukungan terhadap Presiden AS Donald Trump. Keluhan tersebut mencakup pemberian FIFA Peace Prize kepada Trump dan dugaan penyalahgunaan kekuasaan oleh Infantino. IOC menyatakan belum menerima keluhan tersebut, sementara FIFA belum menunjukkan tanda-tanda akan membuka investigasi.",
+          "key_points": [
+            "FairSquare mengajukan keluhan ke IOC atas dugaan Infantino melanggar netralitas politik dengan mendukung Trump dan mengusulkan FIFA Peace Prize yang diberikan kepada Trump.",
+            "Keluhan juga meminta investigasi terhadap apakah keputusan pemberian FIFA Peace Prize diambil oleh FIFA Council atau secara sepihak oleh Infantino, yang bisa dianggap sebagai penyalahgunaan kekuasaan.",
+            "IOC menyatakan belum menerima keluhan tersebut, sementara FIFA belum memulai investigasi meski telah menerima keluhan dari FairSquare pada Desember 2025."
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-08T17:18:14+00:00",
+          "summary": "Presiden AS Donald Trump menyatakan akan memberikan lisensi produksi rudal Patriot kepada Ukraina untuk memperkuat pertahanan udara terhadap serangan rudal balistik Rusia, meski Ukraina saat ini dianggap belum mampu memproduksi sistem canggih tersebut secara mandiri.",
+          "key_points": [
+            "Trump menjanjikan lisensi produksi rudal Patriot kepada Ukraina setelah Zelensky meminta izin resmi pada Mei 2024.",
+            "Ukraina menghadapi kekurangan sistem pertahanan udara untuk menghadapi serangan rudal balistik Rusia yang meningkat, dengan 23 rudal berhasil menembus pertahanan pada akhir Mei 2024.",
+            "Para ahli meragukan kemampuan Ukraina memproduksi rudal Patriot secara mandiri, dengan kemungkinan proses produksi dilakukan di Eropa dan memakan waktu berbulan-bulan."
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Viral Tren Slow Jogging Viral di Korsel, Semantap Ini Manfaatnya Buat Tubuh",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8565818/viral-tren-slow-jogging-viral-di-korsel-semantap-ini-manfaatnya-buat-tubuh",
+          "category": "Kesehatan",
+          "published_at": "2026-07-09T00:03:01+00:00",
+          "summary": "Tren slow jogging viral di Korea Selatan karena dianggap ramah untuk semua usia dan minim risiko cedera. Olahraga ini membantu membangun daya tahan jangka panjang serta melindungi sendi dari beban berlebihan.",
+          "key_points": [
+            "Slow jogging dilakukan dengan ritme lambat sehingga ramah terhadap sendi dan aman bagi pemula, lansia, atau orang dengan persendian lemah.",
+            "Latihan ini meningkatkan kapasitas aerobik (VO2 Max) dan pertumbuhan pembuluh darah kapiler serta mitokondria untuk energi otot.",
+            "Metode slow run-walk (4 menit lari + 1 menit jalan) disarankan untuk menjaga detak jantung stabil selama 30 menit."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Diet Tak Harus Mahal, Makan di Warteg Juga Bisa Tetap Sehat",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8565812/diet-tak-harus-mahal-makan-di-warteg-juga-bisa-tetap-sehat",
+          "category": "Kesehatan",
+          "published_at": "2026-07-08T23:03:57+00:00",
+          "summary": "Menjalani diet sehat tidak harus mengandalkan makanan mahal seperti salad atau quinoa. Spesialis gizi klinik, dr. Igus Ulfa Yaze, menekankan bahwa keberhasilan diet ditentukan oleh pilihan menu dan porsinya, bukan tempat membeli makanan. Masyarakat dapat tetap sehat dengan memilih menu bergizi di warteg, seperti satu sumber protein, sayur, dan nasi secukupnya.",
+          "key_points": [
+            "Diet sehat tidak harus mahal; makanan seperti salad atau quinoa bukan syarat utama.",
+            "Kesehatan makanan ditentukan oleh pilihan menu dan porsi, bukan tempat membelinya.",
+            "Warteg bisa menjadi pilihan diet sehat dengan memilih protein, sayur, dan nasi dalam proporsi seimbang."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Waspada 'Teknostres'! 16,9 Persen Warga Malaysia Kena Gangguan Psikososial Gara-gara Kerja",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8565716/waspada-teknostres-16-9-persen-warga-malaysia-kena-gangguan-psikososial-gara-gara-kerja",
+          "category": "Teknologi",
+          "published_at": "2026-07-08T22:02:34+00:00",
+          "summary": "Sebuah survei nasional di Malaysia (2023-2025) menemukan 16,91 persen pekerja mengalami gangguan psikososial akibat pekerjaan, dengan 'teknostres' sebagai ancaman baru dari penggunaan teknologi digital di tempat kerja. Data ini dihimpun dari 100.000 pekerja di tujuh sektor industri untuk merumuskan strategi pencegahan lebih efektif.",
+          "key_points": [
+            "16,91 persen pekerja Malaysia mengalami gangguan psikososial terkait pekerjaan.",
+            "Survei melibatkan 100.000 pekerja di tujuh sektor industri selama 2023-2025.",
+            "Teknostres muncul sebagai faktor baru akibat ketergantungan berlebihan pada teknologi digital di lingkungan kerja."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Ronaldo Unggah 'Portugal Sempre' usai Tersingkir, Bikin Fans Terharu",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8566114/ronaldo-unggah-portugal-sempre-usai-tersingkir-bikin-fans-terharu",
+          "category": "Olahraga",
+          "published_at": "2026-07-09T01:15:13+00:00",
+          "summary": "Cristiano Ronaldo mengunggah pesan 'Portugal Sempre' di media sosial setelah Portugal tersingkir dari Piala Dunia 2026, disertai dua foto yang mencerminkan komitmen dan kekecewaan tim. Unggahan tersebut memicu reaksi beragam dari fans, mulai dari dukungan hingga kritik, sementara ia mengisyaratkan kemungkinan Piala Dunia 2026 sebagai penampilan terakhirnya.",
+          "key_points": [
+            "Ronaldo mengunggah 'Portugal Sempre' sebagai respons atas kekalahan Portugal dari Spanyol di babak 16 besar Piala Dunia 2026.",
+            "Unggahan tersebut disertai dua foto yang menggambarkan tekad Ronaldo dan solidaritas tim Portugal pasca-kekalahan.",
+            "Ronaldo mengisyaratkan Piala Dunia 2026 mungkin menjadi penampilan terakhirnya di turnamen tersebut, meski belum memastikan pensiun dari Timnas Portugal."
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Amorim: Modric Akan Kembali ke Milan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-italia/d-8566102/amorim-modric-akan-kembali-ke-milan",
+          "category": "Olahraga",
+          "published_at": "2026-07-09T00:33:37+00:00",
+          "summary": "Pelatih baru AC Milan Ruben Amorim menyatakan Luka Modric akan kembali ke klub untuk musim depan meski kontraknya telah berakhir pada Juni lalu. Amorim menegaskan Modric, yang tampil 37 kali dengan kontribusi dua gol dan tiga assist musim lalu, tetap menjadi figur penting bagi tim.",
+          "key_points": [
+            "Amorim ingin Modric kembali ke AC Milan untuk musim depan meski kontraknya telah habis.",
+            "Modric tampil 37 kali dengan dua gol dan tiga assist untuk Milan pada musim lalu.",
+            "Manajemen Milan dan Amorim telah berkomunikasi dengan Modric terkait kemungkinan kembalinya pemain tersebut."
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3845
+    },
+    "timestamp": "2026-07-09T02:14:43.206975+00:00"
   }
 ]
