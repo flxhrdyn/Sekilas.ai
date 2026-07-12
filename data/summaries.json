@@ -29762,5 +29762,348 @@
       "total_in_qdrant": 3828
     },
     "timestamp": "2026-07-11T02:00:14.949957+00:00"
+  },
+  {
+    "date": "2026-07-12",
+    "generated_at": "2026-07-12T02:03:32.440835+00:00",
+    "headline": "Pemerintah Nigeria berhasil menyelamatkan 39 siswa dan 5 guru yang diculik selama dua bulan di Oyo State.",
+    "global_headline": "Pemerintah Nigeria berhasil menyelamatkan 39 siswa dan 5 guru yang diculik selama dua bulan di Oyo State.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "Laga Norwegia vs Inggris dan Bellingham",
+        "title": "Laga Norwegia vs Inggris dan Bellingham",
+        "synthesis": [
+          "Inggris menang 2-1 atas Norwegia di babak perempatfinal Piala Dunia 2026.",
+          "Jude Bellingham mencetak brace krusial dalam kemenangan Inggris.",
+          "Pertandingan memasuki babak tambahan setelah skor 1-1 di babak pertama."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kemenangan Inggris di babak perempatfinal Piala Dunia 2026 mengubah jalannya turnamen.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Norwegia Vs Inggris: Jude Bellingham Luar Biasa!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8570180/norwegia-vs-inggris-jude-bellingham-luar-biasa",
+            "category": "Olahraga",
+            "published_at": "2026-07-12T00:08:53+00:00",
+            "summary": "Inggris menang 2-1 atas Norwegia di babak perempatfinal Piala Dunia 2026 berkat brace Jude Bellingham. Pertandingan berlangsung di Miami Stadium dan memasuki babak tambahan setelah kedudukan 1-1 di babak pertama. Kemenangan ini membawa Inggris ke semifinal.",
+            "key_points": [
+              "Jude Bellingham mencetak dua gol dari permainan terbuka, mengantarkan Inggris menang 2-1 atas Norwegia.",
+              "Bellingham menyamai rekor Gary Lineker dengan 6 gol dari open play di Piala Dunia 2026, sejajar dengan torehan Harry Kane.",
+              "Dia menjadi pemain termuda kedua yang mencetak dua gol atau lebih dalam dua pertandingan beruntun fase gugur Piala Dunia setelah Pele."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Kinerja Bellingham dan Kritik Tuchel",
+        "title": "Kinerja Bellingham dan Kritik Tuchel",
+        "synthesis": [
+          "Tuchel puji Bellingham tetapi minta permainan Inggris lebih baik.",
+          "Bellingham dan Kane cetak 12 dari 13 gol Inggris di turnamen.",
+          "Performa Inggris melawan Norwegia belum maksimal menurut Tuchel."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran strategi dan dinamika kompetisi sepak bola Eropa.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Bellingham is not wrong but England must play better, says Tuchel",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/bellingham-not-wrong-england-must-play-better-says-tuchel-6248761",
+            "category": "Olahraga",
+            "published_at": "2026-07-12T01:44:19+00:00",
+            "summary": "Pelatih Inggris Thomas Tuchel mengakui usaha tim yang luar biasa seperti yang diungkapkan Jude Bellingham, tetapi menegaskan bahwa Inggris harus bermain lebih baik. Bellingham dan Harry Kane menjadi penentu kemenangan dengan mencetak 12 dari 13 gol Inggris di turnamen ini. Tuchel menegaskan kebanggaannya terhadap semangat tim, tetapi tetap merasa pertandingan melawan Norwegia belum mencapai level permainan terbaik.",
+            "key_points": [
+              "Tuchel setuju dengan Bellingham bahwa usaha tim Inggris luar biasa, tetapi menekankan perlunya peningkatan kualitas permainan.",
+              "Bellingham dan Harry Kane mendominasi pencapaian gol Inggris dengan mencetak 12 dari 13 gol di turnamen.",
+              "Tuchel menegaskan bahwa meskipun puas dengan hasil, ia tidak puas sepenuhnya dengan cara Inggris bermain melawan Norwegia."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 4,
+        "topic": "Penyelamatan Anak Sekolah di Nigeria",
+        "title": "Penyelamatan Anak Sekolah di Nigeria",
+        "synthesis": [
+          "Nigeria selamatkan 39 siswa & 5 guru diculik selama 2 bulan di Oyo state",
+          "8 tersangka penculik ditangkap, otoritas ungkap progres penegakan hukum",
+          "Insiden menyoroti kerentanan sistem keamanan pendidikan di daerah konflik"
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Menyoroti kerentanan sistem keamanan pendidikan di daerah konflik.",
+        "external_research": [
+          {
+            "title": "Deep Research: Penyelamatan Anak Sekolah di Nigeria",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait penyelamatan anak sekolah di Nigeria. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebijakan Perlindungan Anak**: Pemerintah Indonesia telah menetapkan kebijakan perlindungan anak yang meliputi perlindungan dari penganiayaan (abuse) dan penelantaran, serta eksploitasi seksual. Kebijakan ini didasarkan pada hukum internasional dan Konvensi Perserikatan Bangsa-Bangsa mengenai Hak Anak.\n2. **Jumlah Anak Tidak Sekolah**: Jumlah anak tidak sekolah di Indonesia menurun dari tahun 2020 hingga 2025, dari 4.082.386 anak menjadi 4.087.288 anak. Namun, masih ada 25,57% anak yang berhenti sekolah sebelum lulus dan 26,98% anak yang sudah lulus tapi tidak melanjutkan pendidikan.\n3. **Pencegahan dan Penanganan Korban**: Pemerintah Daerah telah menetapkan kebijakan pencegahan kekerasan, perlakuan salah, eksploitasi, dan penelantaran terhadap anak. Kebijakan ini meliputi pengembangan kemampuan dan mekanisme Pemerintah Daerah, masyarakat, orang tua, dan tenaga pendidik dalam menciptakan kondisi yang dapat mencegah terjadinya kekerasan dan perlakuan salah.\n4. **Pengurangan Risiko dan Penanganan Korban**: Pemerintah telah menetapkan kebijakan pengurangan risiko dan penanganan korban anak yang menjadi korban tindak kekerasan, perlakuan salah, eksploitasi, dan/atau penelantaran. Kebijakan ini meliputi identifikasi, penyelamatan, rehabilitasi, dan reintegrasi terhadap anak korban."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
+            "category": "Umum",
+            "published_at": "2026-07-12T01:56:01+00:00",
+            "summary": "Pasukan keamanan Nigeria berhasil menyelamatkan 39 siswa dan lima guru yang diculik hampir dua bulan lalu di Oyo state. Otoritas setempat mengungkapkan delapan tersangka penculik telah ditangkap.",
+            "key_points": [
+              "39 siswa dan 5 guru diculik hampir dua bulan lalu di Oyo state",
+              "Pasukan keamanan menyelamatkan para korban",
+              "Delapan tersangka penculik ditangkap"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 0,
+        "topic": "Gejala Awal Kanker yang Diabaikan",
+        "title": "Gejala Awal Kanker yang Diabaikan",
+        "synthesis": [
+          "Kasus kanker di Indonesia diperkirakan naik 70% hingga 2050 tanpa pencegahan diperkuat.",
+          "Wamenkes dan Menkes tekankan pentingnya skrining awal untuk meningkatkan peluang pengobatan.",
+          "Rendahnya angka skrining menjadi hambatan utama dalam deteksi dini kanker."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Peningkatan kasus kanker signifikan memengaruhi kebijakan kesehatan nasional dan alokasi sumber daya.",
+        "external_research": [
+          {
+            "title": "Deep Research: Gejala Awal Kanker yang Diabaikan",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang gejala awal kanker. Berikut adalah 4 poin fakta yang padat:\n\n1. **Rasa lelah yang berlebihan**: Rasa lelah yang berlebihan dapat menjadi gejala awal kanker karena sel-sel kanker menggunakan nutrisi di tubuh untuk bertumbuh, sehingga nutrisi tidak dapat diubah menjadi energi.\n2. **Benjolan baru yang tidak biasa**: Benjolan baru di payudara atau ketiak yang terasa keras dan tidak bergeser dapat menjadi tanda awal kanker payudara.\n3. **Perubahan pada tekstur atau warna kulit**: Perubahan pada tekstur atau warna kulit, seperti kulit yang menjadi lebih gelap atau terdapat bintik-bintik merah, dapat menjadi gejala awal kanker.\n4. **Demam yang tidak kunjung hilang**: Demam yang tidak kunjung hilang dapat menjadi gejala awal kanker, terutama jika disertai dengan gejala lain seperti kelelahan, penurunan berat badan, atau perubahan pada tekstur atau warna kulit.\n\nSaya menyarankan untuk melakukan pemeriksaan kesehatan secara rutin dan tidak menunggu gejala-gejala tersebut muncul untuk mendeteksi kanker lebih awal."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Waspada! 7 Gejala Awal Kanker Ini Kerap Diabaikan",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8570152/waspada-7-gejala-awal-kanker-ini-kerap-diabaikan",
+            "category": "Kesehatan",
+            "published_at": "2026-07-11T23:01:27+00:00",
+            "summary": "Jumlah kasus kanker di Indonesia diperkirakan meningkat hingga 70 persen pada 2050 jika pencegahan dan deteksi dini tidak diperkuat. Wakil Menteri Kesehatan dan Menteri Kesehatan menekankan pentingnya skrining awal untuk meningkatkan peluang pengobatan, sementara rendahnya angka skrining menjadi tantangan utama.",
+            "key_points": [
+              "Kasus kanker di Indonesia diprediksi melonjak hingga 70 persen pada 2050 tanpa intervensi efektif.",
+              "Deteksi dini kanker masih rendah, menyebabkan banyak pasien baru terdiagnosis pada stadium lanjut.",
+              "WHO menyarankan pengenalan gejala awal dan skrining rutin untuk meningkatkan harapan hidup pasien."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Yoga Sederhana Atasi Overthinking",
+        "title": "Yoga Sederhana Atasi Overthinking",
+        "synthesis": [
+          "Yoga restoratif efektif kurangi stres dan perbaiki kualitas tidur.",
+          "85% praktisi yoga laporkan penurunan stres secara signifikan.",
+          "Gerakan sederhana sebelum tidur bantu relaksasi tubuh dan pikiran."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran signifikan dalam pengelolaan kesehatan mental melalui praktik non-farmakologis.",
+        "external_research": [
+          {
+            "title": "Deep Research: Yoga Sederhana Atasi Overthinking",
+            "content": "Berikut adalah 4 poin fakta yang relevan dan kredibel tentang \"Yoga Sederhana Atasi Overthinking\":\n\n1. **Yoga dapat membantu mengurangi stres**: Yoga dapat membantu mengurangi stres dengan mengurangi produksi hormon kortisol yang diproduksi tubuh saat mengalami stres.\n2. **Yoga hatha adalah jenis yoga yang paling populer**: Yoga hatha adalah jenis yoga dasar yang paling populer dan dapat membantu meningkatkan fleksibilitas tubuh serta mengurangi stres.\n3. **Yoga nidra dapat membantu mengatasi overthinking**: Yoga nidra adalah teknik relaksasi mendalam yang dapat membantu mengatasi overthinking dan meningkatkan kualitas tidur.\n4. **Yoga lebih efektif daripada pendidikan stres manajemen**: Studi menemukan bahwa yoga lebih efektif daripada pendidikan stres manajemen dalam mengurangi gejala gangguan kecemasan umum, tetapi tidak seefektif sebagai terapi perilaku kognitif (CBT)."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ampuh Atasi Overthinking, Ini Gerakan Yoga Sederhana Biar Tidur Lebih Nyenyak",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8569289/ampuh-atasi-overthinking-ini-gerakan-yoga-sederhana-biar-tidur-lebih-nyenyak",
+            "category": "Kesehatan",
+            "published_at": "2026-07-11T13:08:43+00:00",
+            "summary": "Yoga dapat membantu meredakan stres dan meningkatkan kualitas tidur, terutama melalui gerakan lembut dan teknik pernapasan seperti Ujjayi Breath. Survei menunjukkan lebih dari 55% praktisi yoga mengalami tidur lebih nyenyak, sementara 85% merasa stres berkurang. Gerakan yoga restoratif yang dilakukan sebelum tidur, seperti pose peregangan dan relaksasi, disarankan untuk meredakan ketegangan tubuh.",
+            "key_points": [
+              "Survei NCCIH 2015 menemukan 55% praktisi yoga tidur lebih nyenyak dan 85% merasa stres berkurang.",
+              "Teknik pernapasan Ujjayi Breath digunakan untuk menenangkan pikiran dan tubuh selama latihan yoga.",
+              "Tujuh pose yoga restoratif disarankan dilakukan menjelang tidur untuk meredakan ketegangan dan meningkatkan kualitas istirahat."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Kemenangan Inggris di Piala Dunia 2026 Meningkatkan Kepuasan Nasional yang Berdampak pada Kebijakan Kesehatan",
+        "analysis": "Kemenangan Inggris atas Norwegia di babak perempatfinal Piala Dunia 2026 (dengan kinerja kunci Jude Bellingham) menciptakan gelombang kepuasan nasional yang tinggi. Kepuasan ini dapat memperkuat legitimasi pemerintah Inggris, yang secara tidak langsung mendorong alokasi anggaran lebih besar untuk sektor kesehatan, termasuk pencegahan kanker. Dalam konteks global, keberhasilan olahraga juga meningkatkan citra negara, memudahkan kolaborasi internasional dalam penelitian kanker. Di sisi lain, kritik Tuchel terhadap permainan Inggris menunjukkan bahwa kepuasan nasional bersifat sementara, sehingga pemerintah harus segera mengalihkan fokus ke isu-isu kritis seperti kanker yang membutuhkan solusi jangka panjang."
+      }
+    ],
+    "other_news": {
+      "Internasional": [
+        {
+          "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-12T01:55:03+00:00",
+          "summary": "Amerika Serikat meluncurkan serangan baru terhadap Iran setelah Teheran menutup Selat Hormuz dan menyerang kapal yang melanggar rute yang ditentukan. Iran menutup jalur tersebut hingga pemberitahuan lebih lanjut setelah menembakkan rudal ke kapal yang tidak mengikuti instruksi, sementara AS menyatakan serangan tersebut sebagai balasan atas serangkaian insiden sebelumnya. Tensi meningkat dengan ancaman balasan dari Iran dan upaya AS untuk menjamin jalur pelayaran tetap terbuka.",
+          "key_points": [
+            "AS meluncurkan serangan ketiga minggu ini sebagai respons atas serangan Iran terhadap kapal bendera Siprus di Selat Hormuz.",
+            "Iran menutup Selat Hormuz setelah menembakkan rudal ke kapal yang dianggap melanggar rute yang ditentukan, memicu eskalasi konflik dengan AS.",
+            "Ketegangan meningkat dengan ancaman balasan dari Iran terhadap agresi AS dan protes di pemakaman pemimpin Iran yang menyerukan pembunuhan Trump."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "At least two killed in Toronto street festival shooting",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-12T01:47:58+00:00",
+          "summary": "Setidaknya dua orang tewas dalam penembakan di festival jalanan salsa di Toronto, Kanada, pada sekitar pukul 20:12 waktu setempat. Polisi menemukan enam korban dengan luka tembak, dua di antaranya dinyatakan meninggal di tempat kejadian, sementara pelaku atau pelaku belum ditangkap.",
+          "key_points": [
+            "Dua orang tewas dan enam korban terluka akibat penembakan di Festival Salsa di Toronto.",
+            "Insiden terjadi di St Clair Avenue saat acara tahunan 'Salsa on St Clair Latin Festival' yang ke-22.",
+            "Pelaku atau pelaku belum berhasil ditangkap, dan polisi meminta masyarakat menghindari area kejadian."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-12T00:22:21+00:00",
+          "summary": "Mediator regional terus mendorong pembicaraan antara AS dan Iran di Qatar serta Oman untuk mencegah eskalasi konflik. Qatar telah mengadakan pembicaraan di Teheran, sementara Oman mengusulkan rencana pengelolaan pelayaran di Selat Hormuz.",
+          "key_points": [
+            "Mediator regional berupaya mencegah eskalasi konflik antara AS dan Iran.",
+            "Qatar mengadakan pembicaraan di Teheran sebagai bagian dari upaya mediasi.",
+            "Oman mengusulkan rencana pengelolaan pelayaran di Selat Hormuz."
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Dua Gol Jude Bellingham Bikin Norwegia Tersingkir, 'Hey Jude' Menggema di Medsos",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8570225/dua-gol-jude-bellingham-bikin-norwegia-tersingkir-hey-jude-menggema-di-medsos",
+          "category": "Olahraga",
+          "published_at": "2026-07-12T01:24:24+00:00",
+          "summary": "Timnas Inggris melaju ke semifinal Piala Dunia 2026 setelah mengalahkan Norwegia 2-1 lewat babak perpanjangan. Dua gol Jude Bellingham menjadi penentu kemenangan, sementara reaksi di media sosial membanjiri dengan tagar 'Hey Jude'. Pertandingan juga diwarnai kontroversi terkait gol penyama yang disahkan oleh FIFA.",
+          "key_points": [
+            "Kemenangan Inggris di semifinal Piala Dunia 2026 berkat dua gol Jude Bellingham.",
+            "Kontroversi gol penyama Bellingham karena diduga mengenai kabel kamera, tetapi FIFA menyatakan gol sah.",
+            "Reaksi media sosial dengan tagar 'Hey Jude' merayakan penampilan Bellingham."
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "FIGC Rekrut Paolo Maldini Gabung Timnas Italia",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8570208/figc-rekrut-paolo-maldini-gabung-timnas-italia",
+          "category": "Olahraga",
+          "published_at": "2026-07-12T01:00:39+00:00",
+          "summary": "FIGC menunjuk Paolo Maldini sebagai Direktur Teknik dan Leonardo Araujo sebagai penasihat untuk membangun ulang Timnas Italia menuju Piala Dunia 2030. Keduanya bertugas mencari pelatih pengganti Gennaro Gattuso yang mundur setelah Italia gagal lolos ke Piala Dunia 2026.",
+          "key_points": [
+            "Paolo Maldini dan Leonardo Araujo direkrut untuk memimpin rekonstruksi Timnas Italia dengan target Piala Dunia 2030.",
+            "Gennaro Gattuso mundur sebagai pelatih setelah Italia tidak lolos ke Piala Dunia 2026 sejak 2018.",
+            "Kandidat pelatih baru yang disebut adalah Roberto Mancini dan Antonio Conte."
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Inggris Libas Norwegia, Bellingham dan Sorloth Jadi Lakon",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8570192/inggris-libas-norwegia-bellingham-dan-sorloth-jadi-lakon",
+          "category": "Olahraga",
+          "published_at": "2026-07-12T00:33:29+00:00",
+          "summary": "Inggris menang 2-1 atas Norwegia di Piala Dunia 2026 dan melaju ke semifinal. Kemenangan ini didorong oleh performa kunci Jude Bellingham, sementara Alexander Sorloth dinilai membuat keputusan kontroversial dengan tidak mengoper bola ke Erling Haaland dalam posisi bebas.",
+          "key_points": [
+            "Inggris mengalahkan Norwegia 2-1 dan memastikan tempat di semifinal Piala Dunia 2026.",
+            "Jude Bellingham menjadi pemain kunci Inggris dengan kontribusi signifikan dalam kemenangan tersebut.",
+            "Alexander Sorloth dinilai melewatkan peluang emas untuk mengoper bola ke Erling Haaland, yang berpotensi mengubah hasil pertandingan."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Intip Diet Jude Bellingham, Pencetak 2 Gol Inggris di Perempat Final Piala Dunia 2026",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8570189/intip-diet-jude-bellingham-pencetak-2-gol-inggris-di-perempat-final-piala-dunia-2026",
+          "category": "Olahraga",
+          "published_at": "2026-07-12T00:30:34+00:00",
+          "summary": "Jude Bellingham, gelandang Real Madrid, mencetak dua gol krusial yang mengantar Inggris ke semifinal Piala Dunia 2026. Diet ketatnya melibatkan chef pribadi, analisis biometrik, dan jadwal makan empat kali sehari untuk memenuhi kebutuhan energi dan nutrisi sebagai atlet.",
+          "key_points": [
+            "Bellingham mencetak dua gol dalam laga perempat final melawan Norwegia, termasuk satu gol kontroversial dan satu gol di babak extra time.",
+            "Diet Bellingham mencakup konsumsi protein tinggi seperti dada kalkun, salad, dan makanan rendah lemak untuk mendukung performa dan pemulihan fisik.",
+            "Jadwal makannya terstruktur dengan empat kali makan sehari, didukung oleh chef pribadi dan analisis biometrik untuk kebutuhan nutrisi spesifik."
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Tantangan KecilArgentina itu Bernama Swiss",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/berita/d-8570185/tantangan-kecil-argentina-itu-bernama-swiss",
+          "category": "Olahraga",
+          "published_at": "2026-07-12T00:24:06+00:00",
+          "summary": "Argentina dan Swiss akan bertanding di babak perempat final Piala Dunia 2026 di Kansas City Stadium. Argentina diunggulkan karena memiliki pemain bintang dan catatan kemenangan atas Swiss, sementara Swiss percaya diri dengan performa mereka di turnamen ini dan tekad untuk membalikkan anggapan.",
+          "key_points": [
+            "Argentina diunggulkan karena memiliki pemain bintang seperti Lionel Messi dan catatan kemenangan atas Swiss dalam pertemuan sebelumnya.",
+            "Swiss memiliki rekor positif di Piala Dunia 2026 dengan 4 kemenangan dan 1 hasil imbang dari 5 pertandingan.",
+            "Granit Xhaka menyatakan keyakinan tim Swiss untuk menunjukkan kualitas mereka di laga melawan Argentina."
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-11T23:31:23+00:00",
+          "summary": "Senator AS Sheldon Whitehouse mengungkap laporan whistleblower yang mengklaim bahwa renovasi di Kennedy Center dilakukan secara terburu-buru dan tidak sesuai prosedur untuk memenuhi keinginan Presiden Trump, termasuk penggunaan kontraktor tanpa pengalaman serta proyek yang menyebabkan kerusakan dan biaya tambahan.",
+          "key_points": [
+            "Renovasi Kennedy Center dikebut untuk memenuhi 'aesthetic whims' Trump, seperti mengubah warna tiang menjadi putih meski menyebabkan karat.",
+            "Proses kontrak dilakukan tanpa prosedur standar, termasuk kontrak tanpa tender dan pemborong tidak berpengalaman menerima proyek senilai $8 juta.",
+            "Pihak Kennedy Center di bawah Trump melakukan perubahan sepihak, seperti menghancurkan ubin kamar mandi karena ketidaksukaan Trump terhadap warnanya."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Jangan Abaikan Gangguan Tidur, Ini Kaitan Sering Bangun Tengah Malam dan Diabetes",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8570153/jangan-abaikan-gangguan-tidur-ini-kaitan-sering-bangun-tengah-malam-dan-diabetes",
+          "category": "Kesehatan",
+          "published_at": "2026-07-11T22:01:02+00:00",
+          "summary": "Gangguan tidur seperti sering terbangun di malam hari dapat terkait dengan diabetes, karena kadar gula darah tinggi menyebabkan poliuria dan dehidrasi. Gejala diabetes seperti nyeri saraf dan kadar gula darah tidak stabil juga mengganggu kualitas tidur. Spesialis menekankan pentingnya deteksi dini melalui tes gula darah untuk mencegah komplikasi.",
+          "key_points": [
+            "Sering terbangun di malam hari bisa menjadi tanda diabetes akibat poliuria dan dehidrasi.",
+            "Diabetes menyebabkan gangguan tidur melalui gejala seperti nyeri saraf dan kadar gula darah tidak stabil.",
+            "Deteksi dini diabetes melalui tes gula darah disarankan untuk kelompok berisiko tinggi."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3839
+    },
+    "timestamp": "2026-07-12T02:03:32.440844+00:00"
   }
 ]
