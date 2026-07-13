@@ -30105,5 +30105,338 @@
       "total_in_qdrant": 3839
     },
     "timestamp": "2026-07-12T02:03:32.440844+00:00"
+  },
+  {
+    "date": "2026-07-13",
+    "generated_at": "2026-07-13T02:06:17.047336+00:00",
+    "headline": "Kebakaran di bar Bangkok, Thailand, 13 Juli 2023 memicu 27 korban tewas.",
+    "global_headline": "Kebakaran di bar Bangkok, Thailand, 13 Juli 2023 memicu 27 korban tewas.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "27 korban tewas kebakaran bar Bangkok, 13 Juli 2023.",
+          "Tidak adanya jalur evakuasi belakang menyebabkan korban terjebak.",
+          "Sumber api dari kabel listrik dekat panggung sebelum ledakan."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik dalam kebijakan keselamatan publik dan investigasi kebijakan nasional.",
+        "external_research": [
+          {
+            "title": "Deep Research: Thailand probes deadly Bangkok bar fire as survivors report lack of rear fire escapes",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan kebakaran di Bangkok. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kerusakan Struktur Bangunan**: Setelah kebakaran, struktur bangunan mungkin mengalami kerusakan yang tidak terlihat dengan kasat mata. Audit struktur setelah kebakaran akan membantu mengidentifikasi kerusakan pada elemen-elemen penting seperti kolom, balok, dan dinding.\n2. **Kesalahan dalam Sistem Manajemen Risiko Kebakaran**: Kurangnya sistem manajemen risiko kebakaran dan pemahaman tentang standar keselamatan kebakaran juga turut memperparah potensi kerugian saat insiden terjadi.\n3. **Pentingnya Evaluasi dan Peningkatan Sistem Evakuasi**: Data kebakaran skala nasional dari BNPB (2023) mencatat bahwa selama lima tahun terakhir terdapat lebih dari 14.000 kasus kebakaran bangunan publik, dengan 32% di antaranya melibatkan fasilitas pemerintahan dan pelayanan publik.\n4. **Pentingnya Audit Struktur Bangunan**: Audit struktur bangunan setelah kebakaran akan membantu mengidentifikasi kerusakan pada elemen-elemen penting dan menjamin keselamatan penghuni/pengguna bangunan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Thailand probes deadly Bangkok bar fire as survivors report lack of rear fire escapes",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/asia/bangkok-bar-fire-thailand-live-6249866",
+            "category": "Internasional",
+            "published_at": "2026-07-13T01:21:00+00:00",
+            "summary": "Sebuah kebakaran hebat di bar Rong Beer Na Lat Phrao di Bangkok, Thailand, pada 13 Juli 2023, menewaskan 27 orang dan melukai puluhan lainnya. Perdana Menteri Thailand, Anutin Charnvirakul, menyatakan banyak korban ditemukan di kamar mandi belakang bar yang tidak memiliki jalur evakuasi, sementara seorang musisi melaporkan asap berasal dari kabel listrik dekat panggung sebelum terjadi ledakan.",
+            "key_points": [
+              "Kebakaran di bar Rong Beer Na Lat Phrao menewaskan 27 orang dan melukai puluhan lainnya.",
+              "Korban ditemukan di kamar mandi belakang bar yang tidak memiliki jalur keluar darurat.",
+              "Seorang musisi melaporkan asap berasal dari kabel listrik dekat panggung sebelum terjadi ledakan dan pemadaman listrik."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Sorloth memilih menembak sendiri alih-alih mengoper ke Haaland di laga krusial melawan Inggris.",
+          "Kekalahan Norwegia 1-2 memicu kritik hebat dari warganet di media sosial.",
+          "Keputusan individu Sorloth memengaruhi hasil pertandingan dan dinilai merugikan tim."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran dinamika tim dan isu regional terkait performa Norwegia di Piala Dunia 2026.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Tak Oper ke Haaland, Sorloth Banjir Kritik Warganet",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8571242/tak-oper-ke-haaland-sorloth-banjir-kritik-warganet",
+            "category": "Olahraga",
+            "published_at": "2026-07-12T23:49:20+00:00",
+            "summary": "Alexander Sorloth dari Norwegia menjadi sorotan setelah memilih menembak sendiri daripada mengoper bola kepada Erling Haaland dalam laga krusial melawan Inggris di Piala Dunia 2026, yang berujung pada kekalahan Norwegia 1-2. Keputusan tersebut memicu kritik hebat dari warganet di berbagai platform media sosial.",
+            "key_points": [
+              "Sorloth gagal memanfaatkan peluang 1v1 dengan Haaland, memilih menembak sendiri yang berujung pada blokade oleh John Stones.",
+              "Kritik dari warganet menyebut keputusan Sorloth egois dan memengaruhi hasil pertandingan, dengan Norwegia kalah setelah babak perpanjangan.",
+              "Sorloth memberikan penjelasan atas aksinya, tetapi penjelasannya belum mampu meredakan gelombang kritik dari publik."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Norwegia kalah 1-2 dari Inggris di perempatfinal Piala Dunia 2026.",
+          "Alexander Sorloth gagal memanfaatkan peluang emas di menit ke-42.",
+          "Sorloth membela keputusan individu dengan alasan situasi pertandingan."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Hasil pertandingan memengaruhi peluang Norwegia di turnamen dan memicu evaluasi performa pemain kunci.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Dicap Maruk, Sorloth Bilang Begini",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8571211/dicap-maruk-sorloth-bilang-begini",
+            "category": "Olahraga",
+            "published_at": "2026-07-12T23:30:20+00:00",
+            "summary": "Norwegia kalah 1-2 dari Inggris di perempatfinal Piala Dunia 2026 setelah gagal memanfaatkan peluang emas. Alexander Sorloth menjadi sorotan karena keputusan individu di menit ke-42 yang dianggap melewatkan kesempatan mencetak gol. Sorloth membela diri dengan menyatakan situasi seperti itu bisa terjadi pada pemain lain di pertandingan berbeda.",
+            "key_points": [
+              "Norwegia kalah 1-2 dari Inggris di perempatfinal Piala Dunia 2026 meski sempat unggul 1-0.",
+              "Sorloth dinilai bertanggung jawab atas kekalahan karena memilih menembak sendiri alih-alih mengoper bola ke Haaland di menit ke-42.",
+              "Sorloth menegaskan bahwa kegagalan memanfaatkan peluang adalah hal wajar dalam sepakbola dan bisa terjadi pada pemain lain."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Makan terburu-buru meningkatkan risiko gangguan lambung.",
+          "Makan malam mendekati tidur memicu masalah pencernaan.",
+          "Konsumsi cairan berlebihan selama makan merusak fungsi lambung."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Efek jangka panjang pada kesehatan publik dari kebiasaan makan yang merusak.",
+        "external_research": [
+          {
+            "title": "Deep Research: Jarang Disadari, 3 Kebiasaan Makan Seperti Ini Justru Buruk Bagi Lambung",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Jarang Disadari, 3 Kebiasaan Makan Seperti Ini Justru Buruk Bagi Lambung\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pola makan buruk dapat menyebabkan gangguan lambung**: Penelitian yang dilakukan oleh mahasiswa pendidikan kedokteran di Fakultas Kedokteran Universitas Mataram menemukan korelasi antara pola makan dan kejadian GERD (Gastroesophageal Reflux Disease) dengan nilai p 0,036 (p<0,05) serta nilai OR (2,765 CI 95% 1,042-7,334).\n2. **Makanan yang tidak sehat dapat mengiritasi dinding mukosa lambung**: Penelitian yang dilakukan oleh Yuliarsih et al. (2022) menemukan bahwa makanan yang dikonsumsi secara berlebihan dapat mengiritasi dinding mukosa lambung.\n3. **Pola makan tidak teratur dapat meningkatkan risiko gastritis**: Penelitian yang dilakukan oleh Angelica & Siagian (2022) menemukan bahwa ada hubungan signifikan antara pola makan dan kejadian gastritis, dengan hasil bahwa pola makan tidak teratur atau pola makan yang buruk dapat meningkatkan risiko gastritis.\n4. **Gastritis adalah salah satu penyakit yang paling umum di Indonesia**: Berdasarkan data Kementerian Kesehatan Republik Indonesia pada tahun 2019, gastritis adalah salah satu penyakit yang paling umum di Indonesia, dengan 274.396 kasus dari 238.452.952 jiwa penduduk di beberapa daerah di Indonesia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Jarang Disadari, 3 Kebiasaan Makan Seperti Ini Justru Buruk Bagi Lambung",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8570923/jarang-disadari-3-kebiasaan-makan-seperti-ini-justru-buruk-bagi-lambung",
+            "category": "Kesehatan",
+            "published_at": "2026-07-12T12:11:29+00:00",
+            "summary": "Artikel ini menjelaskan bahwa kebiasaan makan sehari-hari seperti makan terburu-buru, makan malam mendekati waktu tidur, dan konsumsi cairan berlebihan selama makan dapat merusak kesehatan lambung. Dokter spesialis gizi dari Vietnam menekankan hubungan erat antara sistem saraf dan pencernaan, sehingga stres serta perilaku makan memengaruhi fungsi lambung.",
+            "key_points": [
+              "Makan terburu-buru atau terdistraksi menghambat produksi asam lambung dan enzim pencernaan.",
+              "Makan malam mendekati tidur meningkatkan risiko refluks asam dan gangguan tidur.",
+              "Konsumsi cairan berlebihan saat makan mengencerkan asam lambung, mengurangi efisiensi pencernaan."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Teknologi Olahraga dan Respons Krisis Bencana",
+        "analysis": "Keputusan Sorloth untuk menembak sendiri alih-alih mengoper ke Haaland mencerminkan penggunaan teknologi analitik dalam olahraga modern, yang memungkinkan pemain memproses data real-time untuk mengambil keputusan strategis. Fenomena ini berpotensi memicu investasi lebih besar dalam teknologi AI untuk simulasi permainan, yang secara tidak langsung bisa diterapkan dalam respons krisis bencana (seperti kebakaran bar Bangkok) melalui sistem prediksi risiko dan optimasi evakuasi. Di sisi lain, kematian 27 korban di Bangkok mendorong pengembangan teknologi keamanan publik, yang bisa saling memperkuat inovasi di sektor olahraga dan kesehatan."
+      },
+      {
+        "title": "Stres Sosial dan Kesehatan Akibat Peristiwa Global",
+        "analysis": "Kekalahan Norwegia dari Inggris di Piala Dunia dan kebakaran bar Bangkok menciptakan gelombang stres sosial yang berdampak pada perilaku kesehatan masyarakat. Stres akibat kegagalan nasional dalam olahraga atau trauma bencana dapat memicu peningkatan konsumsi makanan cepat atau makan terburu-buru, yang secara langsung terkait dengan risiko gangguan lambung. Dalam konteks geopolitik, krisis kesehatan akibat stres ini bisa membebani sistem layanan publik, terutama di negara dengan kapasitas kesehatan lemah, sehingga menciptakan ketergantungan pada teknologi medis atau bantuan internasional."
+      }
+    ],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Chicken rice at Tiffany’s: The brand’s first cafe at Ion Orchard has a menu by Odette’s Julien Royer",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/experiences/chicken-rice-tiffanys-brands-first-cafe-ion-orchard-has-menu-odettes-julien-royer-6249426",
+          "category": "Umum",
+          "published_at": "2026-07-13T01:46:20+00:00",
+          "summary": "Tiffany & Co. membuka Blue Box Cafe pertama di Singapura di lantai tiga toko flagship Ion Orchard, dengan menu yang dirancang oleh koki Michelin-starred Julien Royer dari Odette. Restoran ini menawarkan menu sarapan, teh sore, dan makanan sepanjang hari yang menggabungkan sentuhan Prancis, pengaruh Amerika, dan elemen Asia. Interiornya dirancang oleh Peter Marino dengan nuansa biru dan dekorasi ikonik berupa kotak biru.",
+          "key_points": [
+            "Blue Box Cafe adalah kolaborasi resmi antara Tiffany & Co. dan koki Julien Royer dari Odette.",
+            "Menu mencakup kombinasi gaya masakan Prancis, Amerika, dan Asia dengan bahan premium seperti caviar dan wagyu.",
+            "Cafe ini merupakan bagian dari jaringan global Blue Box yang bekerja sama dengan koki terkenal di berbagai kota."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Selain Panda dan Kalkun, Ini Daftar Hewan dengan Tingkat Kecerdasan Paling Rendah",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8571187/selain-panda-dan-kalkun-ini-daftar-hewan-dengan-tingkat-kecerdasan-paling-rendah",
+          "category": "Umum",
+          "published_at": "2026-07-12T23:04:47+00:00",
+          "summary": "Artikel ini membandingkan hewan dengan tingkat kecerdasan tinggi seperti lumba-lumba dengan hewan yang memiliki kemampuan kognitif terbatas, seperti panda, kalkun, koala, flamingo, burung unta, dan lainnya. Tingkat kecerdasan mereka dinilai dari pola makan, ukuran otak, serta strategi bertahan hidup yang sederhana atau tidak efisien.",
+          "key_points": [
+            "Panda dan kalkun memiliki kecerdasan rendah karena diet dan perilaku yang tidak efisien dalam bertahan hidup.",
+            "Koala memiliki otak kecil relatif terhadap tubuhnya dan bergantung pada daun eukaliptus yang rendah nutrisi, membatasi metabolisme dan fungsi otak.",
+            "Flamingo hanya memiliki kemampuan kognitif dasar untuk bertahan hidup, seperti mencari makan dan menghindari predator, tanpa kemampuan memecahkan masalah kompleks."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-12T23:41:00+00:00",
+          "summary": "Senator AS Mitch McConnell mengumumkan tidak akan segera kembali ke Senat setelah mengalami jatuh dan pneumonia ringan, serta menjalani perawatan di rumah sakit sejak Juni. Ia mengungkapkan kondisi kesehatannya yang memerlukan waktu pemulihan, termasuk tantangan mobilitas akibat polio yang dideritanya sejak kecil.",
+          "key_points": [
+            "McConnell mengalami jatuh yang membuatnya pingsan sejenak dan dirawat di rumah sakit, tetapi tidak ada cedera serius seperti patah tulang atau stroke.",
+            "Istrinya, Elaine Chao, menuai kritik karena melakukan perjalanan ke Tiongkok tiga hari setelah suaminya dirawat di rumah sakit.",
+            "McConnell saat ini menjalani perawatan di pusat rehabilitasi dan berencana pensiun setelah masa jabatannya berakhir pada 2025."
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Mitch McConnell releases health update, says he is ‘regaining’ strength",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/12/mitch-mcconnell-releases-health-update-says-he-is-regaining-strength?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-12T23:29:33+00:00",
+          "summary": "Senator AS Mitch McConnell mengungkapkan kondisi kesehatannya setelah dirawat di rumah sakit akibat jatuh dan dirawat di fasilitas rehabilitasi. Ia menyatakan tidak mengalami cedera serius seperti patah tulang atau stroke, namun absennya sementara memengaruhi mayoritas Republik di Senat AS. McConnell juga menegaskan komitmen untuk menyelesaikan masa jabatannya hingga akhir tahun 2025.",
+          "key_points": [
+            "McConnell dirawat di rumah sakit akibat jatuh, menjalani tes kesehatan, dan kini dalam proses pemulihan di fasilitas rehabilitasi.",
+            "Absennya McConnell bersamaan dengan kematan Senator Lindsey Graham mengurangi mayoritas Republik di Senat menjadi 51 anggota.",
+            "McConnell menegaskan tidak akan mundur dari jabatannya hingga selesainya masa jabatannya di akhir 2025."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Hiburan": [
+        {
+          "title": "10 Meme yang Wajib Kamu Lihat Hari Ini, Lucu-lucu Lho",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8571245/10-meme-yang-wajib-kamu-lihat-hari-ini-lucu-lucu-lho",
+          "category": "Hiburan",
+          "published_at": "2026-07-13T00:15:09+00:00",
+          "summary": "Artikel ini mengumpulkan 10 meme lucu yang menggambarkan situasi sehari-hari atau kejadian seru, seperti menunggu chat, lupa menangkap Pokémon, atau pertemanan yang unik. Meme-meme tersebut diambil dari sumber Bored Panda dan disajikan dengan gaya humor yang relatable.",
+          "key_points": [
+            "Artikel merangkum 10 meme yang menggambarkan situasi sehari-hari atau kejadian lucu.",
+            "Meme-meme tersebut menggambarkan momen relatable seperti menunggu chat, lupa menangkap Pokémon, atau pertemanan yang aneh.",
+            "Semua meme diambil dari sumber Bored Panda dan disajikan dalam format visual."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Perdebatan Kartu Merah Embolo Tak Terhenti, Wasit dan VAR Dikritik",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8571320/perdebatan-kartu-merah-embolo-tak-terhenti-wasit-dan-var-dikritik",
+          "category": "Olahraga",
+          "published_at": "2026-07-13T01:45:43+00:00",
+          "summary": "Kontroversi kartu merah Breel Embolo dalam laga Argentina vs Swiss di Piala Dunia 2026 memicu perdebatan, di mana wasit dan VAR dikritik karena keputusan mengubah kartu kuning Leandro Paredes menjadi kartu kuning kedua Embolo. Argentina memanfaatkan keunggulan jumlah pemain untuk menang 3-1, sementara Swiss kecewa dengan penerapan aturan baru FIFA yang dianggap mengubah jalannya pertandingan.",
+          "key_points": [
+            "Wasit Joao Pinheiro dan VAR memutuskan kartu kuning kedua untuk Embolo setelah tinjauan VAR, yang dianggap sebagai titik balik kemenangan Argentina.",
+            "FIFA menerapkan protokol mistaken identity di Piala Dunia 2026, memungkinkan VAR memperbaiki kesalahan identifikasi pelanggaran, yang menjadi kontroversial dalam insiden ini.",
+            "Reaksi campuran muncul dari pelatih Swiss Murat Yakin, pemain, dan publik media sosial terkait keputusan VAR dan aturan baru FIFA yang dianggap memengaruhi jalannya pertandingan."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Rakernas Karate-Do Gojukai Selesai, Ada Penghargaan Juga",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sport-lain/d-8571293/rakernas-karate-do-gojukai-selesai-ada-penghargaan-juga",
+          "category": "Olahraga",
+          "published_at": "2026-07-13T01:05:00+00:00",
+          "summary": "Pengurus Besar Karate-Do Gojukai Indonesia menyelenggarakan Rapat Kerja Nasional (Rakernas) dan penganugerahan Gojukai Indonesia Awards 2026 untuk memperkuat konsolidasi organisasi, meningkatkan prestasi, serta menghormati tokoh dan kontributor. Rakernas membahas penyempurnaan AD/ART, penguatan peraturan, dan rencana kerja 2026-2029, sementara penghargaan diberikan kepada individu dan lembaga atas dedikasi serta kontribusi mereka.",
+          "key_points": [
+            "Rakernas diadakan untuk memperkuat konsolidasi organisasi, menyatukan arah pembinaan, serta meningkatkan prestasi Karate-Do Gojukai Indonesia.",
+            "Materi Rakernas mencakup penyempurnaan AD/ART, penguatan peraturan organisasi, dan penyusunan rencana kerja 2026-2029.",
+            "Gojukai Indonesia Awards 2026 diberikan kepada tokoh dan lembaga atas kontribusi mereka dalam pengembangan organisasi."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-13T00:54:53+00:00",
+          "summary": "Save Share Across Africa, the ability to defend borders, monitor territory and protect critical infrastructure remains heavily dependent on foreign suppliers. Turkish drones patrol borders, Chinese surveillance systems monitor cities and Russian fighter jets form the backbone of several air forces.",
+          "key_points": [
+            "Save Share Across Africa, the ability to defend borders, monitor territory and protect cri",
+            "Turkish drones patrol borders, Chinese surveillance systems monitor cities and Russian fig",
+            "For decades, African militaries have turned abroad for critical defence technologies, leav"
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Ekonomi": [
+        {
+          "title": "SK Hynix sinks after Nasdaq debut amid profit-taking, easing earnings optimism",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/sk-hynix-sinks-after-nasdaq-debut-amid-profit-taking-easing-earnings-optimism-6249841",
+          "category": "Ekonomi",
+          "published_at": "2026-07-13T00:32:02+00:00",
+          "summary": "Saham SK Hynix turun hingga 8,2% di pasar Seoul setelah kenaikan signifikan di Nasdaq, didorong oleh penjualan keuntungan investor pasca-penawaran saham ADR senilai $26 miliar. Analis menilai penurunan ini dipengaruhi oleh ketidakpastian terkait kinerja kuartal kedua, khususnya volume pengiriman chip HBM4 yang belum mencapai ekspektasi, serta eksposur perusahaan yang lebih besar pada pasar HBM dibandingkan rivalnya.",
+          "key_points": [
+            "Saham SK Hynix anjlok 8,2% di Seoul setelah melonjak 12,8% di Nasdaq akibat penjualan ADR yang berhasil mengumpulkan $26 miliar.",
+            "Investor melakukan penjualan keuntungan pasca-penawaran saham, sementara ketidakpastian terhadap kinerja kuartal kedua muncul karena kenaikan volume pengiriman HBM4 belum terwujud secara signifikan.",
+            "SK Hynix memimpin pasar HBM dengan 58% pangsa pendapatan kuartal pertama, tetapi dianggap akan lebih sedikit mendapat keuntungan dari kenaikan harga DRAM konvensional dibandingkan Samsung."
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "5 Makanan Enak Ini Bikin Otak Tajam dan Cegah Pikun",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8571185/5-makanan-enak-ini-bikin-otak-tajam-dan-cegah-pikun",
+          "category": "Kesehatan",
+          "published_at": "2026-07-12T22:04:40+00:00",
+          "summary": "Artikel ini menjelaskan lima jenis makanan yang bermanfaat untuk kesehatan otak, seperti ikan berlemak, buah beri, kacang-kacangan, sayuran hijau, dan coklat hitam, yang kaya akan omega-3, antioksidan, serta nutrisi lain yang mendukung fungsi kognitif. Selain itu, disebutkan pentingnya aktivitas seperti membaca, olahraga ringan, dan permainan logika untuk menjaga kesehatan otak.",
+          "key_points": [
+            "Makanan seperti ikan berlemak, buah beri, kacang-kacangan, sayuran hijau, dan coklat hitam mengandung nutrisi yang melindungi sel otak serta meningkatkan fungsi kognitif.",
+            "Omega-3, antioksidan, dan vitamin E dalam makanan tersebut membantu mengurangi stres oksidatif serta menjaga struktur neuron dan aliran darah ke otak.",
+            "Selain konsumsi makanan sehat, aktivitas seperti membaca, olahraga ringan, dan latihan otak disarankan untuk mencegah penurunan kognitif."
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Internasional": [
+        {
+          "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+          "category": "Internasional",
+          "published_at": "2026-07-12T22:17:40+00:00",
+          "summary": "Amerika Serikat dan Iran saling melancarkan serangan setelah Iran menutup Selat Hormuz, sementara AS mengklaim jalur tersebut tetap terbuka. Serangan AS menghancurkan lebih dari 140 target militer Iran, sementara Iran menyerang pangkalan AS dan sekutu-sekutunya. Konflik ini mengancam kesepakatan sementara penghentian tembak yang ditandatangani bulan lalu.",
+          "key_points": [
+            "AS dan Iran saling melancarkan serangan setelah Iran menuduh kapal AS melanggar rute yang ditentukan, sementara AS menuduh Iran menyerang kapal sipil.",
+            "Iran menutup Selat Hormuz, tetapi AS bersikeras jalur tersebut tetap terbuka dan berkomitmen menjaga alur lalu lintas bebas.",
+            "Konflik mengancam kesepakatan sementara penghentian tembak, dengan AS dan Iran saling menyalahkan atas pelanggaran perjanjian."
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3898
+    },
+    "timestamp": "2026-07-13T02:06:17.047344+00:00"
   }
 ]
