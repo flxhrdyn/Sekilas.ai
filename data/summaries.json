@@ -30438,5 +30438,356 @@
       "total_in_qdrant": 3898
     },
     "timestamp": "2026-07-13T02:06:17.047344+00:00"
+  },
+  {
+    "date": "2026-07-14",
+    "generated_at": "2026-07-14T01:52:30.919179+00:00",
+    "headline": "Eskalasi konflik AS-Iran di Selat Hormuz memicu kenaikan harga minyak global 2%.",
+    "global_headline": "Eskalasi konflik AS-Iran di Selat Hormuz memicu kenaikan harga minyak global 2%.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "Ancaman Banjir Akibat El Niño Rekor di Afrika Timur dan Asia",
+        "title": "Ancaman Banjir Akibat El Niño Rekor di Afrika Timur dan Asia",
+        "synthesis": [
+          "El Niño rekor ancam banjir, kekeringan, dan wabah di Timur Afrika dan Asia.",
+          "Wilayah rentan dengan darurat kemanusiaan sebelumnya terkena dampak tambahan.",
+          "El Niño diprediksi salah satu terkuat sejak 1950, puncak Oktober-Desember."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik akibat bencana iklim di wilayah rentan dengan darurat kemanusiaan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ancaman Banjir Akibat El Niño Rekor di Afrika Timur dan Asia",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang ancaman banjir akibat El Niño rekor di Afrika Timur dan Asia. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **El Niño akan meningkatkan risiko banjir di beberapa wilayah di Afrika Timur dan Asia**. Menurut Met Office, El Niño akan berakhir pada akhir tahun ini, meningkatkan kemungkinan suhu global menjadi lebih tinggi lagi.\n2. **Kenaikan suhu global akan berkontribusi pada sekitar 20% kenaikan suhu global yang sudah terjadi akibat perubahan iklim**. Suhu global telah meningkat 0,2 derajat Celcius, yang akan berdampak pada cuaca yang lebih ekstrem.\n3. **El Niño akan menyebabkan kekeringan di beberapa wilayah di Afrika Timur dan Asia**. Pada tahun 1995, El Niño telah menyebabkan kondisi kekeringan di Afrika dan Australia, dan pada tahun 1997/1998, El Niño telah menyebabkan kekeringan di beberapa wilayah Indonesia.\n4. **Bencana banjir yang melanda Kecamatan Lilirilau setiap tahunnya menimbulkan dampak fisik, sosial, ekonomi, dan lingkungan**. Penelitian yang dilakukan oleh BPBD Kabupaten Soppeng menunjukkan bahwa dampak bencana banjir tidak begitu tinggi, tetapi ada empat Kelurahan yang memiliki kerentanan sedang.\n\nSaya harap informasi ini dapat membantu Anda dalam mengetahui ancaman banjir akibat El Niño rekor di Afrika Timur dan Asia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
+            "category": "Lingkungan",
+            "published_at": "2026-07-14T01:27:57+00:00",
+            "summary": "El Niño yang memperkuat diri dengan cepat berpotensi memicu banjir, kekeringan, dan wabah penyakit di wilayah Timur Afrika dan Asia, terutama di Kenya, Uganda, Somalia, Bangladesh, Pakistan, dan Afghanistan. Badan kemanusiaan International Rescue Committee memperingatkan bahwa negara-negara ini, yang sebelumnya telah menghadapi darurat kemanusiaan, sangat rentan terhadap dampak tambahan. Badan iklim AS dan Organisasi Meteorologi Dunia memperkirakan El Niño akan menjadi salah satu yang terkuat sejak 1950, dengan puncak antara Oktober-Desember.",
+            "key_points": [
+              "El Niño berisiko memperparah bencana alam dan krisis kemanusiaan di wilayah yang sudah rentan seperti Somalia, Bangladesh, dan Pakistan.",
+              "Kemungkinan El Niño mencapai intensitas tertinggi sejak 1950 (81%) dengan dampak puncak antara Oktober-Desember, berdasarkan prediksi US Climate Prediction Center.",
+              "Penurunan hasil panen beras hingga 50% di Asia Selatan dan Timur Afrika serta kenaikan biaya pupuk diperkirakan memperburuk krisis pangan global."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "Kematian Pria di Maine Saat Operasi Imigrasi",
+        "title": "Kematian Pria di Maine Saat Operasi Imigrasi",
+        "synthesis": [
+          "Agen ICE menembak mati pria Kolombia non-target selama operasi imigrasi.",
+          "Korban memiliki izin kerja sah di AS, memicu investigasi DHS.",
+          "Protes masyarakat setempat meningkatkan tekanan pada kebijakan imigrasi."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik dalam penegakan imigrasi dan konflik publik nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Man killed by immigration agent during operation in Maine, official says",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+            "category": "Hukum",
+            "published_at": "2026-07-14T00:42:24+00:00",
+            "summary": "Seorang agen ICE menembak mati seorang pria Kolombia berusia 26 tahun di Maine saat operasi penegakan imigrasi, meskipun pria tersebut bukan target operasi. Kasus ini memicu investigasi oleh DHS dan protes dari masyarakat setempat. Pria yang ditembak ternyata memiliki izin kerja di AS.",
+            "key_points": [
+              "Agen ICE menembak mati pria Kolombia yang bukan target operasi, meskipun pria tersebut memiliki izin kerja sah di AS.",
+              "Inspektorat Jenderal DHS mengambil alih investigasi untuk menentukan apakah penggunaan kekuatan mematikan sah.",
+              "Insiden ini memicu protes publik dan mengulangi kontroversi serupa sebelumnya, termasuk penembakan terhadap warga AS oleh agen imigrasi di bawah Trump."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "Kenaikan Harga Minyak Akibat Konflik AS-Iran di Selat Hormuz",
+        "title": "Kenaikan Harga Minyak Akibat Konflik AS-Iran di Selat Hormuz",
+        "synthesis": [
+          "Harga minyak naik 2% akibat eskalasi konflik AS-Iran di Selat Hormuz.",
+          "Brent crude mencapai US$84,98, WTI US$79,79 per barel.",
+          "Indonesia menghadapi risiko tekanan inflasi dari kenaikan harga energi global."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Selat Hormuz sebagai jalur energi vital mengancam stabilitas pasokan global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kenaikan Harga Minyak Akibat Konflik AS-Iran di Selat Hormuz",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait kenaikan harga minyak akibat konflik AS-Iran di Selat Hormuz. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Harga minyak dunia melonjak**: Harga minyak dunia mencapai 114 dolar AS per barel akibat konflik AS-Iran di Selat Hormuz, yang merupakan jalur vital distribusi energi global.\n2. **Dampak pada ekonomi Indonesia**: Kenaikan harga minyak dunia akan berdampak signifikan pada ekonomi Indonesia, terutama bagi negara semi-produsen minyak yang belum mampu memenuhi kebutuhan konsumsi nasional.\n3. **Kenaikan impor minyak**: Kenaikan harga minyak dunia akan menyebabkan naiknya impor minyak, yang akan berdampak pada neraca perdagangan nasional.\n4. **Dampak pada GDP**: Kenaikan harga minyak dunia akan menurunkan GDP sebesar 1,5% setelah satu tahun, menurut perkiraan IMF.\n\nSumber-sumber yang kredibel yang mendukung fakta-fakta di atas adalah:\n\n* Kompas (video berita)\n* Pluang (analisis berita)\n* LLDIKTI 5 (berita ekonomi)\n* Repository UNAIR (penelitian ekonomi)\n* Fiskal Kemenkeu (kajian dampak ICP terhadap pertumbuhan ekonomi)"
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/world/oil-rise-us-iran-war-attacks-strait-hormuz-6252266",
+            "category": "Internasional",
+            "published_at": "2026-07-14T01:08:00+00:00",
+            "summary": "Harga minyak naik ke level tertinggi sebulan terakhir akibat eskalasi konflik antara AS dan Iran di Selat Hormuz, yang meningkatkan ketidakpastian terhadap aliran energi global. Harga Brent crude dan West Texas Intermediate masing-masing naik 2% hingga mencapai US$84,98 per barel dan US$79,79 per barel.",
+            "key_points": [
+              "Harga minyak mencapai level tertinggi sejak kedua negara menandatangani memorandum pemahaman untuk mengakhiri perang pada 17 Juni.",
+              "AS kembali menerapkan blokade laut terhadap Iran, sementara Iran menembakkan rudal cruise yang menyerang dua kapal tanker Uni Emirat Arab di Selat Hormuz.",
+              "Eskalasi konflik memicu ketidakpastian pasokan energi, dengan analis memperingatkan risiko penutupan penuh Selat Hormuz yang akan mengganggu aliran minyak global."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "Penghapusan Fitur AI Kontroversial Instagram oleh Meta",
+        "title": "Penghapusan Fitur AI Kontroversial Instagram oleh Meta",
+        "synthesis": [
+          "Meta hapus fitur AI edit foto publik Instagram tanpa izin.",
+          "Kritik atas masalah privasi dan izin memicu penghapusan fitur tersebut.",
+          "Langkah ini memperkuat kebijakan privasi dan kepercayaan pengguna."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Menggeser dinamika etika AI dan hak pengguna di platform digital.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Meta Hapus Fitur AI Kontroversial untuk Edit Foto Instagram Publik",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8572753/meta-hapus-fitur-ai-kontroversial-untuk-edit-foto-instagram-publik",
+            "category": "Teknologi",
+            "published_at": "2026-07-13T15:29:03+00:00",
+            "summary": "Meta menghapus fitur AI kontroversial di Instagram yang memungkinkan pengguna memodifikasi foto akun publik tanpa izin pemilik. Fitur ini menuai kritik karena masalah privasi dan izin, sehingga dihapus setelah beberapa hari diumumkan.",
+            "key_points": [
+              "Fitur AI tersebut memungkinkan pengguna membuat gambar AI dengan mereferensikan foto dari akun Instagram publik melalui mention tanpa persetujuan pemilik.",
+              "Pengguna tidak diberi notifikasi ketika fotonya dimanipulasi, dan fitur ini aktif secara default hingga dihapus setelah kritik meluas.",
+              "Organisasi seperti CAA dan SAG-AFTRA mengecam fitur ini karena risiko penyalahgunaan dan mendukung penghapusan oleh Meta."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      },
+      {
+        "id": 3,
+        "topic": "Lonjakan Emisi Karbon Microsoft Akibat AI",
+        "title": "Lonjakan Emisi Karbon Microsoft Akibat AI",
+        "synthesis": [
+          "Emisi karbon Microsoft naik 25% akibat ekspansi data center AI.",
+          "Google dan Amazon mengalami tren serupa akibat permintaan energi tinggi.",
+          "Tantangan keberlanjutan meningkat akibat lonjakan konsumsi sumber daya."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pergeseran industri signifikan dalam konsumsi energi dan tekanan kebijakan lingkungan.",
+        "external_research": [
+          {
+            "title": "Deep Research: Lonjakan Emisi Karbon Microsoft Akibat AI",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait lonjakan emisi karbon Microsoft akibat AI. Berikut adalah 4 poin fakta yang padat:\n\n1. **Microsoft berkomitmen untuk menjadi carbon-negative oleh 2030**: Perusahaan ini menggunakan energi terbarukan untuk memasok data center dan berusaha untuk mengurangi emisi karbon.\n2. **Data center Microsoft menggunakan energi efisien**: Perusahaan ini telah mengoptimalkan sistem pendingin dan perangkat keras untuk meningkatkan efisiensi data center, sehingga mengurangi konsumsi energi dan emisi.\n3. **AI digunakan untuk mengoptimalkan energi dan emisi**: Microsoft menggunakan AI untuk mengawasi dan mengoptimalkan konsumsi energi dan emisi di seluruh operasinya.\n4. **Microsoft melakukan penelitian untuk mengurangi dampak lingkungan AI**: Perusahaan ini bekerja sama dengan peneliti untuk mengembangkan metode yang dapat mengurangi dampak lingkungan AI selama pelatihan dan implementasi."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Gara-gara AI, Emisi Karbon Microsoft Melonjak 25%",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8572867/gara-gara-ai-emisi-karbon-microsoft-melonjak-25",
+            "category": "Lingkungan",
+            "published_at": "2026-07-14T00:15:18+00:00",
+            "summary": "Emisi karbon Microsoft naik 25% pada 2025 mencapai 34 juta metrik ton, didorong ekspansi infrastruktur data center untuk AI. Lonjakan serupa juga terjadi pada pesaing seperti Google dan Amazon. Laporan menunjukkan tantangan dalam mengimbangi permintaan energi dan sumber daya alam dengan solusi keberlanjutan.",
+            "key_points": [
+              "Emisi karbon Microsoft melonjak 25% pada 2025 akibat ekspansi data center AI.",
+              "Google dan Amazon juga melaporkan peningkatan emisi (25% dan 16%) di laporan keberlanjutan 2026.",
+              "Permintaan energi dan sumber daya alam dari infrastruktur AI melebihi kemampuan solusi keberlanjutan saat ini."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Konflik AS-Iran dan Krisis Iklim Memperparah Ketegangan Energi Global",
+        "analysis": "Eskalasi konflik AS-Iran di Selat Hormuz yang mendorong kenaikan harga minyak (geopolitik-ekonomi) secara bersamaan dengan ancaman El Niño yang mengganggu produksi pertanian (lingkungan-ekonomi) menciptakan tekanan ganda pada sistem energi global. Kenaikan harga minyak mempercepat investasi di teknologi energi alternatif, namun ekspansi data center AI (seperti Microsoft) yang meningkatkan emisi karbon (teknologi-lingkungan) justru memperburuk krisis iklim. Ketergantungan pada energi fosil yang terganggu oleh konflik geopolitik memperkuat siklus negatif antara ketidakstabilan geopolitik dan perubahan iklim."
+      },
+      {
+        "title": "Tekanan Sosial dari Krisis Iklim Memicu Ketegangan Imigrasi",
+        "analysis": "Ancaman banjir El Niño di Afrika Timur (lingkungan-sosial) memicu migrasi massal yang berpotensi memperburuk ketegangan sosial di negara tujuan seperti AS. Operasi imigrasi ilegal di Maine (sosial-hukum) mencerminkan respons represif terhadap aliran migran yang dipicu oleh krisis iklim. Di sisi lain, penghapusan fitur AI edit foto Instagram (teknologi-sosial) menunjukkan upaya korporasi untuk mengurangi konten manipulatif yang bisa memicu polarisasi sosial, yang secara tidak langsung terkait dengan ketegangan imigrasi akibat persepsi terdistorsi tentang migran."
+      }
+    ],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
+          "category": "Umum",
+          "published_at": "2026-07-13T23:54:32+00:00",
+          "summary": "Ratusan ahli dari berbagai bidang menandatangani surat terbuka yang meminta pemerintah dan pemimpin teknologi segera bertindak untuk mengantisipasi dampak ekonomi kecerdasan buatan (AI). Surat tersebut memperingatkan bahwa AI akan berkembang pesat dalam dekade mendatang, membawa risiko seperti penggantian pekerjaan besar-besaran dan kesenjangan antarnegara, sekaligus peluang peningkatan standar hidup.",
+          "key_points": [
+            "Surat terbuka disusun oleh laboratorium ekonomi digital Stanford dan ditandatangani lebih dari 200 ekonom serta peneliti AI, termasuk 16 pemenang Nobel.",
+            "AI diprediksi akan memicu transformasi ekonomi lebih besar dari Revolusi Industri dalam waktu yang jauh lebih singkat.",
+            "Diperlukan pembentukan insentif, aturan, dan lembaga oleh pemerintah dan industri untuk memastikan AI bersifat komplementer terhadap manusia dan bermanfaat bagi masyarakat."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+          "category": "Umum",
+          "published_at": "2026-07-13T17:21:21+00:00",
+          "summary": "Seorang pria berusia 65 tahun, Carl Isom-McDaniel, terluka setelah diserang bison di Taman Nasional Yellowstone, Wyoming. Serangan terjadi saat dia dan cucunya mengambil foto bison yang tiba-tiba menyerang. Otoritas Taman Nasional menekankan pentingnya menjaga jarak aman dari bison, terutama selama musim kawin.",
+          "key_points": [
+            "Bison menyerang Carl Isom-McDaniel, menyebabkan cedera dan membuahkan video viral.",
+            "Taman Nasional Yellowstone menyarankan pengunjung menjaga jarak minimal 23 meter dari bison.",
+            "Serangan terjadi selama musim kawin bison, di mana tingkat testosteron laki-laki bison meningkat dan perilaku mereka lebih tidak terduga."
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-14T00:53:51+00:00",
+          "summary": "Nadiem Makarim, mantan menteri pendidikan Indonesia dan pendiri Gojek, dihukum 10 tahun penjara terkait dugaan korupsi dalam pengadaan laptop Chromebook untuk sekolah. Keputusan ini memicu kekhawatiran investor tentang ketidakpastian hukum dan iklim bisnis di bawah pemerintahan Presiden Prabowo Subianto.",
+          "key_points": [
+            "Makarim dihukum karena diduga memberikan perlakuan istimewa kepada Google dalam pengadaan laptop yang tidak sesuai kebutuhan daerah terpencil.",
+            "Kritikus menuding kasus ini sebagai balas dendam politik pemerintah Prabowo terhadap tokoh bisnis.",
+            "Kasus ini dianggap mengancam kepercayaan investor asing yang mempertimbangkan faktor hukum dan stabilitas politik sebelum berinvestasi di Indonesia."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Startup Putri Bill Gates Dituduh Main Curang untuk Dapat Komisi Affiliate",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8572862/startup-putri-bill-gates-dituduh-main-curang-untuk-dapat-komisi-affiliate",
+          "category": "Hukum",
+          "published_at": "2026-07-13T23:21:22+00:00",
+          "summary": "Phia, startup belanja yang didirikan putri Bill Gates, dituduh melakukan 'cookie stuffing' untuk mengklaim komisi dari penjualan yang tidak mereka lakukan. Ekstensi browser Phia diduga mengganti kode referral mitra afiliasi dengan miliknya sendiri selama proses pembayaran. Meski mengklaim telah memperbaiki masalah tersebut sebagai kesalahan teknis, praktik ini masih menuai kontroversi.",
+          "key_points": [
+            "Phia dituduh menggunakan 'cookie stuffing' untuk mengambil kredit dan komisi atas penjualan yang tidak mereka lakukan.",
+            "Investigasi Bloomberg menemukan ekstensi Phia mengganti kode referral mitra afiliasi dengan miliknya selama proses pembayaran.",
+            "Phia mengklaim perbaikan teknis telah dilakukan, tetapi praktik ini tetap memicu kontroversi di kalangan peritel dan mitra afiliasi."
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Reaksi Pemain Spanyol Usai Mantan PM-nya Rasis ke Prancis",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8572864/reaksi-pemain-spanyol-usai-mantan-pm-nya-rasis-ke-prancis",
+          "category": "Politik",
+          "published_at": "2026-07-14T00:30:34+00:00",
+          "summary": "Mantan Perdana Menteri Spanyol, Mariano Rajoy, membuat komentar rasis terhadap Timnas Prancis dengan menyebut mereka tidak memiliki pemain 'asli'. Pemain Spanyol seperti Pau Cubarsi dan Borja Iglesias membela Prancis, menekankan pentingnya toleransi dan keberagaman menjelang laga semifinal Piala Dunia 2026.",
+          "key_points": [
+            "Rajoy menulis bahwa Prancis tidak memiliki pemain 'asli' dan merujuk pada latar belakang imigran para penggawanya.",
+            "Pemain Spanyol mengecam komentar Rajoy, menegaskan bahwa identitas nasional tidak tergantung pada asal-usul etnis.",
+            "Komentar tersebut muncul menjelang pertandingan semifinal Prancis vs Spanyol di Piala Dunia 2026 pada 15 Juli 2026."
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Hungary parliament votes to remove president from office",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-13T20:39:14+00:00",
+          "summary": "Parlemen Hongaria memilih untuk menggulingkan Presiden Tamás Sulyok, yang dianggap loyalis mantan Perdana Menteri Viktor Orbán, melalui amendemen konstitusi ke-17 yang disahkan dengan mayoritas dua pertiga pemerintahan Péter Magyar. Fidesz, partai oposisi, menuding langkah ini sebagai upaya tirani, sementara pemerintah baru mengklaim ini untuk memulihkan kekuasaan setelah kemenangan April.",
+          "key_points": [
+            "Parlemen Hongaria mengadopsi amendemen konstitusi ke-17 yang mengakhiri masa jabatan Presiden Tamás Sulyok dan hakim Mahkamah Konstitusi Péter Polt.",
+            "Oposisi Fidesz menuduh amendemen memberi pemerintah kekuatan sewenang-wenang untuk mengganti pejabat publik, mengulangi praktik otoriter yang mereka lakukan sebelumnya.",
+            "Amendemen juga mencabut hakim Mahkamah Konstitusi di atas usia 70 tahun dan melarang anggota parlemen yang sudah tiga periode kembali mencalonkan diri, yang memengaruhi mayoritas anggota Fidesz saat ini."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Asap Kebakaran Hutan Ancam Kesehatan Warga Calgary",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/fotohealth/d-8572795/asap-kebakaran-hutan-ancam-kesehatan-warga-calgary",
+          "category": "Kesehatan",
+          "published_at": "2026-07-13T16:00:41+00:00",
+          "summary": "Asap kebakaran hutan di Calgary, Alberta, Kanada, menurunkan kualitas udara dan mengancam kesehatan warga. Otoritas mengeluarkan peringatan kualitas udara berstatus kuning serta menyarankan pembatasan aktivitas luar ruangan, terutama bagi kelompok rentan.",
+          "key_points": [
+            "Asap kebakaran hutan menyebabkan penurunan kualitas udara di Calgary.",
+            "Paparan asap berisiko memicu iritasi mata, batuk, sesak napas, dan memperburuk penyakit pernapasan.",
+            "Warga disarankan mengurangi aktivitas luar ruangan, menutup jendela, serta menggunakan masker atau penyaring udara."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Jadwal Prancis Vs Spanyol di Semifinal Piala Dunia 2026 Dini Hari Nanti",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8572880/jadwal-prancis-vs-spanyol-di-semifinal-piala-dunia-2026-dini-hari-nanti",
+          "category": "Olahraga",
+          "published_at": "2026-07-14T01:20:00+00:00",
+          "summary": "Prancis dan Spanyol akan bertanding di babak semifinal Piala Dunia 2026 pada Rabu (15/7) dini hari WIB di Dallas Stadium, Texas. Kedua tim tampil dominan sejak fase grup dengan rekor tak terkalahkan, dan pertemuan mereka di Euro 2024 lalu dimenangkan Spanyol.",
+          "key_points": [
+            "Jadwal semifinal Prancis vs Spanyol di Piala Dunia 2026 adalah Rabu (15/7) pukul 02.00 WIB di Dallas Stadium.",
+            "Prancis dan Spanyol sama-sama belum terkalahkan sejak fase grup, dengan Spanyol sempat imbang sekali di awal turnamen.",
+            "Pertemuan terakhir kedua tim di Euro 2024 berakhir dengan kemenangan Spanyol 2-1 atas Prancis di semifinal."
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Prancis vs Spanyol: Bertemu Lagi di Piala Dunia Setelah 20 Tahun",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/berita/d-8572717/prancis-vs-spanyol-bertemu-lagi-di-piala-dunia-setelah-20-tahun",
+          "category": "Olahraga",
+          "published_at": "2026-07-14T00:58:00+00:00",
+          "summary": "Prancis dan Spanyol akan bertemu di semifinal Piala Dunia 2026 setelah 20 tahun tidak berhadapan di ajang tersebut. Pertemuan terakhir mereka di Piala Dunia terjadi pada 2006, sementara laga terakhir di ajang resmi adalah semifinal UEFA Nations League 2025 yang dimenangkan Spanyol.",
+          "key_points": [
+            "Prancis dan Spanyol akan berlaga di semifinal Piala Dunia 2026 pada 15 Juli 2026 di AT&T Stadium, Arlington.",
+            "Rekor pertemuan kedua tim menunjukkan Spanyol lebih unggul dengan 18 kemenangan dari 38 laga, termasuk kemenangan di Nations League 2025.",
+            "Pertemuan terakhir di Piala Dunia terjadi pada 2006, di mana Prancis menang 3-1 setelah comeback dari keadaan tertinggal."
+          ],
+          "cluster_id": 14
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Spesifikasi dan Harga Oppo Enco Air5 dan Air5s",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8572865/spesifikasi-dan-harga-oppo-enco-air5-dan-air5s",
+          "category": "Teknologi",
+          "published_at": "2026-07-13T23:47:43+00:00",
+          "summary": "Oppo Indonesia meluncurkan dua perangkat TWS terbaru, Oppo Enco Air5s dan Enco Air5, yang menawarkan pengalaman audio premium dengan dua pilihan desain berbeda. Kedua perangkat dilengkapi teknologi audio canggih dan baterai tahan lama hingga 54 jam (Air5) dan 48 jam (Air5s).",
+          "key_points": [
+            "Dua pilihan desain untuk memenuhi preferensi pengguna.",
+            "Teknologi audio dengan Dynamic Bass Driver 12 mm dan fitur Alive Audio.",
+            "Baterai tahan lama hingga 54 jam (Air5) dan 48 jam (Air5s) dengan sertifikasi IP55."
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3886
+    },
+    "timestamp": "2026-07-14T01:52:30.919188+00:00"
   }
 ]
