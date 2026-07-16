@@ -31123,5 +31123,335 @@
       "total_in_qdrant": 3864
     },
     "timestamp": "2026-07-15T01:48:50.120651+00:00"
+  },
+  {
+    "date": "2026-07-16",
+    "generated_at": "2026-07-16T01:59:28.354723+00:00",
+    "headline": "Serangan AS di Iran memicu kenaikan harga minyak global selama 4 hari berturut-turut.",
+    "global_headline": "Serangan AS di Iran memicu kenaikan harga minyak global selama 4 hari berturut-turut.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Gagal ginjal usia muda meningkat akibat kebiasaan buruk sehari-hari.",
+          "Konsumsi makanan tidak sehat dan dehidrasi jadi faktor risiko utama.",
+          "Penggunaan obat bebas tanpa pengawasan medis memperparah kerusakan ginjal."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Isu kesehatan sistemik yang mengancam generasi muda dan membebani sistem kesehatan nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Awas! Kebiasaan Ini Bisa Picu Gagal Ginjal di Usia Muda",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8575755/awas-kebiasaan-ini-bisa-picu-gagal-ginjal-di-usia-muda",
+            "category": "Kesehatan",
+            "published_at": "2026-07-15T13:04:44+00:00",
+            "summary": "Gagal ginjal di usia muda meningkat akibat kebiasaan sehari-hari seperti konsumsi makanan tidak sehat, dehidrasi, dan penggunaan obat-obatan tanpa pengawasan medis. Kebiasaan ini dapat merusak fungsi ginjal secara perlahan dan meningkatkan risiko komplikasi jangka panjang.",
+            "key_points": [
+              "Konsumsi makanan tinggi gula, garam, dan lemak jenuh serta minuman manis berkontribusi pada obesitas, diabetes, dan hipertensi yang berisiko merusak ginjal.",
+              "Dehidrasi dan menahan buang air kecil dapat menyebabkan batu ginjal, infeksi saluran kemih, serta penumpukan racun yang merusak ginjal.",
+              "Penggunaan obat pereda nyeri, antibiotik, atau suplemen tanpa resep medis dalam jangka panjang dapat bersifat toksik bagi ginjal."
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 2,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Penjualan PC global turun 4,9% akibat krisis chip memori.",
+          "Lenovo, HP, Dell turun; Apple naik 10% pengiriman.",
+          "Krisis dipicu fokus produsen chip ke pusat data AI."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Disrupsi sistemik di sektor teknologi global akibat krisis pasokan chip.",
+        "external_research": [
+          {
+            "title": "Deep Research: Imbas Krisis Chip Memori, Penjualan PC Global Anjlok 4,9%",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Imbas Krisis Chip Memori, Penjualan PC Global Anjlok 4,9%\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Krisis Chip Memori Global**: Krisis chip memori global dipicu oleh lonjakan permintaan terhadap chip memori akibat pembangunan pusat data (data center) untuk mendukung sistem AI. Produsen chip memori terbesar di dunia, terutama di Asia, mengalihkan fokus produksi mereka untuk memenuhi kebutuhan industri AI.\n2. **Kelangkaan Chip Memori**: Akibat krisis chip memori, pasokan chip memori untuk perangkat elektronik konsumen seperti laptop, konsol gim, dan smartphone menjadi semakin terbatas. Hal ini menyebabkan harga chip memori meningkat dan mempengaruhi penjualan perangkat elektronik.\n3. **Dampak pada Penjualan PC**: Krisis chip memori juga mempengaruhi penjualan PC global, dengan penjualan PC anjlok 4,9% akibat kelangkaan chip memori. Produsen PC juga memprioritaskan pasar dengan ASP yang tinggi untuk memaksimalkan profit, yang berdampak pada pasar Indonesia yang memiliki ASP yang rendah.\n4. **Prediksi Krisis Sampai 2028**: Krisis chip memori diprediksi akan berlangsung sampai 2028, dengan dampak yang parah pada industri perangkat elektronik konsumen."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Imbas Krisis Chip Memori, Penjualan PC Global Anjlok 4,9%",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/business/d-8576110/imbas-krisis-chip-memori-penjualan-pc-global-anjlok-4-9",
+            "category": "Teknologi",
+            "published_at": "2026-07-16T00:16:45+00:00",
+            "summary": "Penjualan PC global mengalami penurunan 4,9% pada kuartal kedua 2026 akibat krisis chip memori yang memicu kenaikan harga dan ketidakpastian konsumen. Penurunan ini menjadi yang pertama setelah sembilan kuartal pertumbuhan, dengan Lenovo, HP, dan Dell mencatat penurunan pengiriman, sementara Apple justru meningkatkan pengiriman sebesar 10%.",
+            "key_points": [
+              "Penjualan PC global turun 4,9% di kuartal II 2026 karena krisis chip memori yang mendorong kenaikan harga dan menurunkan permintaan.",
+              "Pengiriman PC Lenovo, HP, dan Dell masing-masing menurun dari 17 juta ke 16,6 juta, 14,3 juta ke 13 juta, dan 9,8 juta ke 9,3 juta unit.",
+              "Apple mencatat peningkatan pengiriman 10% menjadi 6,7 juta unit, didorong oleh peluncuran MacBook Neo dan strategi harga yang efektif."
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Harga minyak naik 4 hari berturut-turut akibat serangan AS di Iran.",
+          "Iran ancam perketat ekspor energi, risiko gangguan pasokan Selat Hormuz.",
+          "Analisis prediksi harga minyak naik hingga $85–$87 jika konflik meluas."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Potensi konflik skala penuh dan gangguan pasokan energi global.",
+        "external_research": [
+          {
+            "title": "Deep Research: Epic squared': Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Epic squared': Scaloni lauds Argentina’s back-to-back World Cup comebacks\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. Argentina telah menjadi juara Piala Dunia dua kali berturut-turut, yaitu pada tahun 1978 dan 1986, serta pada tahun 2022.\n2. Argentina akan menjadi tuan rumah Piala Dunia pada tahun 2030, setelah Amerika Serikat menjadi tuan rumah pada tahun 2026.\n3. Argentina telah memiliki beberapa pemain bintang, seperti Mario Kempes, Diego Maradona, dan Lionel Messi, yang telah membantu tim mencapai kesuksesan di Piala Dunia.\n4. Argentina telah menjadi salah satu tim yang paling sukses di Piala Dunia, dengan total 3 gelar juara dan 2 kali menjadi runner-up.\n\nNamun, perlu diingat bahwa informasi di atas hanya berdasarkan hasil pencarian mentah dan mungkin tidak mencakup semua informasi yang relevan dan akurat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-6257256",
+            "category": "Internasional",
+            "published_at": "2026-07-16T00:42:46+00:00",
+            "summary": "Harga minyak naik untuk hari keempat berturut-turut setelah serangkaian serangan AS terhadap instalasi militer Iran memicu kekhawatiran konflik skala penuh dan gangguan pasokan di Selat Hormuz. Iran mengancam akan memperketat ekspor energi regional, sementara analis memperkirakan harga minyak bisa naik hingga $85–$87 tergantung perkembangan konflik.",
+            "key_points": [
+              "AS melancarkan serangan baru terhadap pertahanan pesisir dan situs rudal Iran setelah memperbarui blokade laut, sementara Iran mengancam akan memperketat ekspor energi.",
+              "Harga minyak Brent dan West Texas Intermediate naik masing-masing 0,4% dan 0,5%, mendekati level tertinggi satu bulan terakhir.",
+              "Analisis menunjukkan potensi kenaikan harga minyak hingga $110 per barel jika konflik memengaruhi pemulihan ekspor Teluk, atau penurunan ke $60-an jika ketegangan mereda."
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Argentina melaju ke final Piala Dunia 2026 untuk kedua kalinya berturut-turut.",
+          "Inggris kembali gagal ke final setelah 60 tahun, terkalahkan 2-1 oleh Argentina.",
+          "Gol kemenangan Argentina dicetak oleh Enzo Fernandez dan Lautaro Martinez."
+        ],
+        "impact_level": "HIGH",
+        "impact_reason": "Kemenangan Argentina memperkuat dominasi historis mereka atas Inggris di turnamen besar.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Lagi-lagi Inggris Tak Berdaya di Hadapan Juara Bertahan Piala Dunia",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8576149/lagi-lagi-inggris-tak-berdaya-di-hadapan-juara-bertahan-piala-dunia",
+            "category": "Olahraga",
+            "published_at": "2026-07-16T01:00:10+00:00",
+            "summary": "Argentina mengalahkan Inggris 2-1 di babak semifinal Piala Dunia 2026, melaju ke final kedua beruntun, sementara Inggris kembali gagal melanjutkan puasa 60 tahun ke final. Kemenangan Argentina dipastikan oleh gol Enzo Fernandez dan Lautaro Martinez, sementara Inggris sempat unggul melalui Anthony Gordon.",
+            "key_points": [
+              "Argentina menang 2-1 atas Inggris di semifinal Piala Dunia 2026 dan melaju ke final.",
+              "Inggris kembali gagal melaju ke final karena kalah dari juara bertahan, mengulangi sejarah kekalahan sejak 1954.",
+              "Timnas Inggris memiliki rekor buruk dengan selalu kalah dalam tujuh pertemuan melawan tim 10 besar Piala Dunia sejak 1998."
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 101
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Argentina menang 2-1 atas Inggris di semifinal Piala Dunia 2022.",
+          "Scaloni puji mentalitas tim setelah comeback ganda melawan Inggris dan Mesir.",
+          "Tim Argentina lolos ke final berkat ketangguhan kolektif dan strategi efektif."
+        ],
+        "impact_level": "MEDIUM",
+        "impact_reason": "Pertunjukan mental dan performa tim Argentina berpotensi menginspirasi perubahan strategi sepak bola nasional.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss",
+            "category": "Olahraga",
+            "published_at": "2026-07-16T00:15:34+00:00",
+            "summary": "Pelatih Argentina Lionel Scaloni memuji mentalitas timnya setelah comeback melawan Inggris di semifinal Piala Dunia FIFA, mengantarkan Argentina ke final. Kemenangan 2-1 ini merupakan yang kedua kalinya dalam babak gugur setelah sebelumnya mengalahkan Mesir. Scaloni menekankan semangat kolektif dan ketangguhan tim dalam menghadapi tekanan.",
+            "key_points": [
+              "Argentina menang 2-1 atas Inggris setelah tertinggal 1-0 di semifinal Piala Dunia.",
+              "Ini adalah kemenangan comeback kedua Argentina di babak gugur, setelah sebelumnya mengalahkan Mesir.",
+              "Scaloni menyoroti mentalitas tim yang tak kenal takut dan solidaritas kolektif sebagai kunci keberhasilan."
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 51
+      }
+    ],
+    "correlations": [
+      {
+        "title": "Krisis Chip Teknologi Memperburuk Krisis Kesehatan Akibat Ekonomi Lemah",
+        "analysis": "Penurunan penjualan PC global akibat krisis chip memori (teknologi) memperparah tekanan ekonomi global, yang berdampak pada akses masyarakat terhadap layanan kesehatan. Di negara dengan ekonomi lemah, keterbatasan dana publik untuk kesehatan dan ketergantungan pada kebiasaan buruk (seperti konsumsi makanan instan akibat keterbatasan biaya) mempercepat peningkatan gagal ginjal usia muda. Selain itu, krisis chip juga menghambat pengembangan perangkat medis canggih, membatasi diagnosis dini penyakit kronis."
+      },
+      {
+        "title": "Harga Minyak Tinggi Memicu Inflasi yang Mengganggu Stabilitas Teknologi dan Kesehatan",
+        "analysis": "Kenaikan harga minyak akibat konflik AS-Iran (internasional) mendorong inflasi energi global, yang secara langsung meningkatkan biaya produksi chip semikonduktor (teknologi). Hal ini memperparah krisis chip yang telah menghambat penjualan PC. Di sisi kesehatan, inflasi energi juga memicu kenaikan harga pangan dan obat-obatan, memaksa masyarakat beralih ke pola hidup tidak sehat (seperti konsumsi gula tinggi) yang berkontribusi pada peningkatan gagal ginjal usia muda. Keterkaitan ini menunjukkan bagaimana geopolitik energi memicu efek domino lintas sektor."
+      }
+    ],
+    "other_news": {
+      "Olahraga": [
+        {
+          "title": "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-07-16T01:27:32+00:00",
+          "summary": "Argentina mengalahkan Inggris 2-1 dalam semifinal Piala Dunia, memicu perayaan di Buenos Aires. Tim Argentina akan menghadapi Spanyol di final yang akan berlangsung hari Minggu.",
+          "key_points": [
+            "Argentina menang 2-1 atas Inggris di semifinal Piala Dunia",
+            "Perayaan besar-besaran terjadi di Buenos Aires setelah kemenangan",
+            "Argentina akan bertemu Spanyol di final Piala Dunia"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Yamal Kemalingan Usai Bantu Spanyol ke Final Piala Dunia 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8576135/yamal-kemalingan-usai-bantu-spanyol-ke-final-piala-dunia-2026",
+          "category": "Olahraga",
+          "published_at": "2026-07-16T00:40:20+00:00",
+          "summary": "Lamine Yamal membantu Spanyol melaju ke final Piala Dunia 2026 setelah mengalahkan Prancis, namun rumahnya di Barcelona hampir dibobol dua orang bertopeng saat ia berada di Texas. Kedua pelaku tertangkap kamera pengawas dan kabur setelah dipergoki satpam, yang kemudian melaporkan ke polisi. Otoritas sedang menyelidiki apakah Yamal menjadi sasaran atau korban kebetulan.",
+          "key_points": [
+            "Lamine Yamal memastikan Spanyol ke final Piala Dunia 2026 dengan kemenangan 2-0 atas Prancis.",
+            "Rumah Yamal di Barcelona hampir dibobol dua pelaku bertopeng saat ia sedang bertanding di Texas.",
+            "Polisi menyelidiki kemungkinan Yamal menjadi target atau korban aksi pencurian acak."
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "England not cursed, says Tuchel, after more World Cup heartbreak",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/england-not-cursed-says-tuchel-after-more-world-cup-heartbreak-6257216",
+          "category": "Olahraga",
+          "published_at": "2026-07-15T23:59:52+00:00",
+          "summary": "England kembali gagal meraih gelar Piala Dunia setelah kalah 1-2 dari Argentina di babak semifinal, dengan pelatih Thomas Tuchel menolak anggapan bahwa timnya terkena kutukan dan menekankan perbedaan situasi dalam pertandingan tersebut.",
+          "key_points": [
+            "England belum pernah mencapai final Piala Dunia sejak 1966 dan kembali kalah oleh Argentina di semifinal.",
+            "Thomas Tuchel menolak konsep 'kutukan Inggris', menekankan bahwa hasil pertandingan dipengaruhi oleh perbedaan strategi, pemain, dan situasi.",
+            "Tuchel menghadapi kritik atas keputusan taktiknya setelah kekalahan, meski ia menegaskan tanggung jawab penuh atas hasil tersebut."
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Tuchel defends tactics after Argentina send England packing from World Cup",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss",
+          "category": "Olahraga",
+          "published_at": "2026-07-15T23:58:12+00:00",
+          "summary": "Argentina mengalahkan Inggris 2-1 di semifinal Piala Dunia 2022 setelah dua gol cepat yang dibuat Lionel Messi, meski Inggris sempat unggul lebih dulu. Pelatih Inggris Thomas Tuchel melakukan perubahan taktik untuk memperkuat pertahanan, tetapi Argentina berhasil memecahkan pertahanan tersebut. Kekalahan ini menandai kali kedua sejak 2002 Inggris gagal mencapai final setelah unggul di babak semifinal.",
+          "key_points": [
+            "Argentina mencetak dua gol dalam waktu 3 menit (menit ke-85 dan injury time) berkat assist Lionel Messi, membalikkan keunggulan Inggris 1-0.",
+            "Thomas Tuchel melakukan perubahan formasi menjadi 'back five' dan mengganti pemain untuk memperkuat pertahanan, tetapi strategi tersebut tidak efektif melawan Argentina.",
+            "Kekalahan ini membuat Inggris absen dari final Piala Dunia untuk pertama kalinya sejak 1966, dan menjadi semifinal kedua dalam abad ini yang mereka unggul lebih dulu tetapi kalah."
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Netizen Sebut Inggris Pantas Kalah, Ini Alasannya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8576101/netizen-sebut-inggris-pantas-kalah-ini-alasannya",
+          "category": "Olahraga",
+          "published_at": "2026-07-15T22:56:43+00:00",
+          "summary": "Argentina menang 2-1 atas Inggris di Piala Dunia 2026 setelah sempat tertinggal, sementara netizen menyebut Inggris pantas kalah karena strategi bertahan pasca-memimpin dan keputusan pelatih Thomas Tuchel yang dipertanyakan.",
+          "key_points": [
+            "Argentina mencetak dua gol balasan di akhir pertandingan melalui Enzo Fernandez dan Lautaro Martinez.",
+            "Netizen mengkritik Inggris yang beralih ke permainan defensif setelah unggul, sehingga memudahkan Argentina mengejar kemenangan.",
+            "Pelatih Inggris, Thomas Tuchel, dicela karena strategi yang dianggap tidak efektif dan kurangnya pengalaman tim di level turnamen."
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Hukum": [
+        {
+          "title": "French MPs approve assisted dying law with strict rules after years of argument",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+          "category": "Hukum",
+          "published_at": "2026-07-15T17:29:26+00:00",
+          "summary": "Parlemen Prancis menyetujui undang-undang hak untuk bunuh diri terbantu dengan syarat ketat setelah debat panjang. Rancangan undang-undang ini memerlukan persetujuan pasien yang sakit parah dan tidak dapat disembuhkan, serta masa refleksi sebelum prosedur. Namun, undang-undang ini masih harus melewati pemeriksaan oleh Dewan Konstitusi Prancis.",
+          "key_points": [
+            "Rancangan undang-undang disetujui dengan suara 291-241 di Majelis Nasional Prancis, meski sebelumnya ditolak tiga kali oleh Senat.",
+            "Pasien harus memiliki penyakit serius dan tidak dapat disembuhkan yang menyebabkan penderitaan fisik atau psikologis yang tidak tertahankan, serta harus menyatakan keinginan secara bebas kepada dokter.",
+            "Proses melibatkan masa refleksi dua hari sebelum pasien memberikan zat mematikan sendiri atau oleh dokter, dengan verifikasi ulang oleh dokter pada hari pelaksanaan."
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Lingkungan": [
+        {
+          "title": "Gelombang Panas Menggila di Jepang, 4 Ribuan Warganya Masuk RS",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8576165/gelombang-panas-menggila-di-jepang-4-ribuan-warganya-masuk-rs",
+          "category": "Lingkungan",
+          "published_at": "2026-07-16T01:00:43+00:00",
+          "summary": "Gelombang panas ekstrem di Jepang menyebabkan 4.580 orang dirawat di rumah sakit akibat heatstroke dalam periode 6-12 Juli, dengan tujuh korban meninggal dan lansia sebagai kelompok paling rentan.",
+          "key_points": [
+            "Jumlah pasien heatstroke melonjak tiga kali lipat dibanding pekan sebelumnya, dengan 1.866 orang menjalani rawat inap karena gejala berat hingga sedang.",
+            "Tujuh kematian dilaporkan, dengan Prefektur Oita mencatat tiga kematian tertinggi, dan mayoritas kasus terjadi di lingkungan domestik (1.733 orang).",
+            "Lansia (65 tahun ke atas) menjadi kelompok terbesar (2.827 orang) yang terdampak, sementara Prefektur Fukuoka mencatat jumlah kasus tertinggi (456 kasus)."
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Bersih-bersih Bom Perang, Pekerja Temukan Kuil Kuno Berusia 2.500 Tahun",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8575851/bersih-bersih-bom-perang-pekerja-temukan-kuil-kuno-berusia-2-500-tahun",
+          "category": "Umum",
+          "published_at": "2026-07-15T23:50:19+00:00",
+          "summary": "Rachmatunnisa - detikInet Proyek pembangunan jalan raya di Italia berubah menjadi penemuan arkeologi besar. Saat membersihkan sisa-sisa bom peninggalan perang sebelum konstruksi dimulai, para pekerja justru menemukan sebuah kompleks tempat suci (sanctuary) yang diperkirakan telah berdiri sejak abad ke-5 sebelum Masehi, atau sekitar 2.",
+          "key_points": [
+            "Rachmatunnisa - detikInet Proyek pembangunan jalan raya di Italia berubah menjadi penemuan",
+            "Saat membersihkan sisa-sisa bom peninggalan perang sebelum konstruksi dimulai, para pekerj",
+            "500 tahun lalu"
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Kesehatan": [
+        {
+          "title": "Ngeri! WHO Ungkap Kasus Kanker di Dunia Diproyeksikan Hampir 2 Kali Lipat pada 2050",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8575984/ngeri-who-ungkap-kasus-kanker-di-dunia-diproyeksikan-hampir-2-kali-lipat-pada-2050",
+          "category": "Kesehatan",
+          "published_at": "2026-07-15T22:03:09+00:00",
+          "summary": "WHO memproyeksikan jumlah kasus kanker baru global akan hampir dua kali lipat menjadi 35 juta per tahun pada 2050 dari 20,6 juta saat ini. Laporan menunjukkan ketimpangan beban kanker antar wilayah dan menekankan pentingnya pencegahan melalui kebijakan yang lebih kuat.",
+          "key_points": [
+            "Kasus kanker baru di dunia diproyeksikan meningkat hampir dua kali lipat menjadi 35 juta per tahun pada 2050.",
+            "Asia menyumbang lebih dari 50% kasus kanker global, sementara Eropa memiliki beban kanker yang tidak proporsional dengan jumlah penduduknya.",
+            "Sebagian besar kasus kanker (hampir 40%) terkait faktor risiko yang dapat dicegah, seperti infeksi virus dan gaya hidup tidak sehat."
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3875
+    },
+    "timestamp": "2026-07-16T01:59:28.354733+00:00"
   }
 ]
