@@ -31785,5 +31785,281 @@
       "total_in_qdrant": 3843
     },
     "timestamp": "2026-07-17T02:02:29.717347+00:00"
+  },
+  {
+    "date": "2026-07-18",
+    "generated_at": "2026-07-18T01:51:11.276778+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta teknologi.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta teknologi.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Codex OpenAI Meledak di RI, Separuh Penggunanya Bukan Programmer"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Codex OpenAI Meledak di RI, Separuh Penggunanya Bukan Programmer",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Codex OpenAI. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Codex OpenAI dihentikan**: OpenAI telah menghentikan Codex pada Maret 2023 dan mengarahkan pengembang untuk beralih ke GPT-3.5-Turbo atau GPT-4.\n2. **Alasan penghentian Codex**: Codex dihentikan karena model umum OpenAI, seperti GPT-3.5-Turbo dan GPT-4, telah melampaui kemampuan Codex dalam menulis kode dan dapat menangani konteks yang lebih luas.\n3. **Kerusakan Codex**: Beberapa pengguna telah melaporkan bahwa Codex telah mengalami kerusakan setelah pembaruan, termasuk kecepatan yang lambat, ketidakandalan, dan kesalahan dalam menyelesaikan tugas.\n4. **Dampak Revolusi Industri 4.0**: Revolusi Industri 4.0 telah membawa perubahan besar dalam dunia kerja, termasuk peningkatan kebutuhan akan keterampilan baru dan perubahan cara bekerja."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Codex OpenAI Meledak di RI, Separuh Penggunanya Bukan Programmer",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8578820/codex-openai-meledak-di-ri-separuh-penggunanya-bukan-programmer",
+            "category": "Teknologi",
+            "published_at": "2026-07-17T13:01:58+00:00",
+            "summary": "Adi Fida Rahman - detikInet Penggunaan Codex, agen coding berbasis AI dari OpenAI, tumbuh pesat di Indonesia. Menariknya, lonjakan tersebut bukan hanya didorong oleh para programmer, melainkan juga pekerja kantoran, analis, peneliti, hingga pelaku bisnis yang memanfaatkan AI untuk meningkatkan produktivitas.",
+            "key_points": [
+              "Adi Fida Rahman - detikInet Penggunaan Codex, agen coding berbasis AI dari OpenAI, tumbuh",
+              "Menariknya, lonjakan tersebut bukan hanya didorong oleh para programmer, melainkan juga pe",
+              "OpenAI mengungkapkan, sejak awal tahun hingga akhir April 2026, jumlah pengguna Codex di I"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "EU proposes slowing down cuts to carbon emissions for businesses"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: EU proposes slowing down cuts to carbon emissions for businesses",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"EU proposes slowing down cuts to carbon emissions for businesses\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Uni Eropa akan mengimplementasikan Carbon Border Adjustment Mechanism (CBAM) pada Januari 2026**, yang akan mengubah tata niaga perdagangan baja dan mendefinisikan ulang siapa yang dapat bertahan di pasar ekspor utama dunia.\n2. **Indonesia perlu melihat CBAM dari sudut pandang pelaku industri baja**, bukan dari perspektif statistik agregat perdagangan, untuk mengantisipasi risiko struktural yang dihadapi segmen industri bernilai tinggi.\n3. **Pemerintah Indonesia telah memberlakukan peraturan baru yang membatasi ekspor atas 65 jenis mineral**, yang mungkin memiliki dampak yang merugikan terhadap FDI dalam sektor pertambangan.\n4. **Investasi di bidang pasokan listrik, gas, dan air telah meningkat secara substansial dalam jangka waktu dua tahun terakhir**, serta investasi dalam industri logam, mesin, dan elektronik telah melonjak hingga lebih dari tiga kali lipat pada tahun 2011."
+          }
+        ],
+        "articles": [
+          {
+            "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-17T18:34:04+00:00",
+            "summary": "The ETS, introduced in 2005, is the EU's main tool for curbing greenhouse gases. The European Union has unveiled proposals that would slow cuts to businesses' greenhouse gas emissions limits, as part of a major climate policy overhaul.",
+            "key_points": [
+              "The ETS, introduced in 2005, is the EU's main tool for curbing greenhouse gases",
+              "The European Union has unveiled proposals that would slow cuts to businesses' greenhouse g",
+              "The reforms would relax the rules of the bloc's emissions trading system (ETS) to give bus"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Ini Daftar 5G XLSmart Tanpa Putus di 8 Kota/Kabupaten Jawa Timur"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ini Daftar 5G XLSmart Tanpa Putus di 8 Kota/Kabupaten Jawa Timur",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/telecommunication/d-8578647/ini-daftar-5g-xlsmart-tanpa-putus-di-8-kota-kabupaten-jawa-timur",
+            "category": "Teknologi",
+            "published_at": "2026-07-17T13:45:36+00:00",
+            "summary": "Agus Tri Haryanto - detikInet XLSmart memperkuat jaringan 5G tanpa putus di wilayah Jawa Timur. Terdapat, delapan kota dan kabupaten di provinsi ini yang dapat dinikmati para pelanggan XL, Axis, dan Smartfren merasakan pengalaman 5G tersebut.",
+            "key_points": [
+              "Agus Tri Haryanto - detikInet XLSmart memperkuat jaringan 5G tanpa putus di wilayah Jawa T",
+              "Terdapat, delapan kota dan kabupaten di provinsi ini yang dapat dinikmati para pelanggan X",
+              "Regional Group Head XLSmart area Jawa Timur, Dodik Ariyanto mengatakan Jawa Timur merupaka"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Gubernur New York Pakai AI untuk Hapus Aturan Hukum Jadul"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Gubernur New York Pakai AI untuk Hapus Aturan Hukum Jadul",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8578613/gubernur-new-york-pakai-ai-untuk-hapus-aturan-hukum-jadul",
+            "category": "Teknologi",
+            "published_at": "2026-07-17T15:01:26+00:00",
+            "summary": "Anggoro Suryo - detikInet Gubernur New York, Kathy Hochul, memang baru saja menandatangani moratorium pembangunan pusat data AI baru di wilayahnya, tetapi ia tidak menolak penggunaan teknologi tersebut untuk urusan pemerintahan. Dalam wawancara dengan Odd Lots, Hochul mengungkapkan bahwa timnya menggunakan AI untuk menganalisis setiap aturan, regulasi, dan kebijakan untuk mendeteksi undang-undang yang sudah ketinggalan zaman.",
+            "key_points": [
+              "Anggoro Suryo - detikInet Gubernur New York, Kathy Hochul, memang baru saja menandatangani",
+              "Dalam wawancara dengan Odd Lots, Hochul mengungkapkan bahwa timnya menggunakan AI untuk me",
+              "Beberapa aturan kuno yang disorot oleh Hochul dalam wawancara tersebut meliputi: SCROLL TO"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "US strikes hit Iran for seventh consecutive night",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-18T01:16:11+00:00",
+          "summary": "Images shared on Friday showed a damaged bridge in Iran's southern Hormozgan province The US military says it is carrying out the seventh night of strikes on Iran since US President Donald Trump declared the temporary ceasefire agreement was \"over\". \"The strikes are designed to continue degrading Iranian military capabilities at the Commander in Chief's direction,\" the US military Central Command (Centcom) said in a statement.",
+          "key_points": [
+            "Images shared on Friday showed a damaged bridge in Iran's southern Hormozgan province The",
+            "\"The strikes are designed to continue degrading Iranian military capabilities at the Comma",
+            "Iran's Revolutionary Guards (IRGC) said two oil tankers had exploded in the Strait of Horm"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Trump Media reportedly mulling fee for first access to social media posts",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-18T00:32:34+00:00",
+          "summary": "Save Share United States President Donald Trump’s social media company is reportedly considering charging a $100,00 monthly fee for priority access to his social media posts. But that prospect has raised major ethical concerns, with critics denouncing the idea as a barrier to government transparency — and a means for Trump to profit from the presidency.",
+          "key_points": [
+            "Save Share United States President Donald Trump’s social media company is reportedly consi",
+            "But that prospect has raised major ethical concerns, with critics denouncing the idea as a",
+            "The news agency Reuters indicated on Friday that Trump Media and Technology Group, which o"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Homeland Security Secretary Mullin reiterates Trump threats about elections",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/18/homeland-security-secretary-mullin-reiterates-trump-threats-about-elections?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-18T00:07:38+00:00",
+          "summary": "Save Share Homeland Security Secretary Markwayne Mullin has doubled down on threats United States President Donald Trump made against states that defy his demands for election reform. Mullin’s latest speech on Friday largely reiterated what Trump said the night before: that the administration would pursue a hardline agenda to reshape US elections.",
+          "key_points": [
+            "Save Share Homeland Security Secretary Markwayne Mullin has doubled down on threats United",
+            "Mullin’s latest speech on Friday largely reiterated what Trump said the night before: that",
+            "Borrowing a term from Trump’s foreign policy platform, Mullin pledged to pursue a campaign"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Prancis Setujui Euthanasia, Legalkan Aturan Pasien Kronis Akhiri Hidup Secara Medis",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8578954/prancis-setujui-euthanasia-legalkan-aturan-pasien-kronis-akhiri-hidup-secara-medis",
+          "category": "Politik",
+          "published_at": "2026-07-17T23:05:21+00:00",
+          "summary": "Majelis Nasional Prancis memberikan persetujuan akhir terhadap rancangan undang-undang (RUU) kontroversial yang mengizinkan orang dewasa dengan penyakit yang tidak dapat disembuhkan untuk mengakhiri hidupnya secara medis. Langkah ini menjadi puncak dari perdebatan sengit selama bertahun-tahun mengenai hak mengakhiri hidup (end-of-life care).",
+          "key_points": [
+            "Majelis Nasional Prancis memberikan persetujuan akhir terhadap rancangan undang-undang (RU",
+            "Langkah ini menjadi puncak dari perdebatan sengit selama bertahun-tahun mengenai hak menga",
+            "Meski telah lolos parlemen, aturan ini belum langsung berlaku karena masih harus melalui p"
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Barca fingerprints and Messi magic all over Spain-Argentina final, say Xavi and Mascherano",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/barca-fingerprints-and-messi-magic-all-over-spain-argentina-final-say-xavi-and-mascherano-6262261",
+          "category": "Teknologi",
+          "published_at": "2026-07-18T01:20:00+00:00",
+          "summary": "NEW YORK, July 17 : Sunday's World Cup final between Spain and Argentina may be dressed in national colours but Barcelona greats Xavi Hernandez and Javier Mascherano see their old club's shadows everywhere. From Spain's La Masia-bred youngsters to Lionel Messi, the Barca academy's most dazzling export still bending matches to his will at 39, the influence of the club is clear to see.",
+          "key_points": [
+            "NEW YORK, July 17 : Sunday's World Cup final between Spain and Argentina may be dressed in",
+            "From Spain's La Masia-bred youngsters to Lionel Messi, the Barca academy's most dazzling e",
+            "Xavi was a pillar of Spain's side whose tiki-taka possession game won the country's first"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Risiko Saraf Kejepit di Balik 'Demam' Hyrox yang Lagi Hits",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8579113/risiko-saraf-kejepit-di-balik-demam-hyrox-yang-lagi-hits",
+          "category": "Teknologi",
+          "published_at": "2026-07-18T01:01:57+00:00",
+          "summary": "Sebelum ramai dibicarakan di media sosial, Hyrox lebih dulu populer sebagai ajang kebugaran yang menggabungkan lari dan latihan fungsional berintensitas tinggi. Kini, tren tersebut ikut menjamur di Indonesia.",
+          "key_points": [
+            "Sebelum ramai dibicarakan di media sosial, Hyrox lebih dulu populer sebagai ajang kebugara",
+            "Kini, tren tersebut ikut menjamur di Indonesia",
+            "Dari sini, banyak orang yang mulai tertarik mencobanya demi menguji stamina sekaligus menc"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Maaf Italia, Guardiola Nggak Kangen Melatih Saat Ini",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8579109/maaf-italia-guardiola-nggak-kangen-melatih-saat-ini",
+          "category": "Teknologi",
+          "published_at": "2026-07-18T00:00:05+00:00",
+          "summary": "Pep Guardiola mengaku sedang tak rindu melatih usai meninggalkan Manchester City. Ia ingin melakukan hal lain di luar sepakbola serta menghabiskan waktu bersama keluarga.",
+          "key_points": [
+            "Pep Guardiola mengaku sedang tak rindu melatih usai meninggalkan Manchester City",
+            "Ia ingin melakukan hal lain di luar sepakbola serta menghabiskan waktu bersama keluarga",
+            "Sejak menjalani debut manajerial pada 2007 bersama Barcelona B, Guardiola nyaris tak perna"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "GameStop owns nearly 10% of eBay, SEC filing shows",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/gamestop-owns-nearly-10-ebay-sec-filing-shows-6262186",
+          "category": "Teknologi",
+          "published_at": "2026-07-17T23:03:46+00:00",
+          "summary": "GameStop logo is seen in this illustration taken September 9, 2025. REUTERS/Dado Ruvic/Illustration July 17 : Videogame retailer GameStop owns nearly 10 per cent of e-commerce company eBay, the company said in a regulatory filing late on Friday, signaling its intent to push ahead with plans to buy eBay even after its unsolicited offer was rejected.",
+          "key_points": [
+            "GameStop logo is seen in this illustration taken September 9, 2025",
+            "REUTERS/Dado Ruvic/Illustration July 17 : Videogame retailer GameStop owns nearly 10 per c",
+            "GameStop said it owns 43"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Statistik 2010 EA Sports Bikin Fans Percaya Spanyol Akan Juara Piala Dunia",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8578611/statistik-2010-ea-sports-bikin-fans-percaya-spanyol-akan-juara-piala-dunia",
+          "category": "Teknologi",
+          "published_at": "2026-07-17T12:14:16+00:00",
+          "summary": "Aisyah Kamaliah - detikInet Sejak FIFA World Cup 2010, EA Sports telah menjalankan simulasi pada franchise gim mereka, FIFA (sekarang FC), untuk membuat prediksi siapa yang bakal memenangkan turnamen tersebut. Pada tahun 2010, mereka memperkirakan Spanyol akan jadi juara Piala Dunia, diikuti Jerman pada 2014, Prancis pada 2018, dan Argentina 2022, dan semuanya benar.",
+          "key_points": [
+            "Aisyah Kamaliah - detikInet Sejak FIFA World Cup 2010, EA Sports telah menjalankan simulas",
+            "Pada tahun 2010, mereka memperkirakan Spanyol akan jadi juara Piala Dunia, diikuti Jerman",
+            "Setelah Spanyol memastikan tempat mereka di final Piala Dunia FIFA 2026 dengan kemenangan"
+          ],
+          "cluster_id": 7
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3841
+    },
+    "timestamp": "2026-07-18T01:51:11.276806+00:00"
   }
 ]
