@@ -32061,5 +32061,161 @@
       "total_in_qdrant": 3841
     },
     "timestamp": "2026-07-18T01:51:11.276806+00:00"
+  },
+  {
+    "date": "2026-07-19",
+    "generated_at": "2026-07-19T01:59:13.073369+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "England survive France fightback and secure third place in World Cup goalfest"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: England survive France fightback and secure third place in World Cup goalfest",
+            "content": "Setelah menyaring hasil pencarian mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"England survive France fightback and secure third place in World Cup goalfest\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Inggris berhasil merebut tempat ketiga di Piala Dunia**: Berdasarkan hasil pencarian, Inggris berhasil merebut tempat ketiga di Piala Dunia, meskipun harus menghadapi comeback dari Prancis.\n2. **Harry Kane menjadi salah satu pemain Inggris yang berkontribusi besar**: Harry Kane, salah satu pemain Inggris, berkontribusi besar dalam kesuksesan timnya, meskipun detailnya tidak disebutkan dalam hasil pencarian.\n3. **Piala Dunia 2026 akan menjadi turnamen yang menarik**: Berdasarkan hasil pencarian, Piala Dunia 2026 akan menjadi turnamen yang menarik, dengan beberapa tim yang berpotensi menjadi juara.\n4. **Spanyol dan Prancis menjadi dua tim yang berpotensi menjadi juara**: Berdasarkan hasil pencarian, Spanyol dan Prancis menjadi dua tim yang berpotensi menjadi juara di Piala Dunia 2026, meskipun detailnya tidak disebutkan dalam hasil pencarian.\n\nNamun, perlu diingat bahwa hasil pencarian mentah tidak selalu akurat atau lengkap, sehingga perlu dilakukan verifikasi lebih lanjut untuk mendapatkan informasi yang lebih akurat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "England survive France fightback and secure third place in World Cup goalfest",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/england-survive-france-fightback-and-secure-third-place-in-world-cup-goalfest-6263346",
+            "category": "Teknologi",
+            "published_at": "2026-07-18T23:42:00+00:00",
+            "summary": "By finishing third, England secured their best result at a World Cup since winning the tournament in 1966. England players pose on the podium during the medal ceremony after winning bronze at the World Cup.",
+            "key_points": [
+              "By finishing third, England secured their best result at a World Cup since winning the tou",
+              "England players pose on the podium during the medal ceremony after winning bronze at the W",
+              "(Photo: Reuters/Paul Childs) England beat France 6-4 in a chaotic World Cup third-place pl"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-19T01:40:12+00:00",
+          "summary": "Save Share FIFA’s chief of football development, Arsene Wenger, has acknowledged that some fans are unhappy with the hydration break introduced at the World Cup for the first time, suggesting that the sport’s governing body has not made a decision on whether to keep it beyond the tournament. Asked at a news conference on Saturday whether he has seen any data showing that the three-minute mandatory interval midway through each half improves players’ abilities and the flow of the game, Wenger said: “No.",
+          "key_points": [
+            "Save Share FIFA’s chief of football development, Arsene Wenger, has acknowledged that some",
+            "Asked at a news conference on Saturday whether he has seen any data showing that the three",
+            "” “Sometimes people didn’t like it, and we have to analyse after the World Cup what is the"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Hujan Gol! Inggris Hajar Prancis 6-4, Bukayo Saka Menggila di Piala Dunia 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/foto-sepakbola/d-8580185/hujan-gol-inggris-hajar-prancis-6-4-bukayo-saka-menggila-di-piala-dunia-2026",
+          "category": "Teknologi",
+          "published_at": "2026-07-19T01:06:17+00:00",
+          "summary": "Timnas Inggris menutup perjalanan mereka di Piala Dunia 2026 dengan manis setelah menaklukkan Prancis 6-4 dalam laga perebutan peringkat ketiga di Miami Stadium, Minggu (19/7/2026) dini hari WIB. REUTERS/Paul Childs Duel sengit yang menghasilkan 10 gol itu menjadi salah satu pertandingan paling menghibur sepanjang turnamen, dengan Bukayo Saka tampil sebagai bintang lewat torehan hattrick.",
+          "key_points": [
+            "Timnas Inggris menutup perjalanan mereka di Piala Dunia 2026 dengan manis setelah menakluk",
+            "REUTERS/Paul Childs Duel sengit yang menghasilkan 10 gol itu menjadi salah satu pertanding",
+            "REUTERS/Carlos Barria Prancis sempat bangkit pada babak kedua"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Prancis Vs Inggris Seru Banget, Banjir Gol!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8580169/prancis-vs-inggris-seru-banget-banjir-gol",
+          "category": "Teknologi",
+          "published_at": "2026-07-19T01:00:05+00:00",
+          "summary": "Drama 10 gol tercipta saat Inggris mengalahkan Prancis. Laga ini menjadi yang paling seru dan menarik sepanjang Piala Dunia 2026.",
+          "key_points": [
+            "Drama 10 gol tercipta saat Inggris mengalahkan Prancis",
+            "Laga ini menjadi yang paling seru dan menarik sepanjang Piala Dunia 2026",
+            "Laga perebutan tempat ketiga Piala Dunia menghadirkan duel Prancis vs Inggris"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Benarkah Kuning Telur Bikin Kolesterol Naik? Ini Faktanya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8579155/benarkah-kuning-telur-bikin-kolesterol-naik-ini-faktanya",
+          "category": "Teknologi",
+          "published_at": "2026-07-19T00:04:31+00:00",
+          "summary": "Kuning telur kerap dihindari karena dianggap dapat meningkatkan kadar kolesterol dalam darah. Tak sedikit orang memilih hanya mengonsumsi putih telur demi menjaga kesehatan, khususnya kesehatan jantung.",
+          "key_points": [
+            "Kuning telur kerap dihindari karena dianggap dapat meningkatkan kadar kolesterol dalam dar",
+            "Tak sedikit orang memilih hanya mengonsumsi putih telur demi menjaga kesehatan, khususnya",
+            "Meski kuning telur memang mengandung kolesterol, bukan berarti makanan ini otomatis menjad"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-18T23:59:26+00:00",
+          "summary": "There have been several surges in cash withdrawals as Russians seek a buffer against uncertainty Russians are returning to cash, as mobile internet shutdowns disrupt card payments, and more businesses seek to dodge tax under mounting financial pressure more than four years into the war with Ukraine. Russia has added 1.",
+          "key_points": [
+            "There have been several surges in cash withdrawals as Russians seek a buffer against uncer",
+            "Russia has added 1",
+            "56tn roubles (£14"
+          ],
+          "cluster_id": 16
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Piala Dunia 2026: Olise Pecahkan Rekor Assist Pele!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8580167/piala-dunia-2026-olise-pecahkan-rekor-assist-pele",
+          "category": "Politik",
+          "published_at": "2026-07-19T00:30:47+00:00",
+          "summary": "Gelandang Prancis Michael Olise gagal mencetak gol sama sekali di Piala Dunia 2026. Meski begitu, ia sukses memecahkan rekor Pele dalam jumlah assist terbanyak dalam satu Piala Dunia.",
+          "key_points": [
+            "Gelandang Prancis Michael Olise gagal mencetak gol sama sekali di Piala Dunia 2026",
+            "Meski begitu, ia sukses memecahkan rekor Pele dalam jumlah assist terbanyak dalam satu Pia",
+            "Olise menyumbang dua assist untuk Kylian Mbappe saat Prancis kalah 4-6 dari Inggris dalam"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Misteri 24 Lidah Emas di Makam Kuno Mesir Terungkap",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8580076/misteri-24-lidah-emas-di-makam-kuno-mesir-terungkap",
+          "category": "Politik",
+          "published_at": "2026-07-18T23:15:55+00:00",
+          "summary": "Rachmatunnisa - detikInet Penemuan 18 makam kuno di pesisir Laut Mediterania, Mesir, menyimpan kejutan yang membuat para arkeolog penasaran. Di dalam kompleks pemakaman yang berusia sekitar 2.",
+          "key_points": [
+            "Rachmatunnisa - detikInet Penemuan 18 makam kuno di pesisir Laut Mediterania, Mesir, menyi",
+            "Di dalam kompleks pemakaman yang berusia sekitar 2",
+            "000 tahun itu, tim menemukan 24 'lidah emas' yang diletakkan di mulut jenazah, sebuah ritu"
+          ],
+          "cluster_id": 14
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 10,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 10,
+      "total_in_qdrant": 3768
+    },
+    "timestamp": "2026-07-19T01:59:13.073377+00:00"
   }
 ]
