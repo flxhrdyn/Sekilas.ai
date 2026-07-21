@@ -32494,5 +32494,271 @@
       "total_in_qdrant": 3733
     },
     "timestamp": "2026-07-20T03:26:38.721775+00:00"
+  },
+  {
+    "date": "2026-07-21",
+    "generated_at": "2026-07-21T02:00:12.921061+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta kesehatan.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta kesehatan.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Waspada! Dokter Sebut Gejala Gagal Ginjal Sering Mirip Maag"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Waspada! Dokter Sebut Gejala Gagal Ginjal Sering Mirip Maag",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8582558/waspada-dokter-sebut-gejala-gagal-ginjal-sering-mirip-maag",
+            "category": "Teknologi",
+            "published_at": "2026-07-20T12:02:38+00:00",
+            "summary": "Rasa mual dan muntah sering kali dianggap sebagai gejala maag. Padahal, keluhan ini juga bisa menjadi tanda dari gangguan kesehatan yang lebih serius, seperti masalah pada ginjal.",
+            "key_points": [
+              "Rasa mual dan muntah sering kali dianggap sebagai gejala maag",
+              "Padahal, keluhan ini juga bisa menjadi tanda dari gangguan kesehatan yang lebih serius, se",
+              "Sebab gejalanya mirip, tak sedikit yang terlambat menyadari bahwa fungsi ginjalnya sudah m"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Trump imposes 50% US tariffs on some Canadian goods, citing discrimination\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Penggunaan tarif tidak hanya memengaruhi arus perdagangan internasional tetapi juga memiliki dampak yang signifikan terhadap struktur ekonomi** (Sumber: https://pdfs.semanticscholar.org/d253/f931b6396fef37e5b6612ee689dadba45e56.pdf).\n2. **Tarif yang akan berlaku mulai awal Agustus mendatang diprediksi akan mengguncang perekonomian global maupun nasional** (Sumber: https://www.youtube.com/watch?v=snTtqf350g0).\n3. **Penerapan tarif oleh satu negara sering memicu respons retaliasi dari mitra dagang, yang dapat mengakibatkan eskalasi konflik perdagangan** (Sumber: https://pdfs.semanticscholar.org/d253/f931b6396fef37e5b6612ee689dadba45e56.pdf).\n4. **Kebijakan tarif resiprokal yang kembali digaungkan oleh Amerika Serikat memantik reaksi keras dari sejumlah negara mitra dagangnya, termasuk Kanada** (Sumber: https://finrevconsulting.com/respon-beberapa-negara-terhadap-kebijakan-tarif-trump)."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-07-21T00:08:50+00:00",
+            "summary": "Save Share US President Donald Trump will impose new 50 percent tariffs on many Canadian goods, claiming “discriminatory treatment” by Ottawa against US alcohol, automobile and dairy products. The tariffs, ordered by Trump on Monday, will take effect in 30 days and cover a range of items, including wine, hockey sticks, and cement, according to a White House fact sheet.",
+            "key_points": [
+              "Save Share US President Donald Trump will impose new 50 percent tariffs on many Canadian g",
+              "The tariffs, ordered by Trump on Monday, will take effect in 30 days and cover a range of",
+              "Trump, who saw many of his tariffs struck down by the Supreme Court earlier this year, is"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Japan's Nikkei rallies after steep decline as focus turns to tech results"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Trump imposes 50% US tariffs on some Canadian goods, citing discrimination\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebijakan Tarif AS**: Pada tahun 2025, Presiden AS Donald Trump mengumumkan rencana untuk menaikkan tarif impor dari beberapa negara, termasuk Kanada, dengan tarif 60% untuk barang-barang dari China dan tarif 25% untuk barang-barang dari Meksiko dan Kanada.\n2. **Dampak pada Ekonomi Global**: Kebijakan tarif ini dapat memiliki implikasi besar pada ekonomi global, dengan potensi biaya impor AS mencapai $100 miliar dan memicu defisit dengan negara lain.\n3. **Pengaruh pada Industri Ekspor**: Perusahaan yang bergantung pada ekspor, seperti manufaktur dan komoditas, dapat menghadapi tekanan jika tarif balasan berlanjut dan permintaan AS serta pertumbuhan global melemah.\n4. **Peluang untuk Indonesia**: Indonesia memiliki peluang untuk merebut pangsa pasar ekspor seiring berubahnya dinamika manufaktur dan perdagangan global, terutama dalam jangka menengah."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Japan's Nikkei rallies after steep decline as focus turns to tech results",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/japans-nikkei-rallies-after-steep-decline-focus-turns-tech-results-6266906",
+            "category": "Teknologi",
+            "published_at": "2026-07-21T01:27:08+00:00",
+            "summary": "TOKYO, July 21 : Japan's Nikkei share average rose on Tuesday as markets reopened after a holiday and investors seized on bargains following the gauge's steepest weekly selloff in more than a year. The benchmark Nikkei 225 advanced 1.",
+            "key_points": [
+              "TOKYO, July 21 : Japan's Nikkei share average rose on Tuesday as markets reopened after a",
+              "The benchmark Nikkei 225 advanced 1",
+              "25 per cent to 64,945"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Kejuaraan Men's World Tennis Championship 2026 Resmi Dimulai"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kejuaraan Men's World Tennis Championship 2026 Resmi Dimulai",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/raket/d-8582891/kejuaraan-mens-world-tennis-championship-2026-resmi-dimulai",
+            "category": "Teknologi",
+            "published_at": "2026-07-21T01:05:45+00:00",
+            "summary": "Kejuaraan tenis bertaraf internasional Men's World Tennis Championship 2026 kembali digelar. Para petenis termasuk wakil Indonesia siap jadi yang terbaik.",
+            "key_points": [
+              "Kejuaraan tenis bertaraf internasional Men's World Tennis Championship 2026 kembali digela",
+              "Para petenis termasuk wakil Indonesia siap jadi yang terbaik",
+              "Bernama lengkap Amman Mineral Men's World Tennis Championship 2026, ajang ini digelar di l"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-21T01:51:15+00:00",
+          "summary": "The US military says it launched another round of strikes against Iran to \"further degrade\" its capabilities to attack ships in the Strait of Hormuz. The strikes - the 10th consecutive night of attacks - come after US President Donald Trump vowed to punish Iran for the deaths of US soldiers, two of whom have been identified by the Pentagon.",
+          "key_points": [
+            "The US military says it launched another round of strikes against Iran to \"further degrade",
+            "The strikes - the 10th consecutive night of attacks - come after US President Donald Trump",
+            "Trump earlier said Iran had been hit \"very hard\" the previous night \"in honour\" of three U"
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Umum": [
+        {
+          "title": "South Korean economy likely slowed in Q2 after robust Q1 growth: Reuters poll",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/south-korean-economy-likely-slowed-in-q2-after-robust-q1-growth-reuters-poll-6266831",
+          "category": "Umum",
+          "published_at": "2026-07-21T00:40:44+00:00",
+          "summary": "Shoppers walk past a discount sign of a shoe shop at Myeongdong shopping district in Seoul November 1, 2010. South Korea's annual consumer inflation in October accelerated to its fastest in nearly two years, which may boost expectations for an interest rate rise later this month.",
+          "key_points": [
+            "Shoppers walk past a discount sign of a shoe shop at Myeongdong shopping district in Seoul",
+            "South Korea's annual consumer inflation in October accelerated to its fastest in nearly tw",
+            "REUTERS/Jo Yong-Hak (SOUTH KOREA - Tags: BUSINESS POLITICS) BENGALURU, July 21 : South Kor"
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Dollar near one-week high as markets grapple with Gulf tensions",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/dollar-near-one-week-high-markets-grapple-gulf-tensions-6266946",
+          "category": "Teknologi",
+          "published_at": "2026-07-21T01:36:14+00:00",
+          "summary": "U. S.",
+          "key_points": [
+            "U",
+            "S",
+            "dollar banknotes are seen in this illustration taken March 24, 2026"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Benarkah Slow Jogging Lebih Efektif Bakar Kalori? Dokter Bilang Gini",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8582573/benarkah-slow-jogging-lebih-efektif-bakar-kalori-dokter-bilang-gini",
+          "category": "Teknologi",
+          "published_at": "2026-07-21T00:05:01+00:00",
+          "summary": "Slow jogging belakangan hangat dibicarakan di media sosial. Hal ini karena aktivitas ini seakan memberikan 'warna' baru di dunia lari.",
+          "key_points": [
+            "Slow jogging belakangan hangat dibicarakan di media sosial",
+            "Hal ini karena aktivitas ini seakan memberikan 'warna' baru di dunia lari",
+            "Berbeda dengan lari pada umumnya, olahraga ini dilakukan dengan kecepatan sangat santai, b"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Vaughters says night controls could have stopped blood-doping era",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/vaughters-says-night-controls-could-have-stopped-blood-doping-era-6266791",
+          "category": "Teknologi",
+          "published_at": "2026-07-21T00:02:01+00:00",
+          "summary": "Cycling - Tour de France - Stage 15 - Champagnole to Plateau de Solaison - Champagnole, France - July 19, 2026 UAE Team Emirates - XRG's Tadej Pogacar wearing the yellow jersey in action with other cyclists during stage 15 REUTERS/Gonzalo Fuentes July 20 : Former professional cyclist and Cannondale-EF team boss Jonathan Vaughters weighed in on the row over pre-dawn doping tests at the Tour de France, arguing such controls could have exposed cycling's blood-doping era decades earlier had they existed at the time. Riders including race leader Tadej Pogacar and Jonas Vingegaard were woken in the early hours of Sunday for unannounced doping checks ahead of the 15th stage, prompting complaints that the disruption to sleep was unfair and potentially dangerous.",
+          "key_points": [
+            "Cycling - Tour de France - Stage 15 - Champagnole to Plateau de Solaison - Champagnole, Fr",
+            "Riders including race leader Tadej Pogacar and Jonas Vingegaard were woken in the early ho",
+            "Vaughters, who rode professionally through the late 1990s and early 2000s, defended the pr"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-20T23:21:12+00:00",
+          "summary": "Save Share Prosecutors in the United Kingdom have charged a 28-year-old man with the murder of Ann Widdecombe, a former government minister and member of the far-right Reform UK party. Joshua Kerry was charged on Monday and is due to appear at Westminster Magistrates Court in London on Tuesday, the Crown Prosecution Service said.",
+          "key_points": [
+            "Save Share Prosecutors in the United Kingdom have charged a 28-year-old man with the murde",
+            "Joshua Kerry was charged on Monday and is due to appear at Westminster Magistrates Court i",
+            "Widdecombe, 78, was found dead at her home near Dartmoor National Park in southwest Englan"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Cara Efektif Atasi Anak Kecanduan Gadget Menurut Pakar",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8582567/cara-efektif-atasi-anak-kecanduan-gadget-menurut-pakar",
+          "category": "Teknologi",
+          "published_at": "2026-07-20T22:02:18+00:00",
+          "summary": "Gadget kini menjadi bagian dari kehidupan sehari-hari, termasuk bagi anak-anak. Namun, penggunaan gadget yang berlebihan dapat membuat anak kecanduan dan memicu berbagai dampak negatif.",
+          "key_points": [
+            "Gadget kini menjadi bagian dari kehidupan sehari-hari, termasuk bagi anak-anak",
+            "Namun, penggunaan gadget yang berlebihan dapat membuat anak kecanduan dan memicu berbagai",
+            "Karena itu, orang tua perlu menerapkan cara yang tepat untuk mengurangi ketergantungan ana"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Terlalu! Ujaran Kebencian di Piala Dunia 2026 Meledak 14 Kali Lipat",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8582847/terlalu-ujaran-kebencian-di-piala-dunia-2026-meledak-14-kali-lipat",
+          "category": "Olahraga",
+          "published_at": "2026-07-20T23:15:32+00:00",
+          "summary": "Agus Tri Haryanto - detikInet FIFA mengungkap lonjakan drastis penyebaran ujaran kebencian di media sosial selama Piala Dunia 2026. Jumlah unggahan dan komentar bermuatan negatif meningkat hingga 14 kali lipat dibandingkan edisi Piala Dunia 2022 di Qatar.",
+          "key_points": [
+            "Agus Tri Haryanto - detikInet FIFA mengungkap lonjakan drastis penyebaran ujaran kebencian",
+            "Jumlah unggahan dan komentar bermuatan negatif meningkat hingga 14 kali lipat dibandingkan",
+            "Melalui layanan Social Media Protection Service (SMPS), seperti dikutip dari BBC, Selasa ("
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 14,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 14,
+      "total_in_qdrant": 3676
+    },
+    "timestamp": "2026-07-21T02:00:12.921070+00:00"
   }
 ]
