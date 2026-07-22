@@ -32760,5 +32760,238 @@
       "total_in_qdrant": 3676
     },
     "timestamp": "2026-07-21T02:00:12.921070+00:00"
+  },
+  {
+    "date": "2026-07-22",
+    "generated_at": "2026-07-22T01:58:07.212745+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta olahraga.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+            "content": "Tugas Anda adalah menyaring informasi mentah untuk topik \"Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal\". Namun, hasil pencarian mentah yang Anda berikan tidak terkait dengan topik tersebut. Berikut adalah beberapa fakta yang relevan dan kredibel dari hasil pencarian mentah yang Anda berikan:\n\n1. **Dinamika geopolitik Timur Tengah**: Konflik Timur Tengah dapat memicu risiko ekonomi global dan keamanan nasional Indonesia. (Sumber: https://lemhannas.go.id/berita/berita-utama/2366-lemhannas-ri-kaji-dinamika-geopolitik-timur-tengah/id)\n2. **Kebijakan nuklir Iran**: Amerika Serikat menekan Iran melalui sanksi dan aliansi militer, yang dapat membahayakan keamanan dan mengganggu stabilitas kawasan. (Sumber: https://ejournal.appisi.or.id/index.php/Studi/article/download/322/303/1737)\n3. **Konflik AS-Iran**: Konflik ini dapat memicu risiko ekonomi global dan keamanan nasional Indonesia. (Sumber: https://www.umy.ac.id/konflik-timur-tengah-picu-risiko-ekonomi-global)\n4. **Stabilitas regional**: Diplomasi multilateral yang inklusif diperlukan untuk menyelesaikan konflik dan meningkatkan stabilitas regional. (Sumber: https://ejournal.appisi.or.id/index.php/Studi/article/download/322/303/1737)\n\nNamun, perlu diingat bahwa hasil pencarian mentah yang Anda berikan tidak terkait dengan topik \"Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal\". Jika Anda ingin mencari informasi yang lebih relevan, saya sarankan Anda mencari sumber yang lebih spesifik dan terkini."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-07-21T18:07:34+00:00",
+            "summary": "Lebanese army engineering units entered the village of Zawtar al-Gharbiyeh on Tuesday morning Lebanon's army says its troops are deploying to a \"pilot zone\" in the south of the country following the withdrawal of Israeli forces under a US-brokered agreement reached last month. Engineering units entered the village of Zawtar al-Gharbiyeh in Nabatieh district on Tuesday morning, the army command announced.",
+            "key_points": [
+              "Lebanese army engineering units entered the village of Zawtar al-Gharbiyeh on Tuesday morn",
+              "Engineering units entered the village of Zawtar al-Gharbiyeh in Nabatieh district on Tuesd",
+              "Later, it said Israeli forces had opened fire in the vicinity of the troops"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "World Cup final draws record US audience, signals soccer's mainstream moment"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: World Cup final draws record US audience, signals soccer's mainstream moment",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang sepak bola. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Sepak bola memiliki dampak ekonomi signifikan**: Sepak bola dapat menciptakan peluang kerja dan meningkatkan pendapatan di berbagai sektor seperti perhotelan dan perdagangan. Klub sepak bola juga berkontribusi pada pemasukan daerah melalui pajak dan promosi pariwisata olahraga.\n2. **Perubahan sosial yang berpengaruh besar**: Sepak bola dapat menyebabkan perubahan sosial yang berpengaruh besar, seperti perubahan mata pencaharian dan stratifikasi masyarakat. Contohnya, perubahan masyarakat agraris menjadi industrialisasi.\n3. **Kepopuleran sepak bola meningkatkan pendapatan klub**: Kepopuleran pemain sepak bola dapat meningkatkan pendapatan klub melalui penjualan merchandise, jersey, dan lain-lain.\n4. **Sepak bola Indonesia memiliki perputaran ekonomi yang besar**: Sepak bola Indonesia sebagai industri olahraga menunjukkan perputaran ekonomi yang besar, dengan nilai uang bergulir di BRI Liga 1 saja."
+          }
+        ],
+        "articles": [
+          {
+            "title": "World Cup final draws record US audience, signals soccer's mainstream moment",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/world-cup-final-draws-record-us-audience-signals-soccers-mainstream-moment-6269561",
+            "category": "Teknologi",
+            "published_at": "2026-07-22T01:45:59+00:00",
+            "summary": "Soccer Football - FIFA World Cup 2026 - Final - Spain v Argentina - Fans gather in New York City - New York City, New York, U. S.",
+            "key_points": [
+              "Soccer Football - FIFA World Cup 2026 - Final - Spain v Argentina - Fans gather in New Yor",
+              "S",
+              "- July 19, 2026 Spain fans celebrate in Times Square as Spain wins the World Cup REUTERS/E"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Morgan Rogers Cocok dengan Visi Sepakbola Alonso di Chelsea"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Morgan Rogers Cocok dengan Visi Sepakbola Alonso di Chelsea",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8584522/morgan-rogers-cocok-dengan-visi-sepakbola-alonso-di-chelsea",
+            "category": "Teknologi",
+            "published_at": "2026-07-22T01:00:49+00:00",
+            "summary": "Morgan Rogers meninggalkan Aston Villa untuk gabung Chelsea. Rogers menyebut Xabi Alonso menjadi salah satu faktor yang meyakinkannya untuk pindah.",
+            "key_points": [
+              "Morgan Rogers meninggalkan Aston Villa untuk gabung Chelsea",
+              "Rogers menyebut Xabi Alonso menjadi salah satu faktor yang meyakinkannya untuk pindah",
+              "Chelsea secara resmi mengumumkan transfer Rogers pada Rabu (22/7/2026) pagi WIB"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Rooney: Messi Gagal Top Skor Piala Dunia 2026 dengan Tak Adil",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8584503/rooney-messi-gagal-top-skor-piala-dunia-2026-dengan-tak-adil",
+          "category": "Teknologi",
+          "published_at": "2026-07-22T00:30:00+00:00",
+          "summary": "Wayne Rooney menganggap tak adil untuk Lionel Messi gagal top skor Piala Dunia 2026. Hal ini karena Kylian Mbappe jadi top skor usai bikin gol di laga perebutan peringkat tiga.",
+          "key_points": [
+            "Wayne Rooney menganggap tak adil untuk Lionel Messi gagal top skor Piala Dunia 2026",
+            "Hal ini karena Kylian Mbappe jadi top skor usai bikin gol di laga perebutan peringkat tiga",
+            "Argentina gagal mempertahankan gelar Piala Dunia"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Oil prices rise slightly after US announces new round of strikes on Iran",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/oil-prices-rise-slightly-after-us-announces-new-round-strikes-iran-6269441",
+          "category": "Teknologi",
+          "published_at": "2026-07-22T00:28:59+00:00",
+          "summary": "July 22 : Oil prices inched higher in early trading on Wednesday as fears of further supply disruptions intensified after U. S.",
+          "key_points": [
+            "July 22 : Oil prices inched higher in early trading on Wednesday as fears of further suppl",
+            "S",
+            "forces said it began striking Iranian military targets for the 11th straight night and Kuw"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Bocoran Terbaru iPhone 20 dan Ultra Lipat, Awas Tergoda!",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8584531/bocoran-terbaru-iphone-20-dan-ultra-lipat-awas-tergoda",
+          "category": "Teknologi",
+          "published_at": "2026-07-22T00:15:51+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Artikel disimpan Apple dikabarkan menyiapkan perubahan besar untuk memperingati ulang tahun ke-20 iPhone pada 2027. Perusahaan asal Cupertino itu disebut bakal menghadirkan iPhone 20 dengan ukuran layar dan desain baru, serta Face ID yang tersembunyi.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Arti",
+            "Perusahaan asal Cupertino itu disebut bakal menghadirkan iPhone 20 dengan ukuran layar dan",
+            "Selain iPhone 20, Apple dirumorkan sedang mengembangkan iPhone Ultra"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Ini yang Terjadi pada Tubuh Jika Sering Skip Sarapan",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8584222/ini-yang-terjadi-pada-tubuh-jika-sering-skip-sarapan",
+          "category": "Teknologi",
+          "published_at": "2026-07-22T00:00:37+00:00",
+          "summary": "Sarapan sering disebut sebagai waktu makan terpenting dalam sehari. Namun, karena kesibukan atau terburu-buru untuk beraktivitas, tidak sedikit orang yang memilih skip atau melewatkan sarapan.",
+          "key_points": [
+            "Sarapan sering disebut sebagai waktu makan terpenting dalam sehari",
+            "Namun, karena kesibukan atau terburu-buru untuk beraktivitas, tidak sedikit orang yang mem",
+            "Sekilas mungkin terlihat sepele, tetapi kebiasaan ini bisa memberi dampak buruk bagi tubuh"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Resmi! Chelsea Tuntaskan Transfer Morgan Rogers",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8584513/resmi-chelsea-tuntaskan-transfer-morgan-rogers",
+          "category": "Teknologi",
+          "published_at": "2026-07-21T23:24:57+00:00",
+          "summary": "Chelsea secara resmi mengumumkan transfer Morgan Rogers dari Aston Villa. The Blues memecahkan rekor transfer di Inggris untuk menggaet Rogers.",
+          "key_points": [
+            "Chelsea secara resmi mengumumkan transfer Morgan Rogers dari Aston Villa",
+            "The Blues memecahkan rekor transfer di Inggris untuk menggaet Rogers",
+            "Rogers baru kembali dari Amerika Serikat pada Senin (20/7/2026) waktu setempat usai membel"
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-21T23:59:34+00:00",
+          "summary": "Oleksandr Syrskyi was praised by President Zelensky for successfully defending Ukraine's capital Kyiv in 2022 Ukrainian President Volodymyr Zelensky has dismissed the country's army commander-in-chief, Oleksandr Syrskyi. It comes just days after the removal of popular Defence Minister Mykhailo Fedorov - a move that triggered street protests across the country.",
+          "key_points": [
+            "Oleksandr Syrskyi was praised by President Zelensky for successfully defending Ukraine's c",
+            "It comes just days after the removal of popular Defence Minister Mykhailo Fedorov - a move",
+            "Initial rumours that the end of Fedorov's tenure was related to a conflict between him and"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-21T17:33:22+00:00",
+          "summary": "Trump: 50% tariffs response to Canada's treatment of US farmers US President Donald Trump has imposed a 50% tariff on a wide range of goods imported from Canada, in retaliation for what he called \"unequal treatment\" of US cars, dairy and alcohol. Everyday consumer items like wine and hockey sticks, as well as industrial goods such as cement, are on the target list.",
+          "key_points": [
+            "Trump: 50% tariffs response to Canada's treatment of US farmers US President Donald Trump",
+            "Everyday consumer items like wine and hockey sticks, as well as industrial goods such as c",
+            "Several key exports, though, will be spared, including energy, potash, critical minerals a"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-21T16:10:56+00:00",
+          "summary": "The US military says it launched another round of strikes against Iran to \"further degrade\" its capabilities to attack ships in the Strait of Hormuz. The 10th consecutive night of strikes took place after US President Donald Trump vowed to punish Iran for the deaths of US soldiers.",
+          "key_points": [
+            "The US military says it launched another round of strikes against Iran to \"further degrade",
+            "The 10th consecutive night of strikes took place after US President Donald Trump vowed to",
+            "In response, Iran said it struck two oil tankers in the waterway, as well as US military a"
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3688
+    },
+    "timestamp": "2026-07-22T01:58:07.212753+00:00"
   }
 ]
