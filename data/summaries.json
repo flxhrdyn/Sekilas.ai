@@ -32993,5 +32993,287 @@
       "total_in_qdrant": 3688
     },
     "timestamp": "2026-07-22T01:58:07.212753+00:00"
+  },
+  {
+    "date": "2026-07-23",
+    "generated_at": "2026-07-23T02:06:37.323210+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta internasional.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Tankers make sharp U-turns after Houthi shipping threat"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: US-Iran tensions underpin dollar as yen nears 40-year low",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Tegangan antara AS dan Iran**: Konflik antara AS dan Iran telah memicu peningkatan harga minyak dunia, yang dapat mempengaruhi perekonomian global. Dampaknya telah dirasakan di Indonesia, dengan arus modal keluar dari pasar obligasi sebesar US$0,41 miliar dari 18 Februari hingga 6 Maret 2026.\n2. **Pengaruh terhadap nilai tukar**: Peningkatan harga minyak dunia juga telah mempengaruhi nilai tukar mata uang, dengan yen Jepang (JPY) mendekati level 40 tahun terendah. Hal ini dapat mempengaruhi perdagangan internasional dan perekonomian global.\n3. **Dampak pada ekonomi AS**: Meskipun ekonomi AS telah menyerap dampak perang Iran lebih baik daripada yang diperkirakan, namun masih ada risiko perlambatan ekonomi atau resesi jika bank sentral memilih menaikkan suku bunga untuk meredam inflasi energi.\n4. **Dilema kebijakan ekonomi**: Konflik geopolitik dapat mengganggu arsitektur kebijakan ekonomi global, dengan pasar keuangan global sangat sensitif terhadap ketidakpastian. Dalam situasi konflik, investor cenderung mengurangi eksposur pada aset berisiko dan beralih ke aset yang dianggap aman (safe haven) seperti emas dan obligasi pemerintah negara maju."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Tankers make sharp U-turns after Houthi shipping threat",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-22T14:42:49+00:00",
+            "summary": "At least seven oil tankers have made U-turns close to Yemen since the Iran-linked Houthi group announced a \"maritime embargo\" against Saudi Arabia on Monday, ship-tracking data shows. All of the ships were travelling either to or from Saudi ports and made sharp changes of course after the embargo was announced.",
+            "key_points": [
+              "At least seven oil tankers have made U-turns close to Yemen since the Iran-linked Houthi g",
+              "All of the ships were travelling either to or from Saudi ports and made sharp changes of c",
+              "Nearly 15% of global sea trade moves through the Red Sea, which connects the Mediterranean"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "British woman jailed for blackmail after accusing banker of rape in Hong Kong"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Tankers make sharp U-turns after Houthi shipping threat",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Tankers make sharp U-turns after Houthi shipping threat\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Ancaman Houthi**: Pada 9 Desember 2023, Houthi menargetkan semua kapal yang menuju Israel tanpa memandang kebangsaannya, memberikan dimensi baru pada konflik ini.\n2. **Dampak pada Yaman**: Blokade ini dinilai memutus akses logistik dan memiliki dampak besar pada Yaman karena pelabuhan tersebut menjadi pintu masuk utama untuk 90% bahan makanan yang diimpor ke negara tersebut.\n3. **Pengumuman blokade**: Dampak utama dari pengumuman blokade tersebut secara langsung menyasar sektor energi regional.\n4. **Kapal tanker**: Kapal tanker membuat perubahan arah yang tajam setelah ancaman Houthi, menunjukkan bahwa mereka berusaha untuk menghindari risiko yang meningkat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-22T14:14:16+00:00",
+            "summary": "A British woman has been jailed for six years in Hong Kong for blackmail and perverting the course of justice after a court found she made a false allegation of rape. Isabel Rose, 26, from Hackney in east London, alleged that a British banker raped her after she travelled to Hong Kong to visit him in January 2024.",
+            "key_points": [
+              "A British woman has been jailed for six years in Hong Kong for blackmail and perverting th",
+              "Isabel Rose, 26, from Hackney in east London, alleged that a British banker raped her afte",
+              "The man was arrested after she reported the incident but later released without charge"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "US-Iran tensions underpin dollar as yen nears 40-year low"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ngeri! Suhu Panas di Jepang Tembus 40 Derajat Celsius, 4.580 Orang Sampai Masuk RS",
+            "content": "Berikut adalah hasil penelitian saya:\n\n**Fakta Utama:**\n\n1. **Suhu Panas di Jepang**: Suhu panas ekstrem telah melanda Jepang, dengan suhu nyaris mencapai 40 derajat Celsius di beberapa wilayah.\n2. **Penyebab Suhu Panas**: Penyebab utama suhu panas ini adalah posisi gerak semu matahari yang pada bulan Oktober berada di selatan ekuator, serta penguatan angin timuran atau Monsun Australia yang membawa massa udara kering dan hangat.\n3. **Dampak Cuaca Ekstrem**: Cuaca ekstrem telah menyebabkan dua orang tewas di Jepang, dan pemerintah Jepang telah mengambil langkah-langkah antisipasi untuk menghadapi cuaca ekstrem ini.\n4. **Upaya Antisipasi**: Pemerintah Indonesia juga telah mengambil langkah-langkah antisipasi untuk menghadapi cuaca ekstrem, termasuk mengonsolidasikan kekuatan lintas sektoral untuk memastikan langkah antisipasi berjalan optimal."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/us-iran-tensions-underpin-dollar-yen-nears-40-year-low-6272241",
+            "category": "Teknologi",
+            "published_at": "2026-07-23T00:50:27+00:00",
+            "summary": "Banknotes of Japanese yen and U. S.",
+            "key_points": [
+              "Banknotes of Japanese yen and U",
+              "S",
+              "dollar are seen in this illustration picture taken September 23, 2022"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Ngeri! Suhu Panas di Jepang Tembus 40 Derajat Celsius, 4.580 Orang Sampai Masuk RS"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Ngeri! Suhu Panas di Jepang Tembus 40 Derajat Celsius, 4.580 Orang Sampai Masuk RS",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8586112/ngeri-suhu-panas-di-jepang-tembus-40-derajat-celsius-4-580-orang-sampai-masuk-rs",
+            "category": "Teknologi",
+            "published_at": "2026-07-23T00:05:11+00:00",
+            "summary": "Jepang tengah dilanda cuaca panas ekstrem. Suhu di sejumlah wilayah diperkirakan menembus 40 derajat Celsius, memicu peringatan bahaya heatstroke atau sengatan panas di banyak daerah.",
+            "key_points": [
+              "Jepang tengah dilanda cuaca panas ekstrem",
+              "Suhu di sejumlah wilayah diperkirakan menembus 40 derajat Celsius, memicu peringatan bahay",
+              "Badan Meteorologi Jepang mengeluarkan peringatan heatstroke di sejumlah wilayah"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Beckham Sangat Kagum dengan Casemiro"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Beckham Sangat Kagum dengan Casemiro",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8586229/beckham-sangat-kagum-dengan-casemiro",
+            "category": "Teknologi",
+            "published_at": "2026-07-23T01:30:06+00:00",
+            "summary": "Salah satu pemilik klub Inter Miami, David Beckham , mengaku sangat kagum dengan Casemiro. Hal itu yang membuat gelandang asal Brasil itu direkrut.",
+            "key_points": [
+              "Salah satu pemilik klub Inter Miami, David Beckham , mengaku sangat kagum dengan Casemiro",
+              "Hal itu yang membuat gelandang asal Brasil itu direkrut",
+              "Inter Miami mengumumkan kedatangan gelandang Casemiro, Rabu (22/7/2026) malam WIB"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Spain and France battle raging wildfires, face high risk of more",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/23/spain-and-france-battle-raging-wildfires-face-high-risk-of-more?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-23T01:23:57+00:00",
+          "summary": "Save Share Spain and France are at high risk of more wildfires in coming days, according to weather forecasters, while still fighting to contain deadly blazes that have already ignited amid soaring summer temperatures. Spanish weather agency AEMET warned on Wednesday that the danger of wildfires was “very high or extreme” across most of mainland Spain and the Balearic Islands.",
+          "key_points": [
+            "Save Share Spain and France are at high risk of more wildfires in coming days, according t",
+            "Spanish weather agency AEMET warned on Wednesday that the danger of wildfires was “very hi",
+            "Wildfires have already burned more land this year in Europe than the annual average over t"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Indian opposition disrupts parliament to support student protesters and pressure Modi",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/asia/india-student-protests-exams-education-minister-cockroach-party-6272286",
+          "category": "Teknologi",
+          "published_at": "2026-07-23T01:22:00+00:00",
+          "summary": "Supporters of India's Cockroach Janata Party (CJP) form a human chain to control demonstrators during the ongoing protests, two days after thousands of protesters marched towards parliament demanding the resignation of Education Minister Dharmendra Pradhan over examination paper leaks, at Jantar Mantar in New Delhi, India, on Jul 22, 2026. (Photo: Reuters/Adnan Abidi) NEW DELHI: Indian opposition lawmakers disrupted parliament on Wednesday (Jul 22) in support of student protesters , echoing their calls for the education minister to resign over exam leaks and ratcheting up pressure on Prime Minister Narendra Modi after days of unrest.",
+          "key_points": [
+            "Supporters of India's Cockroach Janata Party (CJP) form a human chain to control demonstra",
+            "(Photo: Reuters/Adnan Abidi) NEW DELHI: Indian opposition lawmakers disrupted parliament o",
+            "The protests, which started last month over the leak of medical school entrance exam paper"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Men's World Tennis Championship: 3 Ganda Putra RI Langsung Kandas",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/raket/d-8586259/mens-world-tennis-championship-3-ganda-putra-ri-langsung-kandas",
+          "category": "Teknologi",
+          "published_at": "2026-07-23T01:20:20+00:00",
+          "summary": "Men's World Tennis Championship baru saja menuntaskan hari pertama pertandingan babak utama. Sayangnya, tiga wakil ganda Indonesia sudah tumbang.",
+          "key_points": [
+            "Men's World Tennis Championship baru saja menuntaskan hari pertama pertandingan babak utam",
+            "Sayangnya, tiga wakil ganda Indonesia sudah tumbang",
+            "Pada ajang Amman Men's World Tennis Championship seri I M-15, Rabu (22/7/2026), Indonesia"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Fabian Ruiz: Menang Ballon d'Or? Kenapa Tidak",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/juara-bola-dunia-2026/bola-dunia/d-8586219/fabian-ruiz-menang-ballon-dor-kenapa-tidak",
+          "category": "Teknologi",
+          "published_at": "2026-07-23T01:00:10+00:00",
+          "summary": "Fabian Ruiz baru saja melalui musim yang gemilang. Maka meraih Ballon d'Or bukan sekadar mimpi bagi gelandang Timnas Spanyol itu.",
+          "key_points": [
+            "Fabian Ruiz baru saja melalui musim yang gemilang",
+            "Maka meraih Ballon d'Or bukan sekadar mimpi bagi gelandang Timnas Spanyol itu",
+            "Ruiz jadi pilar penting La Furia Roja saat menjuarai Piala Dunia 2026 akhir pekan kemarin"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "WNBA, players' union vow stronger security measures amid online abuse concerns",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/wnba-players-union-vow-stronger-security-measures-amid-online-abuse-concerns-6272221",
+          "category": "Teknologi",
+          "published_at": "2026-07-23T00:29:26+00:00",
+          "summary": "Jul 12, 2026; Montreal, Quebec, CAN; WNBA logo on ball and the net during the first half of a game. Mandatory Credit: Eric Bolte-Imagn Images July 22 : The Women's National Basketball Association (WNBA) and its players' union said on Wednesday they would continue to enhance security measures after meeting to discuss a recent rise in racist, hateful and abusive messages directed at players.",
+          "key_points": [
+            "Jul 12, 2026; Montreal, Quebec, CAN; WNBA logo on ball and the net during the first half o",
+            "Mandatory Credit: Eric Bolte-Imagn Images July 22 : The Women's National Basketball Associ",
+            "The joint statement from the league and the Women's National Basketball Players Associatio"
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-23T01:20:37+00:00",
+          "summary": "Save Share A slew of United States actions against Brazil, including a range of tariffs and sanctions on local criminal gangs , is playing into Brazilian voter sentiment ahead of the presidential elections in October. As incumbent leftist President Luiz Inacio Lula da Silva seeks a fourth, non-consecutive term, he will compete against the Liberal Party’s Flavio Bolsonaro, son of former far-right President Jair Bolsonaro, who is serving a 27-year prison term.",
+          "key_points": [
+            "Save Share A slew of United States actions against Brazil, including a range of tariffs an",
+            "As incumbent leftist President Luiz Inacio Lula da Silva seeks a fourth, non-consecutive t",
+            "Brazil will hold the first round of the general election on October 4, with a run-off, sho"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "US House passes $1.15 trillion military bill expanding Israel cooperation",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-23T00:29:52+00:00",
+          "summary": "Save Share Republicans in the United States House of Representatives have narrowly passed a massive $1. 15bn military spending package, despite concerns from Democratic lawmakers over the price tag and enhanced military technology collaboration with Israel.",
+          "key_points": [
+            "Save Share Republicans in the United States House of Representatives have narrowly passed",
+            "15bn military spending package, despite concerns from Democratic lawmakers over the price",
+            "The bill passed in the House on Wednesday by a margin of 216 to 212, largely adhering to p"
+          ],
+          "cluster_id": 8
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 14,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 14,
+      "total_in_qdrant": 3714
+    },
+    "timestamp": "2026-07-23T02:06:37.323218+00:00"
   }
 ]
