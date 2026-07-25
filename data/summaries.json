@@ -33557,5 +33557,195 @@
       "total_in_qdrant": 3641
     },
     "timestamp": "2026-07-24T02:01:19.428118+00:00"
+  },
+  {
+    "date": "2026-07-25",
+    "generated_at": "2026-07-25T02:00:49.609208+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta olahraga.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "US and Iran trade more strikes in Gulf as fears of escalation mount"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: US and Iran trade more strikes in Gulf as fears of escalation mount",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait konflik antara Amerika Serikat dan Iran. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Konflik AS-Iran Masuk Babak Baru**: Konflik antara Amerika Serikat dan Iran telah berekspansi ke fase operasi darat, menurut pengamat politik Timur Tengah Hasibullah Satrawi.\n2. **Serangan Balasan Iran**: Iran telah melancarkan gelombang rudal balistik dan drone ke wilayah Israel, pangkalan militer AS, dan negara sekutu di kawasan Teluk sebagai respons atas agresi AS dan Israel.\n3. **Korban Terbaru**: Berdasarkan data Palang Merah Iran, catatan korban akibat serangan AS dan Israel di Iran adalah sekitar 201 orang meninggal dan 747 lainnya luka-luka di berbagai provinsi.\n4. **Ketegangan Geopolitik**: Konflik dan industri persenjataan sering memicu lonjakan belanja militer, dan Amerika Serikat merupakan eksportir senjata terbesar di dunia, menurut data dari Stockholm International Peace Research Institute."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-07-24T18:13:02+00:00",
+            "summary": "Vessels sighted in the Strait of Hormuz from Oman on 23 July Iran says it has carried out drone strikes on US military facilities and bases across the Middle East in retaliation for the 13th consecutive night of American attacks on the country. Explosions were reported along Iran's Gulf coast, and in western, northern and central areas.",
+            "key_points": [
+              "Vessels sighted in the Strait of Hormuz from Oman on 23 July Iran says it has carried out",
+              "Explosions were reported along Iran's Gulf coast, and in western, northern and central are",
+              "Four people were killed and five injured in an attack in the south-west, Iranian state med"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Jalan Kaki Pagi vs Malam, Mana yang Lebih Sehat untuk Jantung? Ini Kata Dokter"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Jalan Kaki Pagi vs Malam, Mana yang Lebih Sehat untuk Jantung? Ini Kata Dokter",
+            "content": "Berikut adalah hasil penelitian intelijen yang telah disaring dan dikompilasi menjadi 4 poin fakta yang relevan dan kredibel:\n\n1. **Risiko Penyakit Jantung Koroner**: Penelitian menunjukkan bahwa orang yang berjalan secara teratur memiliki risiko lebih rendah untuk mengembangkan penyakit jantung koroner.\n2. **Manfaat Berjalan Kaki**: Berjalan kaki dapat menurunkan kadar LDL (kolesterol jahat) dalam darah, mengurangi peradangan, serta menjaga tekanan darah tetap stabil. Aktivitas ini juga dapat meningkatkan denyut jantung, sirkulasi darah di dalam tubuh, serta memperkuat jantung.\n3. **Beban Penyakit Jantung Koroner di Indonesia**: Analisis berbasis data Global Burden of Disease (GBD) 2021 menunjukkan bahwa beban penyakit jantung koroner di Indonesia meningkat sebesar 10,5% selama periode 2002-2021.\n4. **Umur Penderita Penyakit Jantung Koroner**: Rata-rata umur penderita penyakit jantung koroner di Indonesia telah menurun dari 48,5 tahun (2013) menjadi 43,2 tahun (2023), menunjukkan bahwa penyakit ini semakin menyerang generasi muda."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Jalan Kaki Pagi vs Malam, Mana yang Lebih Sehat untuk Jantung? Ini Kata Dokter",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/kebugaran/d-8589152/jalan-kaki-pagi-vs-malam-mana-yang-lebih-sehat-untuk-jantung-ini-kata-dokter",
+            "category": "Teknologi",
+            "published_at": "2026-07-24T22:06:50+00:00",
+            "summary": "Jalan kaki selama 30 menit sehari sudah lama dikenal sebagai salah satu cara sederhana untuk menjaga kesehatan jantung. Namun, penelitian terbaru menunjukkan bahwa waktu dan durasi berjalan kaki juga dapat berperan penting dalam memberikan manfaat bagi kesehatan.",
+            "key_points": [
+              "Jalan kaki selama 30 menit sehari sudah lama dikenal sebagai salah satu cara sederhana unt",
+              "Namun, penelitian terbaru menunjukkan bahwa waktu dan durasi berjalan kaki juga dapat berp",
+              "Selama ini, anjuran dokter terdengar sederhana yakni tetap aktif bergerak"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Singapore's Gan Ching Hwee breaks freestyle national record at Commonwealth Games",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/team-singapore-gan-ching-hwee-swimming-commonwealth-games-6277446",
+          "category": "Teknologi",
+          "published_at": "2026-07-25T01:31:00+00:00",
+          "summary": "She finished fifth in the women's 400m freestyle final. Gan Ching Hwee at the 2026 Commonwealth Games.",
+          "key_points": [
+            "She finished fifth in the women's 400m freestyle final",
+            "Gan Ching Hwee at the 2026 Commonwealth Games",
+            "(Photo: Lim Weixiang) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Lyles slams door on 100m field at US Championships",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/lyles-slams-door-100m-field-us-championships-6277481",
+          "category": "Teknologi",
+          "published_at": "2026-07-25T01:23:55+00:00",
+          "summary": "NEW YORK, July 24 : Noah Lyles underlined his claim as the king of American track again on Friday, winning the 100 metres final in a world-leading 9. 79 seconds at the U.",
+          "key_points": [
+            "NEW YORK, July 24 : Noah Lyles underlined his claim as the king of American track again on",
+            "79 seconds at the U",
+            "S"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Cara Silent Telepon dari Orang Tak Dikenal di WhatsApp",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/tips-dan-trik/d-8589317/cara-silent-telepon-dari-orang-tak-dikenal-di-whatsapp",
+          "category": "Teknologi",
+          "published_at": "2026-07-25T00:15:23+00:00",
+          "summary": "Aisyah Kamaliah - detikInet Selama orang lain memiliki nomor telepon milik kamu yang menghubungkannya ke akun WhatsApp, mereka bisa menelepon melalui aplikasi tersebut. Sekalipun orang itu tidak kamu simpan nomornya atau belum pernah kontakan, mereka masih dapat menelepon melalui WA.",
+          "key_points": [
+            "Aisyah Kamaliah - detikInet Selama orang lain memiliki nomor telepon milik kamu yang mengh",
+            "Sekalipun orang itu tidak kamu simpan nomornya atau belum pernah kontakan, mereka masih da",
+            "Namun, ada cara untuk silent telepon dari orang tak dikenal di WhatsApp"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-partnership-6277421",
+          "category": "Teknologi",
+          "published_at": "2026-07-24T23:53:43+00:00",
+          "summary": "NVIDIA logo is seen in this illustration taken July 20, 2026. REUTERS/Dado Ruvic/Illustration SAN FRANCISCO, July 24 : Nvidia and South Korea's SK Group on Friday unveiled a more than $500 billion AI initiative spanning large-scale AI data centers and next-generation memory, Nvidia said.",
+          "key_points": [
+            "NVIDIA logo is seen in this illustration taken July 20, 2026",
+            "REUTERS/Dado Ruvic/Illustration SAN FRANCISCO, July 24 : Nvidia and South Korea's SK Group",
+            "The initiative includes a long-term partnership with SK Hynix to secure next-generation me"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "This kind of obsessive attraction isn’t love – but it has a name",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/wellness/love-attraction-limerence-6256341",
+          "category": "Teknologi",
+          "published_at": "2026-07-24T23:08:40+00:00",
+          "summary": "Limerence is more than a crush, psychologists say, and it can persist for months or years. (Art: The New York Times) For eight years, Jordan felt as if she had fallen under a powerful spell.",
+          "key_points": [
+            "Limerence is more than a crush, psychologists say, and it can persist for months or years",
+            "(Art: The New York Times) For eight years, Jordan felt as if she had fallen under a powerf",
+            "She had what others would have considered a casual relationship with a co-worker, but desp"
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Cape Verde World Cup hero Vozinha agrees move to Chile's Colo Colo",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/cape-verde-world-cup-hero-vozinha-agrees-move-chiles-colo-colo-6277516",
+          "category": "Politik",
+          "published_at": "2026-07-25T01:50:48+00:00",
+          "summary": "July 24 : Cape Verde goalkeeper Vozinha, who emerged as one of the World Cup's biggest surprise packages, has reached an agreement to join Chilean side Colo Colo, club president Anibal Mosa said on Friday. The 40-year-old free agent will travel to Chile to undergo a medical before being officially unveiled at the Estadio Monumental, Mosa told reporters ahead of Colo Colo's league match against Deportes Limache.",
+          "key_points": [
+            "July 24 : Cape Verde goalkeeper Vozinha, who emerged as one of the World Cup's biggest sur",
+            "The 40-year-old free agent will travel to Chile to undergo a medical before being official",
+            "\"Vozinha will be a Colo Colo player"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-25T01:23:39+00:00",
+          "summary": "Watch: Wildfires rage across France and Spain A wildfire near Madrid is \"beyond the capacity\" of firefighters to contain, Spanish officials have warned, after three fires west of the capital merged into a single blaze. Spain's government has declared a national emergency with 63,000 people told to evacuate or stay indoors, with the number told to flee totalling at least 25,000.",
+          "key_points": [
+            "Watch: Wildfires rage across France and Spain A wildfire near Madrid is \"beyond the capaci",
+            "Spain's government has declared a national emergency with 63,000 people told to evacuate o",
+            "Madrid's regional president Isabel Díaz Ayuso described it as the \"worst fire in the histo"
+          ],
+          "cluster_id": 9
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3618
+    },
+    "timestamp": "2026-07-25T02:00:49.609215+00:00"
   }
 ]
