@@ -33747,5 +33747,244 @@
       "total_in_qdrant": 3618
     },
     "timestamp": "2026-07-25T02:00:49.609215+00:00"
+  },
+  {
+    "date": "2026-07-26",
+    "generated_at": "2026-07-26T02:05:07.477106+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta teknologi.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta teknologi.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "India's 'cockroach' protest called off after education minister quits"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: India's 'cockroach' protest called off after education minister quits",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta relevan terkait topik \"India's 'cockroach' protest called off after education minister quits\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Protes \"Cockroach\" di India**: Protes ini disebut \"Cockroach\" karena para demonstran menggunakan simbol kumbang untuk menunjukkan kekecewaan mereka terhadap pemerintah.\n2. **Menteri Pendidikan Mengundurkan Diri**: Menteri Pendidikan India mengundurkan diri setelah protes ini, yang kemungkinan besar terkait dengan kebijakan pendidikan yang dianggap tidak efektif.\n3. **Kebijakan Pendidikan di Indonesia**: Artikel dari sihojurnal.com menunjukkan bahwa kebijakan pendidikan di Indonesia juga memiliki tantangan dan peluang dalam implementasi, termasuk penggunaan anggaran pendidikan yang besar tetapi tidak efektif.\n4. **Keterlibatan Masyarakat dalam Pendidikan**: Artikel dari Facebook Kemendikbudristek menunjukkan bahwa pendidikan yang memadai dan skill yang cukup dapat membantu mengentaskan kemiskinan dan memakmurkan masyarakat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "India's 'cockroach' protest called off after education minister quits",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-25T17:44:46+00:00",
+            "summary": "Watch: Protesters celebrate India's education minister resignation India's Cockroach Janta Party (CJP) has called off its five-week-long protest, hours after Education Minister Dharmendra Pradhan resigned. The CJP has called it a win for democracy and thousands of jubilant supporters continue to celebrate at Jantar Mantar, the main protest venue in Delhi.",
+            "key_points": [
+              "Watch: Protesters celebrate India's education minister resignation India's Cockroach Janta",
+              "The CJP has called it a win for democracy and thousands of jubilant supporters continue to",
+              "An online satirical campaign with an AI-generated cockroach as its mascot, the CJP is not"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Bolsonaro's son begins Brazil presidential bid with Netanyahu, Milei kudos\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pertumbuhan Ekonomi Brasil**: Brasil telah mengalami pertumbuhan ekonomi yang pesat, sehingga menjadi negara dengan perekonomian terkuat di Amerika Selatan.\n2. **Kebijakan Luar Negeri Brasil**: Brasil telah mengalami perubahan dalam kebijakan luar negeri, dari administrasi Jair Bolsonaro ke administrasi Lula Da Silva, yang berfokus pada revitalisasi Amazon Fund (2019-2024).\n3. **Dampak Perang Dagang**: Perang dagang antara Amerika Serikat dan negara-negara lain dapat mengganggu arsitektur kebijakan ekonomi global, sehingga mempengaruhi stabilitas ekonomi Indonesia.\n4. **Kebijakan Tarif Amerika Serikat**: Amerika Serikat telah menerapkan kebijakan tarif sepihak pada beberapa produk impor, termasuk baja, aluminium, dan komoditas lainnya, yang dapat mempengaruhi sistem perdagangan global."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Bolsonaro’s son begins Brazil presidential bid with Netanyahu, Milei kudos",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/7/26/bolsonaros-son-begins-brazil-presidential-bid-with-netanyahu-milei-kudos?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-07-26T00:08:16+00:00",
+            "summary": "Save Share Flavio Bolsonaro has inaugurated the official beginning of his Brazilian presidential campaign, touting support from right-wing figures such as Argentinian President Javier Milei and Israeli Prime Minister Benjamin Netanyahu. Bolsonaro, son of former president Jair Bolsonaro and long considered the presumptive candidate of Brazil’s political right, launched his formal bid challenging President Luiz Inacio Lula da Silva on Saturday.",
+            "key_points": [
+              "Save Share Flavio Bolsonaro has inaugurated the official beginning of his Brazilian presid",
+              "Bolsonaro, son of former president Jair Bolsonaro and long considered the presumptive cand",
+              "“This is more than a party convention,” Bolsonaro said in remarks to his father’s Liberal"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Hipoglikemia: Risiko Medis Saat Gula Darah Anjlok Tiba-tiba"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Hipoglikemia: Risiko Medis Saat Gula Darah Anjlok Tiba-tiba",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang hipoglikemia. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Definisi Hipoglikemia**: Hipoglikemia adalah kondisi ketika kadar gula darah turun di bawah level normal, yaitu kurang dari 70 mg/dL. Glukosa adalah sumber energi utama bagi tubuh, terutama otak.\n2. **Gejala Hipoglikemia**: Gejala hipoglikemia dapat berupa gemetar, lemah, mual, muntah, nyeri kepala, nyeri perut, batuk berdahak, dan sesak napas. Gejala ini dapat timbul secara tiba-tiba dan dapat berlangsung setelah kadar gula darah kembali normal.\n3. **Penyebab Hipoglikemia**: Hipoglikemia dapat disebabkan oleh berbagai faktor, termasuk aktivitas fisik yang terlalu berlebihan, tidak makan atau terlambat makan, penggunaan obat-obatan tertentu, dan kondisi medis lainnya.\n4. **Pencegahan dan Pengobatan**: Untuk mencegah hipoglikemia, penting untuk menjaga kadar gula darah dalam batas normal. Jika gejala hipoglikemia timbul, segera periksa ke fasilitas kesehatan terdekat dan lakukan pertolongan pertama yang tepat."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Hipoglikemia: Risiko Medis Saat Gula Darah Anjlok Tiba-tiba",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8590103/hipoglikemia-risiko-medis-saat-gula-darah-anjlok-tiba-tiba",
+            "category": "Teknologi",
+            "published_at": "2026-07-25T22:03:09+00:00",
+            "summary": "Hipoglikemia adalah kondisi ketika kadar gula darah atau glukosa turun di bawah batas normal. Kondisi ini lebih sering dialami oleh orang dengan diabetes, terutama diabetes tipe 1, tetapi juga dapat terjadi pada orang yang tidak memiliki diabetes.",
+            "key_points": [
+              "Hipoglikemia adalah kondisi ketika kadar gula darah atau glukosa turun di bawah batas norm",
+              "Kondisi ini lebih sering dialami oleh orang dengan diabetes, terutama diabetes tipe 1, tet",
+              "Gula darah berperan penting sebagai sumber energi utama bagi tubuh"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Agen: Lukaku Akan Pergi, jika Tidak Lagi Diinginkan"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Agen: Lukaku Akan Pergi, jika Tidak Lagi Diinginkan",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-italia/d-8590444/agen-lukaku-akan-pergi-jika-tidak-lagi-diinginkan",
+            "category": "Teknologi",
+            "published_at": "2026-07-26T01:30:48+00:00",
+            "summary": "Agen Romelu Lukaku , Federico Pastorello, membahas situasi kliennya di Napoli. Lukaku tak mau jadi pelapis dan siap pergi jika tidak diinginkan lagi.",
+            "key_points": [
+              "Agen Romelu Lukaku , Federico Pastorello, membahas situasi kliennya di Napoli",
+              "Lukaku tak mau jadi pelapis dan siap pergi jika tidak diinginkan lagi",
+              "Kontrak penyerang Belgia itu akan habis pada tahun depan"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Khusanov Perpanjang Kontrak di City, Bertekad Pikat Maresca",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8590446/khusanov-perpanjang-kontrak-di-city-bertekad-pikat-maresca",
+          "category": "Teknologi",
+          "published_at": "2026-07-26T02:00:33+00:00",
+          "summary": "Bek Manchester City Abdukodir Khusanov menandatangani kontrak baru. Khusanov bertekad meyakinkan Enzo Maresca untuk menjadikannya sebagai pilihan utama.",
+          "key_points": [
+            "Bek Manchester City Abdukodir Khusanov menandatangani kontrak baru",
+            "Khusanov bertekad meyakinkan Enzo Maresca untuk menjadikannya sebagai pilihan utama",
+            "Khusanov meneken pembaruan kontrak yang mengikatnya di City sampai 2031"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Maresca Beri Kesempatan Kedua untuk Grealish?",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8590386/maresca-beri-kesempatan-kedua-untuk-grealish",
+          "category": "Teknologi",
+          "published_at": "2026-07-26T01:00:32+00:00",
+          "summary": "Pelatih baru Manchester City , Enzo Maresca , tampaknya memberikan kesempatan kedua untuk Jack Grealish. Maresca menyebut bahwa Grealish masih bagian The Citizens.",
+          "key_points": [
+            "Pelatih baru Manchester City , Enzo Maresca , tampaknya memberikan kesempatan kedua untuk",
+            "Maresca menyebut bahwa Grealish masih bagian The Citizens",
+            "Grealish harus dipinjamkan ke Everton pada musim 2025/2026"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Daycare Gratis Jadi Senjata Semarang Lawan Stunting",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/fotohealth/d-8590330/daycare-gratis-jadi-senjata-semarang-lawan-stunting",
+          "category": "Teknologi",
+          "published_at": "2026-07-26T00:30:26+00:00",
+          "summary": "Semarang - Semarang menghadirkan daycare gratis bagi anak di bawah dua tahun. Program ini menjadi bagian dari upaya pencegahan stunting sejak dini.",
+          "key_points": [
+            "Semarang - Semarang menghadirkan daycare gratis bagi anak di bawah dua tahun",
+            "Program ini menjadi bagian dari upaya pencegahan stunting sejak dini",
+            "Pengasuh mengajarkan permainan edukatif kepada anak di layanan daycare Rumah Penanganan St"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "What’s behind the Israeli crackdown in the occupied West Bank?",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-25T23:30:45+00:00",
+          "summary": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates. The Israeli military has stepped up its operations in the occupied West Bank, storming several Palestinian towns and villages.",
+          "key_points": [
+            "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expan",
+            "The Israeli military has stepped up its operations in the occupied West Bank, storming sev",
+            "The government is also fast-tracking the expansion of illegal settlements and outposts"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-25T23:16:45+00:00",
+          "summary": "Save Share Tehran has accused Ukraine of attacking an Iranian commercial vessel in the Caspian Sea, causing an explosion that killed one sailor and injured another. Iran’s Ministry of Foreign Affairs summoned Ukraine’s chargé d’affaires in Tehran to protest what it described as a “hostile and criminal” attack on Saturday, state news agency IRNA reported.",
+          "key_points": [
+            "Save Share Tehran has accused Ukraine of attacking an Iranian commercial vessel in the Cas",
+            "Iran’s Ministry of Foreign Affairs summoned Ukraine’s chargé d’affaires in Tehran to prote",
+            "The ministry claimed the attack had been acknowledged by the Ukrainian leadership and said"
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-25T13:51:07+00:00",
+          "summary": "Watch: 'The show must go on' says Trump at second White House correspondents dinner US President Donald Trump took swipes at the media at the White House Correspondents' Association (WHCA) dinner, a night celebrating press freedom, after the first event was cancelled by a shooting three months ago. The president sat as reporters from outlets he has sparred with and even sued, including the New York Times, CNN and the Wall Street Journal, came up to be honoured with awards.",
+          "key_points": [
+            "Watch: 'The show must go on' says Trump at second White House correspondents dinner US Pre",
+            "The president sat as reporters from outlets he has sparred with and even sued, including t",
+            "Typically the president takes a lighter-hearted tone at the annual dinner, and Trump joked"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 11,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 11,
+      "total_in_qdrant": 3607
+    },
+    "timestamp": "2026-07-26T02:05:07.477132+00:00"
   }
 ]
