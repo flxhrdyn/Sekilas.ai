@@ -33986,5 +33986,223 @@
       "total_in_qdrant": 3607
     },
     "timestamp": "2026-07-26T02:05:07.477132+00:00"
+  },
+  {
+    "date": "2026-07-27",
+    "generated_at": "2026-07-27T02:12:52.574624+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta kesehatan.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta kesehatan.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Indonesia Vs Kamboja: Ujian Perdana Skuad Garuda"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Indonesia Vs Kamboja: Ujian Perdana Skuad Garuda",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/sepakbola-indonesia/d-8591293/indonesia-vs-kamboja-ujian-perdana-skuad-garuda",
+            "category": "Teknologi",
+            "published_at": "2026-07-27T00:58:00+00:00",
+            "summary": "Indonesia dan Kamboja akan berhadapan di Piala AFF 2026 di Stadion Pakansari, Kabupaten Bogor, Jawa Barat, Senin (27/7/2026). Laga itu akan kickoff pada pukul 20.",
+            "key_points": [
+              "Indonesia dan Kamboja akan berhadapan di Piala AFF 2026 di Stadion Pakansari, Kabupaten Bo",
+              "Laga itu akan kickoff pada pukul 20",
+              "30 WIB"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+            "content": "Berikut adalah hasil penyaringan informasi mentah untuk topik \"Firefighters battle wildfire as tens of thousands evacuated near Bordeaux\":\n\n1. **Wildfires di Bordeaux**: Tidak ada informasi yang relevan tentang kejadian wildfire di dekat Bordeaux dalam hasil pencarian mentah.\n2. **Tren Wildfires Global**: Menurut data dari National Park Service, manusia menyebabkan sekitar 85% dari semua kejadian wildfire setiap tahun di Amerika Serikat. Pada tahun 2022, lebih dari 7,5 juta hektar wilayah wildland terbakar.\n3. **Dampak Perubahan Iklim**: Perubahan iklim diharapkan memperpanjang musim kebakaran di Eropa, terutama di wilayah selatan yang sudah rentan terhadap cuaca yang mendukung kebakaran. Populasi di wilayah tengah dan utara Eropa akan semakin terpapar pada kondisi cuaca kebakaran yang tidak menguntungkan.\n4. **Kebakaran Hutan di Kanada**: Pada tahun 2023, kebakaran hutan di Kanada membakar sekitar 7,8 juta hektar hutan, yang sekitar 6 kali lipat dari rata-rata tahunan 2001-2022. Kebakaran hutan di Kanada terus meningkat pada tahun 2024 dan 2025."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-26T18:40:08+00:00",
+            "summary": "Watch: Firefighters tackle wildfires in Ares and aerial footage shows destruction in Le Porge Firefighters are battling to contain wildfires burning near the city of Bordeaux as tens of thousands of people have been evacuated from the surrounding region. France's Interior Minister Laurent Nuñez said the situation in the region remained \"very unfavourable\" and the fire was \"moving erratically towards\" Bordeaux, though officials downplayed the possibility of evacuation.",
+            "key_points": [
+              "Watch: Firefighters tackle wildfires in Ares and aerial footage shows destruction in Le Po",
+              "France's Interior Minister Laurent Nuñez said the situation in the region remained \"very u",
+              "Overnight into Sunday, about 55,000 people were evacuated from villages to the south of th"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Kulit Merah dan Gatal? Kenali Pemicu Radang Kulit dari Alergi hingga Imunitas"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kulit Merah dan Gatal? Kenali Pemicu Radang Kulit dari Alergi hingga Imunitas",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8591225/kulit-merah-dan-gatal-kenali-pemicu-radang-kulit-dari-alergi-hingga-imunitas",
+            "category": "Teknologi",
+            "published_at": "2026-07-26T22:04:53+00:00",
+            "summary": "Peradangan kulit merupakan kondisi yang umum terjadi dan dapat dialami oleh siapa saja. Tanda-tandanya beragam, mulai dari kemerahan, gatal, bengkak, hingga muncul ruam atau lepuhan.",
+            "key_points": [
+              "Peradangan kulit merupakan kondisi yang umum terjadi dan dapat dialami oleh siapa saja",
+              "Tanda-tandanya beragam, mulai dari kemerahan, gatal, bengkak, hingga muncul ruam atau lepu",
+              "Penyebabnya beragam, mulai dari alergi, infeksi, fotosensitivitas akibat sinar matahari, h"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Bocoran Samsung Galaxy S27 Series: Upgrade Kamera dan Baterai Silikon-Karbon"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Bocoran Samsung Galaxy S27 Series: Upgrade Kamera dan Baterai Silikon-Karbon",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel tentang Samsung Galaxy S27 Series:\n\n1. **Samsung Galaxy S27 akan menjadi model dasar Galaxy S series untuk tahun 2027**, menggantikan Galaxy S26 dan diharapkan membawa peningkatan kinerja, kualitas kamera yang lebih baik, fitur AI yang lebih baru, dan masa pakai baterai yang lebih lama.\n2. **Galaxy S27 dapat menggunakan prosesor Exynos atau Snapdragon**, tergantung pada pasar.\n3. **Baterai Galaxy S27 mungkin menggunakan teknologi baterai silikon-karbon**, yang menawarkan energi densitas yang lebih tinggi dan kemampuan pengisian daya yang lebih cepat dibandingkan dengan baterai lithium-ion tradisional.\n4. **Teknologi baterai silikon-karbon sedang berkembang pesat**, dengan keuntungan seperti energi densitas yang lebih tinggi, kemampuan pengisian daya yang lebih cepat, dan masa pakai baterai yang lebih lama, serta dapat digunakan dalam perangkat elektronik premium dan kendaraan listrik."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Bocoran Samsung Galaxy S27 Series: Upgrade Kamera dan Baterai Silikon-Karbon",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8591537/bocoran-samsung-galaxy-s27-series-upgrade-kamera-dan-baterai-silikon-karbon",
+            "category": "Teknologi",
+            "published_at": "2026-07-27T01:46:41+00:00",
+            "summary": "Virgina Maulita Putri - detikInet Samsung baru saja meluncurkan trio ponsel lipat terbarunya, tapi rumor soal Galaxy S27 series sudah mulai berhembus. Ponsel flagship terbaru Samsung kabarnya akan membawa upgrade kamera dan baterai.",
+            "key_points": [
+              "Virgina Maulita Putri - detikInet Samsung baru saja meluncurkan trio ponsel lipat terbarun",
+              "Ponsel flagship terbaru Samsung kabarnya akan membawa upgrade kamera dan baterai",
+              "Laporan terbaru dari WinFuture mengungkap perubahan yang akan dibawa Galaxy S27 series, te"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-27T01:59:02+00:00",
+          "summary": "Save Share The number of people infected with Ebola in the Democratic Republic of the Congo has risen to 3,200, according to government data, including at least 1,405 deaths. The data was released on Sunday as medics struggle to contain the DRC’s 17th Ebola outbreak, with infections surging by about 1,000 in just 10 days.",
+          "key_points": [
+            "Save Share The number of people infected with Ebola in the Democratic Republic of the Cong",
+            "The data was released on Sunday as medics struggle to contain the DRC’s 17th Ebola outbrea",
+            "The outbreak, declared on May 15, is caused by the Bundibugyo strain of the Ebola virus, f"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Pentingnya Mengenali Potensi Anak Sejak Dini Menurut Psikolog",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8591531/pentingnya-mengenali-potensi-anak-sejak-dini-menurut-psikolog",
+          "category": "Teknologi",
+          "published_at": "2026-07-27T00:41:34+00:00",
+          "summary": "Anak yang secara akademik memiliki nilai baik memang bagus, tapi itu ternyata bukan satu-satunya hal yang penting. Psikolog Prof Dr Rose Mini Agoes Salim, MPsi menuturkan ada banyak cabang dari kecerdasan anak.",
+          "key_points": [
+            "Anak yang secara akademik memiliki nilai baik memang bagus, tapi itu ternyata bukan satu-s",
+            "Psikolog Prof Dr Rose Mini Agoes Salim, MPsi menuturkan ada banyak cabang dari kecerdasan",
+            "Beberapa contoh lainnya seperti kecerdasan musikal, kecerdasan mengolah tubuh, hingga kece"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Aura Alonso Bikin Gittens Terkesan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8591446/aura-alonso-bikin-gittens-terkesan",
+          "category": "Teknologi",
+          "published_at": "2026-07-27T00:30:45+00:00",
+          "summary": "Kedatangan Xabi Alonso diapresiasi banyak pemain Chelsea. Salah satunya Jamie Gittens , yang terkesan dengan aura sang manajer.",
+          "key_points": [
+            "Kedatangan Xabi Alonso diapresiasi banyak pemain Chelsea",
+            "Salah satunya Jamie Gittens , yang terkesan dengan aura sang manajer",
+            "Alonso menjadi manajer baru Chelsea musim ini"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "MAS tightens monetary policy for the second time in a row",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/mas-monetary-policy-inflation-economy-outlook-6275571",
+          "category": "Teknologi",
+          "published_at": "2026-07-27T00:12:00+00:00",
+          "summary": "The majority of analysts had expected the central bank to keep monetary policy unchanged. The logo of the Monetary Authority of Singapore on Feb 13, 2026.",
+          "key_points": [
+            "The majority of analysts had expected the central bank to keep monetary policy unchanged",
+            "The logo of the Monetary Authority of Singapore on Feb 13, 2026",
+            "(Photo: CNA/Ili Mansor) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Japan June services producer prices rise as Iran war keeps freight costs high",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/japan-june-services-producer-prices-rise-iran-war-keeps-freight-costs-high-6279616",
+          "category": "Teknologi",
+          "published_at": "2026-07-27T00:06:21+00:00",
+          "summary": "A businessman stands on a terrace overlooking a banking district in Tokyo, Japan, February 16, 2016. REUTERS/Thomas Peter TOKYO, July 27 : Japan's services producer price index rose 3.",
+          "key_points": [
+            "A businessman stands on a terrace overlooking a banking district in Tokyo, Japan, February",
+            "REUTERS/Thomas Peter TOKYO, July 27 : Japan's services producer price index rose 3",
+            "2 per cent in June from a year earlier, central bank data showed on Monday, a sign of broa"
+          ],
+          "cluster_id": 11
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3588
+    },
+    "timestamp": "2026-07-27T02:12:52.574632+00:00"
   }
 ]
