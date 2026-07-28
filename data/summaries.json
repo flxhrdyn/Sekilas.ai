@@ -34204,5 +34204,273 @@
       "total_in_qdrant": 3588
     },
     "timestamp": "2026-07-27T02:12:52.574632+00:00"
+  },
+  {
+    "date": "2026-07-28",
+    "generated_at": "2026-07-28T01:54:45.488869+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta olahraga.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Wildfire now nine miles from French city of Bordeaux, mayor warns"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Risiko Kanker Ovarium dan Talc**: Studi epidemiologi menemukan bahwa penggunaan talc dapat meningkatkan risiko kanker ovarium sebesar 1,22 kali dibandingkan dengan kontrol. Namun, penelitian lain menemukan bahwa tidak ada hubungan yang signifikan antara pemakaian talc dengan risiko kanker ovarium.\n2. **Insidensi Kanker Ovarium**: Insidensi kanker ovarium ditemukan 61 kasus/100.000 orang per tahun pada pasien yang menggunakan talc, sedangkan pada kontrol memiliki insidensi 55 kasus/100.000 orang per tahun.\n3. **Penarikan Kembali Obat**: Perusahaan farmasi harus mempertimbangkan risiko dan manfaat dari penarikan kembali obat, serta mengambil langkah-langkah yang tepat untuk melindungi kesehatan dan keselamatan konsumen.\n4. **Keterlambatan Diagnosis Kanker**: Di Indonesia, keterlambatan diagnosis kanker meningkatkan angka kematian, dengan ~70% kematian kanker terjadi di negara berpenghasilan rendah & menengah."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-07-27T20:34:55+00:00",
+            "summary": "Firefighters in Gironde are facing an \"unprecedented\" situation as they battle a blaze that \"has a life of its own\", the interior minister has warned The mayor of Bordeaux has said he is bracing for \"all eventualities\", as one of multiple wildfires burning in France is now 15km (nine miles) from the south-western city. \"We are preparing to accommodate a large number of people should further evacuations be ordered,\" said Thomas Cazenave.",
+            "key_points": [
+              "Firefighters in Gironde are facing an \"unprecedented\" situation as they battle a blaze tha",
+              "\"We are preparing to accommodate a large number of people should further evacuations be or",
+              "President Emmanuel Macron, visiting the fire-ravaged area in the Gironde region, said the"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Trump says Iran war talks taking place during lull in strikes"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump says Iran war talks taking place during lull in strikes",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Perundingan Damai**: Amerika Serikat dan Iran sedang melakukan perundingan damai untuk mencapai kesepakatan perdamaian yang komprehensif. Perundingan ini melibatkan diskusi langsung dan mediasi untuk menyelesaikan perbedaan antara kedua negara.\n2. **Kondisi Perundingan**: Amerika Serikat meminta Iran untuk menghentikan semua kegiatan pengayaan uranium, sementara Iran menolak untuk melakukan hal tersebut. Amerika Serikat juga menuntut Iran untuk menghentikan program senjata nuklir dan program rudal.\n3. **Serangan Udara**: Pada 28 Februari 2026, Amerika Serikat dan Israel melancarkan serangan udara dan rudal ke pangkalan militer, fasilitas pertahanan, dan struktur kepemimpinan Iran dalam operasi militer bersama yang disebut Operation Lion's Roar. Serangan ini memicu balasan dari Iran yang melancarkan gelombang rudal balistik dan drone ke wilayah Israel, pangkalan militer AS, dan negara sekutu di kawasan Teluk.\n4. **Dampak Serangan**: Serangan udara di Iran menyebabkan kerusakan yang signifikan pada infrastruktur sipil, termasuk perumahan, fasilitas pendidikan, pusat kesehatan, dan sarana bantuan kemanusiaan. Data terbaru menunjukkan bahwa lebih dari 200 orang meninggal dan 747 lainnya luka-luka akibat serangan tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump says Iran war talks taking place during lull in strikes",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-07-27T21:10:56+00:00",
+            "summary": "President Trump said \"good talks\" were taking place US President Donald Trump has said \"there are very friendly negotiations going on\" about the conflict with Iran, after the warring sides did not exchange strikes for a third straight day. He expressed optimism for an end to the war on Monday, telling reporters aboard Air Force One: \"I think there's a good chance that something could happen.",
+            "key_points": [
+              "President Trump said \"good talks\" were taking place US President Donald Trump has said \"th",
+              "He expressed optimism for an end to the war on Monday, telling reporters aboard Air Force",
+              "\" However, he warned that Washington would \"go back to doing what we were doing\" before th"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Wildfire now nine miles from French city of Bordeaux, mayor warns",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Wildfire now nine miles from French city of Bordeaux, mayor warns\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebakaran hutan dan lahan (karhutla) di Indonesia meningkat**: Jumlah areal karhutla di Indonesia periode Januari - Juni 2026 mencapai 107.465,47ha, meningkat sebesar 58.631,66 ha/120% dibandingkan tahun 2019 dan 56.383,94 ha/110% dibandingkan 2023.\n2. **Dampak kebakaran hutan pada ekonomi Indonesia signifikan**: Kerugian ekonomi akibat kebakaran hutan di Indonesia diperkirakan mencapai Rp 221 triliun atau 16,124 miliar dolar AS pada tahun 2015.\n3. **Kebakaran hutan di Indonesia berulang setiap tahun**: Kebakaran hutan di Indonesia terjadi secara berulang setiap tahun, dengan intensitas yang cenderung meningkat dan sebaran yang makin meluas.\n4. **Kebakaran hutan memiliki dampak lingkungan yang signifikan**: Kebakaran hutan dapat menyebabkan kerusakan lingkungan yang signifikan, termasuk kerusakan ekologi, ekonomi, sosial budaya, dan politik."
+          }
+        ],
+        "articles": [
+          {
+            "title": "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-28T01:07:09+00:00",
+            "summary": "Save Share Johnson & Johnson (J&J) has agreed to pay $5. 5bn to settle tens of thousands of lawsuits in the United States that allege its discontinued talc-based baby powder caused ovarian cancer.",
+            "key_points": [
+              "Save Share Johnson & Johnson (J&J) has agreed to pay $5",
+              "5bn to settle tens of thousands of lawsuits in the United States that allege its discontin",
+              "The pharmaceutical giant announced the deal on Monday, saying it covers about 69,000 cases"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Slavko Vincic Langsung Pensiun usai Pimpin Final Piala Dunia 2026"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Slavko Vincic Langsung Pensiun usai Pimpin Final Piala Dunia 2026",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8593089/slavko-vincic-langsung-pensiun-usai-pimpin-final-piala-dunia-2026",
+            "category": "Teknologi",
+            "published_at": "2026-07-28T01:00:31+00:00",
+            "summary": "Slavko Vincic memutuskan pensiun dari pekerjaannya sebagai wasit di usia 46 tahun. Final Piala Dunia 2026 jadi pertandingan terakhir yang dipimpin pengadil asal Slovenia itu.",
+            "key_points": [
+              "Slavko Vincic memutuskan pensiun dari pekerjaannya sebagai wasit di usia 46 tahun",
+              "Final Piala Dunia 2026 jadi pertandingan terakhir yang dipimpin pengadil asal Slovenia itu",
+              "Kabar pensiunnya Vincic diumumkan Asosiasi Sepakbola Slovenia"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Spesies Baru Ikan Gobi Banyuwangi Terinspirasi Sunrise of Java"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Spesies Baru Ikan Gobi Banyuwangi Terinspirasi Sunrise of Java",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8593184/spesies-baru-ikan-gobi-banyuwangi-terinspirasi-sunrise-of-java",
+            "category": "Teknologi",
+            "published_at": "2026-07-28T01:26:35+00:00",
+            "summary": "Rachmatunnisa - detikInet Kekayaan biodiversitas laut Indonesia kembali bertambah. Tim peneliti Badan Riset dan Inovasi Nasional (BRIN) menemukan spesies baru ikan gobi udang (shrimpgoby) di perairan Banyuwangi, Jawa Timur.",
+            "key_points": [
+              "Rachmatunnisa - detikInet Kekayaan biodiversitas laut Indonesia kembali bertambah",
+              "Tim peneliti Badan Riset dan Inovasi Nasional (BRIN) menemukan spesies baru ikan gobi udan",
+              "Spesies tersebut diberi nama Tomiyamichthys oriens (T"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "South Korea may cap leveraged ETF investments for retail investors, media reports say",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/south-korea-may-cap-leveraged-etf-investments-retail-investors-media-reports-say-6281976",
+          "category": "Teknologi",
+          "published_at": "2026-07-28T01:42:55+00:00",
+          "summary": "A 3D printed word \"ETF (Exchange-Traded Fund)\" and representations of cryptocurrencies are placed on a keyboard in this illustration taken October 16, 2025. REUTERS/Dado Ruvic/Illustration SEOUL, July 28 : South Korea's top financial regulator said on Tuesday that authorities would consider a cap on single-stock leveraged exchange-traded funds (ETF) investments for retail investors if needed, local media reports said.",
+          "key_points": [
+            "A 3D printed word \"ETF (Exchange-Traded Fund)\" and representations of cryptocurrencies are",
+            "REUTERS/Dado Ruvic/Illustration SEOUL, July 28 : South Korea's top financial regulator sai",
+            "Lee Eog-weon, chairman of the Financial Services Commission, told a meeting with local bro"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "How companies can deploy AI agents safely",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/how-companies-can-deploy-ai-agents-safely-6279856",
+          "category": "Teknologi",
+          "published_at": "2026-07-28T01:27:00+00:00",
+          "summary": "HOW COMPANIES CAN DEPLOY AI AGENTS SAFELY AI agents promise greater productivity, but experts say organisations must strengthen their data, cybersecurity and governance foundations before scaling adoption. Autonomous artificial intelligence (AI) agents have quickly captured attention, from tools that help people schedule their day and respond to emails to systems that let organisations automate complex workflows.",
+          "key_points": [
+            "HOW COMPANIES CAN DEPLOY AI AGENTS SAFELY AI agents promise greater productivity, but expe",
+            "Autonomous artificial intelligence (AI) agents have quickly captured attention, from tools",
+            "But as many companies are learning, these agents need strong safeguards and solid data fou"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-28T00:51:50+00:00",
+          "summary": "Save Share Houthis claim Saudi drone downed over northwestern Yemen Yemen’s Houthi movement is aiming to replicate Iran’s ⁠strategy in the Strait of Hormuz by controlling shipping flows in the Red Sea’s Bab al-Mandeb Strait, the Yemeni government’s top diplomat warns. “The Houthis want to copy the Iranian model , and this will shut down two main straits, the gateways into the ⁠Gulf and Red Sea,” the foreign minister-designate for the internationally recognised Yemeni government, Afrah al-Zouba, told journalists on Monday.",
+          "key_points": [
+            "Save Share Houthis claim Saudi drone downed over northwestern Yemen Yemen’s Houthi movemen",
+            "“The Houthis want to copy the Iranian model , and this will shut down two main straits, th",
+            "Speaking at the Yemeni embassy in Riyadh, Saudi Arabia, al-Zouba said the Iran-backed Hout"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "15 Foto Absurd di Internet yang Bikin Bertanya-tanya",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8593126/15-foto-absurd-di-internet-yang-bikin-bertanya-tanya",
+          "category": "Teknologi",
+          "published_at": "2026-07-28T00:45:25+00:00",
+          "summary": "Pool - detikInet Maksudnya Edward si vampir. Foto: via Bored Panda Lucu sih, kayaknya tissue toilet gambar dinosaurus.",
+          "key_points": [
+            "Pool - detikInet Maksudnya Edward si vampir",
+            "Foto: via Bored Panda Lucu sih, kayaknya tissue toilet gambar dinosaurus",
+            "Foto: via Bored Panda Anjingnya lagi ngobrol sama tamu"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Gol Lopes Cabral ke Gawang Argentina Jadi Gol Terbaik Piala Dunia 2026",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8593087/gol-lopes-cabral-ke-gawang-argentina-jadi-gol-terbaik-piala-dunia-2026",
+          "category": "Teknologi",
+          "published_at": "2026-07-28T00:40:03+00:00",
+          "summary": "Tanjung Verde mengukir sejarah lain di Piala Dunia 2026. Tendangan penyerang Tanjung Verde Sidny Lopes Cabral ke gawang Argentina terpilih sebagai gol terbaik.",
+          "key_points": [
+            "Tanjung Verde mengukir sejarah lain di Piala Dunia 2026",
+            "Tendangan penyerang Tanjung Verde Sidny Lopes Cabral ke gawang Argentina terpilih sebagai",
+            "Tanjung Verde menghadapi Argentina di babak 32 besar Piala Dunia 2026"
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-27T16:33:05+00:00",
+          "summary": "The Caspian Sea forms a strategically vital direct supply route between Russia and Iran Ukraine has dismissed Iranian threats of retaliation, following Kyiv's targeting of an Iranian cargo vessel in the Caspian Sea on Saturday. The incident marked the first direct link between the wars in Iran and Ukraine.",
+          "key_points": [
+            "The Caspian Sea forms a strategically vital direct supply route between Russia and Iran Uk",
+            "The incident marked the first direct link between the wars in Iran and Ukraine",
+            "\"Iran's threats are unjustified and groundless,\" Ukraine's Foreign Minister Andrii Sybiha"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 14,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 14,
+      "total_in_qdrant": 3567
+    },
+    "timestamp": "2026-07-28T01:54:45.488879+00:00"
   }
 ]
