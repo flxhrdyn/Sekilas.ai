@@ -34711,5 +34711,245 @@
       "total_in_qdrant": 3542
     },
     "timestamp": "2026-07-29T01:56:13.778644+00:00"
+  },
+  {
+    "date": "2026-07-30",
+    "generated_at": "2026-07-30T01:49:16.323902+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta kesehatan.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait kesehatan, internasional serta kesehatan.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "US actor Jared Leto denies latest accusations of sexual assault"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kasus Pemerkosaan Jared Leto",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait kasus pemerkosaan Jared Leto. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kasus Pemerkosaan Mei 1998**: Kasus pemerkosaan massal yang terjadi pada Mei 1998 masih menjadi perdebatan hingga saat ini. Amnesty Internasional telah mengeluarkan siaran pers yang menyatakan bahwa kasus ini tidak hanya rumor, tetapi juga merupakan kekerasan seksual yang nyata.\n2. **Putusan PTUN**: Pada tanggal 23 April 2026, PTUN telah mengeluarkan putusan yang menetapkan bahwa pelaku pemerkosaan massal pada Tragedi Mei 1998 harus membayar restitusi kepada korban dan keluarganya. Putusan ini juga menetapkan bahwa anak-anak yang lahir dari pemerkosaan harus diasuh oleh negara dan biaya hidup serta pendidikan mereka harus dipenuhi oleh restitusi.\n3. **Kekerasan Seksual Terhadap Laki-Laki**: Kasus kekerasan seksual terhadap laki-laki juga masih menjadi permasalahan yang serius. IJRS (Institut Jurnal Riset Sosial) telah mengeluarkan laporan yang menyatakan bahwa kasus kekerasan seksual terhadap laki-laki diabaikan dan belum ditangani secara serius.\n4. **Pengakuan Internasional**: Pengakuan internasional terhadap kasus kekerasan seksual masih menjadi permasalahan yang kompleks. Masyarakat internasional telah berkomitmen untuk mengembangkan aturan hukum internasional yang melindungi umat manusia, tetapi masih ada banyak kasus kekerasan seksual yang tidak diakui atau ditangani secara serius."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US actor Jared Leto denies latest accusations of sexual assault",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/entertainment/jared-leto-denies-sexual-assault-allegations-6287196",
+            "category": "Teknologi",
+            "published_at": "2026-07-30T00:53:00+00:00",
+            "summary": "\"I have never sexually assaulted anyone in my entire life,\" the 54-year-old actor said in a statement. \"These claims are absolutely and categorically false.",
+            "key_points": [
+              "\"I have never sexually assaulted anyone in my entire life,\" the 54-year-old actor said in",
+              "\"These claims are absolutely and categorically false",
+              "\" FILE - Jared Leto appears at the premiere of Tron: Ares in Los Angeles on Oct 6, 2025"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Nggak Cuma Pulau Jawa, BMKG Ungkap Daerah Ini Juga Alami Fenomena Bediding"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Fenomena Bediding di Luar Pulau Jawa",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel tentang fenomena Bediding di Luar Pulau Jawa. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Fenomena Bediding tidak hanya terjadi di Bekasi, tetapi juga di sejumlah wilayah Indonesia**, terutama di daerah yang berada di selatan garis khatulistiwa, seperti Jawa, Bali, Nusa Tenggara Barat (NTB), dan Nusa Tenggara Timur (NTT).\n2. **Fenomena Bediding umumnya terjadi pada musim kemarau**, yaitu pada bulan Juni hingga September, dan puncak kemarau terjadi pada akhir Juli hingga Agustus.\n3. **Fenomena Bediding dapat membawa dampak serius bagi kesehatan dan sektor pertanian**, terutama pada daerah dataran tinggi, karena dapat menyebabkan embun es atau frost yang merusak tanaman dan menyebabkan layu atau kematian tanaman.\n4. **Masyarakat di daerah yang terkena Bediding perlu mengambil langkah-langkah pencegahan**, seperti memakai pakaian hangat dan menjaga kesehatan tubuh, serta petani perlu mengambil tindakan preventif seperti menutupi tanaman dengan plastik atau kain pada malam hari untuk melindungi dari embun es."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Nggak Cuma Pulau Jawa, BMKG Ungkap Daerah Ini Juga Alami Fenomena Bediding",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8595943/nggak-cuma-pulau-jawa-bmkg-ungkap-daerah-ini-juga-alami-fenomena-bediding",
+            "category": "Teknologi",
+            "published_at": "2026-07-29T23:05:07+00:00",
+            "summary": "Fenomena suhu dingin atau bediding yang dirasakan masyarakat saat ini tidak hanya terjadi di Pulau Jawa. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyebut fenomena serupa juga terjadi di Bali, Nusa Tenggara Barat (NTB), dan Nusa Tenggara Timur (NTT).",
+            "key_points": [
+              "Fenomena suhu dingin atau bediding yang dirasakan masyarakat saat ini tidak hanya terjadi",
+              "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyebut fenomena serupa juga terjadi",
+              "Sekretaris Utama BMKG Guswanto mengatakan bediding merupakan fenomena yang normal terjadi"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Para Ortu Dicatat! Menu MBG Anak Bisa Dicek Lewat Portal Digital, Begini Caranya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Menu MBG Anak di Portal Digital",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang Menu MBG Anak di Portal Digital. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Badan Gizi Nasional (BGN) akan menyiapkan portal digital** yang berisi informasi pelaksanaan MBG, mulai dari sekolah penerima manfaat hingga menu makanan yang disediakan. Portal ini dapat diakses oleh orang tua untuk memantau menu makanan anak secara real-time.\n2. **Portal digital ini bertujuan untuk meningkatkan transparansi dan efisiensi** dalam pengelolaan MBG. Dengan menggunakan identitas peserta didik, orang tua dapat memperoleh informasi tentang menu makanan anak secara real-time.\n3. **Portal Mitra BGN** adalah sistem digital resmi dari Badan Gizi Nasional yang digunakan untuk proses pendaftaran, verifikasi, dan pengelolaan mitra. Portal ini mendukung pelaksanaan Program Pemenuhan Gizi Nasional secara efisien, transparan, dan terintegrasi.\n4. **Program MBG dirancang untuk memastikan setiap siswa menerima makanan sehat, bergizi, dan tepat waktu**. Dalam menjalankan program ini, yayasan dan dapur menghadapi beberapa tantangan umum, seperti perencanaan belanja yang tidak jelas dan pencatatan manual."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Para Ortu Dicatat! Menu MBG Anak Bisa Dicek Lewat Portal Digital, Begini Caranya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8596003/para-ortu-dicatat-menu-mbg-anak-bisa-dicek-lewat-portal-digital-begini-caranya",
+            "category": "Umum",
+            "published_at": "2026-07-30T00:03:09+00:00",
+            "summary": "Badan Gizi Nasional (BGN) tengah menyiapkan portal digital yang memungkinkan orang tua memantau layanan program Makan Bergizi Gratis (MBG) yang diterima anak di sekolah. Melalui portal tersebut, orang tua nantinya dapat mengetahui menu makanan, kandungan gizi, hingga informasi dapur yang menyiapkan makanan setiap harinya.",
+            "key_points": [
+              "Badan Gizi Nasional (BGN) tengah menyiapkan portal digital yang memungkinkan orang tua mem",
+              "Melalui portal tersebut, orang tua nantinya dapat mengetahui menu makanan, kandungan gizi,",
+              "Kepala BGN Sudaryono mengatakan portal ini menjadi salah satu upaya untuk meningkatkan tra"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Oil prices slip as tankers continue to ply Middle East conflict zones",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/oil-prices-down-us-iran-war-houthis-hormuz-red-sea-6287186",
+          "category": "Teknologi",
+          "published_at": "2026-07-30T00:36:00+00:00",
+          "summary": "Children wade in the water with cargo ships at anchor in the background, and a fisherman nearby, in the Strait of Hormuz off Bandar Abbas, Iran, on Jun 30, 2026. (File photo: ISNA via AP) BEIJING: Oil prices gave up some of their gains on Thursday (Jul 30) as oil tankers continued to make their way out of the Middle East even as tensions there escalated, with the United States-Iran war spreading beyond its main fronts.",
+          "key_points": [
+            "Children wade in the water with cargo ships at anchor in the background, and a fisherman n",
+            "(File photo: ISNA via AP) BEIJING: Oil prices gave up some of their gains on Thursday (Jul",
+            "Brent futures fell US$1"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Little Farms opens new all-day dining restaurant and picnic kiosk at Singapore Botanic Gardens",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/dining/little-farms-opens-bloomhouse-singapore-botanic-gardens-6285531",
+          "category": "Teknologi",
+          "published_at": "2026-07-30T00:36:00+00:00",
+          "summary": "Little Farms has transformed the former Halia site into its largest concept yet, featuring a 112-seat restaurant, a grab-and-go picnic kiosk and an event space for weddings and celebrations. The Bloomhouse takes over the space previously occupied by The Halia.",
+          "key_points": [
+            "Little Farms has transformed the former Halia site into its largest concept yet, featuring",
+            "The Bloomhouse takes over the space previously occupied by The Halia",
+            "(Photo: Little Farms) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Agen AI Bobol Sistem, Bos OpenAI Menghadap Senator AS",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8596251/agen-ai-bobol-sistem-bos-openai-menghadap-senator-as",
+          "category": "Teknologi",
+          "published_at": "2026-07-29T23:49:08+00:00",
+          "summary": "Adi Fida Rahman - detikInet CEO OpenAI Sam Altman menemui sejumlah senator Amerika Serikat setelah agen AI buatan perusahaannya keluar dari lingkungan pengujian dan membobol infrastruktur Hugging Face. Insiden tersebut ikut dibahas saat Altman menjelaskan model AI baru yang sedang dikembangkan OpenAI.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet CEO OpenAI Sam Altman menemui sejumlah senator Amerika Serikat",
+            "Insiden tersebut ikut dibahas saat Altman menjelaskan model AI baru yang sedang dikembangk",
+            "Altman telah bertemu Senator Raphael Warnock dan Bernie Moreno"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-29T20:21:46+00:00",
+          "summary": "Zendaya's advice on working with husband Tom Holland Hollywood power couple Tom Holland and Zendaya have been dominating red carpets all summer. And the pair were back at it on Wednesday evening at the London premiere of their latest film, Spider-Man: Brand New Day, with scores of fans turning out for a glimpse of two of the biggest young stars on the planet.",
+          "key_points": [
+            "Zendaya's advice on working with husband Tom Holland Hollywood power couple Tom Holland an",
+            "And the pair were back at it on Wednesday evening at the London premiere of their latest f",
+            "It's been a busy year for the couple, who recently got married and are also starring in Ch"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-29T16:23:41+00:00",
+          "summary": "Fires also broke out in Muğla province in southern Turkey, closing a key highway Two Greek firefighters have died after they became trapped tackling a wildfire that swept through the Rethymno area of Crete. Gale-force winds whipped up the flames prompting the evacuation of several villages, in the latest summer wildfire to break out in southern Europe.",
+          "key_points": [
+            "Fires also broke out in Muğla province in southern Turkey, closing a key highway Two Greek",
+            "Gale-force winds whipped up the flames prompting the evacuation of several villages, in th",
+            "In southern Turkey, the main Fethiye to Antalya highway had to be closed and part of a hos"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Joan Garcia: Piala Dunia Sudah Dimenangi, Kini Liga Champions!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-spanyol/d-8596250/joan-garcia-piala-dunia-sudah-dimenangi-kini-liga-champions",
+          "category": "Olahraga",
+          "published_at": "2026-07-30T00:00:50+00:00",
+          "summary": "Setelah juara LaLiga dan Piala Dunia, kiper Barcelona Joan Garcia mengalihkan bidikan ke Liga Champions. Namun, Garcia tak mau hal itu menjadi obsesi.",
+          "key_points": [
+            "Setelah juara LaLiga dan Piala Dunia, kiper Barcelona Joan Garcia mengalihkan bidikan ke L",
+            "Namun, Garcia tak mau hal itu menjadi obsesi",
+            "Joan Garcia langsung jadi kiper utama Barcelona setelah digaet secara gratis dari Espanyol"
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Registrasi SIM Biometrik, Menkomdigi Dorong Bilik Khusus Hijab",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/law-and-policy/d-8596253/registrasi-sim-biometrik-menkomdigi-dorong-bilik-khusus-hijab",
+          "category": "Politik",
+          "published_at": "2026-07-30T00:15:36+00:00",
+          "summary": "Agus Tri Haryanto - detikInet Kementerian Komunikasi dan Digital (Komdigi) bersama operator seluler mulai menghadirkan bilik registrasi khusus di gerai-gerai layanan sebagai bagian dari implementasi registrasi kartu SIM berbasis biometrik. Rencananya tersediannya fasilitas ini untuk memberikan kenyamanan dan menjaga privasi pelanggan perempuan, khususnya pengguna berhijab, saat menjalani proses verifikasi wajah.",
+          "key_points": [
+            "Agus Tri Haryanto - detikInet Kementerian Komunikasi dan Digital (Komdigi) bersama operato",
+            "Rencananya tersediannya fasilitas ini untuk memberikan kenyamanan dan menjaga privasi pela",
+            "Komdigi menilai cara ini untuk memastikan penerapan registrasi SIM berbasis biometrik berj"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-07-29T23:30:22+00:00",
+          "summary": "Save Share Nicaraguan President Daniel Ortega aims to exclude “traitors” and “coup-plotting” opposition members from elections, while also seeking to extend the presidential term from six to seven “renewable” years, according to a draft constitutional reform sent to Congress. Congress President Gustavo Porras previewed the content of the reform on Tuesday, according to several media outlets, though he did not provide many details.",
+          "key_points": [
+            "Save Share Nicaraguan President Daniel Ortega aims to exclude “traitors” and “coup-plottin",
+            "Congress President Gustavo Porras previewed the content of the reform on Tuesday, accordin",
+            "The proposal is expected to be approved in September"
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3548
+    },
+    "timestamp": "2026-07-30T01:49:16.323911+00:00"
   }
 ]
