@@ -34951,5 +34951,148 @@
       "total_in_qdrant": 3548
     },
     "timestamp": "2026-07-30T01:49:16.323911+00:00"
+  },
+  {
+    "date": "2026-07-31",
+    "generated_at": "2026-07-31T02:05:48.893380+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta internasional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Nirmal Purja among 10 climbers feared missing after avalanche"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Internasional: (kosong)",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Pengembangan teknologi dalam mitigasi bencana**: Teknologi seperti penginderaan jauh, komunikasi, dan sistem peringatan dini dapat membantu mengumpulkan dan menganalisis data secara cepat dan akurat untuk perencanaan mitigasi bencana.\n2. **Penggunaan teknologi dalam industri pariwisata**: Industri pariwisata dapat menggunakan teknologi seperti augmented reality (AR) dan robotika untuk meningkatkan pengalaman wisatawan dan meminimalisir risiko bencana.\n3. **Pentingnya aspek kebencanaan dalam perencanaan pariwisata**: Pengembangan pariwisata harus memiliki kemampuan untuk antisipasi bencana dan memetakan daerah mana saja yang rawan bencana, serta pengetahuan tentang cara menghindari bencana saat mengembangkan pariwisata di daerah rawan bencana.\n4. **Dampak positif dan negatif bencana alam**: Bencana alam dapat memiliki dampak positif bagi lingkungan alam, seperti terbentuknya ekosistem baru dan suburnya tanah, tetapi juga dapat memiliki dampak negatif pada manusia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-07-31T00:52:54+00:00",
+            "summary": "Nirmal Purja at the summit of Mount Everest A ten-member international mountaineering team led by renowned Nepal-born former Royal Marine Nirmal Purja is feared missing after an avalanche on Pakistan's Broad Peak, one of the world's highest mountains. Pakistani mountaineering officials say the avalanche hit at around midday on Thursday on the 8,047-metre (26,400 ft) peak in the Karakoram range.",
+            "key_points": [
+              "Nirmal Purja at the summit of Mount Everest A ten-member international mountaineering team",
+              "Pakistani mountaineering officials say the avalanche hit at around midday on Thursday on t",
+              "There has been no subsequent communication with the team"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 19,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Timor Leste Vs Indonesia: Skuad Garuda Punya Modal Mentereng"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Timor Leste Vs Indonesia: Skuad Garuda Punya Modal Mentereng",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/sepakbola-indonesia/d-8597719/timor-leste-vs-indonesia-skuad-garuda-punya-modal-mentereng",
+            "category": "Teknologi",
+            "published_at": "2026-07-31T00:58:00+00:00",
+            "summary": "Timnas Indonesia akan dijamu Timnas Timor Leste dalam lanjutan Piala AFF 2026. Laga ini menjadi ujian pertama John Herdman di luar kandang.",
+            "key_points": [
+              "Timnas Indonesia akan dijamu Timnas Timor Leste dalam lanjutan Piala AFF 2026",
+              "Laga ini menjadi ujian pertama John Herdman di luar kandang",
+              "Timor Leste vs Indonesia akan digelar di Stadion Chonburi, Thailand, hari ini, Jumat (31/7"
+            ],
+            "cluster_id": 19
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Anthropic says AI models hacked three firms during cyber tests",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T01:31:14+00:00",
+          "summary": "Anthropic chief executive Dario Amodei US technology firm Anthropic says its artificial intelligence (AI) models hacked into the systems of three other firms during a cybersecurity test due to an error that gave them access to the internet. It comes just days after rival OpenAI said that its models had breached the systems of other companies , including AI tools hub Hugging Face.",
+          "key_points": [
+            "Anthropic chief executive Dario Amodei US technology firm Anthropic says its artificial in",
+            "It comes just days after rival OpenAI said that its models had breached the systems of oth",
+            "The announcement prompted Anthropic to check whether its own models had carried out simila"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Kejuaraan Dunia Honor of King Dimulai, Ada Tiga Tim dari Indonesia",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8597905/kejuaraan-dunia-honor-of-king-dimulai-ada-tiga-tim-dari-indonesia",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T01:15:35+00:00",
+          "summary": "Panji Saputro - detikInet Kejuaraan dunia Honor of King (KWC) yang menjadi salah satu acara di Esports World Cup (EWC) 2026 resmi dimulai. Kompetisi ini menampilkan 20 tim hebat yang akan memperebutkan gelar juara dunia, dan tiga di antaranya dari Indonesia.",
+          "key_points": [
+            "Panji Saputro - detikInet Kejuaraan dunia Honor of King (KWC) yang menjadi salah satu acar",
+            "Kompetisi ini menampilkan 20 tim hebat yang akan memperebutkan gelar juara dunia, dan tiga",
+            "Tim yang berpartisipasi berasal dari game Honor of Kings dan Arena of Valor"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Habis Susah Wakil RI di Seri Kedua Men's World Tennis Championship",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/raket/d-8597904/habis-susah-wakil-ri-di-seri-kedua-mens-world-tennis-championship",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T01:05:30+00:00",
+          "summary": "Tidak ada satu pun petenis Indonesia yang berhasil melaju ke semifinal seri kedua M-15 Men's World Tennis Championship 2026. Duh.",
+          "key_points": [
+            "Tidak ada satu pun petenis Indonesia yang berhasil melaju ke semifinal seri kedua M-15 Men",
+            "Duh",
+            "Pada laga perempatfinal yang digelar di Lapangan tenis Nusa Dua, Kamis (30/7/2026), tiga w"
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-07-31T01:48:36+00:00",
+          "summary": "Palestinians inspect the site of Wednesday's Israeli strike on a house in Gaza City, 30 July 2026. US President Donald Trump says the Board of Peace has reached an agreement for the \"complete disarmament\" of Hamas and other armed groups in Gaza.",
+          "key_points": [
+            "Palestinians inspect the site of Wednesday's Israeli strike on a house in Gaza City, 30 Ju",
+            "US President Donald Trump says the Board of Peace has reached an agreement for the \"comple",
+            "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan to"
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 6,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 6,
+      "total_in_qdrant": 3485
+    },
+    "timestamp": "2026-07-31T02:05:48.893389+00:00"
   }
 ]
