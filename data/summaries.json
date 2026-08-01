@@ -35094,5 +35094,189 @@
       "total_in_qdrant": 3485
     },
     "timestamp": "2026-07-31T02:05:48.893389+00:00"
+  },
+  {
+    "date": "2026-08-01",
+    "generated_at": "2026-08-01T02:07:49.336738+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Solusi Penurunan Berat Badan Lebih Lengkap dengan Layanan LIGHThouse",
+            "content": "Berikut adalah hasil penelitian intelijen yang telah disaring dan dikompilasi menjadi 4 poin fakta yang relevan dan kredibel:\n\n1. **Klinik LIGHThouse** adalah penyedia jasa layanan kesehatan yang menawarkan program turun berat badan yang dipandu langsung oleh Slim Right Expert, terdiri dari Dokter dan Ahli Gizi (nutritionist).\n2. **Program turun berat badan** di Klinik LIGHThouse dapat membantu memperbaiki profil metabolik, termasuk penurunan kadar gula darah, tekanan darah, dan kolesterol, sehingga dapat mengurangi risiko komplikasi.\n3. **Bukti-bukti klinis** yang mendukung program turun berat badan di Klinik LIGHThouse berasal dari penelitian klinis yang ketat dan dilandasi kaidah-kaidah penelitian ilmiah, termasuk hasil uji klinik dengan randomisasi (randomized controlled trial).\n4. **Evidence Based Medicine (EBM)** adalah kunci dalam praktik sehari-hari untuk memberikan pelayanan terbaik, dan Klinik LIGHThouse mungkin telah menerapkan prinsip EBM dalam program turun berat badannya."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-07-31T17:03:47+00:00",
+            "summary": "What triggered the mass migrant crossings into Ceuta. Spain's prime minister has blamed trafficking gangs after about 60,000 migrants crossed into the Spanish North African enclave of Ceuta from Morocco.",
+            "key_points": [
+              "What triggered the mass migrant crossings into Ceuta",
+              "Spain's prime minister has blamed trafficking gangs after about 60,000 migrants crossed in",
+              "At least 57 people died during the surge, according to local media"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "From alcohol to diet and exercise: The best and worst habits for your liver"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "From alcohol to diet and exercise: The best and worst habits for your liver",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/wellness/liver-health-tips-6276871",
+            "category": "Teknologi",
+            "published_at": "2026-08-01T00:40:47+00:00",
+            "summary": "Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.",
+            "key_points": [
+              "Liver disease is on the rise worldwide",
+              "Your diet, workout routine and other health conditions can affect your risk",
+              "(Art: The New York Times) The liver is a powerful organ: It filters our blood, helps maint"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Solusi Penurunan Berat Badan Lebih Lengkap dengan Layanan LIGHThouse"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Solusi Penurunan Berat Badan Lebih Lengkap dengan Layanan LIGHThouse",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8599367/solusi-penurunan-berat-badan-lebih-lengkap-dengan-layanan-lighthouse",
+            "category": "Teknologi",
+            "published_at": "2026-07-31T15:00:39+00:00",
+            "summary": "Menjalani program penurunan berat badan kini tidak harus dilakukan secara terpisah. Dengan dukungan layanan kesehatan yang terintegrasi, pasien bisa mendapatkan pendampingan mulai dari konsultasi, pemeriksaan kondisi tubuh, hingga pemantauan program dalam satu ekosistem layanan.",
+            "key_points": [
+              "Menjalani program penurunan berat badan kini tidak harus dilakukan secara terpisah",
+              "Dengan dukungan layanan kesehatan yang terintegrasi, pasien bisa mendapatkan pendampingan",
+              "Melihat kebutuhan tersebut, LIGHThouse Advanced dari LIGHT Group menghadirkan konsep one s"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "7 Makanan Rendah Kalori yang Bikin Kenyang Lebih Lama",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8599528/7-makanan-rendah-kalori-yang-bikin-kenyang-lebih-lama",
+          "category": "Teknologi",
+          "published_at": "2026-08-01T01:06:40+00:00",
+          "summary": "Menjalani diet bukan berarti harus menahan lapar sepanjang hari. Kuncinya justru memilih makanan yang rendah kalori tetapi kaya serat, air, atau protein sehingga rasa kenyang bertahan lebih lama.",
+          "key_points": [
+            "Menjalani diet bukan berarti harus menahan lapar sepanjang hari",
+            "Kuncinya justru memilih makanan yang rendah kalori tetapi kaya serat, air, atau protein se",
+            "Penelitian yang dipublikasikan dalam jurnal Nutrition Reviews tahun 2026 menunjukkan makan"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Two firefighters injured in Clementi flat fire",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/firefighters-injured-clementi-flat-fire-burns-scdf-hdb-6292251",
+          "category": "Teknologi",
+          "published_at": "2026-08-01T00:18:00+00:00",
+          "summary": "Two firefighters suffered burn injuries during the operation and were transported to Singapore General Hospital, says the Singapore Civil Defence Force. A fire broke out in a unit at Block 309, Clementi Ave on Jul 31, 2026.",
+          "key_points": [
+            "Two firefighters suffered burn injuries during the operation and were transported to Singa",
+            "A fire broke out in a unit at Block 309, Clementi Ave on Jul 31, 2026",
+            "(Photo: Facebook/SCDF) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "FIFA’s Infantino scraps controversial World Cup private investment plan",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T23:47:35+00:00",
+          "summary": "Save Share World football’s governing body, FIFA, has said it will not proceed with its proposal to sell a piece of its business empire to outside investors after the project ⁠was met with fierce resistance from some of its member associations. FIFA’s plan was to raise up to $4.",
+          "key_points": [
+            "Save Share World football’s governing body, FIFA, has said it will not proceed with its pr",
+            "FIFA’s plan was to raise up to $4",
+            "2bn by selling about a 20 percent stake in a new unit that would run FIFA events including"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Bikin Kaget! Hasil Cek Kesehatan Minho SHINee Tak Prima, Dokter Minta Kurangi Olahraga",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8599215/bikin-kaget-hasil-cek-kesehatan-minho-shinee-tak-prima-dokter-minta-kurangi-olahraga",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T23:05:48+00:00",
+          "summary": "Anggota grup K-Pop legendaris SHINee, Choi Minho, mendadak mendapat peringatan keras dari tim medis. Idola yang dikenal sangat terobsesi dengan dunia olahraga ini disarankan untuk segera mengurangi intensitas latihan fisiknya usai hasil tes darah menunjukkan tanda-tanda kerusakan otot yang cukup mengkhawatirkan.",
+          "key_points": [
+            "Anggota grup K-Pop legendaris SHINee, Choi Minho, mendadak mendapat peringatan keras dari",
+            "Idola yang dikenal sangat terobsesi dengan dunia olahraga ini disarankan untuk segera meng",
+            "Fakta tersebut terungkap melalui sebuah video bertajuk \"Why Minho is Good at Exercising: W"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Benarkah Sering Makan Telur Bikin Bisulan? Dokter Gizi Beberkan Faktanya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8599212/benarkah-sering-makan-telur-bikin-bisulan-dokter-gizi-beberkan-faktanya",
+          "category": "Teknologi",
+          "published_at": "2026-07-31T22:05:21+00:00",
+          "summary": "Telur menjadi salah satu bahan pangan yang paling sering dikaitkan dengan berbagai mitos kesehatan. Salah satu anggapan yang masih banyak dipercaya hingga sekarang adalah terlalu sering makan telur dapat menyebabkan bisulan.",
+          "key_points": [
+            "Telur menjadi salah satu bahan pangan yang paling sering dikaitkan dengan berbagai mitos k",
+            "Salah satu anggapan yang masih banyak dipercaya hingga sekarang adalah terlalu sering maka",
+            "Mitos tersebut kembali menjadi perbincangan setelah Kepala Badan Gizi Nasional (BGN), Suda"
+          ],
+          "cluster_id": 6
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 9,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 1,
+      "ingested": 9,
+      "total_in_qdrant": 3461
+    },
+    "timestamp": "2026-08-01T02:07:49.336746+00:00"
   }
 ]
