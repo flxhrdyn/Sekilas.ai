@@ -35278,5 +35278,172 @@
       "total_in_qdrant": 3461
     },
     "timestamp": "2026-08-01T02:07:49.336746+00:00"
+  },
+  {
+    "date": "2026-08-02",
+    "generated_at": "2026-08-02T02:04:34.925799+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, olahraga serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, olahraga serta internasional.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Piala AFF 2026: Kim Sang-sik Kebingungan!"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Piala AFF 2026: Kim Sang-sik Kebingungan!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8600259/piala-aff-2026-kim-sang-sik-kebingungan",
+            "category": "Teknologi",
+            "published_at": "2026-08-02T01:00:15+00:00",
+            "summary": "Timnas Vietnam bermain imbang dengan Timnas Singapura dalam laga lanjutan Piala AFF 2026. Pelatih Golden Star Warriors, Kim Sang-sik, disebut kebingungan.",
+            "key_points": [
+              "Timnas Vietnam bermain imbang dengan Timnas Singapura dalam laga lanjutan Piala AFF 2026",
+              "Pelatih Golden Star Warriors, Kim Sang-sik, disebut kebingungan",
+              "Bertanding di Stadion My Dinh, Hanoi, Vietnam bermain imbang 0-0 melawan The Lions"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Dilarang Main Medsos, 81% Remaja Australia Tetap Bisa Online",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8600579/dilarang-main-medsos-81-remaja-australia-tetap-bisa-online",
+          "category": "Teknologi",
+          "published_at": "2026-08-02T01:19:18+00:00",
+          "summary": "Adi Fida Rahman - detikInet Larangan media sosial bagi anak di bawah 16 tahun di Australia belum sepenuhnya mampu membendung pengguna remaja. Tiga bulan setelah kebijakan berlaku, lebih dari 81% anak berusia 10-15 tahun masih menggunakan sedikitnya satu platform yang dibatasi.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Larangan media sosial bagi anak di bawah 16 tahun di Australia",
+            "Tiga bulan setelah kebijakan berlaku, lebih dari 81% anak berusia 10-15 tahun masih menggu",
+            "Angka tersebut hanya turun tipis dibandingkan sebelum larangan diberlakukan pada 10 Desemb"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-02T00:55:16+00:00",
+          "summary": "Watch: Migrants started to return to Morocco after thousands entered Spain's Ceuta on 30 July Most of the tens of thousands of migrants who swam into the Spanish exclave of Ceuta on Thursday have now returned to Morocco, escorted to the border by Spanish soldiers and police. But the extraordinary surge of arrivals has left at least 67 people dead, their bodies pulled from the sea where they floated alongside abandoned rubber rings and flippers.",
+          "key_points": [
+            "Watch: Migrants started to return to Morocco after thousands entered Spain's Ceuta on 30 J",
+            "But the extraordinary surge of arrivals has left at least 67 people dead, their bodies pul",
+            "This week's events have also shaken Europe politically, once again exposing divisions over"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "How healthy are cucumbers? Why dietitians still recommend them",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/wellness/cucumber-health-benefits-6268306",
+          "category": "Teknologi",
+          "published_at": "2026-08-02T00:48:03+00:00",
+          "summary": "They’re not exactly packed with nutrition. Here’s why dietitians love them anyway.",
+          "key_points": [
+            "They’re not exactly packed with nutrition",
+            "Here’s why dietitians love them anyway",
+            "(Photo: The New York Times) When Kimberly Dong, an associate professor of nutrition and pu"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Not all itchy bites are from mosquitoes: How to tell if a sandfly got you instead",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/wellness/sandfly-bites-vs-mosquito-bites-6267326",
+          "category": "Teknologi",
+          "published_at": "2026-08-02T00:47:33+00:00",
+          "summary": "Those tiny, intensely itchy bites after a trip to the beach or a coastal park may not be from mosquitoes. Here's how to tell if a sandfly is the culprit, why its bites can itch more, what treatments help, and when you should see a doctor.",
+          "key_points": [
+            "Those tiny, intensely itchy bites after a trip to the beach or a coastal park may not be f",
+            "Here's how to tell if a sandfly is the culprit, why its bites can itch more, what treatmen",
+            "(Photo: iStock/lzf) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Aston Villa Nyaman di Jakarta, Emery: Terima Kasih!",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8600551/aston-villa-nyaman-di-jakarta-emery-terima-kasih",
+          "category": "Teknologi",
+          "published_at": "2026-08-02T00:30:33+00:00",
+          "summary": "Manajer Aston Villa Unai Emery berterima kasih kepada Indonesia usai menjalani laga uji coba di Jakarta. Dia senang dengan fasilitas yang diterima timnya.",
+          "key_points": [
+            "Manajer Aston Villa Unai Emery berterima kasih kepada Indonesia usai menjalani laga uji co",
+            "Dia senang dengan fasilitas yang diterima timnya",
+            "Aston Villa menyambangi Jakarta dalam tur pramusim jelang musim baru Liga Inggris 2026/202"
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Politik": [
+        {
+          "title": "CONCACAF Kecam Gaya 'Ugal-ugalan' Gianni Infantino Pimpin FIFA",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8600563/concacaf-kecam-gaya-ugal-ugalan-gianni-infantino-pimpin-fifa",
+          "category": "Politik",
+          "published_at": "2026-08-02T01:30:01+00:00",
+          "summary": "Konfederasi Sepakbola Amerika Tengah, Utara, dan Karibia ( CONCACAF ) bikin pernyataan keras soal FIFA. Mereka mengecam kepemimpinan Presiden Gianni Infantino.",
+          "key_points": [
+            "Konfederasi Sepakbola Amerika Tengah, Utara, dan Karibia ( CONCACAF ) bikin pernyataan ker",
+            "Mereka mengecam kepemimpinan Presiden Gianni Infantino",
+            "Dalam pernyataannya, CONCACAF pertama-tama menyambut senang proyek FIFA Forward Enterprise"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-01T17:07:46+00:00",
+          "summary": "Infantino has been the president of Fifa since February 2016 Gianni Infantino's leadership of Fifa has been publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean. Uefa and Concacaf both released statements on Saturday criticising the leadership at the world governing body after Infantino said Fifa would no longer proceed with the proposal to sell stakes in their competitions to private investors.",
+          "key_points": [
+            "Infantino has been the president of Fifa since February 2016 Gianni Infantino's leadership",
+            "Uefa and Concacaf both released statements on Saturday criticising the leadership at the w",
+            "Uefa, which governs European football, welcomed the decision to withdraw the plan, describ"
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Olahraga": [
+        {
+          "title": "Prediksi Indonesia Vs Vietnam: Garuda Sedikit Diunggulkan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8600262/prediksi-indonesia-vs-vietnam-garuda-sedikit-diunggulkan",
+          "category": "Olahraga",
+          "published_at": "2026-08-02T00:00:10+00:00",
+          "summary": "Timnas Indonesia akan melawan Timnas Vietnam dalam lanjutan Piala AFF 2026. Skuad Garuda sedikit diunggulkan untuk memetik kemenangan.",
+          "key_points": [
+            "Timnas Indonesia akan melawan Timnas Vietnam dalam lanjutan Piala AFF 2026",
+            "Skuad Garuda sedikit diunggulkan untuk memetik kemenangan",
+            "Indonesia vs Vietnam akan digelar di Stadion Pakansari, Kabupaten Bogor, Jawa Barat"
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3476
+    },
+    "timestamp": "2026-08-02T02:04:34.925806+00:00"
   }
 ]
