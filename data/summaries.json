@@ -35445,5 +35445,258 @@
       "total_in_qdrant": 3476
     },
     "timestamp": "2026-08-02T02:04:34.925806+00:00"
+  },
+  {
+    "date": "2026-08-03",
+    "generated_at": "2026-08-03T02:07:34.969903+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta internasional.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Spider-Man soars to huge US$355 million opening in North America"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Spider-Man soars to huge US$355 million opening in North America",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/entertainment/spider-man-soars-huge-us355-million-opening-in-north-america-6294161",
+            "category": "Hiburan",
+            "published_at": "2026-08-03T00:03:00+00:00",
+            "summary": "The superhero film starring Tom Holland and Zendaya earned an additional US$573 million outside North America, putting its worldwide total at US$928 million. This image released by Sony Pictures shows Zendaya, left, and Tom Holland in a scene from Spider-Man: Brand New Day.",
+            "key_points": [
+              "The superhero film starring Tom Holland and Zendaya earned an additional US$573 million ou",
+              "This image released by Sony Pictures shows Zendaya, left, and Tom Holland in a scene from",
+              "(Sony Pictures via AP) Spider-Man: Brand New Day, Sony and Marvel's latest chapter in the"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Five dead and 41 missing after Indonesia ferry catches fire"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Five dead and 41 missing after Indonesia ferry catches fire",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait kebakaran kapal feri Euroferry Olympia di Yunani. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebakaran kapal feri Euroferry Olympia**: Kapal feri berbendera Italia ini terbakar di lepas pantai Corfu, Yunani, pada 19 Februari 2022, saat berlayar dari Yunani ke Italia.\n2. **Korban**: Sebanyak 5 orang dilaporkan tewas dalam peristiwa kebakaran, dan 41 orang masih hilang.\n3. **Evakuasi**: Kapal-kapal lain telah membantu dalam evakuasi penumpang dan awak kapal yang selamat.\n4. **Penyebab kebakaran**: Belum diketahui penyebab pasti kebakaran kapal, namun perlu dilakukan penyelidikan lebih lanjut untuk mengetahui faktor-faktor yang menyebabkan kebakaran."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Five dead and 41 missing after Indonesia ferry catches fire",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-02T11:49:40+00:00",
+            "summary": "Footage shows thick plumes of smoke billowing from Indonesia ferry Five people have been found dead and 41 are missing after an Indonesian ferry carrying at least 250 people caught fire while at sea, officials say. The captain of the ship reported the fire - off Madura island - as the vessel sailed from the country's second-largest city, Surabaya in East Java, to Makassar in South Sulawesi, according to Basarnas, the National Search and Rescue Agency.",
+            "key_points": [
+              "Footage shows thick plumes of smoke billowing from Indonesia ferry Five people have been f",
+              "The captain of the ship reported the fire - off Madura island - as the vessel sailed from",
+              "Footage played by local Indonesian news outlet iNews shows large numbers of people in life"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait kecelakaan helikopter di Greece. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kecelakaan Helikopter di Greece**: Kecelakaan helikopter terjadi di Greece, dengan dua awak helikopter tewas dan pilot Inggris selamat.\n2. **Kecelakaan Helikopter di New York**: Sebelumnya, kecelakaan helikopter juga terjadi di New York, dengan 38 orang tewas sejak 1977. Pada 2009, terjadi tabrakan antara pesawat dan helikopter wisata di atas Sungai Hudson, menewaskan sembilan orang.\n3. **Kecelakaan Helikopter di Selandia Baru**: Di Selandia Baru, tiga orang tewas setelah helikopter jatuh sesaat setelah lepas landas.\n4. **Keselamatan Penerbangan**: Keselamatan penerbangan adalah keadaan yang terwujud dari penyelenggaraan penerbangan yang lancar sesuai dengan prosedur operasi dan persyaratan kelaikan teknis terhadap sarana dan prasarana penerbangan beserta penunjangnya."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-03T01:03:31+00:00",
+            "summary": "Watch: Moment before helicopters collide while tackling Greece wildfires Two crew members have been killed after two helicopters collided mid-air in Greece while battling wildfires. The fatalities were a Danish pilot and a Greek fire service liaison officer.",
+            "key_points": [
+              "Watch: Moment before helicopters collide while tackling Greece wildfires Two crew members",
+              "The fatalities were a Danish pilot and a Greek fire service liaison officer",
+              "A British pilot and another Greek co-ordinator on the second helicopter survived"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Japan's factory output surges to near 12-year high in July, PMI shows"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Japan's factory output surges to near 12-year high in July, PMI shows",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Japan's factory output surges to near 12-year high in July, PMI shows\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. Industri manufaktur di Jepang terus menunjukkan kekuatan dan tumbuh lebih dari 5% pada tahun 2025, serta menjadi kontributor utama bagi ekonomi nasional.\n2. Pemerintah Jepang berharap pertumbuhan industri manufaktur dapat dipertahankan dan ditingkatkan pada tahun 2026, dengan target pertumbuhan GDP non-minyak dan gas mencapai 5,51%.\n3. Revolusi Industri 4.0 telah membawa perubahan paradigma dalam industri manufaktur, dengan integrasi teknologi digital ke dalam lini produksi fisik, seperti sistem siber-fisik, Internet of Things (IoT), dan kecerdasan buatan.\n4. Krisis keuangan global dan perang di Timur Tengah dapat mempengaruhi pertumbuhan ekonomi global, sehingga negara-negara harus bersiap menghadapi ketidakstabilan ekonomi dengan strategi diversifikasi energi, kebijakan perdagangan yang adaptif, dan penguatan ekonomi domestik."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Japan's factory output surges to near 12-year high in July, PMI shows",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/japans-factory-output-surges-near-12-year-high-in-july-pmi-shows-6294236",
+            "category": "Teknologi",
+            "published_at": "2026-08-03T00:34:31+00:00",
+            "summary": "A man works at a factory at the Keihin industrial zone in Kawasaki, Japan February 28, 2017. REUTERS/Issei Kato/File Photo TOKYO, Aug 3 : Japan's manufacturing output expanded in July at its fastest pace in more than 12 years, with across-the-board improvements in sub-indexes, including a 4.",
+            "key_points": [
+              "A man works at a factory at the Keihin industrial zone in Kawasaki, Japan February 28, 201",
+              "REUTERS/Issei Kato/File Photo TOKYO, Aug 3 : Japan's manufacturing output expanded in July",
+              "5-year high surge in new orders buoyed by AI-related demand, a survey showed on Monday"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Jadwal Indonesia Vs Vietnam di Piala AFF 2026 Malam Ini",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8601665/jadwal-indonesia-vs-vietnam-di-piala-aff-2026-malam-ini",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T02:00:45+00:00",
+          "summary": "Indonesia akan beradu dengan rivalnya Vietnam di Matchday ketiga Piala AFF 2026. Berikut jadwal pertandingannya malam ini.",
+          "key_points": [
+            "Indonesia akan beradu dengan rivalnya Vietnam di Matchday ketiga Piala AFF 2026",
+            "Berikut jadwal pertandingannya malam ini",
+            "Indonesia mengawali turnamen dengan melibas Kamboja 5-1 sebelum mengalahkan Timor Leste 3-"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Driving workplace change with AI capabilities and human skills",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/advertorial/driving-workplace-change-ai-capabilities-and-human-skills-6275076",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T01:19:00+00:00",
+          "summary": "With NTUC LearningHub, Singapore Aero Engine Services is helping employees draw on AI and design thinking to improve processes and respond to changing business needs. SAESL employees attend NTUC LearningHub’s Fundamentals of AI Applications in Industrial Automation course, one of its AI-focused programmes designed to help workforces build future-ready capabilities.",
+          "key_points": [
+            "With NTUC LearningHub, Singapore Aero Engine Services is helping employees draw on AI and",
+            "SAESL employees attend NTUC LearningHub’s Fundamentals of AI Applications in Industrial Au",
+            "(Photos: NTUC LearningHub) This audio is generated by an AI tool"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Indonesia Vs Vietnam: Trio Brasil Ancaman untuk Garuda",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8601539/indonesia-vs-vietnam-trio-brasil-ancaman-untuk-garuda",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T01:00:30+00:00",
+          "summary": "Timnas Indonesia harus mewaspadai trio naturalisasi Vietnam asal Brasil. Rafaelson, Hendrio, dan Geovane Magno jadi tumpuan serangan Golden Star Warriors.",
+          "key_points": [
+            "Timnas Indonesia harus mewaspadai trio naturalisasi Vietnam asal Brasil",
+            "Rafaelson, Hendrio, dan Geovane Magno jadi tumpuan serangan Golden Star Warriors",
+            "Timnas Indonesia akan menghadapi Vietnam pada laga Grup A, Piala AFF 2026"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "Indonesia Vs Vietnam: Skuad Garuda Percaya Diri Tantang Vietnam",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/sepakbola-indonesia/d-8601453/indonesia-vs-vietnam-skuad-garuda-percaya-diri-tantang-vietnam",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T00:58:00+00:00",
+          "summary": "Timnas Indonesia akan melawan Timnas Vietnam dalam lanjutan Piala AFF 2026. Laga ini akan digelar di Stadion Pakansari, Kabupaten Bogor, Jawa Barat, pada hari ini Senin (3/8/2026) 20.",
+          "key_points": [
+            "Timnas Indonesia akan melawan Timnas Vietnam dalam lanjutan Piala AFF 2026",
+            "Laga ini akan digelar di Stadion Pakansari, Kabupaten Bogor, Jawa Barat, pada hari ini Sen",
+            "30 WIB"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "South Korea factory activity quickens on surge in export demand, PMI shows",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/south-korea-factory-activity-quickens-surge-in-export-demand-pmi-shows-6294231",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T00:36:14+00:00",
+          "summary": "A worker moves paint components at a factory in Ansan, South Korea, April 13, 2026. REUTERS/Kim Hong-Ji SEOUL, Aug 3 : South Korea's factory activity expanded at a stronger pace in July on a jump in export demand, a survey showed on Monday.",
+          "key_points": [
+            "A worker moves paint components at a factory in Ansan, South Korea, April 13, 2026",
+            "REUTERS/Kim Hong-Ji SEOUL, Aug 3 : South Korea's factory activity expanded at a stronger p",
+            "• The purchasing managers index (PMI), published by S&P Global, stood at 53"
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Japan and US confirm rare joint intervention to prop up yen",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-03T01:34:19+00:00",
+          "summary": "Save Share Japan and the United States have confirmed a rare, coordinated yen-buying intervention to halt the Japanese currency’s slide to 40-year lows, with Tokyo signalling it is willing to take further action if needed. The Japanese Ministry of Finance confirmed the joint intervention after a statement by US President Donald Trump on Sunday announced that Washington was helping to prop up the yen as a sign of friendship and to support the global economy.",
+          "key_points": [
+            "Save Share Japan and the United States have confirmed a rare, coordinated yen-buying inter",
+            "The Japanese Ministry of Finance confirmed the joint intervention after a statement by US",
+            "“They have a weakening yen, and they wanted a little bit of help"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Trump says new round of Iran talks will begin Monday",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-02T23:48:08+00:00",
+          "summary": "Save Share United States President Donald Trump has said that negotiations with Tehran are set to begin on Monday after he decided to hold off on new strikes on Iran in pursuit of a deal. Trump said on Sunday that a plan was in place for the US to launch “the biggest attack since World War II” against Iran but that he halted it to give diplomacy a chance.",
+          "key_points": [
+            "Save Share United States President Donald Trump has said that negotiations with Tehran are",
+            "Trump said on Sunday that a plan was in place for the US to launch “the biggest attack sin",
+            "“Obviously, they don’t want to be attacked"
+          ],
+          "cluster_id": 12
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 15,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 15,
+      "total_in_qdrant": 3433
+    },
+    "timestamp": "2026-08-03T02:07:34.969912+00:00"
   }
 ]
