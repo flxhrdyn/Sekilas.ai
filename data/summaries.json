@@ -35698,5 +35698,215 @@
       "total_in_qdrant": 3433
     },
     "timestamp": "2026-08-03T02:07:34.969912+00:00"
+  },
+  {
+    "date": "2026-08-04",
+    "generated_at": "2026-08-04T01:52:26.421083+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "top_stories": [
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Australia's Cooper steps down from leadership group after Commonwealth Games no-show"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Australia's Cooper steps down from leadership group after Commonwealth Games no-show",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Australia's Cooper steps down from leadership group after Commonwealth Games no-show\". Namun, saya tidak menemukan informasi langsung tentang Cooper. Oleh karena itu, saya akan menyajikan beberapa fakta yang terkait dengan pengunduran diri pejabat tinggi di Indonesia dan Australia.\n\nBerikut adalah 3-4 poin fakta yang padat:\n\n1. Gubernur Bank Indonesia (BI) Perry Warjiyo memutuskan mundur pada Senin 27 Juli 2026, menambah daftar pejabat negara yang memilih meninggalkan posisinya lebih awal.\n2. Direktur Utama Bursa Efek Indonesia (BEI) Iman Rachman mengundurkan diri dari jabatan pada 30 Januari.\n3. Saya tidak menemukan informasi langsung tentang Cooper, tetapi saya menemukan bahwa Australia memiliki sejarah pengunduran diri pejabat tinggi, seperti yang terjadi pada Presiden Soekarno pada tahun 1967.\n4. Saya juga menemukan bahwa Australia memiliki proses penunjukan pengganti pejabat tinggi, seperti yang terjadi pada Gubernur Bank Indonesia setelah Perry Warjiyo mengundurkan diri.\n\nNamun, perlu diingat bahwa informasi yang saya sajikan tidak langsung terkait dengan topik \"Australia's Cooper steps down from leadership group after Commonwealth Games no-show\". Jika Anda memiliki informasi lebih lanjut atau konteks yang lebih spesifik, saya dapat membantu Anda lebih lanjut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Australia's Cooper steps down from leadership group after Commonwealth Games no-show",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/sport/australias-cooper-steps-down-leadership-group-after-commonwealth-games-no-show-6296476",
+            "category": "Teknologi",
+            "published_at": "2026-08-04T00:48:40+00:00",
+            "summary": "MELBOURNE, Aug 4 : Former world champion Isaac Cooper has voluntarily stepped down from the leadership group of Australia's swim team for missing a team meeting and the final night of Commonwealth Games competition, governing body Swimming Australia said on Tuesday. Cooper's withdrawal from the role comes four years after the sprint specialist was sent home from a training camp for the Games in Birmingham for misuse of prescription medicine and wellbeing issues.",
+            "key_points": [
+              "MELBOURNE, Aug 4 : Former world champion Isaac Cooper has voluntarily stepped down from th",
+              "Cooper's withdrawal from the role comes four years after the sprint specialist was sent ho",
+              "Cooper, who helped Australia win the 4x100m medley gold medal at Glasgow, had failed to me"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Oil ticks up after selloff as talks to end US-Iran war remain uncertain"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Harga minyak naik setelah selloff**: Harga minyak naik setelah selloff (penurunan harga) karena ketidakpastian tentang kesepakatan damai AS-Iran.\n2. **Ketidakpastian harga minyak**: Ketidakpastian harga minyak dunia disebabkan oleh dinamika kompleks pasar energi global, peristiwa geopolitik, dan faktor-faktor ekonomi.\n3. **Harga minyak sempat mencapai puncak**: Harga minyak sempat mencapai puncak sekitar 120 dolar AS per barel setelah konflik AS-Iran dimulai, sebelum kembali turun.\n4. **Diversifikasi rantai pasok dan reshoring produksi**: Krisis energi sering kali menjadi katalis percepatan transisi energi, sehingga negara-negara terdorong mencari alternatif yang lebih stabil dan terbarukan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/oil-ticks-up-after-selloff-talks-end-us-iran-war-remain-uncertain-6296486",
+            "category": "Politik",
+            "published_at": "2026-08-04T01:02:26+00:00",
+            "summary": "A view shows oil pump jacks outside Almetyevsk, in the Republic of Tatarstan, Russia July 14, 2025. REUTERS/Stringer Aug 4 : Oil prices rebounded slightly on Tuesday, after plunging in the previous session, on concerns Middle Eastern supply remains at risk as a diplomatic resolution to the U.",
+            "key_points": [
+              "A view shows oil pump jacks outside Almetyevsk, in the Republic of Tatarstan, Russia July",
+              "REUTERS/Stringer Aug 4 : Oil prices rebounded slightly on Tuesday, after plunging in the p",
+              "S"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "iPhone 17 Pro Selamat dan Utuh Setelah Jatuh dari Pesawat, Kok Bisa?"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: iPhone 17 Pro Selamat dan Utuh Setelah Jatuh dari Pesawat, Kok Bisa?",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang iPhone 17 Pro yang selamat dan utuh setelah jatuh dari pesawat. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **iPhone 17 Pro tanpa case jatuh dari pesawat**: iPhone 17 Pro tanpa pelindung (case) selamat tanpa kerusakan berarti setelah terjatuh dari pesawat ringan di ketinggian 1,1 kilometer (sekitar 3.600 kaki).\n2. **Ponsel masih aktif dan mengirimkan sinyal**: Setelah jatuh, ponsel tersebut masih aktif dan terus mengirimkan sinyal keberadaan, menunjukkan bahwa perangkat masih berfungsi normal.\n3. **Kerusakan tidak terjadi karena kekuatan impact**: Menurut analisis, kerusakan tidak terjadi karena kekuatan impact, melainkan karena faktor aerodinamika dan permukaan tanah yang rata, yang membuat ponsel stabil dan menurunkan kecepatan jatuh.\n4. **Klaim keamanan iPhone 17 Pro teruji**: Kejadian ini menunjukkan bahwa klaim keamanan iPhone 17 Pro yang dilakukan Apple telah teruji secara tidak sengaja di lapangan, dan hasilnya membuat sang pemilik berdecak kagum."
+          }
+        ],
+        "articles": [
+          {
+            "title": "iPhone 17 Pro Selamat dan Utuh Setelah Jatuh dari Pesawat, Kok Bisa?",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8603181/iphone-17-pro-selamat-dan-utuh-setelah-jatuh-dari-pesawat-kok-bisa",
+            "category": "Teknologi",
+            "published_at": "2026-08-03T23:15:47+00:00",
+            "summary": "Virgina Maulita Putri - detikInet Ketika iPhone 17 Pro diluncurkan, Apple menjagokan durabilitasnya yang semakin kuat. Saking tahan bantingnya, iPhone 17 Pro yang jatuh dari pesawat masih selamat dan utuh.",
+            "key_points": [
+              "Virgina Maulita Putri - detikInet Ketika iPhone 17 Pro diluncurkan, Apple menjagokan durab",
+              "Saking tahan bantingnya, iPhone 17 Pro yang jatuh dari pesawat masih selamat dan utuh",
+              "Heather Cline, seorang seniman dari Saskatchewan, Kanada, sering terbang bersama suaminya,"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Meet the AI tutor helping polytechnic students learn better",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/brand-studio/meet-ai-tutor-helping-polytechnic-students-learn-better-6288056",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T01:24:17+00:00",
+          "summary": "MEET THE AI TUTOR HELPING POLYTECHNIC STUDENTS LEARN BETTER Developed by NCS and Ngee Ann Polytechnic, the curriculum-grounded tool tailors support to help students grasp module concepts faster and in greater depth. For adult learners, the most difficult questions do not always arise during class or consultation hours.",
+          "key_points": [
+            "MEET THE AI TUTOR HELPING POLYTECHNIC STUDENTS LEARN BETTER Developed by NCS and Ngee Ann",
+            "For adult learners, the most difficult questions do not always arise during class or consu",
+            "They may surface late at night, between work commitments or while revising independently"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Waspada! Kebiasaan Makan Ini Diam-diam Bisa Memicu Batu Ginjal",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8602881/waspada-kebiasaan-makan-ini-diam-diam-bisa-memicu-batu-ginjal",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T01:05:22+00:00",
+          "summary": "Batu ginjal terbentuk ketika mineral dan senyawa tertentu dalam urin menjadi terlalu pekat dan mulai mengkristal. Meskipun kurang minum air adalah faktor risiko paling umum untuk terbentuknya batu ginjal, ternyata pola makan yang buruk dapat meningkatkan risikonya tanpa sadari.",
+          "key_points": [
+            "Batu ginjal terbentuk ketika mineral dan senyawa tertentu dalam urin menjadi terlalu pekat",
+            "Meskipun kurang minum air adalah faktor risiko paling umum untuk terbentuknya batu ginjal,",
+            "Penting untuk mengetahui pola makan apa saja yang bisa meningkatkan risiko terbentuknya ba"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "BGN Copot 137 Kepala SPPG Terkait Kejadian Fatal dan Penyimpangan",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8603254/bgn-copot-137-kepala-sppg-terkait-kejadian-fatal-dan-penyimpangan",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T01:03:25+00:00",
+          "summary": "Badan Gizi Nasional (BGN) mengambil langkah tegas dalam menjaga kualitas pelaksanaan Program Makan Bergizi Gratis (MBG). Hingga Senin, sebanyak 137 Kepala Satuan Pelayanan Pemenuhan Gizi (SPPG) di berbagai daerah di Indonesia dicopot dari jabatannya.",
+          "key_points": [
+            "Badan Gizi Nasional (BGN) mengambil langkah tegas dalam menjaga kualitas pelaksanaan Progr",
+            "Hingga Senin, sebanyak 137 Kepala Satuan Pelayanan Pemenuhan Gizi (SPPG) di berbagai daera",
+            "\"Dan perhari ini, saya sebagai Kepala Badan Gizi Nasional telah mencopot 137 Kepala Dapur"
+          ],
+          "cluster_id": 11
+        },
+        {
+          "title": "WhatsApp Down, Ramai Pengguna Keluhkan Tak Bisa Kirim Foto",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/cyberlife/d-8603206/whatsapp-down-ramai-pengguna-keluhkan-tak-bisa-kirim-foto",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T00:16:10+00:00",
+          "summary": "Adi Fida Rahman - detikInet Layanan WhatsApp mengalami gangguan pada Selasa pagi (4/8/2026). Sejumlah pengguna mengeluhkan tidak bisa mengirim atau mengunduh foto, video, stiker, dan konten multimedia lainnya.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet Layanan WhatsApp mengalami gangguan pada Selasa pagi (4/8/2026",
+            "Sejumlah pengguna mengeluhkan tidak bisa mengirim atau mengunduh foto, video, stiker, dan",
+            "Meski pengiriman media bermasalah, pesan teks masih dapat terkirim dalam sebagian kasus"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Waspada, Tekanan Darah Tinggi Jadi Sinyal Bahaya buat Ginjal! Ini Ciri-cirinya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8602880/waspada-tekanan-darah-tinggi-jadi-sinyal-bahaya-buat-ginjal-ini-ciri-cirinya",
+          "category": "Teknologi",
+          "published_at": "2026-08-03T23:02:03+00:00",
+          "summary": "Tekanan darah tinggi atau hipertensi sering kali dijuluki sebagai 'silent killer'. Kebanyakan orang mendengarnya dan langsung mengaitkannya dengan masalah jantung, seperti serangan jantung, nyeri dada, hingga risiko stroke.",
+          "key_points": [
+            "Tekanan darah tinggi atau hipertensi sering kali dijuluki sebagai 'silent killer'",
+            "Kebanyakan orang mendengarnya dan langsung mengaitkannya dengan masalah jantung, seperti s",
+            "Padahal, dampak tekanan darah tinggi tidak berhenti di situ"
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Death toll from Venezuela earthquakes passes 6,000",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-03T23:20:37+00:00",
+          "summary": "Save Share The Venezuelan government has announced that the confirmed death toll from a pair of heavy earthquakes that struck the country in June has risen to 6,125 people. National Assembly President Jorge Rodriguez announced the updated figures on Monday, stating in a post shared on the Telegram messaging app that 61,000 people had been treated in hospitals.",
+          "key_points": [
+            "Save Share The Venezuelan government has announced that the confirmed death toll from a pa",
+            "National Assembly President Jorge Rodriguez announced the updated figures on Monday, stati",
+            "The announcement comes as the Venezuelan government, headed by interim President Delcy Rod"
+          ],
+          "cluster_id": 10
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3425
+    },
+    "timestamp": "2026-08-04T01:52:26.421092+00:00"
   }
 ]
