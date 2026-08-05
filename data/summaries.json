@@ -35908,5 +35908,283 @@
       "total_in_qdrant": 3425
     },
     "timestamp": "2026-08-04T01:52:26.421092+00:00"
+  },
+  {
+    "date": "2026-08-05",
+    "generated_at": "2026-08-05T01:54:02.749476+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta olahraga.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Oil steadies after two-day slump as investors eye Hormuz traffic"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Sri Lanka shuts schools as floods and mudslides kill 7",
+            "content": "Berikut adalah 3-4 poin fakta yang relevan dan kredibel dari hasil pencarian mentah:\n\n1. **Bencana Alam di Sri Lanka**: Pemerintah Sri Lanka menetapkan keadaan darurat setelah banjir bandang menewaskan lebih dari 330 orang dan menyebabkan dampak besar pada masyarakat.\n2. **Kebijakan Penanggulangan Bencana**: Pemerintah Sri Lanka memiliki kebijakan penanggulangan bencana yang meliputi mitigasi, sistem peringatan dini, respons cepat, rehabilitasi, edukasi, dan pemanfaatan teknologi untuk meminimalkan dampak bencana alam.\n3. **Krisis Ekonomi Global**: Krisis ekonomi global yang disebabkan oleh perang di Ukraina dan pandemi Covid-19 telah memicu stagflasi dan kenaikan harga kebutuhan pokok di banyak negara, termasuk Sri Lanka, yang telah menyebabkan krisis kemanusiaan.\n4. **Badan Penanggulangan Bencana**: Badan Nasional Penanggulangan Bencana (BNPB) adalah lembaga yang bertanggung jawab dalam menangani peristiwa-peristiwa bencana alam di Indonesia, sedangkan pemerintah pusat memiliki tanggung jawab dalam merumuskan kebijakan berskala nasional untuk penanggulangan bencana."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Oil steadies after two-day slump as investors eye Hormuz traffic",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/oil-steadies-after-two-day-slump-investors-eye-hormuz-traffic-6299516",
+            "category": "Politik",
+            "published_at": "2026-08-05T01:26:04+00:00",
+            "summary": "Sunset clouds glow over pump jacks at the Airankol oil field operated by Caspiy Neft in the Atyrau region, Kazakhstan, April 21, 2026. REUTERS/Pavel Mikheyev PERTH, Aug 5 : Oil steadied on Wednesday after steep falls in the previous two trading sessions, as investors waited to see if efforts to end the U.",
+            "key_points": [
+              "Sunset clouds glow over pump jacks at the Airankol oil field operated by Caspiy Neft in th",
+              "REUTERS/Pavel Mikheyev PERTH, Aug 5 : Oil steadied on Wednesday after steep falls in the p",
+              "S"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Yen finds footing after intervention, dollar near 6-week low on Mideast hopes"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Oil steadies after two-day slump as investors eye Hormuz traffic",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Oil steadies after two-day slump as investors eye Hormuz traffic\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Presiden Filipina Ferdinand Marcos Jr mengeluarkan deklarasi keadaan darurat** karena harga minyak yang meroket dan ketersediaan cadangan hingga 45 hari ke depan. Deklarasi ini berlaku selama satu tahun hingga 2027 mendatang.\n2. **Penutupan Selat Hormuz dapat menciptakan efek berantai** pada pasokan energi global, kenaikan harga minyak dunia, peningkatan biaya logistik, serta tekanan inflasi di negara-negara pengimpor energi.\n3. **Indonesia adalah net importir minyak mentah** dan setiap lonjakan harga minyak global akan membebani keuangan negara. Asumsi harga minyak dalam APBN 2026 ditetapkan hanya sebesar US$70 per barel, sementara harga aktual telah melampaui US$100 per barel saat ini.\n4. **Penutupan Selat Hormuz 2026 dapat menjadi gangguan pasokan energi terbesar dalam sejarah pasar minyak global**, dengan sekitar 16 juta barel per hari yang tetap berisiko tertahan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Yen finds footing after intervention, dollar near 6-week low on Mideast hopes",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/business/yen-finds-footing-after-intervention-dollar-near-6-week-low-mideast-hopes-6299566",
+            "category": "Teknologi",
+            "published_at": "2026-08-05T01:36:35+00:00",
+            "summary": "A man walks past an electronic screen displaying the current Japanese yen exchange rate against the U. S.",
+            "key_points": [
+              "A man walks past an electronic screen displaying the current Japanese yen exchange rate ag",
+              "S",
+              "dollar and other foreign currencies after Japan and the United States conducted coordinate"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Sri Lanka shuts schools as floods and mudslides kill 7"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-04T23:27:13+00:00",
+            "summary": "Save Share Sri Lanka has shut down schools across its central highlands after torrential rains triggered deadly mudslides and flash floods, killing at least seven people and injuring several others. The heavy downpours struck the country’s mountainous tea-growing region, which is still struggling to recover from the devastation of Cyclone Ditwah.",
+            "key_points": [
+              "Save Share Sri Lanka has shut down schools across its central highlands after torrential r",
+              "The heavy downpours struck the country’s mountainous tea-growing region, which is still st",
+              "The storm killed nearly 640 people and caused an estimated $4"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Semifinal Piala Presiden 2026 yang Aman dan Seru!"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Semifinal Piala Presiden 2026 yang Aman dan Seru!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8604648/semifinal-piala-presiden-2026-yang-aman-dan-seru",
+            "category": "Politik",
+            "published_at": "2026-08-04T23:30:00+00:00",
+            "summary": "Semifinal Piala Presiden 2026 sudah digelar. Rangkaian pertandingan berjalan aman dan seru, sesuai yang diharapkan.",
+            "key_points": [
+              "Semifinal Piala Presiden 2026 sudah digelar",
+              "Rangkaian pertandingan berjalan aman dan seru, sesuai yang diharapkan",
+              "Semifinal Piala Presiden 2026 digelar di Bali pada Selasa (4/8)"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Fed's Schmid says finances around AI buildout merit watching",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/feds-schmid-says-finances-around-ai-buildout-merit-watching-6299501",
+          "category": "Politik",
+          "published_at": "2026-08-05T01:23:23+00:00",
+          "summary": "Federal Reserve Bank of Kansas President Jeff Schmid looks on as he gets ready to host the Kansas City Fed’s annual economic symposium in Jackson Hole, Wyoming on August 22, 2024. REUTERS/Ann Saphir/File Photo Aug 4 : Federal Reserve Bank of Kansas City President Jeff Schmid said on Tuesday the financial situation involved in building out the artificial intelligence sector bears watching.",
+          "key_points": [
+            "Federal Reserve Bank of Kansas President Jeff Schmid looks on as he gets ready to host the",
+            "REUTERS/Ann Saphir/File Photo Aug 4 : Federal Reserve Bank of Kansas City President Jeff S",
+            "\"We have to correlate what's happening in AI, just from a pure scale standpoint, to some o"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Hasil CKG Ungkap 2,2 Juta Anak RI Idap Tekanan Darah di Atas Normal, Apa Pemicunya?",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8604750/hasil-ckg-ungkap-2-2-juta-anak-ri-idap-tekanan-darah-di-atas-normal-apa-pemicunya",
+          "category": "Politik",
+          "published_at": "2026-08-05T01:03:27+00:00",
+          "summary": "Kementerian Kesehatan RI (Kemenkes) menyoroti tingginya temuan tekanan darah di atas normal pada anak usia sekolah dan remaja berdasarkan hasil Program Cek Kesehatan Gratis (CKG) 2026. Hingga Juli 2026, tercatat sebanyak 2,2 juta anak usia sekolah dan remaja memiliki tekanan darah di atas normal.",
+          "key_points": [
+            "Kementerian Kesehatan RI (Kemenkes) menyoroti tingginya temuan tekanan darah di atas norma",
+            "Hingga Juli 2026, tercatat sebanyak 2,2 juta anak usia sekolah dan remaja memiliki tekanan",
+            "Temuan tersebut menjadi kasus terbanyak kedua setelah masalah gigi karies"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Ribuan Warga RI yang Dulu 'Sehat' Kini Ketahuan Idap Diabetes-Hipertensi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8604464/ribuan-warga-ri-yang-dulu-sehat-kini-ketahuan-idap-diabetes-hipertensi",
+          "category": "Politik",
+          "published_at": "2026-08-05T00:04:10+00:00",
+          "summary": "Kementerian Kesehatan (Kemenkes) mengimbau masyarakat mengikuti Program Cek Kesehatan Gratis (CKG) setiap tahun. Pasalnya, hasil evaluasi menunjukkan jutaan warga pada pemeriksaan tahun sebelumnya dinyatakan bebas penyakit, setahun kemudian terdeteksi mengalami hipertensi hingga diabetes.",
+          "key_points": [
+            "Kementerian Kesehatan (Kemenkes) mengimbau masyarakat mengikuti Program Cek Kesehatan Grat",
+            "Pasalnya, hasil evaluasi menunjukkan jutaan warga pada pemeriksaan tahun sebelumnya dinyat",
+            "Direktur Jenderal Kesehatan Primer dan Komunitas Kemenkes dr Maria Endang Sumiwi, MPH meng"
+          ],
+          "cluster_id": 7
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Elon Musk’s SpaceX reports losses but less than expected",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+          "category": "Umum",
+          "published_at": "2026-08-04T22:02:09+00:00",
+          "summary": "Save Share SpaceX reported a loss of more than half a billion dollars in its first quarterly statement as a public company , but the loss was less than Wall Street expected and revenue soared. On Tuesday, the company run by Elon Musk reported a loss of $541m, or 9 cents per share, in the three months through June, less than half what financial analysts had expected.",
+          "key_points": [
+            "Save Share SpaceX reported a loss of more than half a billion dollars in its first quarter",
+            "On Tuesday, the company run by Elon Musk reported a loss of $541m, or 9 cents per share, i",
+            "Revenue jumped to $7"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Asia shares surge on tech mood swing, oil retreats",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/asia-shares-surge-tech-mood-swing-oil-retreats-6299561",
+          "category": "Teknologi",
+          "published_at": "2026-08-05T01:36:51+00:00",
+          "summary": "A man walks in front of an electronic screen displaying Japan's Nikkei stock prices quotation board inside a conference hall in Tokyo, Japan, April 27, 2026. REUTERS/Issei Kato SYDNEY, Aug 5 : Asian stock markets jumped on Wednesday as strong earnings and a resurgence of demand for tech lifted Wall Street to record peaks, while hopes for progress on opening the Strait of Hormuz dragged on oil prices and bond yields.",
+          "key_points": [
+            "A man walks in front of an electronic screen displaying Japan's Nikkei stock prices quotat",
+            "REUTERS/Issei Kato SYDNEY, Aug 5 : Asian stock markets jumped on Wednesday as strong earni",
+            "Japan's Nikkei climbed 3"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-05T01:05:21+00:00",
+          "summary": "Oil prices fell to a three-week low on Tuesday as senior US officials raised hopes of a deal with Iran to reopen the key Strait of Hormuz waterway. US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to potentially resume as soon as this week.",
+          "key_points": [
+            "Oil prices fell to a three-week low on Tuesday as senior US officials raised hopes of a de",
+            "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talk",
+            "The cost of a barrel of Brent crude, the global benchmark for oil prices, fell by almost 5"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Bocoran Lenovo Googlebook, Pakai OS Baru dan Ada Tombol Gemini",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8604717/bocoran-lenovo-googlebook-pakai-os-baru-dan-ada-tombol-gemini",
+          "category": "Teknologi",
+          "published_at": "2026-08-05T00:21:23+00:00",
+          "summary": "Anggoro Suryo - detikInet Bocoran wujud perangkat Googlebook perdana dari Lenovo beredar di internet. Perangkat yang disiapkan Google sebagai penerus lini Chromebook ini dilaporkan tidak hanya hadir dalam bentuk laptop konvensional, tetapi juga mengusung format tablet 2-in-1.",
+          "key_points": [
+            "Anggoro Suryo - detikInet Bocoran wujud perangkat Googlebook perdana dari Lenovo beredar d",
+            "Perangkat yang disiapkan Google sebagai penerus lini Chromebook ini dilaporkan tidak hanya",
+            "Berdasarkan gambar render yang dibagikan oleh Digital Citizen dan Android Headlines, peran"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Ramai Dibahas Netizen, Dokter Ungkap Kelompok Ini Sebaiknya Batasi Makan Kimpul",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8604462/ramai-dibahas-netizen-dokter-ungkap-kelompok-ini-sebaiknya-batasi-makan-kimpul",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T23:04:16+00:00",
+          "summary": "Kimpul belakangan ramai dibahas netizen karena dapat diolah menjadi berbagai makanan. Namun, meski merupakan salah satu sumber karbohidrat, tidak semua orang disarankan mengonsumsi kimpul secara bebas.",
+          "key_points": [
+            "Kimpul belakangan ramai dibahas netizen karena dapat diolah menjadi berbagai makanan",
+            "Namun, meski merupakan salah satu sumber karbohidrat, tidak semua orang disarankan mengons",
+            "Spesialis gizi klinik, dr Igus Ulfa Yaze, SpGK, mengatakan sejumlah kelompok perlu membata"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-04T21:45:20+00:00",
+          "summary": "Hundreds of migrants were pictured lined up on a beach in Ceuta to collect aid The European Union has praised Spain's \"swift response\" to the migrant crisis in Ceuta, following a meeting of the bloc's interior ministers on Tuesday. Around 72,000 migrants crossed into the Spanish territory in North Africa between 30 and 31 July, Spain's Interior Minister Fernando Grande-Marlaska said.",
+          "key_points": [
+            "Hundreds of migrants were pictured lined up on a beach in Ceuta to collect aid The Europea",
+            "Around 72,000 migrants crossed into the Spanish territory in North Africa between 30 and 3",
+            "He added that an estimated 70,000 have since been returned to Morocco"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3423
+    },
+    "timestamp": "2026-08-05T01:54:02.749484+00:00"
   }
 ]
