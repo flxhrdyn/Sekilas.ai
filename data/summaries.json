@@ -36400,5 +36400,268 @@
       "total_in_qdrant": 3384
     },
     "timestamp": "2026-08-06T01:54:14.797211+00:00"
+  },
+  {
+    "date": "2026-08-07",
+    "generated_at": "2026-08-07T02:17:44.585262+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, internasional serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, internasional serta olahraga.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "After the floods, hunger: Mozambique’s second disaster"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: After the floods, hunger: Mozambique’s second disaster",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"After the floods, hunger: Mozambique’s second disaster\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pemerintah Mozambique mengakui bahwa negara tersebut rentan terhadap bencana alam dan perubahan iklim, yang memperburuk situasi kemiskinan di Mozambique**. Mereka telah mengembangkan prioritas objektif untuk mengurangi korban manusia dan kerusakan properti, mempromosikan budaya pencegahan, dan menyediakan sarana untuk pencegahan dan mitigasi.\n2. **Mozambique telah mengambil langkah-langkah untuk meningkatkan sistem peringatan dini dan mitigasi bencana**. Presiden Filipe Jacinto Nyusi telah meluncurkan roadmap nasional untuk mencapai Peringatan Dini untuk Semua (Early Warnings for All) pada tahun 2027 dan mengumumkan investasi baru untuk meningkatkan pengamatan cuaca dan iklim dasar.\n3. **Pemerintah Mozambique telah mengembangkan kebijakan untuk menanggulangi bencana alam, termasuk mitigasi, sistem peringatan dini, respons cepat, rehabilitasi, edukasi, dan pemanfaatan teknologi**. Kebijakan ini bertujuan untuk meminimalkan dampak bencana alam dan meningkatkan ketahanan masyarakat terhadap risiko bencana di masa depan.\n4. **Mozambique juga telah mengembangkan kebijakan untuk meningkatkan efisiensi anggaran, modernisasi birokrasi, dan kepastian hukum**. Kebijakan ini bertujuan untuk membantu usaha kecil dan menengah meningkatkan kemampuan mereka untuk mengembangkan usaha tanpa terbebani administrasi yang rumit."
+          }
+        ],
+        "articles": [
+          {
+            "title": "After the floods, hunger: Mozambique’s second disaster",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/7/after-the-floods-hunger-mozambiques-second-disaster?traffic_source=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-07T00:12:16+00:00",
+            "summary": "Save Share Xai-Xai, Mozambique – Months after floodwaters tore through his neighbourhood, Joacim Pinto still walks past the empty plots where his crops once grew. The ground that once gave his family food and income now stands as a reminder of what was lost.",
+            "key_points": [
+              "Save Share Xai-Xai, Mozambique – Months after floodwaters tore through his neighbourhood,",
+              "The ground that once gave his family food and income now stands as a reminder of what was",
+              "His livestock disappeared, and the gardens that provided food and security were swallowed"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Desain Livery Motor ala Gresini Racing &amp; Menangkan Trip ke MotoGP Jepang!"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Desain Livery Motor ala Gresini Racing &amp; Menangkan Trip ke MotoGP Jepang!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/moto-gp/d-8607531/desain-livery-motor-ala-gresini-racing-menangkan-trip-ke-motogp-jepang",
+            "category": "Teknologi",
+            "published_at": "2026-08-07T01:30:41+00:00",
+            "summary": "Buat pecinta MotoGP yang juga hobi otak-atik desain, ada kesempatan seru nih dari Bold Riders. Lewat program VIPXperience Jepang Digital Activation, kamu bisa unjuk kreativitas sekaligus berkesempatan menyaksikan langsung MotoGP Jepang.",
+            "key_points": [
+              "Buat pecinta MotoGP yang juga hobi otak-atik desain, ada kesempatan seru nih dari Bold Rid",
+              "Lewat program VIPXperience Jepang Digital Activation, kamu bisa unjuk kreativitas sekaligu",
+              "Caranya cukup unik, yaitu dengan mendesain livery motor kamu semirip mungkin dengan livery"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Singapura Vs Indonesia: Skuad Garuda Wajib Menang!"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Singapura Vs Indonesia: Skuad Garuda Wajib Menang!",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/sepakbola-indonesia/d-8607739/singapura-vs-indonesia-skuad-garuda-wajib-menang",
+            "category": "Teknologi",
+            "published_at": "2026-08-07T00:58:00+00:00",
+            "summary": "Timnas Indonesia akan melawan Timnas Singapura dalam lanjutan Piala AFF 2026. Di Stadion Jalan Besar, Jumat (7/8/2026) malam WIB, Singapura vs Indonesia digelar.",
+            "key_points": [
+              "Timnas Indonesia akan melawan Timnas Singapura dalam lanjutan Piala AFF 2026",
+              "Di Stadion Jalan Besar, Jumat (7/8/2026) malam WIB, Singapura vs Indonesia digelar",
+              "Dalam laga itu, Tim Merah Putih wajib memetik kemenangan"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Rodri Dikabarkan Pilih Barcelona, Fans Real Madrid Terbelah di Medsos"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Rodri Dikabarkan Pilih Barcelona, Fans Real Madrid Terbelah di Medsos",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8607885/rodri-dikabarkan-pilih-barcelona-fans-real-madrid-terbelah-di-medsos",
+            "category": "Teknologi",
+            "published_at": "2026-08-06T23:51:27+00:00",
+            "summary": "Adi Fida Rahman - detikInet Bursa transfer Eropa kembali memanas. Gelandang Manchester City, Rodri Hernández, dikabarkan memilih Barcelona sebagai tujuan berikutnya, meski sebelumnya namanya santer dikaitkan dengan Real Madrid.",
+            "key_points": [
+              "Adi Fida Rahman - detikInet Bursa transfer Eropa kembali memanas",
+              "Gelandang Manchester City, Rodri Hernández, dikabarkan memilih Barcelona sebagai tujuan be",
+              "Kabar tersebut langsung memicu perdebatan di media sosial"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Catatan Sejarah yang Terdengar Tak Masuk Akal tapi Benar Adanya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Catatan Sejarah yang Terdengar Tak Masuk Akal tapi Benar Adanya",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang tren teknologi yang akan mengubah dunia. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Tahun 2025 akan menjadi tahun revolusi besar di dunia teknologi**, dengan tren teknologi seperti AI, quantum computing, IoT generasi baru, blockchain, dan AR/VR yang akan mengubah cara kita bekerja dan hidup.\n2. **Kecerdasan Buatan (AI) dan Pembelajaran Mesin** akan menjadi salah satu tren teknologi utama di tahun 2025, dengan kemampuan untuk membuat mesin bisa berpikir dan belajar seperti manusia.\n3. **Internet of Things (IoT)** akan terus berkembang dan menjadi lebih umum digunakan dalam berbagai industri, seperti pertanian, smart home, dan lain-lain, dengan kemampuan untuk menghubungkan perangkat dan melakukan tugas secara otomatis.\n4. **Teknologi Industri 4.0**, seperti robot industri, AI, dan IoT, akan terus mengubah proses produksi menjadi lebih otomatis, efisien, dan cerdas, dengan kemampuan untuk membuat sistem dapat mengambil keputusan tanpa perlu diperintah secara langsung.\n\nSaya harap informasi ini dapat membantu Anda dalam memahami tren teknologi yang akan mengubah dunia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Catatan Sejarah yang Terdengar Tak Masuk Akal tapi Benar Adanya",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/fotoinet/d-8607906/catatan-sejarah-yang-terdengar-tak-masuk-akal-tapi-benar-adanya",
+            "category": "Internasional",
+            "published_at": "2026-08-07T01:15:18+00:00",
+            "summary": "Pool - detikInet Rekor dunia untuk jumlah sambaran petir terbanyak namun berhasil dilalui dengan selamat adalah tujuh kali. Rekor ini dipegang oleh seorang penjaga taman asal Amerika, Roy Sullivan.",
+            "key_points": [
+              "Pool - detikInet Rekor dunia untuk jumlah sambaran petir terbanyak namun berhasil dilalui",
+              "Rekor ini dipegang oleh seorang penjaga taman asal Amerika, Roy Sullivan",
+              "Foto: Christopher Hollis via Bored Panda Seorang petani Rusia bernama Feodor Vassilyev dan"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Rose confirms Blackpink anniversary appearance, hours after woman smashes YG building doors with golf club",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/rose-blackpink-10th-anniversary-yg-building-golf-club-6305121",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T02:10:00+00:00",
+          "summary": "Rose has become the first member of Blackpink to officially confirm her attendance at the K-pop group's 10th anniversary meet-and-greet event. Blackpink member Rose has confirmed her attendance at the K-pop group's upcoming 10th anniversary event.",
+          "key_points": [
+            "Rose has become the first member of Blackpink to officially confirm her attendance at the",
+            "Blackpink member Rose has confirmed her attendance at the K-pop group's upcoming 10th anni",
+            "The news comes hours after a woman was arrested for smashing the building of YG Entertainm"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Philippines Q2 GDP at 2.3% yr/yr, slower than expected",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/philippines-q2-gdp-23-yryr-slower-expected-6305156",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T02:06:21+00:00",
+          "summary": "A general view of the skyline from the Makati City Hall in Manila, Philippines, May 11, 2010. REUTERS/Nicky Loh/File Photo MANILA, Aug 7 : The Philippine economy grew 2.",
+          "key_points": [
+            "A general view of the skyline from the Makati City Hall in Manila, Philippines, May 11, 20",
+            "REUTERS/Nicky Loh/File Photo MANILA, Aug 7 : The Philippine economy grew 2",
+            "3 per cent in the second quarter from a year earlier, the statistics agency said on Friday"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Salah ke Trabzonspor untuk Jadi Juara",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8607918/salah-ke-trabzonspor-untuk-jadi-juara",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T02:00:00+00:00",
+          "summary": "Mohamed Salah menegaskan kepindahannya ke Trabzonspor bukan sekadar menghabiskan sisa kariernya. Salah masih ingin kompetitif dan bersaing meraih trofi.",
+          "key_points": [
+            "Mohamed Salah menegaskan kepindahannya ke Trabzonspor bukan sekadar menghabiskan sisa kari",
+            "Salah masih ingin kompetitif dan bersaing meraih trofi",
+            "Salah membuat keputusan mengejutkan dengan menerima pinangan Trabzonspor"
+          ],
+          "cluster_id": 17
+        },
+        {
+          "title": "Luka Baru di Bulan Terlihat Usai Dihantam Roket SpaceX",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/science/d-8607952/luka-baru-di-bulan-terlihat-usai-dihantam-roket-spacex",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T01:45:11+00:00",
+          "summary": "Adi Fida Rahman - detikInet \"Luka baru\" terlihat di permukaan Bulan setelah dihantam bagian roket SpaceX. Wahana Danuri milik Korea Selatan berhasil memotret kawah baru yang terbentuk akibat tabrakan tahap atas Falcon 9.",
+          "key_points": [
+            "Adi Fida Rahman - detikInet \"Luka baru\" terlihat di permukaan Bulan setelah dihantam bagia",
+            "Wahana Danuri milik Korea Selatan berhasil memotret kawah baru yang terbentuk akibat tabra",
+            "Foto sebelum dan sesudah benturan memperlihatkan perubahan pada permukaan Bulan, termasuk"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Singapura Takkan Main Aman Lawan Indonesia, tapi...",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8607927/singapura-takkan-main-aman-lawan-indonesia-tapi",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T01:40:50+00:00",
+          "summary": "Pelatih Timnas Singapura Gavin Lee menegaskan timnya takkan bermain pragmatis saat menghadapi Indonesia di laga terakhir penyisihan Grup A Piala AFF 2026. Namun The Lions juga takkan naif jika itu memang diperlukan untuk melangkah ke semifinal.",
+          "key_points": [
+            "Pelatih Timnas Singapura Gavin Lee menegaskan timnya takkan bermain pragmatis saat menghad",
+            "Namun The Lions juga takkan naif jika itu memang diperlukan untuk melangkah ke semifinal",
+            "Singapura akan menjamu Indonesia di Stadion Jalan Besar pada Jumat (7/8) pukul 20"
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-07T01:57:02+00:00",
+          "summary": "Gianni Infantino apologised following a Fifa executive meeting in Morocco on Wednesday European teams could still boycott competitions including the World Cup as Uefa says Fifa's defence of its president Gianni Infantino \"changes nothing\". The English FA has sent a letter withdrawing its support for Infantino in reaction to the plan to sell off stakes in the World Cup to private investors.",
+          "key_points": [
+            "Gianni Infantino apologised following a Fifa executive meeting in Morocco on Wednesday Eur",
+            "The English FA has sent a letter withdrawing its support for Infantino in reaction to the",
+            "European governing body Uefa said in a statement its conditions had not been met, despite"
+          ],
+          "cluster_id": 15
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 14,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 14,
+      "total_in_qdrant": 3394
+    },
+    "timestamp": "2026-08-07T02:17:44.585271+00:00"
   }
 ]
