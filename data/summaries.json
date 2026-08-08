@@ -36663,5 +36663,205 @@
       "total_in_qdrant": 3394
     },
     "timestamp": "2026-08-07T02:17:44.585271+00:00"
+  },
+  {
+    "date": "2026-08-08",
+    "generated_at": "2026-08-08T01:05:33.042993+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, olahraga serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, olahraga serta internasional.",
+    "top_stories": [
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Saudi Arabia, Turkey and Pakistan sign defence pact"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-08-07T17:42:54+00:00",
+            "summary": "Turkey's Recep Tayyip Erdogan, Saudi Crown Prince Mohammed bin Salman and Pakistan's Shehbaz Sharif signed the pact in Mecca Saudi Arabia, Turkey and Pakistan have signed a joint defence agreement, saying an attack on one of them would be seen as an attack on all three. The pact was announced at a meeting between Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif in the Saudi city of Mecca.",
+            "key_points": [
+              "Turkey's Recep Tayyip Erdogan, Saudi Crown Prince Mohammed bin Salman and Pakistan's Shehb",
+              "The pact was announced at a meeting between Saudi Crown Prince Mohammed bin Salman, Turkis",
+              "After the US and Israel attacked Iran on 28 February, Tehran and its allies struck targets"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Dibandingkan dengan Xabi Alonso, Amorim: Kami Punya Banyak Kesamaan"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Dibandingkan dengan Xabi Alonso, Amorim: Kami Punya Banyak Kesamaan",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8609412/dibandingkan-dengan-xabi-alonso-amorim-kami-punya-banyak-kesamaan",
+            "category": "Teknologi",
+            "published_at": "2026-08-08T00:00:53+00:00",
+            "summary": "Dua pelatih muda: Ruben Amorim dan Xabi Alonso akan beradu taktik dalam laga pramusim Chelsea vs AC Milan. Amorim mengomentari perbandingan dengan Alonso.",
+            "key_points": [
+              "Dua pelatih muda: Ruben Amorim dan Xabi Alonso akan beradu taktik dalam laga pramusim Chel",
+              "Amorim mengomentari perbandingan dengan Alonso",
+              "Amorim akan memimpin Milan saat menghadapi Chelsea besutan Alonso di Stadion Gelora Bung K"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Telkomsel Genjot Adopsi AI Lewat Pengembangan Talenta Kreatif"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Telkomsel Genjot Adopsi AI Lewat Pengembangan Talenta Kreatif",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Telkomsel Genjot Adopsi AI Lewat Pengembangan Talenta Kreatif\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Telkomsel telah mengembangkan kemampuan lebih dari 80% karyawan Telkomsel sebagai talenta digital AI**. Ini menunjukkan komitmen perusahaan dalam mengakselerasi pengembangan talenta digital dan memperkuat kapasitas inovasi nasional.\n2. **Telkomsel telah mengimplementasikan lebih dari 100 use case AI/ML di area jaringan, layanan pelanggan, penjualan, hingga otomasi TI**. Dampaknya adalah Autonomous Network yang membantu memprediksi dan memperbaiki potensi gangguan secara real-time, menurunkan durasi downtime hingga 3x, dan mempercepat respons insiden lebih dari 40%.\n3. **Telkomsel telah mengembangkan AI Innovation Hub sebagai pusat pengembangan teknologi AI melalui kolaborasi lintas industri, akademisi, dan komunitas**. Tujuan dari AI Innovation Hub adalah untuk terus mengakselerasi pengembangan talenta digital, memperkuat kapasitas inovasi AI nasional, serta mempercepat transformasi digital Indonesia.\n4. **Telkomsel telah menerima pengakuan sebagai Transformasi AI Telkomsel yang terbaik di Asia**. Pengakuan ini menunjukkan bahwa Telkomsel telah berhasil mengimplementasikan AI dalam meningkatkan pengalaman digital pelanggan dan meningkatkan efisiensi operasional."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Telkomsel Genjot Adopsi AI Lewat Pengembangan Talenta Kreatif",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/telecommunication/d-8609213/telkomsel-genjot-adopsi-ai-lewat-pengembangan-talenta-kreatif",
+            "category": "Politik",
+            "published_at": "2026-08-07T14:45:13+00:00",
+            "summary": "Agus Tri Haryanto - detikInet Telkomsel semakin agresif mendorong adopsi kecerdasan artifisial (AI) di Indonesia, tidak hanya melalui pengembangan teknologi, tetapi juga dengan membangun talenta kreatif yang mampu memanfaatkannya. Upaya tersebut diwujudkan melalui AI Cinefest 2026 yang berhasil menghimpun 1.",
+            "key_points": [
+              "Agus Tri Haryanto - detikInet Telkomsel semakin agresif mendorong adopsi kecerdasan artifi",
+              "Upaya tersebut diwujudkan melalui AI Cinefest 2026 yang berhasil menghimpun 1",
+              "111 karya film pendek berbasis AI dari berbagai daerah di Indonesia"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Two men to be charged over alleged arrangements for Lim Tean to leave Singapore illegally",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/singapore/two-men-be-charged-over-alleged-arrangements-lim-tean-leave-singapore-illegally-6307161",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T00:34:33+00:00",
+          "summary": "Lim Tean was arrested by Malaysian police in Johor Bahru on Thursday after failing to surrender in Singapore to serve jail time. This audio is generated by an AI tool.",
+          "key_points": [
+            "Lim Tean was arrested by Malaysian police in Johor Bahru on Thursday after failing to surr",
+            "This audio is generated by an AI tool",
+            "SINGAPORE: Two men will be charged in court on Saturday (Aug 8) for allegedly conspiring t"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T00:06:22+00:00",
+          "summary": "Save Share The United States Senate has passed an aggressive sanctions package targeting Russia’s energy revenues amid its ongoing invasion of Ukraine. The legislation passed on Friday, dubbed the “Lindsey O Graham Sanctioning Russia and Iran Act of 2026”, sets 100 percent tariffs on major nations importing Russian oil and gas.",
+          "key_points": [
+            "Save Share The United States Senate has passed an aggressive sanctions package targeting R",
+            "The legislation passed on Friday, dubbed the “Lindsey O Graham Sanctioning Russia and Iran",
+            "It further targets clandestine maritime networks used to evade Western embargoes"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "The rise of fashion slop: How algorithms are now shaping what we wear",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/style-beauty/fashion-slop-boring-6294156",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T00:05:37+00:00",
+          "summary": "Fast fashion and mall brands used to look to the runways for inspiration. Now, much of their output has been run through an algorithm.",
+          "key_points": [
+            "Fast fashion and mall brands used to look to the runways for inspiration",
+            "Now, much of their output has been run through an algorithm",
+            "(Art: The New York Times/Ian Foster-Dimino) There is nothing more human than good taste, s"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Pelari Marathon Wajib Tahu, Ini 4 Warna Race Flag Berbasis WBGT dan Artinya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8609399/pelari-marathon-wajib-tahu-ini-4-warna-race-flag-berbasis-wbgt-dan-artinya",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T23:04:02+00:00",
+          "summary": "Pelari marathon perlu memperhatikan lebih dari sekadar jarak, pace , dan waktu tempuh saat berada di lintasan. Kondisi cuaca juga dapat berubah selama perlombaan dan memengaruhi kemampuan tubuh beradaptasi terhadap panas.",
+          "key_points": [
+            "Pelari marathon perlu memperhatikan lebih dari sekadar jarak, pace , dan waktu tempuh saat",
+            "Kondisi cuaca juga dapat berubah selama perlombaan dan memengaruhi kemampuan tubuh beradap",
+            "Untuk membantu pelari mengenali perubahan kondisi tersebut, race organizer biasanya menggu"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Piala AFF 2026: Indonesia Cuma Mampu Atasi Kamboja dan Timor Leste",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8609367/piala-aff-2026-indonesia-cuma-mampu-atasi-kamboja-dan-timor-leste",
+          "category": "Teknologi",
+          "published_at": "2026-08-07T22:00:27+00:00",
+          "summary": "Indonesia menelan pil pahit di Piala AFF 2026. Pasukan John Herdman tidak mampu melaju dari fase grup.",
+          "key_points": [
+            "Indonesia menelan pil pahit di Piala AFF 2026",
+            "Pasukan John Herdman tidak mampu melaju dari fase grup",
+            "Indonesia seolah tampil meyakinkan di awal Piala AFF 2026 dengan melumat Kamboja 5-1 di la"
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Politik": [
+        {
+          "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-08T00:31:52+00:00",
+          "summary": "Save Share Right-wing lawyer Abelardo de la Espriella has been sworn in as Colombia ‘s president after winning a run-off election on promises to crack down on the armed groups, cut government spending by as much as 40 percent, and revive the South American country’s oil and gas industry. De la Espriella, 48, took the oath of office on Friday, breaking with tradition by holding the ceremony not in the capital, Bogota, but in Cali, a city in Colombia’s volatile southwest that has long borne the brunt of the government’s conflict with armed groups.",
+          "key_points": [
+            "Save Share Right-wing lawyer Abelardo de la Espriella has been sworn in as Colombia ‘s pre",
+            "De la Espriella, 48, took the oath of office on Friday, breaking with tradition by holding",
+            "The choice signaled a decisive break from the strategy of negotiated peace with those grou"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3366
+    },
+    "timestamp": "2026-08-08T01:05:33.043002+00:00"
   }
 ]
