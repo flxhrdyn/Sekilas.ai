@@ -36863,5 +36863,239 @@
       "total_in_qdrant": 3366
     },
     "timestamp": "2026-08-08T01:05:33.043002+00:00"
+  },
+  {
+    "date": "2026-08-09",
+    "generated_at": "2026-08-09T01:09:31.599150+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, internasional serta olahraga.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, internasional serta olahraga.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "US offers $1bn to Colombia on new right-wing president's first day of office"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: US offers $1bn to Colombia on new right-wing president's first day of office",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"US offers $1bn to Colombia on new right-wing president's first day of office\". Namun, saya tidak menemukan informasi yang langsung terkait dengan topik tersebut. Oleh karena itu, saya akan menampilkan beberapa fakta yang relevan dengan topik \"Kebijakan Tarif Trump dan Dampaknya terhadap Indonesia\":\n\n1. **Kebijakan Tarif Trump**: Pemerintah AS di bawah kepemimpinan Presiden Donald Trump telah mengumumkan kebijakan tarif impor baru yang mempengaruhi banyak negara, termasuk Indonesia, dengan tarif resiprokal sebesar 32%.\n2. **Dampak terhadap Indonesia**: Kebijakan ini telah membawa dampak signifikan bagi perekonomian Indonesia, terutama dalam sektor perdagangan dan industri. Dampak yang muncul termasuk penurunan ekspor, gangguan rantai pasokan, inflasi, dan potensi hilangnya fasilitas Generalized System of Preferences (GSP).\n3. **Reaksi Pasar**: Kebijakan ini telah memberikan reaksi pasar, terutama dalam aspek ekonomi, dan telah menyebabkan gejolak pasar keuangan global, seperti kejutan di berbagai bursa saham dunia dan pelemahan nilai tukar mata uang di negara-negara berkembang.\n4. **Kendali atas Dampak**: Pemerintah Indonesia telah menyiapkan empat langkah strategis untuk menghadapi kebijakan tarif resiprokal AS, termasuk jalur diplomasi, untuk mengurangi dampak negatif terhadap perekonomian nasional."
+          }
+        ],
+        "articles": [
+          {
+            "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+            "category": "Politik",
+            "published_at": "2026-08-08T17:58:42+00:00",
+            "summary": "Abelardo de la Espriella pledged a crackdown on organised crime in his first speech as president on Friday The US has pledged $1bn (£740m) to Colombia hours after the country's new right-wing populist president was sworn in. Abelardo de la Espriella, an admirer of Donald Trump who echoed many of the US president's policies on the campaign trail, used his maiden speech to promise an \"all-out war\" on drug cartels.",
+            "key_points": [
+              "Abelardo de la Espriella pledged a crackdown on organised crime in his first speech as pre",
+              "Abelardo de la Espriella, an admirer of Donald Trump who echoed many of the US president's",
+              "The US state department said the \"security package\" would help him achieve \"our shared goa"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Usai Bobol Gawang PSV, Begini Statistik Ole Romeny"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Usai Bobol Gawang PSV, Begini Statistik Ole Romeny",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8610483/usai-bobol-gawang-psv-begini-statistik-ole-romeny",
+            "category": "Teknologi",
+            "published_at": "2026-08-09T01:00:51+00:00",
+            "summary": "Pemain Fortuna Sittard, Ole Romeny , mengawali musim Eredivisie 2026/2027 dengan impresif. Dia mencetak gol dalam laga melawan PSV Eindhoven.",
+            "key_points": [
+              "Pemain Fortuna Sittard, Ole Romeny , mengawali musim Eredivisie 2026/2027 dengan impresif",
+              "Dia mencetak gol dalam laga melawan PSV Eindhoven",
+              "Fortuna Sittard bertandang ke markas PSV di Philips Stadion, Minggu (9/8/2026) dini hari W"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Ilmuwan Sukses Ciptakan Virus Pakai AI, Picu Pro Kontra"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ilmuwan Sukses Ciptakan Virus Pakai AI, Picu Pro Kontra",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel tentang penelitian ilmuwan yang menggunakan AI untuk merancang virus. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Ilmuwan sukses menciptakan virus menggunakan AI**: Brien Hie, insinyur kimia dari Stanford University, menggunakan model bahasa genom-LLM untuk merancang genom bakteriofag yang dapat berfungsi. Virus-virus ini kemudian dibuat di laboratorium dan diuji langsung melawan bakteri E. coli.\n2. **Virus ini dapat membunuh bakteri E. coli yang kebal**: Dalam pengujian di laboratorium, gabungan dari beberapa virus hasil rancangan AI ini berhasil membasmi bakteri E. coli yang sudah kebal terhadap bakteriofag alami.\n3. **Penelitian ini dapat membuka jalan bagi penciptaan sistem biologis pada skala genom**: Ilmuwan asal Amerika Serikat mengumumkan penelitian baru yang menggunakan kecerdasan buatan generatif (AI) untuk merancang virus baru yang tidak ditemukan di alam. Penelitian ini dapat membuka jalan bagi penciptaan sistem biologis pada skala genom.\n4. **Virus ini dapat digunakan sebagai pengganti antibiotik**: Phages, yaitu virus yang menginfeksi dan dapat berlipat ganda di dalam bakteri, dapat digunakan sebagai pengganti antibiotik dalam mengobati infeksi bakteri yang resisten."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Ilmuwan Sukses Ciptakan Virus Pakai AI, Picu Pro Kontra",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8610445/ilmuwan-sukses-ciptakan-virus-pakai-ai-picu-pro-kontra",
+            "category": "Teknologi",
+            "published_at": "2026-08-09T00:00:51+00:00",
+            "summary": "Virgina Maulita Putri - detikInet Ilmuwan berhasil membuat virus yang dirancang oleh kecerdasan buatan (AI) untuk pertama kalinya. Pencapaian ini membangkitkan harapan akan inovasi baru di dunia kesehatan, sekaligus menimbulkan kekhawatiran tentang bagaimana memastikan teknologi tersebut tetap aman.",
+            "key_points": [
+              "Virgina Maulita Putri - detikInet Ilmuwan berhasil membuat virus yang dirancang oleh kecer",
+              "Pencapaian ini membangkitkan harapan akan inovasi baru di dunia kesehatan, sekaligus menim",
+              "Dalam studi yang diterbitkan lewat jurnal Science, ilmuwan dari Arc Institute dan Stanford"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Kata Netizen Kanada Usai John Herdman Langsung Gagal di Piala AFF"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Kata Netizen Kanada Usai John Herdman Langsung Gagal di Piala AFF",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8610065/kata-netizen-kanada-usai-john-herdman-langsung-gagal-di-piala-aff",
+            "category": "Teknologi",
+            "published_at": "2026-08-08T23:00:05+00:00",
+            "summary": "John Herdman langsung gagal membawa Timnas Indonesia sukses di Piala AFF 2026. Begini respons netizen Kanada.",
+            "key_points": [
+              "John Herdman langsung gagal membawa Timnas Indonesia sukses di Piala AFF 2026",
+              "Begini respons netizen Kanada",
+              "Indonesia langsung gagal di fase grup Piala AFF 2026"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Politik": [
+        {
+          "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-09T00:41:01+00:00",
+          "summary": "Save Share Hungary’s governing Tisza party has nominated Andras Baka, a former Supreme Court chief removed from his post by Viktor Orban’s government in 2012, as its candidate for the country’s presidency. The nomination, announced Saturday by Prime Minister Peter Magyar, marks the latest step in Tisza’s effort to dismantle Orban’s influence over state institutions since the party’s landslide election victory in April ended his 16-year rule.",
+          "key_points": [
+            "Save Share Hungary’s governing Tisza party has nominated Andras Baka, a former Supreme Cou",
+            "The nomination, announced Saturday by Prime Minister Peter Magyar, marks the latest step i",
+            "The decision to nominate Baka for the presidency comes weeks after Tisza used a constituti"
+          ],
+          "cluster_id": 6
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "Meme Tom Holland dan Zendaya Mandi Uang, Film Laris Manis",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8610467/meme-tom-holland-dan-zendaya-mandi-uang-film-laris-manis",
+          "category": "Teknologi",
+          "published_at": "2026-08-09T00:45:36+00:00",
+          "summary": "Pool - detikInet Pasangan Tom Holland dan Zendaya sama-sama membintangi The Odyssey dan Spider-Man: Brand New Day, yang saat ini pendapatannya masing-masing sudah melampau USD 1 miliar. Foto: X.",
+          "key_points": [
+            "Pool - detikInet Pasangan Tom Holland dan Zendaya sama-sama membintangi The Odyssey dan Sp",
+            "Foto: X",
+            "com Keduanya bergelimang uang dengan gaji mereka di dua film besar tersebut"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Sudah Setim, Declan Rice Ajak Guimaraes Damai",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8610465/sudah-setim-declan-rice-ajak-guimaraes-damai",
+          "category": "Teknologi",
+          "published_at": "2026-08-09T00:30:21+00:00",
+          "summary": "Declan Rice langsung menyambut bergabungnya Bruno Guimaraes ke Arsenal. Rice lega kini tak perlu duel dan ribut dengan Guimaraes lagi.",
+          "key_points": [
+            "Declan Rice langsung menyambut bergabungnya Bruno Guimaraes ke Arsenal",
+            "Rice lega kini tak perlu duel dan ribut dengan Guimaraes lagi",
+            "Guimaraes resmi menjadi pemain Arsenal setelah transfernya dari Newcastle United tuntas"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Hakan Calhanoglu Bahagia di Inter Milan",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-italia/d-8610067/hakan-calhanoglu-bahagia-di-inter-milan",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T23:30:35+00:00",
+          "summary": "Masa depan Hakan Calhanoglu di Inter Milan menjadi pembahasan. Tapi, pemain asal Turki itu menegaskan bahwa dirinya bahagia bersama Nerazzurri.",
+          "key_points": [
+            "Masa depan Hakan Calhanoglu di Inter Milan menjadi pembahasan",
+            "Tapi, pemain asal Turki itu menegaskan bahwa dirinya bahagia bersama Nerazzurri",
+            "Kontrak Calhanoglu dengan Inter masih berlaku sampai Juni 2027"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T23:19:28+00:00",
+          "summary": "Save Share At least four people have been killed in a helicopter crash in the Brazilian city of Rio de Janeiro , according to a statement from the Colombian consul in the country. Saturday’s crash involved a pilot and three Colombian women who were members of the same family.",
+          "key_points": [
+            "Save Share At least four people have been killed in a helicopter crash in the Brazilian ci",
+            "Saturday’s crash involved a pilot and three Colombian women who were members of the same f",
+            "They were reportedly on a sightseeing flight over Tijuca National Park, a densely forested"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Model AI Meta Lepas Kendali dan Retas Perusahaan Lain",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/business/d-8610444/model-ai-meta-lepas-kendali-dan-retas-perusahaan-lain",
+          "category": "Teknologi",
+          "published_at": "2026-08-08T23:15:05+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Fino Yurio Kristo - detikInet Anda menyukai artikel ini Artikel disimpan Meta menyatakan bahwa salah satu model kecerdasan buatannya (AI) mengakses internet dengan sendirinya dan meretas perusahaan lain. Ini adalah laporan terbaru dari serangkaian pengungkapan mengenai model AI yang bertindak di luar kendali.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Fino Yurio Kristo - detikInet Anda menyukai artikel ini Ar",
+            "Ini adalah laporan terbaru dari serangkaian pengungkapan mengenai model AI yang bertindak",
+            "Beberapa minggu terakhir, OpenAI dan Anthropic juga mengungkapkan insiden-insiden di mana"
+          ],
+          "cluster_id": 7
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 11,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 11,
+      "total_in_qdrant": 3378
+    },
+    "timestamp": "2026-08-09T01:09:31.599159+00:00"
   }
 ]
