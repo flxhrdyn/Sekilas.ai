@@ -38,3 +38,5 @@ data/*
 .temp/
 Sekilas.AI_cmds.txt
 Sekilas.ai_planning.md
+# Local debug scripts
+scratch/
