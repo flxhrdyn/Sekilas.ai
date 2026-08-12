@@ -37433,5 +37433,235 @@
       "total_in_qdrant": 3286
     },
     "timestamp": "2026-08-11T01:10:40.050873+00:00"
+  },
+  {
+    "date": "2026-08-12",
+    "generated_at": "2026-08-12T01:17:56.853710+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Cristiano Ronaldo Nikahi Georgina, Pamer Foto di IG Tembus 13 Juta Love"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Cristiano Ronaldo Nikahi Georgina, Pamer Foto di IG Tembus 13 Juta Love",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/cyberlife/d-8614582/cristiano-ronaldo-nikahi-georgina-pamer-foto-di-ig-tembus-13-juta-love",
+            "category": "Teknologi",
+            "published_at": "2026-08-11T23:45:12+00:00",
+            "summary": "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Artikel disimpan Cristiano Ronaldo akhirnya resmi menikah dengan pasangan yang telah menemaninya selama hampir satu dekade, Georgina Rodríguez. Kabar bahagia itu diumumkan sang megabintang sepak bola lewat unggahan sederhana di Instagram yang langsung menyedot perhatian jutaan netizen.",
+            "key_points": [
+              "SCROLL TO CONTINUE WITH CONTENT Adi Fida Rahman - detikInet Anda menyukai artikel ini Arti",
+              "Kabar bahagia itu diumumkan sang megabintang sepak bola lewat unggahan sederhana di Instag",
+              "Lewat akun Instagram @cristiano, Ronaldo mengunggah foto close-up tangan dirinya dan Georg"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "US says helicopter fired missiles to disable ship breaking Iran blockade"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-11T21:14:56+00:00",
+            "summary": "Centcom says its helicopter fired two hellfire missiles on the Panama-flagged ship The US military says one of its helicopters has fired missiles to disable \"the steering gear\" of a cargo ship attempting to violate the US blockade of Iranian ports. In a statement, US Central Command (Centcom) says its MH-60 aircraft on Tuesday fired two hellfire missiles into the engine room of the Panama-flagged M/V Vela Nova vessel, as it attempted to transit the Gulf of Oman.",
+            "key_points": [
+              "Centcom says its helicopter fired two hellfire missiles on the Panama-flagged ship The US",
+              "In a statement, US Central Command (Centcom) says its MH-60 aircraft on Tuesday fired two",
+              "Centcom said it acted after \"the ship's civilian crew ignored repeated warnings from Ameri"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Dikaitkan Kasus Viral Runner Up Raka Jatim 2026, Ini Risiko Aborsi"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kesehatan: Dikaitkan Kasus Viral Runner Up Raka Jatim 2026, Ini Risiko Aborsi",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Kesehatan: Dikaitkan Kasus Viral Runner Up Raka Jatim 2026, Ini Risiko Aborsi\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Risiko Aborsi**: Aborsi dapat menyebabkan beberapa risiko kesehatan, seperti perdarahan berat, infeksi, cedera pada rahim, kehamilan ektopik, dan kondisi serviks yang tidak optimal.\n2. **Kategori Aborsi yang Berbahaya**: Aborsi yang tidak aman dapat menyebabkan kematian, baik di negara maju maupun berkembang. Di negara maju, diperkirakan 30 orang meninggal setiap 100,000 aborsi yang tidak aman, sedangkan di negara berkembang, angka tersebut meningkat menjadi 220 kematian per 100,000 aborsi yang tidak aman.\n3. **Dampak pada Kesehatan Mental**: Aborsi yang tidak aman dapat menyebabkan dampak pada kesehatan mental, seperti stres, depresi, dan kecemasan.\n4. **Hukum Aborsi di Indonesia**: Secara hukum, KUHP baru dan UU Kesehatan 2009 sudah memberikan pengeculian kriminalisasi aborsi jika aborsi dilakukan dalam kondisi tertentu, seperti kehamilan yang terjadi karena pemerkosaan atau kondisi kesehatan ibu yang terancam akibat kehamilan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Dikaitkan Kasus Viral Runner Up Raka Jatim 2026, Ini Risiko Aborsi",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8614296/dikaitkan-kasus-viral-runner-up-raka-jatim-2026-ini-risiko-aborsi",
+            "category": "Teknologi",
+            "published_at": "2026-08-11T23:05:42+00:00",
+            "summary": "Runner up Duta Wisata Raka-Raki Jawa Timur berinisial TFR diduga meminta pacarnya melakukan aborsi kandungan ke Singapura. Atas kasus ini, TFR terancam sanksi dari Dinas Kebudayaan dan Pariwisata (Disbudpar).",
+            "key_points": [
+              "Runner up Duta Wisata Raka-Raki Jawa Timur berinisial TFR diduga meminta pacarnya melakuka",
+              "Atas kasus ini, TFR terancam sanksi dari Dinas Kebudayaan dan Pariwisata (Disbudpar)",
+              "\"Terkait Dugaan Tindak Kekerasan Seksual yang Melibatkan Anggota Ikatan Raka Raki Jawa Tim"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Vlahovic Makin Dekat Menuju Besiktas",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8614583/vlahovic-makin-dekat-menuju-besiktas",
+          "category": "Teknologi",
+          "published_at": "2026-08-12T01:00:48+00:00",
+          "summary": "Dusan Vlahovic kabarnya sudah mencapai kesepakatan dengan Besiktas. Striker asal Serbia itu segera pindah ke Turki.",
+          "key_points": [
+            "Dusan Vlahovic kabarnya sudah mencapai kesepakatan dengan Besiktas",
+            "Striker asal Serbia itu segera pindah ke Turki",
+            "Menurut laporan jurnalis Turki, Yagiz Sabuncuoglu, Vlahovic sudah menyepakati kontrak di B"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Bikin Boros, Aplikasi Cuaca Bawaan Windows 11 Sedot RAM 1,2 GB",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/consumer/d-8614599/bikin-boros-aplikasi-cuaca-bawaan-windows-11-sedot-ram-1-2-gb",
+          "category": "Teknologi",
+          "published_at": "2026-08-12T00:45:33+00:00",
+          "summary": "Anggoro Suryo - detikInet Aplikasi cuaca bawaan dari Microsoft di Windows 11 tengah menjadi sorotan tajam. Berdasarkan pengujian terbaru dari situs teknologi Windows Latest, aplikasi ini tercatat bisa menyedot RAM hingga nyaris 1,2 GB hanya saat dibiarkan terbuka di layar perkiraan cuaca.",
+          "key_points": [
+            "Anggoro Suryo - detikInet Aplikasi cuaca bawaan dari Microsoft di Windows 11 tengah menjad",
+            "Berdasarkan pengujian terbaru dari situs teknologi Windows Latest, aplikasi ini tercatat b",
+            "Bahkan, aplikasi ini tidak perlu digunakan secara aktif untuk bisa mencapai tingkat konsum"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-12T00:39:53+00:00",
+          "summary": "Save Share North Korea has launched a ballistic missile towards the Sea of Japan, according to Seoul and Tokyo, marking the second such test from Pyongyang in less than a week. The launch on Wednesday came as South Korea and the United States announced plans to hold their annual Ulchi Freedom Shield military drills starting on August 17.",
+          "key_points": [
+            "Save Share North Korea has launched a ballistic missile towards the Sea of Japan, accordin",
+            "The launch on Wednesday came as South Korea and the United States announced plans to hold",
+            "“Our military detected at around 6:00 am [21:00 GMT Tuesday] a ballistic missile launched"
+          ],
+          "cluster_id": 7
+        },
+        {
+          "title": "Bergwijn double takes Al-Ittihad through in Asian Champions League playoffs",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/bergwijn-double-takes-al-ittihad-through-in-asian-champions-league-playoffs-6313306",
+          "category": "Teknologi",
+          "published_at": "2026-08-12T00:16:02+00:00",
+          "summary": "Aug 12 : Former champions Al-Ittihad booked their place in the league phase of the Asian Champions League Elite on Tuesday with a 4-1 playoff win over Al-Jazira from the United Arab Emirates, while Uzbekistan's Pakhtakor won 3-0 against Jordanians Al-Hussein. Netherlands international Steven Bergwijn scored twice inside the opening 38 minutes for Al-Ittihad, with Houssem Aouar and Marwan Al-Sahafi also on target for the Jens Wissing-coached Saudi Pro League outfit.",
+          "key_points": [
+            "Aug 12 : Former champions Al-Ittihad booked their place in the league phase of the Asian C",
+            "Netherlands international Steven Bergwijn scored twice inside the opening 38 minutes for A",
+            "Dostonbek Khamdamov scored in the seventh and 30th minutes in Pakhtakor's win over Al-Huss"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Slot Ungkap Alasan Tolak Latih Timnas Belanda, Bukan karena Gaji",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8614552/slot-ungkap-alasan-tolak-latih-timnas-belanda-bukan-karena-gaji",
+          "category": "Teknologi",
+          "published_at": "2026-08-11T23:00:44+00:00",
+          "summary": "Arne Slot mengungkap alasan menolak untuk melatih Timnas Belanda. Ia menegaskan tak mau melatih Belanda bukan karena masalah gaji dan kontrak.",
+          "key_points": [
+            "Arne Slot mengungkap alasan menolak untuk melatih Timnas Belanda",
+            "Ia menegaskan tak mau melatih Belanda bukan karena masalah gaji dan kontrak",
+            "Kursi pelatih Timnas Belanda tengah kosong usai Ronald Koeman mundur selepas Piala Dunia 2"
+          ],
+          "cluster_id": 10
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-11T19:09:52+00:00",
+          "summary": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings Rescue workers in Colombia are working against the clock to free survivors trapped in buildings and under rubble following Monday's powerful earthquake. More than 180 people have been confirmed dead - most in the cities of Cali and Pereira.",
+          "key_points": [
+            "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings Rescue workers in",
+            "More than 180 people have been confirmed dead - most in the cities of Cali and Pereira",
+            "The magnitude 7"
+          ],
+          "cluster_id": 9
+        },
+        {
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-11T16:19:44+00:00",
+          "summary": "Ukraine and Russia have continued striking each other overnight, with President Volodymyr Zelensky accusing Moscow of using North Korean missiles. Ukraine said strikes on the southern city of Zaporizhzhia - which killed seven people and injured at least 24 - involved ballistic missiles from Russia's ally.",
+          "key_points": [
+            "Ukraine and Russia have continued striking each other overnight, with President Volodymyr",
+            "Ukraine said strikes on the southern city of Zaporizhzhia - which killed seven people and",
+            "In Voronezh, western Russia, warehouses of the biggest online retailer Wildberries were hi"
+          ],
+          "cluster_id": 12
+        }
+      ],
+      "Umum": [
+        {
+          "title": "Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/japan-business-mood-rises-semiconductor-boom-lifts-manufacturers-reuters-poll-6313211",
+          "category": "Umum",
+          "published_at": "2026-08-11T23:02:51+00:00",
+          "summary": "Employees work on the assembly line at Nanjo Auto Interior, a manufacturer of inside door panels and other parts for Mazda Motor, in Akitakata, Hiroshima Prefecture, Japan July 14, 2025. REUTERS/Issei Kato TOKYO, Aug 12 : Japanese business confidence improved in August as manufacturers benefited from robust semiconductor demand while non-manufacturers were supported by strong domestic consumption, the latest Reuters Tankan survey showed.",
+          "key_points": [
+            "Employees work on the assembly line at Nanjo Auto Interior, a manufacturer of inside door",
+            "REUTERS/Issei Kato TOKYO, Aug 12 : Japanese business confidence improved in August as manu",
+            "The monthly poll, a leading indicator of the Bank of Japan's quarterly Tankan business sur"
+          ],
+          "cluster_id": 13
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3287
+    },
+    "timestamp": "2026-08-12T01:17:56.853719+00:00"
   }
 ]
