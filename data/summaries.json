@@ -37663,5 +37663,240 @@
       "total_in_qdrant": 3287
     },
     "timestamp": "2026-08-12T01:17:56.853719+00:00"
+  },
+  {
+    "date": "2026-08-13",
+    "generated_at": "2026-08-13T01:19:52.130281+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, olahraga serta teknologi.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait teknologi, olahraga serta teknologi.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "PSG Juara Piala Super Eropa, Enrique: Saya Tak Terkejut"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Israeli settlers besieging Palestinian families in West Bank village",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Israeli settlers besieging Palestinian families in West Bank village\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kebijakan baru Israel**: Pemerintah Israel telah mengalihkan kewenangan atas Masjid Ibrahimi dari Pemerintah Kota Hebron kepada Administrasi Sipil Israel, yang diperkirakan akan membawa perubahan besar terhadap mekanisme pendaftaran dan pembelian tanah di Tepi Barat.\n2. **Operasi militer Israel**: Meningkatnya operasi militer Israel di Tepi Barat sejak pecahnya perang di Gaza pada Oktober 2023, mencakup penembakan mematikan, penangkapan, pengungsian, serta perluasan permukiman sebagai langkah menuju aneksasi resmi wilayah tersebut.\n3. **Pembatasan pergerakan**: Pemerintah Israel telah melembagakan \"kebijakan pemisahan\" antara Tepi Barat dan Gaza, yang secara rutin menghalangi pergerakan warga Palestina di antara dua bagian wilayah pendudukan tersebut.\n4. **Dampak ekonomi**: Konflik di Timur Tengah telah memicu ketidakpastian global, yang berdampak pada perlambatan ekonomi di kawasan Asia Tenggara pada tahun 2026, terutama di Vietnam dan Thailand yang memiliki ketergantungan tinggi pada impor energi dan keterkaitan kuat dengan jaringan manufaktur global."
+          }
+        ],
+        "articles": [
+          {
+            "title": "PSG Juara Piala Super Eropa, Enrique: Saya Tak Terkejut",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/uefa/d-8616097/psg-juara-piala-super-eropa-enrique-saya-tak-terkejut",
+            "category": "Teknologi",
+            "published_at": "2026-08-13T00:00:40+00:00",
+            "summary": "Paris Saint-Germain meraih titel Piala Super Eropa keduanya secara beruntun. Luis Enrique selaku pelatih Les Parisiens tak terkejut dengan pencapaian ini.",
+            "key_points": [
+              "Paris Saint-Germain meraih titel Piala Super Eropa keduanya secara beruntun",
+              "Luis Enrique selaku pelatih Les Parisiens tak terkejut dengan pencapaian ini",
+              "Laga Piala Super Eropa 2026 mempertemukan PSG vs Aston Villa"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Kok Bisa Antarktika Jadi 'Gudang' Meteorit Terbesar di Bumi?"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kok Bisa Antarktika Jadi 'Gudang' Meteorit Terbesar di Bumi?",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Kok Bisa Antarktika Jadi 'Gudang' Meteorit Terbesar di Bumi?\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Meteorit di Antarktika**: Antarktika memiliki jumlah meteorit yang sangat besar, dengan lebih dari 40.000 meteorit yang ditemukan di wilayah tersebut. Hal ini disebabkan oleh kondisi geologi Antarktika yang unik, yang membuat meteorit lebih mudah untuk bertahan hidup.\n2. **Komposisi meteorit**: Meteorit di Antarktika terdiri dari berbagai jenis, termasuk besi-nikel, silikat, dan mineral lain seperti olivine dan piroksen. Komposisi ini menunjukkan bahwa meteorit di Antarktika berasal dari berbagai sumber di tata surya.\n3. **Penemuan meteorit**: Meteorit di Antarktika ditemukan melalui penelitian yang dilakukan oleh para ilmuwan. Mereka menggunakan teknologi canggih untuk mencari dan mengidentifikasi meteorit di wilayah tersebut.\n4. **Pentingnya penelitian meteorit**: Penelitian meteorit di Antarktika sangat penting untuk memahami sejarah tata surya dan asal-usul planet Bumi. Meteorit juga dapat memberikan informasi tentang kondisi lingkungan di masa lalu dan bagaimana planet Bumi berkembang.\n\nNamun, perlu diingat bahwa informasi di atas tidak secara langsung menjawab pertanyaan \"Kok Bisa Antarktika Jadi 'Gudang' Meteorit Terbesar di Bumi?\". Untuk menjawab pertanyaan tersebut, perlu dilakukan penelitian lebih lanjut dan analisis yang lebih mendalam."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Kok Bisa Antarktika Jadi 'Gudang' Meteorit Terbesar di Bumi?",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8615878/kok-bisa-antarktika-jadi-gudang-meteorit-terbesar-di-bumi",
+            "category": "Teknologi",
+            "published_at": "2026-08-12T22:45:22+00:00",
+            "summary": "Rachmatunnisa - detikInet Antarktika dikenal sebagai benua paling dingin di Bumi. Di balik hamparan esnya yang luas, wilayah ini ternyata menyimpan harta karun bagi para ilmuwan, yakni puluhan ribu batuan dari luar angkasa.",
+            "key_points": [
+              "Rachmatunnisa - detikInet Antarktika dikenal sebagai benua paling dingin di Bumi",
+              "Di balik hamparan esnya yang luas, wilayah ini ternyata menyimpan harta karun bagi para il",
+              "Lebih dari 45"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Israeli settlers besieging Palestinian families in West Bank village"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Israeli settlers besieging Palestinian families in West Bank village",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-12T16:14:08+00:00",
+            "summary": "Israeli settlers have been besieging two Palestinian families in their homes in the occupied West Bank since Sunday, with the families saying their supplies were running out and rights groups urging the authorities to step in. On Wednesday Israeli security forces were reported to have withdrawn from the Jewish settler outpost in the village of Qusra near Nablus, following clashes with a crowd of extremist settlers.",
+            "key_points": [
+              "Israeli settlers have been besieging two Palestinian families in their homes in the occupi",
+              "On Wednesday Israeli security forces were reported to have withdrawn from the Jewish settl",
+              "About a dozen settlers are said to remain at the site"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Umum": [
+        {
+          "title": "Travis Kelce says wedding to Taylor Swift was 'best night of my life'",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/entertainment/travis-kelce-says-wedding-taylor-swift-was-best-night-my-life-6316076",
+          "category": "Umum",
+          "published_at": "2026-08-13T00:09:00+00:00",
+          "summary": "The couple, both 36, tied the knot over two days of celebrations at Madison Square Garden in New York on Jul 2 and 3. Taylor Swift and Travis Kelce attend the game between the New York Knicks and Cleveland Cavaliers during Game Three of the 2026 Eastern Conference Finals on May 23, 2026 at Rocket Arena in Cleveland, Ohio.",
+          "key_points": [
+            "The couple, both 36, tied the knot over two days of celebrations at Madison Square Garden",
+            "Taylor Swift and Travis Kelce attend the game between the New York Knicks and Cleveland Ca",
+            "(Copyright 2026 NBAE David Liam Kyle/NBAE via Getty Images/AFP) American football star Tra"
+          ],
+          "cluster_id": 5
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Media groups sue Trump over paid access to public social media posts",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-12T23:23:00+00:00",
+          "summary": "Save Share The publication The Intercept and the nonprofit Freedom of the Press Foundation have filed a federal lawsuit against United States President Donald Trump to block his social media service from selling advance access to his posts. Court filings on Wednesday argue that the subscription-based service would restrict access to matters of public interest.",
+          "key_points": [
+            "Save Share The publication The Intercept and the nonprofit Freedom of the Press Foundation",
+            "Court filings on Wednesday argue that the subscription-based service would restrict access",
+            "“This scheme is profoundly corrupt,” the complaint reads"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-12T22:58:45+00:00",
+          "summary": "Watch: Key moments from Karoline Leavitt's White House tenure White House press secretary Karoline Leavitt will step down from her position at the end of the month, President Donald Trump has announced. Leavitt, whom the president called one of his \"most trusted aides\", will depart from her role to spend time with her young children and family - \"a decision I totally understand and respect\", Trump wrote in a social media post.",
+          "key_points": [
+            "Watch: Key moments from Karoline Leavitt's White House tenure White House press secretary",
+            "Leavitt, whom the president called one of his \"most trusted aides\", will depart from her r",
+            "\"Karoline will now be one of my top outside advisors, and an influential voice within the"
+          ],
+          "cluster_id": 13
+        }
+      ],
+      "Teknologi": [
+        {
+          "title": "SK Hynix Gelontorkan Rp 678 Triliun untuk Bikin Pabrik RAM Baru",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/business/d-8616158/sk-hynix-gelontorkan-rp-678-triliun-untuk-bikin-pabrik-ram-baru",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T00:59:28+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Anggoro Suryo - detikInet Anda menyukai artikel ini Artikel disimpan SK Hynix mengumumkan rencana investasi raksasa untuk meningkatkan kapasitas produksi DRAM dan NAND flash miliknya. Perusahaan asal Korea Selatan yang juga merupakan salah satu dari tiga produsen memori terbesar di dunia ini akan menggelontorkan dana sebesar 54 triliun won atau USD 38 miliar (sekitar Rp 678 triliun).",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Anggoro Suryo - detikInet Anda menyukai artikel ini Artike",
+            "Perusahaan asal Korea Selatan yang juga merupakan salah satu dari tiga produsen memori ter",
+            "Dana fantastis tersebut akan didedikasikan untuk membangun pabrik chip baru yang diberi na"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Ronaldo Beri Dukungan ke Messi yang Berduka",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8616098/ronaldo-beri-dukungan-ke-messi-yang-berduka",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T00:30:07+00:00",
+          "summary": "Lionel Messi tengah berduka atas wafatnya sang ayah. Cristiano Ronaldo memberi pesan duka cita dan dukungan buat La Pulga dan keluarga.",
+          "key_points": [
+            "Lionel Messi tengah berduka atas wafatnya sang ayah",
+            "Cristiano Ronaldo memberi pesan duka cita dan dukungan buat La Pulga dan keluarga",
+            "Kabar duka menaungi Messi dan keluarga"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Japan's wholesale inflation spikes in July, bolsters rate-hike chance",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/business/japans-wholesale-inflation-spikes-in-july-bolsters-rate-hike-chance-6316116",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T00:07:55+00:00",
+          "summary": "People shop for snacks at a confectionery store in Tokyo, Japan, July 28, 2026. REUTERS/Manami Yamada TOKYO, Aug 13 : Japan's annual wholesale inflation continued its surge in July, data showed on Thursday, highlighting broadening price pressures and reinforcing market expectations of an interest rate hike in September.",
+          "key_points": [
+            "People shop for snacks at a confectionery store in Tokyo, Japan, July 28, 2026",
+            "REUTERS/Manami Yamada TOKYO, Aug 13 : Japan's annual wholesale inflation continued its sur",
+            "The producer price index rose 7"
+          ],
+          "cluster_id": 14
+        },
+        {
+          "title": "Risiko Tersembunyi Tusuk Gigi, Salah Pakai Bisa Merusak Gusi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8616040/risiko-tersembunyi-tusuk-gigi-salah-pakai-bisa-merusak-gusi",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T00:04:45+00:00",
+          "summary": "Tusuk gigi menjadi salah satu benda yang sering digunakan setelah makan. Bentuknya yang kecil dan mudah dibawa membuat tusuk gigi dianggap praktis untuk membersihkan sisa makanan di sela gigi.",
+          "key_points": [
+            "Tusuk gigi menjadi salah satu benda yang sering digunakan setelah makan",
+            "Bentuknya yang kecil dan mudah dibawa membuat tusuk gigi dianggap praktis untuk membersihk",
+            "Namun, kebiasaan ini ternyata perlu diperhatikan karena cara penggunaan tusuk gigi dapat m"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Pesona Gerhana Matahari Total di Berbagai Negara, Warga Terpukau Menyaksikan Fenomena Langit",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/fotoinet/d-8616104/pesona-gerhana-matahari-total-di-berbagai-negara-warga-terpukau-menyaksikan-fenomena-langit",
+          "category": "Teknologi",
+          "published_at": "2026-08-12T23:27:50+00:00",
+          "summary": "SCROLL TO CONTINUE WITH CONTENT Rengga Sancaya - detikInet Anda menyukai artikel ini Artikel disimpan Fenomena gerhana matahari menjadi salah satu peristiwa astronomi yang selalu menarik perhatian masyarakat. Momen tersebut tidak hanya menghadirkan keindahan langit, tetapi juga menjadi kesempatan bagi warga di berbagai negara untuk mengabadikan fenomena alam yang jarang terjadi.",
+          "key_points": [
+            "SCROLL TO CONTINUE WITH CONTENT Rengga Sancaya - detikInet Anda menyukai artikel ini Artik",
+            "Momen tersebut tidak hanya menghadirkan keindahan langit, tetapi juga menjadi kesempatan b",
+            "REUTERS/Lisi Niesner Sementara di Poznan, Polandia, warga berkumpul menyaksikan fenomena t"
+          ],
+          "cluster_id": 7
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 14,
+      "too_short_discarded": 1,
+      "duplicate_discarded": 0,
+      "ingested": 14,
+      "total_in_qdrant": 3258
+    },
+    "timestamp": "2026-08-13T01:19:52.130290+00:00"
   }
 ]
