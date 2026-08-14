@@ -37898,5 +37898,201 @@
       "total_in_qdrant": 3258
     },
     "timestamp": "2026-08-13T01:19:52.130290+00:00"
+  },
+  {
+    "date": "2026-08-14",
+    "generated_at": "2026-08-14T01:18:17.009608+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta teknologi.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, internasional serta teknologi.",
+    "top_stories": [
+      {
+        "id": 1,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Conditions on US aircraft carrier at sea for more than 250 days raise alarms"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait kondisi kapal induk USS Abraham Lincoln. Berikut adalah 4 poin fakta yang padat:\n\n1. **Kapal induk USS Abraham Lincoln telah menjalani penugasan laut selama lebih dari 250 hari** dengan kesempatan sangat terbatas untuk berada di daratan, yang menyebabkan kondisi kesehatan mental awak kapal memburuk.\n2. **Laporan menunjukkan bahwa beberapa awak kapal telah mencoba mengakhiri hidup di tengah tekanan psikologis dan memburuknya kondisi kehidupan di kapal**.\n3. **Angkatan Laut AS membantah bahwa kondisi USS Abraham Lincoln telah mengganggu kesiapan operasionalnya**, dengan Juru bicara Armada Kelima Angkatan Laut AS, Komandan Joseph Hontz, mengatakan bahwa kapal induk tersebut tetap mampu menjalankan seluruh tugas yang diberikan.\n4. **Kapal induk USS Abraham Lincoln telah ditarik dari Timur Tengah** setelah menjalani penugasan selama lebih dari 250 hari, yang merupakan pengerahan berkelanjutan terpanjang dalam sejarah kapal induk tersebut."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-13T23:06:23+00:00",
+            "summary": "Thousands of US military members who have lived aboard an aircraft carrier for more than 250 days are reportedly contending with food shortages, broken plumbing and exhaustion, leading lawmakers to demand answers from the Pentagon and pressuring the Trump administration over the Iran war. Military news outlets reported that some USS Abraham Lincoln sailors have attempted to jump overboard, and families have raised concerns about mental health onboard the ship.",
+            "key_points": [
+              "Thousands of US military members who have lived aboard an aircraft carrier for more than 2",
+              "Military news outlets reported that some USS Abraham Lincoln sailors have attempted to jum",
+              "Defence Secretary Pete Hegseth on Thursday called reports of conditions \"completely misrep"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Broken engine parts shattered Ryanair plane window, partially sucking passenger out, US investigators find"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Broken engine parts shattered Ryanair plane window, partially sucking passenger out, US investigators find",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait dengan topik \"Broken engine parts shattered Ryanair plane window, partially sucking passenger out, US investigators find\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Kecelakaan Pesawat Air India**: Pada tanggal 12 Juni 2025, pesawat Air India dengan nomor penerbangan AI171 jatuh di kawasan permukiman sipil di dekat Bandara Ahmedabad, India. Pesawat tersebut dilaporkan jatuh setelah lepas landas dan menimbulkan ledakan hebat yang menyebabkan 242 penumpang tewas.\n2. **Penurunan Kecelakaan Udara**: Menurut Organisasi Penerbangan Sipil Internasional (ICAO), jumlah kecelakaan di seluruh dunia per juta keberangkatan pesawat mengalami penurunan antara 2005 dan 2023.\n3. **Kewajiban Penumpang**: Setiap penumpang pesawat udara memiliki kewajiban untuk menjaga keamanan dan keselamatan penerbangan baik ketika berada di bandara ataupun di dalam pesawat udara ketika penerbangan berlangsung.\n4. **Pengembangan Teknologi Keamanan**: Analisis sistem informasi manajemen (ASIM) dalam penanganan gangguan keamanan bandara mengharuskan identifikasi risiko dan penilaian risiko untuk meningkatkan keamanan dan keselamatan penerbangan."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Broken engine parts shattered Ryanair plane window, partially sucking passenger out, US investigators find",
+            "source": "Channel News Asia (CNA)",
+            "url": "https://www.channelnewsasia.com/world/ryanair-flight-window-head-stuck-broken-engine-part-6318231",
+            "category": "Teknologi",
+            "published_at": "2026-08-14T00:05:00+00:00",
+            "summary": "Bird remains were found inside the engine, suggesting that the plane might have struck birds during takeoff. The Ryanair desk at the Barajas airport in Madrid, Spain.",
+            "key_points": [
+              "Bird remains were found inside the engine, suggesting that the plane might have struck bir",
+              "The Ryanair desk at the Barajas airport in Madrid, Spain",
+              "(File photo: AP/Paul White) An engine fan blade broke off on a Ryanair flight and sent par"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 2,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Huawei Pura 90s Series Segera Hadir di Indonesia, Akhirnya Dukung 5G"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Huawei Pura 90s Series Segera Hadir di Indonesia, Akhirnya Dukung 5G",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Huawei Pura 90s Series Segera Hadir di Indonesia, Akhirnya Dukung 5G\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Huawei Pura 90s Series**: Informasi tentang seri ini tidak ditemukan dalam hasil pencarian web. Namun, saya menemukan bahwa Huawei telah meluncurkan beberapa seri smartphone baru, seperti P30 dan P40, yang mendukung teknologi 5G.\n2. **Teknologi 5G**: Teknologi 5G telah mulai diterapkan di Indonesia dan di seluruh dunia, menawarkan potensi untuk membentuk era konektivitas dan kemampuan komunikasi yang belum pernah ada sebelumnya. Menurut IBM, popularitas teknologi 5G di kalangan perusahaan telekomunikasi dan penyedia layanan internet (ISP) juga diperkirakan akan meningkat.\n3. **Investasi R&D Huawei**: Huawei telah menginvestasikan CNY192,3 miliar (sekitar Rp 34,5 triliun) pada R&D pada tahun 2025, yang mencakup 21,8% dari pendapatan tahunan perusahaan. Ini menunjukkan komitmen Huawei untuk meningkatkan teknologi dan inovasi.\n4. **Kebijakan keamanan jaringan 5G**: Penerapan 5G juga menimbulkan tantangan dalam hal keamanan jaringan, terutama dengan semakin banyaknya perangkat yang terhubung ke jaringan. Oleh karena itu, perlu dilakukan upaya untuk meningkatkan keamanan jaringan 5G."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Huawei Pura 90s Series Segera Hadir di Indonesia, Akhirnya Dukung 5G",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/consumer/d-8617576/huawei-pura-90s-series-segera-hadir-di-indonesia-akhirnya-dukung-5g",
+            "category": "Teknologi",
+            "published_at": "2026-08-13T14:32:54+00:00",
+            "summary": "Virgina Maulita Putri - detikInet Huawei Pura 90s series akan segera hadir di Indonesia setelah debut global di Malaysia bulan lalu. Ada dua varian yang akan meluncur yaitu Huawei Pura 90s Pro dan Pura 90s Pro Max.",
+            "key_points": [
+              "Virgina Maulita Putri - detikInet Huawei Pura 90s series akan segera hadir di Indonesia se",
+              "Ada dua varian yang akan meluncur yaitu Huawei Pura 90s Pro dan Pura 90s Pro Max",
+              "Dua ponsel ini hadir sebagai penerus Pura 80 series yang diluncurkan tahun lalu"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Benarkah Kanker Payudara di Usia Muda Lebih Ganas? Pakar Ungkap Faktanya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8617579/benarkah-kanker-payudara-di-usia-muda-lebih-ganas-pakar-ungkap-faktanya",
+          "category": "Teknologi",
+          "published_at": "2026-08-14T01:02:06+00:00",
+          "summary": "Korea Selatan (Korsel) tengah menghadapi peningkatan kasus kanker payudara, termasuk pada wanita berusia 30-an dan 40-an. Kondisi ini memicu kekhawatiran bahwa kanker payudara yang menyerang wanita usia muda memiliki karakteristik yang lebih ganas.",
+          "key_points": [
+            "Korea Selatan (Korsel) tengah menghadapi peningkatan kasus kanker payudara, termasuk pada",
+            "Kondisi ini memicu kekhawatiran bahwa kanker payudara yang menyerang wanita usia muda memi",
+            "Lantas, benarkah kanker payudara pada wanita usia muda cenderung lebih agresif"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Swiatek defeats Rybakina to claim Canadian Open title​",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/swiatek-defeats-rybakina-claim-canadian-open-title-6318676",
+          "category": "Teknologi",
+          "published_at": "2026-08-14T00:08:52+00:00",
+          "summary": "TORONTO, Aug 13 : Iga Swiatek captured her first title of the season with a swift 6-2 6-3 win against Elena Rybakina in the Canadian Open final on Thursday, giving the Pole a confidence boost heading into the U. S.",
+          "key_points": [
+            "TORONTO, Aug 13 : Iga Swiatek captured her first title of the season with a swift 6-2 6-3",
+            "S",
+            "Open"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Nggak Kaleng-kaleng! Lansia di Singapura Ikut Parkour Biar Tetap Bugar",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8617564/nggak-kaleng-kaleng-lansia-di-singapura-ikut-parkour-biar-tetap-bugar",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T23:03:34+00:00",
+          "summary": "Parkour mungkin identik dengan aksi remaja yang penuh energi, seperti melompat atau bergelantungan dari satu bangunan ke bangunan lain di tengah kota. Namun, seorang pelatih di Singapura justru memanfaatkan teknik parkour untuk membantu lansia melatih keseimbangan.",
+          "key_points": [
+            "Parkour mungkin identik dengan aksi remaja yang penuh energi, seperti melompat atau bergel",
+            "Namun, seorang pelatih di Singapura justru memanfaatkan teknik parkour untuk membantu lans",
+            "Kelas tersebut bahkan kini menarik jutaan penayangan di media sosial"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Person fined after using foghorn to wake sleeping polar bear",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-13T15:30:57+00:00",
+          "summary": "A person has been fined for using a foghorn to wake a sleeping polar bear in Norway's Svalbard archipelago, a local official said. The incident happened earlier this month after someone sounded the alarm from onboard a vessel, which was sailing in a fjord in northwestern Svalbard - about 1,000 km (620 miles) from the North Pole.",
+          "key_points": [
+            "A person has been fined for using a foghorn to wake a sleeping polar bear in Norway's Sval",
+            "The incident happened earlier this month after someone sounded the alarm from onboard a ve",
+            "On Thursday, a person - who has not been named - was fined 50,000 kroner (£3,890) over the"
+          ],
+          "cluster_id": 11
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/world/us-trump-navy-build-ships-steam-catapult-6318706",
+          "category": "Politik",
+          "published_at": "2026-08-14T00:54:00+00:00",
+          "summary": "US President Donald Trump talks to reporters after arriving on Air Force One on Aug 11, 2026, at Joint Base Andrews, Md. (File photo: AP/Mark Schiefelbein) United States President Donald Trump has allowed the Navy to build ships overseas and ordered it to abandon a complex system for launching jet fighters from its aircraft carriers and instead return to using steam catapults, the White House said on Thursday (Aug 13).",
+          "key_points": [
+            "US President Donald Trump talks to reporters after arriving on Air Force One on Aug 11, 20",
+            "(File photo: AP/Mark Schiefelbein) United States President Donald Trump has allowed the Na",
+            "Trump signed a national security memorandum directing the change, which would require the"
+          ],
+          "cluster_id": 7
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 8,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 8,
+      "total_in_qdrant": 3192
+    },
+    "timestamp": "2026-08-14T01:18:17.009615+00:00"
   }
 ]
