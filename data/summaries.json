@@ -38094,5 +38094,205 @@
       "total_in_qdrant": 3192
     },
     "timestamp": "2026-08-14T01:18:17.009615+00:00"
+  },
+  {
+    "date": "2026-08-15",
+    "generated_at": "2026-08-15T00:50:42.954639+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, teknologi serta internasional.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "'Unprecedented' rain in Japan kills eight people"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "'Unprecedented' rain in Japan kills eight people",
+            "source": "BBC World News",
+            "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+            "category": "Teknologi",
+            "published_at": "2026-08-14T10:36:14+00:00",
+            "summary": "Watch: Record rainfall causes flooding in Japan’s Chiba region At least eight people have died as record rainfall pummelled eastern Japan and left thousands stranded at Tokyo's Narita Airport. The rains, which authorities have described as \"unprecedented\", cut power to more than 20,000 households in Chiba prefecture.",
+            "key_points": [
+              "Watch: Record rainfall causes flooding in Japan’s Chiba region At least eight people have",
+              "The rains, which authorities have described as \"unprecedented\", cut power to more than 20,",
+              "Local authorities issued a level five emergency warning, its highest alert, on Thursday"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "GTA 6 Diklaim Punya Gameplay Beda dan Lebih Seru dari GTA Lainnya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Teknologi: GTA 6 Diklaim Punya Gameplay Beda dan Lebih Seru dari GTA Lainnya",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Teknologi: GTA 6 Diklaim Punya Gameplay Beda dan Lebih Seru dari GTA Lainnya\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Teknologi Real-Time Ray Tracing**: Teknologi ini dapat meningkatkan visualitas game dengan grafis yang lebih realistis dan imersif. Hal ini dapat meningkatkan kualitas gameplay dan pengalaman bermain game.\n2. **Cloud Gaming**: Pasar cloud gaming diperkirakan akan mencapai $8,17 miliar pada tahun 2025, dengan CAGR 48,2% dari tahun 2020. Hal ini menunjukkan bahwa teknologi cloud gaming akan semakin populer dan dapat meningkatkan aksesibilitas game.\n3. **Industri Game Indonesia**: Industri game di Indonesia telah berkembang pesat, dengan total pendapatan diperkirakan mencapai USD 1,117 miliar pada tahun 2023. Hal ini menunjukkan bahwa industri game di Indonesia memiliki potensi besar untuk berkembang dan berkontribusi pada ekonomi negara.\n4. **Tren Industri Game**: Tren industri game saat ini meliputi intelligent automation, desain yang lebih aksesibel, aliansi dengan audiens global, dan pemutaran game yang lebih lancar di berbagai perangkat. Hal ini menunjukkan bahwa industri game akan semakin berkembang dan berubah untuk memenuhi kebutuhan pengguna."
+          }
+        ],
+        "articles": [
+          {
+            "title": "GTA 6 Diklaim Punya Gameplay Beda dan Lebih Seru dari GTA Lainnya",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/games-news/d-8619374/gta-6-diklaim-punya-gameplay-beda-dan-lebih-seru-dari-gta-lainnya",
+            "category": "Teknologi",
+            "published_at": "2026-08-15T00:15:13+00:00",
+            "summary": "SCROLL TO CONTINUE WITH CONTENT Panji Saputro - detikInet Anda menyukai artikel ini Artikel disimpan Grand Theft Auto (GTA) 6 diklaim akan memiliki gameplay yang berbeda dan lebih seru dibandingkan seri-seri sebelumnya. Hal ini disampaikan oleh seorang influencer game di X pada 10 Agustus 2026.",
+            "key_points": [
+              "SCROLL TO CONTINUE WITH CONTENT Panji Saputro - detikInet Anda menyukai artikel ini Artike",
+              "Hal ini disampaikan oleh seorang influencer game di X pada 10 Agustus 2026",
+              "\"Saya menghadiri acara game Netflix awal tahun ini"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 4,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Bocah 11 Tahun Idap Kanker Langka Stadium 4, Sempat Dikira Radang Amandel"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Bocah 11 Tahun Idap Kanker Langka Stadium 4, Sempat Dikira Radang Amandel",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/true-story/d-8618924/bocah-11-tahun-idap-kanker-langka-stadium-4-sempat-dikira-radang-amandel",
+            "category": "Teknologi",
+            "published_at": "2026-08-14T13:04:06+00:00",
+            "summary": "Seorang anak di Inggris mengidap kanker agresif setelah dokter mengabaikan gejala yang dialaminya. Anak berusia 11 tahun ini sempat didiagnosis mengalami radang amandel.",
+            "key_points": [
+              "Seorang anak di Inggris mengidap kanker agresif setelah dokter mengabaikan gejala yang dia",
+              "Anak berusia 11 tahun ini sempat didiagnosis mengalami radang amandel",
+              "Dikutip dari laman NYPost, Armaie Burrows-Pitt mengalami kelelahan ekstrem dan kehilangan"
+            ],
+            "cluster_id": 4
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T00:23:26+00:00",
+          "summary": "Save Share Five years since the Taliban came to power, the United Nations has warned that funding issues mean more than half of women’s organisations still operating in Afghanistan could cease operations within the next year. Susan Ferguson, UN Women’s special representative in Afghanistan, appealed to donor countries on Friday not to cut funding for women’s programmes, saying to do so would only deepen the suffering of Afghan women.",
+          "key_points": [
+            "Save Share Five years since the Taliban came to power, the United Nations has warned that",
+            "Susan Ferguson, UN Women’s special representative in Afghanistan, appealed to donor countr",
+            "More than half of 74 women’s organisations surveyed in April are likely to have to suspend"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Arteta: Beberapa Pemain Arsenal Mungkin Harus Pergi",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8619453/arteta-beberapa-pemain-arsenal-mungkin-harus-pergi",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T00:00:30+00:00",
+          "summary": "Jelang menghadapi musim baru, manajer Arsenal Mikel Arteta mengaku puas dengan skuad yang ia miliki saat ini. Namun ia juga terus berburu pemain baru dan itu bisa berarti akan ada sejumlah nama yang harus pergi.",
+          "key_points": [
+            "Jelang menghadapi musim baru, manajer Arsenal Mikel Arteta mengaku puas dengan skuad yang",
+            "Namun ia juga terus berburu pemain baru dan itu bisa berarti akan ada sejumlah nama yang h",
+            "Pergerakan Arsenal di bursa transfer musim panas kali ini tergolong adem ayem jika dibandi"
+          ],
+          "cluster_id": 16
+        },
+        {
+          "title": "Final Haier Cup Indonesia: Tonton Live Streaming dan Commentary di Sini",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8619432/final-haier-cup-indonesia-tonton-live-streaming-dan-commentary-di-sini",
+          "category": "Teknologi",
+          "published_at": "2026-08-14T23:15:55+00:00",
+          "summary": "Ajang Haier Cup 2026 Indonesia sudah menjejak ke babak final. Live streaming dan commentary ajang itu bisa dilihat di sini.",
+          "key_points": [
+            "Ajang Haier Cup 2026 Indonesia sudah menjejak ke babak final",
+            "Live streaming dan commentary ajang itu bisa dilihat di sini",
+            "Dua tim, Adhyaksa FC Banten dan Tandang Enggal Oetomo Surabaya, menjadi finalis ajang Haie"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "9 things health experts wish you’d do in midlife to increase longevity",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/wellness/longevity-expert-tips-middle-age-6301671",
+          "category": "Teknologi",
+          "published_at": "2026-08-14T23:06:31+00:00",
+          "summary": "How you care for yourself at this life stage matters a lot for your later years. (Art: The New York Times) How you treat your body and brain in your midlife years, loosely defined as 40 to 60, can hugely influence how you age in the decades to come.",
+          "key_points": [
+            "How you care for yourself at this life stage matters a lot for your later years",
+            "(Art: The New York Times) How you treat your body and brain in your midlife years, loosely",
+            "The seeds for many age-related diseases, including cardiovascular disease, diabetes, cance"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-14T23:02:55+00:00",
+          "summary": "Save Share Lebanese Prime Minister Nawaf Salam is pushing for a clear timetable for Israel’s withdrawal from Lebanese territory, as Hezbollah’s leader accuses Lebanon’s government of exposing the country’s own army to disgrace by pursuing the deal at all. According to a statement released by the prime minister’s office on Friday, Salam met United States ambassador to Beirut Michel Issa and General Joseph Clearfield, who heads the US military coordination group for Lebanon, to discuss the military track of the negotiation framework with Israel, along with the latest developments in southern Lebanon.",
+          "key_points": [
+            "Save Share Lebanese Prime Minister Nawaf Salam is pushing for a clear timetable for Israel",
+            "According to a statement released by the prime minister’s office on Friday, Salam met Unit",
+            "“Salam stressed the need for Israel to stop destruction operations, expand the scope of pi"
+          ],
+          "cluster_id": 8
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Prabowo Sebut RI Capai Swasembada 8 Komoditas Pangan, Ini Maknanya bagi Perbaikan Gizi",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/diet/d-8619379/prabowo-sebut-ri-capai-swasembada-8-komoditas-pangan-ini-maknanya-bagi-perbaikan-gizi",
+          "category": "Politik",
+          "published_at": "2026-08-15T00:04:08+00:00",
+          "summary": "Presiden Prabowo Subianto menyebut Indonesia telah mencapai swasembada delapan komoditas pangan hanya dalam waktu satu tahun. Capaian tersebut disampaikan dalam Sidang Tahunan MPR RI dan Sidang Bersama DPR-DPD RI di Kompleks Parlemen, Jakarta, Jumat (14/8/2026).",
+          "key_points": [
+            "Presiden Prabowo Subianto menyebut Indonesia telah mencapai swasembada delapan komoditas p",
+            "Capaian tersebut disampaikan dalam Sidang Tahunan MPR RI dan Sidang Bersama DPR-DPD RI di",
+            "\"Karena itu tahun ini kita sudah swasembada delapan komoditas pangan"
+          ],
+          "cluster_id": 17
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 17,
+      "filtered_articles": 12,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 12,
+      "total_in_qdrant": 3170
+    },
+    "timestamp": "2026-08-15T00:50:42.954648+00:00"
   }
 ]
