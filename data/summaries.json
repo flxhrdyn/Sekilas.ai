@@ -38294,5 +38294,224 @@
       "total_in_qdrant": 3170
     },
     "timestamp": "2026-08-15T00:50:42.954648+00:00"
+  },
+  {
+    "date": "2026-08-16",
+    "generated_at": "2026-08-16T00:54:50.038680+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, kesehatan serta internasional.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait olahraga, kesehatan serta internasional.",
+    "top_stories": [
+      {
+        "id": 3,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Diet Terlalu Ketat Bikin Bau Mulut? Dokter Gizi Bilang Begini"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Kesehatan",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Kesehatan\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Diet ketat dapat menyebabkan dehidrasi dan efek samping kesehatan lainnya**, seperti sembelit, sakit kepala, kram otot, dan kekurangan energi.\n2. **Pola asuh yang terlalu ketat dapat menimbulkan masalah psikologis pada anak**, seperti gangguan makan, emosi yang tidak seimbang, dan perasaan bersalah atau malu.\n3. **Menjaga kesehatan fisik dan spiritual secara seimbang sangat penting** untuk menjalani aktivitas sehari-hari dengan produktif dan sehat. Hal ini dapat dilakukan dengan pola makan sehat, olahraga teratur, dan istirahat yang cukup.\n4. **Konsumsi makanan sehat bergizi seimbang sangat vital** untuk menjaga asupan gizi yang masuk ke dalam tubuh, sehingga tubuh dapat tumbuh, berkembang, dan menjalankan fungsinya dengan maksimal."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Diet Terlalu Ketat Bikin Bau Mulut? Dokter Gizi Bilang Begini",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/diet/d-8620355/diet-terlalu-ketat-bikin-bau-mulut-dokter-gizi-bilang-begini",
+            "category": "Teknologi",
+            "published_at": "2026-08-15T22:05:53+00:00",
+            "summary": "Bau mulut bisa menjadi salah satu keluhan yang muncul ketika seseorang menjalani diet terlalu ketat. Kondisi ini bukan semata-mata disebabkan oleh kurangnya kebersihan mulut, tetapi dapat berkaitan dengan perubahan proses metabolisme tubuh.",
+            "key_points": [
+              "Bau mulut bisa menjadi salah satu keluhan yang muncul ketika seseorang menjalani diet terl",
+              "Kondisi ini bukan semata-mata disebabkan oleh kurangnya kebersihan mulut, tetapi dapat ber",
+              "Spesialis gizi klinik, dr Igus Ulfa Yaze, SpGK menjelaskan, saat dilakukan diet yang terla"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 0,
+        "topic": "olahraga",
+        "title": "olahraga",
+        "synthesis": [
+          "Luis Enrique: Ferran Torres Penyerang yang Dibutuhkan PSG"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Luis Enrique: Ferran Torres Penyerang yang Dibutuhkan PSG",
+            "source": "Detik Sport",
+            "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8620567/luis-enrique-ferran-torres-penyerang-yang-dibutuhkan-psg",
+            "category": "Teknologi",
+            "published_at": "2026-08-15T22:00:34+00:00",
+            "summary": "Pelatih Paris Saint-Germain , Luis Enrique , menilai Ferran Torres sosok yang sesuai dengan kebutuhan timnya. Ia yakin Ferran bakal cocok dengan Les Parisiens.",
+            "key_points": [
+              "Pelatih Paris Saint-Germain , Luis Enrique , menilai Ferran Torres sosok yang sesuai denga",
+              "Ia yakin Ferran bakal cocok dengan Les Parisiens",
+              "PSG resmi merekrut Ferran Torres dari Barcelona"
+            ],
+            "cluster_id": 0
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Rajin Olahraga Bisa Bantu Bikin Panjang Umur, Ini Penjelasannya"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Ekonomi Makro",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Ekonomi Makro\" dan sepak bola. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Pengaruh Ekonomi Makro terhadap Harga Pasaran Pemain Sepak Bola**: Harga pasaran pemain sepak bola dipengaruhi oleh faktor-faktor ekonomi makro seperti suku bunga, inflasi, pertumbuhan ekonomi, nilai tukar mata uang, dan kondisi pasar global.\n2. **Usia Pemain dan Nilai Pasar**: Penelitian menunjukkan bahwa usia pemain memiliki pengaruh negatif yang signifikan terhadap nilai pasar. Pemain muda dinilai memiliki future economic value yang lebih tinggi karena jangka waktu manfaat ekonominya lebih lama.\n3. **Komersialisasi Sepak Bola**: Sepak bola telah menjadi industri yang menguntungkan, dengan meningkatnya nilai komersial klub, pemain, dan hak siar pertandingan. Komersialisasi ini telah membuka jalan bagi sepak bola untuk memasuki dunia keuangan.\n4. **Pemain Sepak Bola sebagai Aset Berharga**: Pemain sepak bola merupakan aset yang sangat berharga dalam industri sepak bola, sehingga jual beli pemain sepak bola seringkali melibatkan jumlah uang yang sangat besar."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Rajin Olahraga Bisa Bantu Bikin Panjang Umur, Ini Penjelasannya",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/berita-detikhealth/d-8620359/rajin-olahraga-bisa-bantu-bikin-panjang-umur-ini-penjelasannya",
+            "category": "Teknologi",
+            "published_at": "2026-08-15T23:05:52+00:00",
+            "summary": "Aktivitas fisik yang teratur merupakan kebiasaan yang paling berpengaruh untuk membantu memanjangkan umur. Menjadikan aktivitas ini sebagai kebiasaan sehari-hari berpotensi menambah harapan hidup.",
+            "key_points": [
+              "Aktivitas fisik yang teratur merupakan kebiasaan yang paling berpengaruh untuk membantu me",
+              "Menjadikan aktivitas ini sebagai kebiasaan sehari-hari berpotensi menambah harapan hidup",
+              "Olahraga setiap hari bisa memberi manfaat bagi tubuh dan pikiran, membantu hidup lebih lam"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Hubner &amp; Romeny Starter Bawa Fortuna Sittard Kalahkan Camnbuur 3-1",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8620596/hubner-romeny-starter-bawa-fortuna-sittard-kalahkan-camnbuur-3-1",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T00:20:25+00:00",
+          "summary": "Justin Hubner dan Ole Romeny tampil sebagai starter membawa Fortuna Sittard menang 3-1 atas Cambuur. Kemenangan ini membuat Fortuna berada di peringkat kedua Eredivisie.",
+          "key_points": [
+            "Justin Hubner dan Ole Romeny tampil sebagai starter membawa Fortuna Sittard menang 3-1 ata",
+            "Kemenangan ini membuat Fortuna berada di peringkat kedua Eredivisie",
+            "Fortuna Sittard menghadapi SC Cambuur di Fortuna Stadium pada laga pekan kedua Eredivisie,"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "Al Nassr Vs Al Fateh: Ronaldo Absen, Al Alami Menang 3-0",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8620589/al-nassr-vs-al-fateh-ronaldo-absen-al-alami-menang-3-0",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T23:28:06+00:00",
+          "summary": "Al Nassr mengawali kompetisi Saudi Pro League 2026/2027 dengan tiga poin. Melawan Al Fateh dan tanpa Cristiano Ronaldo, Al Alami menang 3-0.",
+          "key_points": [
+            "Al Nassr mengawali kompetisi Saudi Pro League 2026/2027 dengan tiga poin",
+            "Melawan Al Fateh dan tanpa Cristiano Ronaldo, Al Alami menang 3-0",
+            "Bermain di Al Awwal Park, Riyadh, Minggu (16/8) dini hari WIB, Al Nassr tak menurukan Rona"
+          ],
+          "cluster_id": 5
+        },
+        {
+          "title": "Guimaraes Datang, Merino: Arsenal Punya Lini Tengah Terbaik di Dunia",
+          "source": "Detik Sport",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8620577/guimaraes-datang-merino-arsenal-punya-lini-tengah-terbaik-di-dunia",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T22:30:00+00:00",
+          "summary": "Mikel Merino menilai Bruno Guimaraes menambah kualitas di lini tengah Arsenal. Merino meyakini Arsenal punya kedalaman skuad terbaik di dunia di posisi gelandang.",
+          "key_points": [
+            "Mikel Merino menilai Bruno Guimaraes menambah kualitas di lini tengah Arsenal",
+            "Merino meyakini Arsenal punya kedalaman skuad terbaik di dunia di posisi gelandang",
+            "Arsenal merekrut Guimaraes dari Newcastle United pada bursa musim panas ini dengan nilai t"
+          ],
+          "cluster_id": 6
+        },
+        {
+          "title": "Germany's Liebmann smashes 1500m world record",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/germanys-liebmann-smashes-1500m-world-record-6321831",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T22:04:37+00:00",
+          "summary": "PARIS, Aug 15 : Germany's Johannes Liebmann smashed the world record for the men's 1500 metres at the European Aquatics Championships on Saturday, knocking almost four seconds off the previous record in a dominant display. The 19-year-old set a new world-best mark of 14 minutes 26.",
+          "key_points": [
+            "PARIS, Aug 15 : Germany's Johannes Liebmann smashed the world record for the men's 1500 me",
+            "The 19-year-old set a new world-best mark of 14 minutes 26",
+            "79 seconds, eclipsing the previous record set by American Bobby Finke at the Paris Olympic"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-15T21:49:12+00:00",
+          "summary": "Watch: Buildings partially collapse in Indonesia after 7. 7 earthquake Rescue teams in Indonesia have been searching for survivors of Saturday's major earthquake which left at least 47 people dead.",
+          "key_points": [
+            "Watch: Buildings partially collapse in Indonesia after 7",
+            "7 earthquake Rescue teams in Indonesia have been searching for survivors of Saturday's maj",
+            "The magnitude 7"
+          ],
+          "cluster_id": 9
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Dampak Gempa NTT, Menkes: 6 Puskesmas dan 2 RS Rusak Berat",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/berita-detikhealth/d-8620609/dampak-gempa-ntt-menkes-6-puskesmas-dan-2-rs-rusak-berat",
+          "category": "Politik",
+          "published_at": "2026-08-16T00:37:21+00:00",
+          "summary": "Gempa bumi di Nusa Tenggara Timur (NTT) pada Sabtu (15/8/2026) juga berdampak pada layanan kesehatan. Menteri Kesehatan Budi Gunadi Sadikin menyebut kerusakan berat terjadi sejumlah fasilitas.",
+          "key_points": [
+            "Gempa bumi di Nusa Tenggara Timur (NTT) pada Sabtu (15/8/2026) juga berdampak pada layanan",
+            "Menteri Kesehatan Budi Gunadi Sadikin menyebut kerusakan berat terjadi sejumlah fasilitas",
+            "\"Catatan saya, sekilas kemarin malam, yang sudah teridentifikasi ada 6 Puskesmas rusak ber"
+          ],
+          "cluster_id": 13
+        },
+        {
+          "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
+          "source": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+          "category": "Politik",
+          "published_at": "2026-08-15T23:04:47+00:00",
+          "summary": "Save Share Colombia’s new president has called on United States President Donald Trump to suspend tariffs targeting the South American country, which is reeling from a deadly earthquake that has killed hundreds. President Abelardo de la Espriella said Saturday that he had requested the US “temporarily suspend” tariffs on Colombia to give “relief” to business owners.",
+          "key_points": [
+            "Save Share Colombia’s new president has called on United States President Donald Trump to",
+            "President Abelardo de la Espriella said Saturday that he had requested the US “temporarily",
+            "On Monday, a 7"
+          ],
+          "cluster_id": 16
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 16,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 0,
+      "ingested": 13,
+      "total_in_qdrant": 3133
+    },
+    "timestamp": "2026-08-16T00:54:50.038689+00:00"
   }
 ]
