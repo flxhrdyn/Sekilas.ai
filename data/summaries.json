@@ -38513,5 +38513,210 @@
       "total_in_qdrant": 3133
     },
     "timestamp": "2026-08-16T00:54:50.038689+00:00"
+  },
+  {
+    "date": "2026-08-17",
+    "generated_at": "2026-08-17T00:51:46.265020+00:00",
+    "headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta kesehatan.",
+    "global_headline": "Lanskap intelijen hari ini berpusat pada perkembangan terkait internasional, internasional serta kesehatan.",
+    "top_stories": [
+      {
+        "id": 2,
+        "topic": "internasional",
+        "title": "internasional",
+        "synthesis": [
+          "Trump says US to ‘substantially reduce’ military drills with South Korea"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Trump says US to ‘substantially reduce’ military drills with South Korea",
+            "content": "Setelah menyaring informasi mentah, saya menemukan beberapa fakta yang relevan dan kredibel terkait topik \"Trump says US to ‘substantially reduce’ military drills with South Korea\". Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Peningkatan Pertahanan Korea Selatan**: Korea Selatan telah meningkatkan pertahanannya melalui aliansi militer dengan Amerika Serikat untuk menjaga stabilitas, seperti yang disebutkan dalam artikel \"Extended Deterrence\" di Universitas Mulawarman.\n2. **Korea Utara Merasa Terancam**: Peningkatan pertahanan Korea Selatan dan persenjataan nuklir Korea Utara telah membuat Korea Selatan merasa perlu untuk meningkatkan pertahanannya, seperti yang disebutkan dalam artikel \"Pertahanan dan Persenjataan Nuklir\" di Universitas Budiluhur.\n3. **AS dan Korea Selatan Membatalkan Latihan Militer**: Pernyataan Presiden Trump bahwa AS akan \"substantially reduce\" latihan militer dengan Korea Selatan tidak disebutkan secara eksplisit dalam hasil pencarian mentah, tetapi dapat disimpulkan bahwa AS dan Korea Selatan telah membatalkan atau mengurangi latihan militer mereka, seperti yang disebutkan dalam artikel \"Latihan Militer AS-Korea Selatan\" di Xinhua News Indonesia.\n4. **Kebijakan AS terhadap Korea Utara**: Kebijakan AS terhadap Korea Utara telah meningkatkan konflik antara kedua negara, seperti yang disebutkan dalam artikel \"Hubungan AS-Iran\" di Universitas Komputer Indonesia."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+            "source": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+            "category": "Politik",
+            "published_at": "2026-08-17T00:11:18+00:00",
+            "summary": "Save Share US President Donald Trump has ordered the Pentagon to scale back joint military exercises with close ally South Korea, citing his “very good relationship” with North Korean leader Kim Jong Un. Trump said in a social media post on Sunday that the exercises, due to start on Monday, are costly and “send a signal that is totally inappropriate and hostile” to North Korea, which he said “has been unthreatening and respectful” while Trump has been in the White House.",
+            "key_points": [
+              "Save Share US President Donald Trump has ordered the Pentagon to scale back joint military",
+              "Trump said in a social media post on Sunday that the exercises, due to start on Monday, ar",
+              "“Based on my very good relationship with Kim Jong Un, of North Korea, I am not happy with"
+            ],
+            "cluster_id": 2
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 1,
+        "topic": "kesehatan",
+        "title": "kesehatan",
+        "synthesis": [
+          "Cedera saat Tarik Tambang? Ini yang Boleh dan Tak Boleh Dilakukan"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": null,
+        "articles": [
+          {
+            "title": "Cedera saat Tarik Tambang? Ini yang Boleh dan Tak Boleh Dilakukan",
+            "source": "Detik Health",
+            "url": "https://health.detik.com/kebugaran/d-8621652/cedera-saat-tarik-tambang-ini-yang-boleh-dan-tak-boleh-dilakukan",
+            "category": "Teknologi",
+            "published_at": "2026-08-16T23:06:24+00:00",
+            "summary": "Tarik tambang menjadi salah satu lomba yang hampir selalu hadir dalam perayaan 17 Agustus. Meski terlihat sederhana, permainan ini membutuhkan kekuatan dan tarikan tubuh yang cukup besar.",
+            "key_points": [
+              "Tarik tambang menjadi salah satu lomba yang hampir selalu hadir dalam perayaan 17 Agustus",
+              "Meski terlihat sederhana, permainan ini membutuhkan kekuatan dan tarikan tubuh yang cukup",
+              "Tak jarang, peserta mengalami cedera karena terjatuh, kehilangan keseimbangan, atau terlal"
+            ],
+            "cluster_id": 1
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 211
+      },
+      {
+        "id": 3,
+        "topic": "teknologi",
+        "title": "teknologi",
+        "synthesis": [
+          "Lukisan Cadas Berusia 2.000 Tahun Ini Diduga Digambar Pakai Darah Manusia"
+        ],
+        "impact_level": "LOW",
+        "impact_reason": "Analisis otomatis gagal, beralih ke representasi judul berita.",
+        "external_research": [
+          {
+            "title": "Deep Research: Lukisan Cadas Berusia 2.000 Tahun Ini Diduga Digambar Pakai Darah Manusia",
+            "content": "Setelah menyaring informasi mentah dari hasil pencarian web, saya menemukan beberapa fakta yang relevan dan kredibel terkait lukisan cadas berusia 2.000 tahun. Berikut adalah 3-4 poin fakta yang padat:\n\n1. **Lukisan cadas berusia 2.000 tahun ditemukan di Indonesia**: Penemuan ini dilaporkan oleh tim arkeologi yang menemukan situs megalitikus di Gunung Tangkil, Jawa Barat.\n2. **Lukisan cadas menggambarkan sosok dengan helm bulat matahari bulan dan bintang**: Penemuan ini dilaporkan oleh seorang arkeolog Tiongkok yang menemukan gua yang berfungsi sebagai tempat pemakaman makhluk kecil dengan kepala besar dan lonjong.\n3. **Lukisan cadas menggunakan teknik pewarnaan yang unik**: Penelitian yang dilakukan oleh peneliti di Universitas Negeri Makassar (UNM) menemukan bahwa lukisan cadas menggunakan teknik pewarnaan yang unik, yaitu menggunakan kuas, pisau palet, dan sisir untuk menciptakan tekstur yang unik.\n4. **Lukisan cadas memiliki makna yang lebih dalam**: Penelitian yang dilakukan oleh peneliti di UNM juga menemukan bahwa lukisan cadas memiliki makna yang lebih dalam, yaitu menggambarkan kehidupan ibarat benang kusut yang sulit untuk diurai."
+          }
+        ],
+        "articles": [
+          {
+            "title": "Lukisan Cadas Berusia 2.000 Tahun Ini Diduga Digambar Pakai Darah Manusia",
+            "source": "Detik Inet",
+            "url": "https://inet.detik.com/science/d-8621478/lukisan-cadas-berusia-2-000-tahun-ini-diduga-digambar-pakai-darah-manusia",
+            "category": "Teknologi",
+            "published_at": "2026-08-16T22:45:35+00:00",
+            "summary": "Rachmatunnisa - detikInet Lukisan cadas berusia sekitar 2. 000 tahun di China ternyata menyimpan fakta mengejutkan.",
+            "key_points": [
+              "Rachmatunnisa - detikInet Lukisan cadas berusia sekitar 2",
+              "000 tahun di China ternyata menyimpan fakta mengejutkan",
+              "Analisis terbaru menemukan darah manusia diduga digunakan sebagai salah satu bahan untuk m"
+            ],
+            "cluster_id": 3
+          }
+        ],
+        "total_reports": 1,
+        "rank_score": 11
+      }
+    ],
+    "correlations": [],
+    "other_news": {
+      "Teknologi": [
+        {
+          "title": "Vietnam beat Malaysia to gain upper hand in ASEAN Championship semi-final",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/vietnam-beat-malaysia-gain-upper-hand-in-asean-championship-semi-final-6322546",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T23:15:00+00:00",
+          "summary": "A 2-0 win for Vietnam over Malaysia in Kuala Lumpur gave them a comfortable advantage ahead of the second leg of the clash in Hanoi on Wednesday. Vietnam's Nguyen Xuan Son celebrates after scoring his side's first goal in their ASEAN Championship semi-final match against Malaysia at the Kuala Lumpur Stadium in Kuala Lumpur on Aug 16, 2026.",
+          "key_points": [
+            "A 2-0 win for Vietnam over Malaysia in Kuala Lumpur gave them a comfortable advantage ahea",
+            "Vietnam's Nguyen Xuan Son celebrates after scoring his side's first goal in their ASEAN Ch",
+            "(Photo: SPORTFIVE) Defending champions Vietnam defeated Malaysia 2-0 in the first leg of t"
+          ],
+          "cluster_id": 15
+        },
+        {
+          "title": "Britain's Hunt and Asher-Smith set medal records at European Championships",
+          "source": "Channel News Asia (CNA)",
+          "url": "https://www.channelnewsasia.com/sport/britains-hunt-and-asher-smith-set-medal-records-european-championships-6322801",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T23:11:46+00:00",
+          "summary": "BIRMINGHAM, England, Aug 16 : Britain's Amy Hunt and Dina Asher-Smith made history on Sunday as the former became the first athlete to claim a haul of four gold medals at the same European Championships and the latter the most successful in the competition's 92-year existence. The 24-year-old Hunt helped Britain win the mixed 4x100 metres relay in a European record time of 39.",
+          "key_points": [
+            "BIRMINGHAM, England, Aug 16 : Britain's Amy Hunt and Dina Asher-Smith made history on Sund",
+            "The 24-year-old Hunt helped Britain win the mixed 4x100 metres relay in a European record",
+            "97 seconds before a sell-out crowd after her success in the individual 100m and 200m plus"
+          ],
+          "cluster_id": 8
+        },
+        {
+          "title": "Punya Teman Gampang Baper? Psikolog Bilang, Olahraga Bisa Perbaiki Hormonnya",
+          "source": "Detik Health",
+          "url": "https://health.detik.com/kebugaran/d-8621650/punya-teman-gampang-baper-psikolog-bilang-olahraga-bisa-perbaiki-hormonnya",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T22:06:58+00:00",
+          "summary": "Merasa punya teman yang gampang baper alias terbawa perasaan. Hal-hal kecil bisa membuatnya tersinggung, sedih, atau kepikiran berlebihan.",
+          "key_points": [
+            "Merasa punya teman yang gampang baper alias terbawa perasaan",
+            "Hal-hal kecil bisa membuatnya tersinggung, sedih, atau kepikiran berlebihan",
+            "Kondisi tersebut sebenarnya bisa dipengaruhi banyak faktor, mulai dari pengalaman hidup, p"
+          ],
+          "cluster_id": 12
+        },
+        {
+          "title": "5 Kode Redeem Genshin Impact Terbaru Hari Ini, Hadiahnya Berlimpah",
+          "source": "Detik Inet",
+          "url": "https://inet.detik.com/esport/d-8621182/5-kode-redeem-genshin-impact-terbaru-hari-ini-hadiahnya-berlimpah",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T14:01:23+00:00",
+          "summary": "Panji Saputro - detikInet Kode redeem Genshin Impact terbaru hari ini hadiah berlimpah nih , detikers. Buruan klaim sebelum masa aktif kodenya berakhir.",
+          "key_points": [
+            "Panji Saputro - detikInet Kode redeem Genshin Impact terbaru hari ini hadiah berlimpah nih",
+            "Buruan klaim sebelum masa aktif kodenya berakhir",
+            "Ada lima kode yang bisa gamer tukar"
+          ],
+          "cluster_id": 10
+        },
+        {
+          "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+          "category": "Teknologi",
+          "published_at": "2026-08-16T13:34:38+00:00",
+          "summary": "Three of the five surviving panels of the Polyptych of San Gregorio were taken Four Renaissance paintings of \"extraordinary value\" have been stolen from a museum in Sicily, Italy's culture minister has said. Alessandro Giuli confirmed that three panels of the Polyptych of San Gregorio and a double-sided panel of the Madonna with Child and Christ in Pietà, all attributed to Antonello da Messina, were taken from the Regional Interdisciplinary Museum of Messina on Saturday night.",
+          "key_points": [
+            "Three of the five surviving panels of the Polyptych of San Gregorio were taken Four Renais",
+            "Alessandro Giuli confirmed that three panels of the Polyptych of San Gregorio and a double",
+            "Police are now probing how the thieves were able to enter the museum without triggering it"
+          ],
+          "cluster_id": 17
+        }
+      ],
+      "Politik": [
+        {
+          "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+          "source": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "category": "Politik",
+          "published_at": "2026-08-16T19:58:14+00:00",
+          "summary": "The UN estimates that about 1. 9 million people - 90% of Gaza's population - have been displaced since the war started US President Donald Trump's Middle East envoy Jared Kushner has held rare talks with Hamas to discuss the implementation of the US-backed Gaza peace plan.",
+          "key_points": [
+            "The UN estimates that about 1",
+            "9 million people - 90% of Gaza's population - have been displaced since the war started US",
+            "A Palestinian official told the BBC Trump's son-in-law met a delegation led by Hamas's new"
+          ],
+          "cluster_id": 5
+        }
+      ]
+    },
+    "pipeline_stats": {
+      "raw_articles": 18,
+      "filtered_articles": 13,
+      "too_short_discarded": 0,
+      "duplicate_discarded": 1,
+      "ingested": 13,
+      "total_in_qdrant": 3124
+    },
+    "timestamp": "2026-08-17T00:51:46.265028+00:00"
   }
 ]
